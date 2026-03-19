@@ -1,10 +1,14 @@
+# Letters from wishdropland
+
+## Apologies, obviously
+
 Hey wishdrops. 
 
 Sorry it's been so long. 
 
-We had a good run from about seven years ago until say six months ago, continuously guessing about the nature of the universe, mostly being wrong, for sure, but being wrong was like our superpower ! How else do we make progress ? Tune to the dissonance until it ruptures then collect the insight, like collecting coins in a video game, an analogy we've used before, no doubt. 
+We had a good run, from about seven years ago until say six months ago, continuously guessing about the nature of the universe, mostly being wrong, for sure, but being wrong was like our superpower ! How else do we make progress ? Tune to the dissonance until it relents, then collect the insights like coins in a video game, an analogy we've used before, no doubt. 
 
-We want to write this letter because even though we stopped posting, we haven't stopped thinking about wishdropland. On the contrary, we've collected so many coins in the last six months. Plus now that it's been so long since our last communication, we feel pretty comfortable starting the story from the beginning, something we were reluctant to do when our pace of reveal was hard to lever but incrementally. The tension with the weight of the backstory was a real thing. Luckily it's gone now 🙂
+We want to write this letter because even though we stopped posting, we haven't stopped thinking about wishdropland. On the contrary, we've collected _so many coins_ in the last six months. Plus now that it's been so long since our last communication, we feel pretty comfortable starting the story from the beginning, something we were reluctant to do when our pace of reveal was hard to lever but incrementally. The tension with the weight of the backstory was a real thing. Luckily it's gone now 🙂
 
 What even is wishdropland ? 
 
