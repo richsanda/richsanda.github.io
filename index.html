@@ -1,9 +1,25 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>Jadog</title>
-  </head>
-  <body>
-    <h1>Hello world</h1>
-  </body>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Letters from wishdropland</title>
+  <style>
+    body {
+      font-family: Georgia, serif;
+      max-width: 700px;
+      margin: 60px auto;
+      line-height: 1.7;
+      color: #222;
+    }
+  </style>
+</head>
+<body>
+  <div id="content"></div>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script>
+    fetch('whatever.md')
+      .then(r => r.text())
+      .then(text => document.getElementById('content').innerHTML = marked.parse(text));
+  </script>
+</body>
 </html>
