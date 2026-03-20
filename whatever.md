@@ -6,9 +6,11 @@ Hey wishdrops.
 
 Sorry it's been so long. 
 
-We had a good run, from about seven years ago until say six months ago, continuously guessing about the nature of the universe, mostly being wrong, for sure, but being wrong was like our superpower ! How else do we make progress ? Tune to the dissonance until it relents then collect the insights, like coins in a video game, an analogy we've used before, no doubt. 
+We had a good run, from about seven years ago until say six months ago, continuously guessing about the nature of the universe, mostly being wrong, for sure, but being wrong was like our superpower ! How else do we make progress ? Tune to the dissonance until it relents, then collect the insights, like coins in a video game, an analogy we've used before, no doubt. 
 
-We want to write this letter because even though we stopped posting, we haven't stopped thinking about wishdropland. On the contrary, we've collected _so many coins_ in the last six months. Plus now that it's been so long since our last communication, we feel pretty comfortable starting the story from the beginning, something we were reluctant to do when our pace of reveal was hard to lever but incrementally. The tension with the weight of the backstory was a real thing. Luckily it's gone now :)
+We want to write this letter because even though we stopped posting, we haven't stopped thinking about wishdropland. On the contrary, we've collected _so many coins_ in the last six months. Plus now that it's been so long since our last communication, we feel pretty comfortable starting the story from the beginning, something we were reluctant to do when our pace of reveal was hard to lever but incrementally. The tension with the weight of the backstory was real. Thankfully it's gone now.
+
+:)
 
 What even is wishdropland ? 
 
@@ -18,7 +20,7 @@ _A sphere spinning evenly on infinite axes projects the universe._
 
 There's a lot in there, sure, but it's still just one sentence – not bad. The intricacy is everything that happens afterwards.
 
-We intend the conjecture strictly mathematically, even as our manner of speaking is for the most part an informal appeal to intuition. In other words, we acknowledge we're not very rigorous about this, and yeah, that exposes us to being completely incorrect anywhere along the way, but if that turns out to be the case, well, it'll still be a good therapy session, so thanks for that, and, well, sit back and enjoy the delusion :) Either way we're gonna keep it real – our goal remains to build a bridge from this spinning sphere to the laws of physics. We'll get into some physics-heavy topics before we're done for sure, even if we only speak poetically.
+To be clear, we intend the conjecture strictly, as in mathematically, even as our manner of speaking is for the most part an informal appeal to intuition. In other words, we acknowledge we're not very rigorous about this, and yeah, that exposes us to being completely incorrect anywhere along the way, and if that turns out to be the case, well, it'll still be a good therapy session, so thanks for that, sit back and enjoy the delusion :) regardless, we're gonna keep it real, in that our goal remains to build a bridge from the spinning sphere to the real and actual laws of physics, even if we only speak poetically for the most part.
 
 There are broader implications than what is obviously physics too. Things like the sensory apparatus, including why we see the colors and hear the notes that we do; the cultural significance ascribed to certain physical phenomena; even morality; plus who knows what else ! Actually, this is where we started with all of this. We were intrigued by the correspondences between light wavelengths and color, and between sound wavelengths and notes, thus compelled to back our way into some understanding of physics, in order to explain, or to at least corroborate, "observations" about sensory spectra. These sorts of things tend to be the third rail in discussions about physics, but, well, if we're guessing why the universe works the way it does, there must be _some_ accounting for the nature of our experience in it. As such, we see this as fair game. Plus we started there, obviously, so in addition to attempting to fortify our suspicion that the connection is real, we just want to talk about it !
 
