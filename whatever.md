@@ -6,7 +6,7 @@ Hey wishdrops.
 
 Sorry it's been so long. 
 
-We had a good run, from about seven years ago until say six months ago, continuously guessing about the nature of the universe, mostly being wrong, sure, but being wrong was like our superpower ! How else do we make progress ? Tune to the dissonance, until it relents, then collect the sparkly insights, like coins in a video game (an analogy we've used before, no doubt).
+We had a good run from about seven years ago until say six months ago, continuously guessing about the nature of the universe, mostly being wrong, for sure, but being wrong was like our superpower ! How else do we make progress ? Tune to the dissonance until it relents in favor of sparkly insights and collect them, like coins in a video game, an analogy we've used before, no doubt.
 
 We want to write this letter because even though we stopped posting, we haven't stopped thinking about wishdropland. On the contrary, we've collected _so many coins_ in the last six months. Plus now that it's been so long since our last communication, we feel pretty comfortable starting the story from the beginning, something we were reluctant to do when the pace of reveal was hard to lever but incrementally. The weight of the backstory lent a real tension, but given the elapsed time, it's pretty much gone now. We're free to say whatever !
 
@@ -40,9 +40,11 @@ Literally.
 
 This may be difficult to square with our intuition about spheres, which are normally simple and quite round, so we have a lot of work to do, undoubtedly, but for now suffice it to say that the extra dimensions and the spinning motion are crucial to the cosmic transformation in a perhaps non-obvious way. We'll work on that. 
 
-Oh, one other point of order before we get way into it – the ambient space in which you might find our magical sphere is irrelevant to our discussion. The sphere on its own encompasses all of existence as we understand it, even within the confines of our fantastic story that may be a delusion. We don't care about the space around the sphere. Call that space the great mystery. Like, who knows where the sphere lives ? It is the relations between parts of the sphere that matter. Everything has meaning only _in relation_ to whatever else.
+Oh, one other point of order before we get way into it – the ambient space in which you might find our magical sphere is irrelevant to our discussion. The sphere on its own encompasses all of existence as we understand it, even within the confines of our fantastic story that may be a delusion. We don't care about the space around the sphere. Call that space the great mystery. Like, who knows where the sphere lives ? It is the relations between parts of the sphere that matter. Everything has meaning only _in relation_ to everything else.
 
-Given its primacy in our conjecture, let's maybe capitalize The Sphere from now on, or even refer to it as The Device, to disambiguate from the regular spheres we'll probably also need to talk about. Now, not to downplay it, but even though it constitutes everything, The Device is just a sphere. This, however, has a very precise mathematical meaning. 
+Given its primacy in our conjecture, let's maybe capitalize The Sphere from now on, or even refer to it as The Device, to disambiguate from the regular spheres we'll probably also need to talk about. In fact, let's do this right now... ahem...
+
+Not to downplay it, but even though it constitutes everything, The Device is just a sphere. This, however, has a very precise mathematical meaning. 
 
 _A sphere is all points at a set distance from a center point._
 
