@@ -22,7 +22,7 @@
   <div id="content"></div>
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
   <script>
-    fetch('whatever.md')
+    fetch('device.md')
       .then(r => r.text())
       .then(text => document.getElementById('content').innerHTML = marked.parse(text));
   </script>
