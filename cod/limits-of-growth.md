@@ -15,9 +15,12 @@
 
 *me:*
 
-is the limits of growth still the best read on this ? are there like 5 others you'd recommend for warming up to these concepts ?6:51 PMGood question — let me search for current thinking on this since the field has evolved.Searched the webSearched the web
+is the limits of growth still the best read on this ? are there like 5 others you'd recommend for warming up to these concepts ?
 
 *claude.ai:*
+
+>6:51 PM Good question — let me search for current thinking on this since the field has evolved.Searched the webSearched the web
+>
 >Here's my honest take, combining what I know with what the current conversation around these books looks like:
 > 
 >On The Limits to Growth itself — it's still worth reading, but it's dense and dated in places. The 30-year update (published 2004 as Limits to Growth: The 30-Year Update) is actually more useful because it incorporates decades of real-world data validating the original models. If you're going to read one version, read that one.
