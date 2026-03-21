@@ -1,7 +1,6 @@
-2026-03-21 ~7p
+### 2026-03-21 ~7p conversation about the limits of growth (a book from 1972)
 
 *claude.ai:*
-
 >Capitalism is defined by capital — wealth deployed to generate more wealth — and its core structural requirement is endless growth. Not growth as a side effect, but as a necessity baked into how debt, investment, and returns work. Which is why "conscious capitalism" or "green growth" tend to be contradictions in terms — you can soften the edges, but you can't opt out of the growth imperative and still be operating within the system.
 >
 >In 1972, a team of MIT scientists led by Donella Meadows modeled the entire global system — population, resources, pollution, food, industrial output — all interacting. Their conclusion was simple and explosive: you cannot have infinite exponential growth on a finite planet. In a business-as-usual scenario, their models showed industrial civilization overshooting planetary limits and collapsing around mid-century. Not human extinction — but the breakdown of the complex systems we all depend on. Follow-up analyses as recently as 2023 show real-world data tracking that original collapse scenario pretty closely.
@@ -19,7 +18,6 @@
 is the limits of growth still the best read on this ? are there like 5 others you'd recommend for warming up to these concepts ?6:51 PMGood question — let me search for current thinking on this since the field has evolved.Searched the webSearched the web
 
 *claude.ai:*
-
 >Here's my honest take, combining what I know with what the current conversation around these books looks like:
 > 
 >On The Limits to Growth itself — it's still worth reading, but it's dense and dated in places. The 30-year update (published 2004 as Limits to Growth: The 30-Year Update) is actually more useful because it incorporates decades of real-world data validating the original models. If you're going to read one version, read that one.
