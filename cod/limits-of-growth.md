@@ -9,7 +9,7 @@
 >
 >These frameworks converge on a few shared ideas: replace GDP with metrics that actually measure wellbeing; democratize ownership through cooperatives and public stewardship; decouple survival from endless labor; and rebuild more local, resilient economies.
 >
->The intellectual foundation is genuinely there. What's missing isn't ideas or even evidence — it's the political will, which tends to be captured by those who benefit most from the current system. As Meadows herself wrote, the deepest leverage point for changing any system is its paradigm — the shared, unstated assumptions about how the world works. The assumptions that growth is good, that nature is a resource to be converted, that there are no limits. Those assumptions are what actually need to change.
+>The intellectual foundation is genuinely there. What's missing isn't ideas or even evidence — it's the political will, which tends to be captured by those who benefit most from the current system. As Meadows herself wrote, **the deepest leverage point for changing any system is its paradigm — the shared, unstated assumptions about how the world works** [my emphasis]. The assumptions that growth is good, that nature is a resource to be converted, that there are no limits. Those assumptions are what actually need to change.
 >
 >Should land around 350 words, which felt like the right density for something meant to intrigue rather than overwhelm.
 
