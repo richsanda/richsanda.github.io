@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>The devil</title>
+    <style>
+    @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+
+    h1, h2, h3 {
+      font-family: 'Inter', serif;
+    }
+    body {
+      font-family: Georgia, serif;
+      max-width: 700px;
+      margin: 60px auto;
+      line-height: 1.7;
+      color: #222;
+    }
+    blockquote {
+      margin: 1.5em 0;
+      padding: 0.75em 1.25em;
+      border-left: 4px solid #999;
+      background: #f9f9f9;
+      color: #444;
+    }
+
+    blockquote p {
+      margin: 0;
+    }
+    #content p {
+      margin: 1.2em 0 !important;
+    }
+  </style>
+</head>
+<body>
+<div id="content"></div>
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script>
+    fetch('devil.md')
+      .then(r => r.text())
+      .then(text => document.getElementById('content').innerHTML = marked.parse(text));
+  </script>
+</body>
+</html>
