@@ -22,4 +22,4 @@ Believe it or not, we didn't even make that formula up ! Well, we sort of did, b
 
 * 1 / R(inf) -- this is the inverse of the Rydberg constant, which, since the Rydberg constant is an inverse wavelength, is just a fancy way to write a wavelength, specifically the wavelength we mentioned, the one that corresponds to photons emitted when an electron falls to the ground state of an atom.
 * 160 / 4pi -- we call this the wishdrops ratio. it has a geometric origin that we won't explain until a bit later, but for now suffice it to say that we do indeed have some justification for it.
-* sqrt(n) -- this again appeals to geometry, which we'll get into later, but to tease just a little consider that n is a count of dimensions, and that the spectrum is essentially a constant root wavelength as seen ranging through perspectives of a 10d _lens_.
+* sqrt(n) -- this again appeals to geometry, which we'll get into later, but to tease just a little consider that n is a count of dimensions, and that the spectrum is essentially a constant root wavelength as seen ranging through perspectives of a 10d _lens_, harmonizing as pure colors at the peaks.
