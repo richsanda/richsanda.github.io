@@ -15,9 +15,9 @@ Believe it or not, we didn't even make that formula up ! Well, we sort of did, b
 
 * 1 / R(inf) -- this is the inverse of the Rydberg constant, which, since the Rydberg constant is an inverse wavelength, is just a fancy way to write a wavelength, specifically the wavelength we mentioned, the one that corresponds to photons emitted when an electron falls to the ground state of an atom. Maybe you've heard of the electron orbitals around the nucleus, and perhaps even the "energy levels" they occupy ? "Falling to the ground state" in this case just means an electron comes out of nowhere to bind to an atomic nucleus in the most natural energy state, usually labeled as n = 1. And the photon that shoots out when that happens ? It has a very specific wavelength, in fact it's like the most accurately measured constant in physics, somewhere around 91 nanometers, slightly ultraviolet.
 * 160 / 4pi -- we call this the wishdrops ratio. it has a geometric origin that we won't explain until a bit later, but for now suffice it to say that we do indeed have some justification for it.
-* sqrt(n) -- this again appeals to geometry, which we'll get into later, but to tease just a little consider that n is a count of dimensions, and that the spectrum is essentially a constant root wavelength as seen ranging through perspectives of a 10d _lens_, harmonizing as pure colors at the peaks. As for the mapping, here it is:
+* sqrt(n) -- this again appeals to geometry, which we'll get into later, but to tease just a little consider that n is a count of dimensions, and that the spectrum is essentially a constant root wavelength as seen through a 10d _lens_, harmonizing at the integer dimension counts. The mapping thus falls out as:
   * n = 1 color spectrum root 1160nm
-  * n = 2 ir onset
+  * n = 2 ir onset 820nm
   * n = 3 red 670nm
   * n = 4 yellow 580nm
   * n = 5 green 518nm
