@@ -1,6 +1,6 @@
 # Colors and Notes
 
-There are some things that are taken for granted in wishdropland that we forget most people probably don't think about and also probably don't care. One is the degree to which the human body has adapted to the laws of physics. We propose not only does natural selection apply to the obvious traits that help us dominate the food chain, but also that our sensory apparatus selects for harmony with the universe. 
+There are some things that are taken for granted in wishdropland that we forget most people probably don't think about and also probably don't care. One is the degree to which the human body has adapted to the laws of physics. We propose not only does natural selection apply to the obvious traits that help us dominate the food chain, but also that our sensory apparatus selects for natural harmony. 
 
 Maybe that is _selecting for dominance_ in some non-obvious way ? Or at least for survival ? Lower stress ? Mental stability ?
 
