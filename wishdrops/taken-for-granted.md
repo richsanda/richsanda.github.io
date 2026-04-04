@@ -1,6 +1,12 @@
 # Colors and Notes
 
-There are some things that are taken for granted in wishdropland that we forget most people probably don't think about and also probably don't care. One is the degree to which the human body has adapted to the laws of physics. What we propose is that natural selection doesn't only select for the obvious traits that help us dominate the food chain or whatever, but also the sensory apparatus selects for harmony with the universe. So it's not that _we ended up this way semi-arbitrarily and oh wow turns out we just happen to see _these_ colors and hear _these_ notes and feel _these_ feelings as we go about our daily lives_... no, we're thinking it's the other way around -- the universe constantly whispers to all modes of sensation, telling us which colors to see, which notes to hear, which feelings to feel, and the human body not to mention all the other animals tune in and evolve in response.
+There are some things that are taken for granted in wishdropland that we forget most people probably don't think about and also probably don't care. One is the degree to which the human body has adapted to the laws of physics. What propose natural selection doesn't only apply to the obvious traits that help us dominate the food chain, but also that our sensory apparatus selects for harmony with the universe. 
+
+Maybe that is selecting for dominance in a non-obvious way ? Or at least survival ? Lower stress ? Mental stability ?
+
+Sometimes we even get to thinking that maybe some raw form of desire seeds mutation, prescribing which traits develop, thereby priming the evolution. We could say we naturally _yearn_ to embody harmony, and over time we ultimately do.
+
+In any event, it's not _we ended up this way semi-arbitrarily and oh wow turns out we just happen to see _these_ colors and hear _these_ notes and feel _these_ feelings as we go about our daily lives_... no, we're thinking it's the other way around -- the universe constantly whispers to all modes of sensation, telling us which colors to see, which notes to hear, which feelings to feel, and the human body not to mention all the other animals tune in and evolve in response.
 
 What the heck does that even mean ?
 
