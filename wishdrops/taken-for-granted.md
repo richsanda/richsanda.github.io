@@ -1,8 +1,8 @@
 # Colors and Notes
 
-There are some things taken for granted in wishdropland that we forget most people probably don't think about. One is the degree to which the human body adapts to physics. We propose not only does natural selection apply to the obvious traits that help us dominate the food chain, but also, very specifically, that our sensory apparatus selects for natural harmony. 
+There are some things taken for granted in wishdropland that we forget most people probably don't think about. One is the degree to which the human body has adapted to physics. Not only to mean natural selection of the obvious traits that help us dominate the food chain, but also, very specifically, that our sensory apparatus selected for natural harmony, and that we are now, quite literally, finely tuned instruments.
 
-Wait, maybe that is selecting for dominance in some non-obvious way ? Or at least for survival ? Mental stability ? Lower stress ? General happiness ?
+Wait, maybe that _is_ selecting for total dominance in some non-obvious way ? Or at least survival ? Mental stability, lower stress, general happiness... all weapons of destruction that we have used for millennia to vanquish the competition at every turn.
 
 Sometimes we even get to thinking that maybe some raw form of desire seeds mutations, prescribing which traits develop as candidates for selection, thereby priming evolution, an invisible guiding hand like Adam Smith described. Like, maybe we naturally _yearn_ to embody harmony, and for that reason, over time, we ultimately do, to our benefit.
 
