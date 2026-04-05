@@ -2,7 +2,7 @@
 
 There are some things taken for granted in wishdropland that we forget most people probably don't think about. One is the degree to which the human body has adapted to physics. Not only to mean that nature selects for the obvious traits that help us dominate the food chain, but also, very specifically, that our sensory apparatus selects for natural harmony, and that we are therefore now, quite literally, finely tuned instruments.
 
-Wait, maybe that _is_ selecting for total dominance in some non-obvious way ? Or at least survival ? Mental stability, lower stress, general happiness... all weapons that we have deployed through the ages to vanquish the competition.
+Wait, maybe that _is_ selecting for total dominance in some non-obvious way ? Or at least survival ? Mental stability, lower stress, general happiness... all weapons we have deployed at one time or another to vanquish the competition.
 
 Sometimes we even get to thinking that maybe some raw form of desire seeds mutations, prescribing which traits develop as candidates for selection, thereby priming evolution, an invisible guiding hand like Adam Smith described. Like, maybe we naturally _yearn_ to embody harmony, and for that reason, over time, we ultimately do, to our benefit.
 
