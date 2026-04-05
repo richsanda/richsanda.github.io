@@ -1,8 +1,8 @@
-# Colors and Notes
+# Colors
 
-There are some things taken for granted in wishdropland that we forget most people probably don't think about. One is the degree to which the human body has adapted to physics. Not only to mean natural selection of the obvious traits that help us dominate the food chain, but also, very specifically, that our sensory apparatus selected for natural harmony, and that we are now, quite literally, finely tuned instruments.
+There are some things taken for granted in wishdropland that we forget most people probably don't think about. One is the degree to which the human body has adapted to physics. Not only to mean that nature selects for the obvious traits that help us dominate the food chain, but also, very specifically, that our sensory apparatus selects for natural harmony, and that we are therefore now, quite literally, finely tuned instruments.
 
-Wait, maybe that _is_ selecting for total dominance in some non-obvious way ? Or at least survival ? Mental stability, lower stress, general happiness... all weapons of destruction that we have used for millennia to vanquish the competition at every turn.
+Wait, maybe that _is_ selecting for total dominance in some non-obvious way ? Or at least survival ? Mental stability, lower stress, general happiness... all weapons of destruction that we have deployed for millennia; the means to vanquish the competition at every turn.
 
 Sometimes we even get to thinking that maybe some raw form of desire seeds mutations, prescribing which traits develop as candidates for selection, thereby priming evolution, an invisible guiding hand like Adam Smith described. Like, maybe we naturally _yearn_ to embody harmony, and for that reason, over time, we ultimately do, to our benefit.
 
@@ -12,9 +12,15 @@ What the heck does that even mean ?
 
 It might come as a surprise, for example, that we the wishdrops maintain that a precise ratio exists between the wavelength of light emitted when an electron falls into the ground state of atomic orbital (obvious physics) and the wavelength at the root of the color spectrum (physics too though perhaps less obviously so). Not just an observed ratio but a predictable one, as if color perception were related to atomic transitions. Heck, maybe it's a surprise to hear that wavelengths have anything to do with colors at all, so we should probably start there.
 
-Even though sense of color kinda seems like a subjective experience, it isn't. Not fully, anyway. Sure, red might look different to different people in a way we'll never know, but generally we always agree when something _is_ red. And that's not really a surprise because there's a physical signature to seeing red (not the mad kind, though that too we suppose). The light that enters our eyeballs has a wavelength that we can measure, and when that light is most clearly red, something we can agree upon more or less, quirkiness and colorblindness notwithstanding, it has a wavelength of just about 670 nanometers. Yellow ? Right around 580 nanometers. Indeed, the color spectrum ranges from infrared somewhere near 750 nanometers down to ultraviolet which kicks in around 375 nanometers, dotted with only a handful or two of pure colors along the way, and never mixing more than two pure colors in between (we propose, anyway). 
+Even though sense of color kinda seems like a subjective experience, it isn't. Not fully, anyway. Sure, red might look different to different people in a way we'll never know, but generally we always agree when something _is_ red. And that's not really a surprise because there's a physical signature to seeing red (not the mad kind, though that too we suppose). The light that enters our eyeballs has a wavelength that we can measure, and when that light is most clearly red, something we can agree upon more or less, quirkiness and colorblindness notwithstanding, it has a wavelength of just about 670 nanometers. Yellow ? Right around 580 nanometers. Indeed, the color spectrum ranges from infrared somewhere near 750 nanometers down to ultraviolet which kicks in around 375 nanometers, dotted with only a handful or two of pure colors along the way, and never mixing more than two pure colors in between (we propose, anyway).
 
-Maybe we've seen images of the color spectrum over a number line that counts in nanometers, and indeed, this is a compelling exhibit ! What we're saying is that if we visually scan across such a display, laterally shifting focus, gradually changing color, we should be able to identify the apices, meaning the pure colors, and, noting their corresponding wavelengths, recognize that they abide by a formula -- this one:
+By the way, wavelength is precisely the inverse of frequency, scaled by a speed. Wavelength is a distance, like the nanometers we've been using, and frequency counts wavelengths per unit of time, so if we know how fast the wave is moving, we can very easily convert back and forth between wavelength and frequency:
+
+* frequency (inverse seconds) = speed (meters per second) / wavelength (meters)
+
+And so given we know very precisely how fast light speed is, a constant normally denoted as "c", we can figure out the corresponding frequencies for the color spectrum too, and note, of course, that they go up towards ultraviolet as wavelengths go down. Higher frequencies means shorter wavelengths, lower frequencies means higher wavelengths, they're straightforward inverses.
+
+Maybe we've seen images of the color spectrum over a number line that counts in nanometers, or in hertz, and indeed, this is a compelling exhibit ! What we're saying is that if we visually scan across such a display, laterally shifting focus, gradually changing color, we should be able to identify the apices, meaning the pure colors, and, noting their corresponding wavelengths, recognize that they abide by a formula -- this one:
 
 * 160 / 4pi / R(inf) / sqrt(n) 
   * for n in integers 1 ... 10
@@ -34,3 +40,7 @@ Believe it or not, we didn't even make that formula up ! Well, we sort of did, b
   * n = 8 violet 410nm
   * n = 9 uv onset 387nm
   * n = 10 color spectrum bookend 366nm
+
+# Note
+
+Now that we've come this far, perhaps it doesn't come as a surprise anymore that we have a similar formula for notes. The thing is, with notes, there are a much broader range to account for -- the 
