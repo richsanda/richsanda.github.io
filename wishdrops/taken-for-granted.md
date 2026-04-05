@@ -1,8 +1,8 @@
 # Colors
 
-There are some things taken for granted in wishdropland that we forget most people probably don't think about. One is the degree to which the human body has adapted to physics. Not only to mean that nature selects for the obvious traits that help us dominate the food chain, but also, very specifically, that our sensory apparatus selects for natural harmony, and that we are now, therefore, quite literally, finely tuned instruments.
+There are some things taken for granted in wishdropland that we forget most people probably don't think about. One is the degree to which the human body has adapted to physics. Not only to mean that nature selects for the obvious traits that help us dominate the food chain, but also, very specifically, that our sensory apparatus selects for natural harmony, and that we are therefore now, quite literally, finely tuned instruments.
 
-Wait, maybe that _is_ selecting for total dominance in some non-obvious way ? Or at least survival ? Mental stability, lower stress, general happiness... all weapons of destruction that we have deployed through the ages. The means to vanquish the competition at every turn.
+Wait, maybe that _is_ selecting for total dominance in some non-obvious way ? Or at least survival ? Mental stability, lower stress, general happiness... all weapons that we have deployed through the ages to vanquish the competition.
 
 Sometimes we even get to thinking that maybe some raw form of desire seeds mutations, prescribing which traits develop as candidates for selection, thereby priming evolution, an invisible guiding hand like Adam Smith described. Like, maybe we naturally _yearn_ to embody harmony, and for that reason, over time, we ultimately do, to our benefit.
 
@@ -18,9 +18,14 @@ By the way, wavelength is precisely the inverse of frequency, scaled by a speed.
 
 * frequency (inverse seconds) = speed (meters per second) / wavelength (meters)
 
-And so given we know very precisely how fast light speed is, a constant normally denoted as "c", we can figure out the corresponding frequencies for the color spectrum too, and note, of course, that they go up towards ultraviolet as wavelengths go down. Higher frequencies means shorter wavelengths, lower frequencies means higher wavelengths, they're straightforward inverses.
+And so given we know very precisely how fast light speed is, a constant normally denoted as "c", we can figure out the corresponding frequencies for the color spectrum too. For example, our wavelength range for the color spectrum, from 750nm to 375nm, ranges in terahertz from:
 
-Maybe we've seen images of the color spectrum over a number line that counts in nanometers, or in hertz, and indeed, this is a compelling exhibit ! What we're saying is that if we visually scan across such a display, laterally shifting focus, gradually changing color, we should be able to identify the apices, meaning the pure colors, and, noting their corresponding wavelengths, recognize that they abide by a formula -- this one:
+* ~400Thz = c / 750nm (infrared onset)
+* ~800Thz = c / 375nm (ultraviolet onset)
+
+Note, of course, that as we range from infrared to ultraviolet, frequencies go up and wavelengths go down. Higher frequencies means shorter wavelengths, lower frequencies means higher wavelengths. Perfect inverses.
+
+Maybe we've seen images of the color spectrum over a number line that counts in nanometers, and indeed, this is a compelling exhibit ! Terahertz works too, but let's use wavelengths for this exercise. What we're saying is that if we visually scan across such a display, laterally shifting focus, gradually changing color, we can identify the apices, meaning the pure colors, and, noting their corresponding wavelengths, recognize that they abide by a formula -- this one:
 
 * 160 / 4pi / R(inf) / sqrt(n) 
   * for n in integers 1 ... 10
@@ -30,7 +35,7 @@ Believe it or not, we didn't even make that formula up ! Well, we sort of did, b
 * 1 / R(inf) -- this is the inverse of the Rydberg constant, which, since the Rydberg constant is an inverse wavelength, is just a fancy way to write a wavelength, specifically the wavelength we mentioned, the one that corresponds to photons emitted when an electron falls to the ground state of an atom. It's basically the most useful reference wavelength in atomic physics. Maybe we've heard of the electron orbitals around the nucleus, and perhaps even the "energy levels" they occupy ? "Falling to the ground state" just means an electron comes out of nowhere to bind to an atomic nucleus in the most natural energy state, usually labeled as n = 1. And the photon that shoots out when that happens ? It has a very specific wavelength, in fact it's like the most accurately measured constant in physics, somewhere around 91 nanometers, slightly ultraviolet.
 * 160 / 4pi -- we call this the wishdrops ratio. it has a geometric origin that we won't explain until a bit later, but for now suffice it to say that we do indeed have some justification for it.
 * sqrt(n) -- this again appeals to geometry, which we'll get into later, but to tease just a little consider that n is a count of dimensions, and that the spectrum is essentially a constant root wavelength as seen through a 10d _lens_, harmonizing at the integer dimension counts. The mapping thus falls out as:
-  * n = 1 color spectrum root 1160nm
+  * n = 1 color spectrum root 1160nm, 258Thz
   * n = 2 ir onset 820nm
   * n = 3 red 670nm
   * n = 4 yellow 580nm
@@ -39,8 +44,8 @@ Believe it or not, we didn't even make that formula up ! Well, we sort of did, b
   * n = 7 indigo 438nm
   * n = 8 violet 410nm
   * n = 9 uv onset 387nm
-  * n = 10 color spectrum bookend 366nm
+  * n = 10 color spectrum bookend 366nm, 817Thz
 
 # Note
 
-Now that we've come this far, perhaps it doesn't come as a surprise anymore that we have a similar formula for notes. The thing is, with notes, there are a much broader range to account for -- the 
+Now that we've come this far, perhaps it doesn't come as a surprise anymore that we have a similar formula for notes. The thing is, with notes, there are a much broader range to account for -- the auditory range covers about 10 _octaves_, 
