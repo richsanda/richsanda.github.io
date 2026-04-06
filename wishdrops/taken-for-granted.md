@@ -1,12 +1,12 @@
 # Colors
 
-There are some things taken for granted in wishdropland that we forget most people probably don't think about. One is the degree to which the human body has adapted to physics. Not only to mean that nature selects for the obvious traits that help us dominate the food chain, but also, very specifically, that our sensory apparatus selects for natural harmony, and that we are therefore now, quite literally, finely tuned instruments.
+There are some things taken for granted in wishdropland that we forget most people probably don't think about. One is the degree to which the human body has adapted to physics. Not to mean only that nature selects for the obvious traits that help us dominate the food chain, but also, very specifically, that our sensory apparatus selects for natural harmony, and that we are therefore now, quite literally, finely tuned instruments.
 
-Wait, maybe that _is_ selecting for dominance in some non-obvious way ? Or at least survival ? Mental stability, lower stress, general happiness... all weapons we have deployed at one time or another to vanquish the competition.
+Wait, maybe that _is_ selecting for dominance in some non-obvious way ? Or at least survival ? Mental stability, lower stress, general happiness... all weapons we have deployed at one time or another to vanquish the competition, could we say ?
 
-Sometimes we even get to thinking that maybe some raw form of desire seeds mutations, prescribing which traits develop as candidates for selection, thereby priming evolution, an invisible guiding hand like Adam Smith talked about. Like, maybe we naturally _yearn_ to embody harmony, and for that reason, over time, we ultimately do, to the benefit of all.
+Sometimes we even get to thinking that maybe some raw form of desire seeds mutations, prescribing which traits develop as candidates for selection, thereby priming evolution, sheer will guiding the invisible hand Adam Smith was talking about. Like maybe we naturally _yearn_ to embody harmony, and for that reason, over time, we ultimately do, to the benefit of all.
 
-In any event, it's not _hey we ended up this way semi-arbitrarily and oh wow turns out we just happen to see_ these _colors and hear_ these _notes and feel_ these _feelings_... no, we're thinking it's the other way around -- the universe constantly _whispers_, broadcasting in a variety of languages, telling anyone who will listen which colors to see, which notes to hear, which feelings to feel, in fact dictating which channels of sensation exist in the first place, and the human body, not to mention all the other animals, tune in and evolve in response.
+In any event, it's not _hey we ended up this way semi-arbitrarily and oh wow turns out we just happen to see_ these _colors and hear_ these _notes and feel_ these _feelings_ is what we're saying. No, we're thinking it's the other way around -- the universe constantly _whispers_, broadcasting in a variety of languages, telling anyone who will listen which colors to see, which notes to hear, which feelings to feel, in fact dictating which channels of sensation exist in the first place, and the human body, not to mention all the other animals, tune in and evolve in response.
 
 What the heck does that even mean ?
 
