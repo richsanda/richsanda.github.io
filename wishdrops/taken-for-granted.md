@@ -14,11 +14,11 @@ We the wishdrops maintain that a precise ratio exists between the wavelength of 
 
 Even though sense of color kinda seems like a subjective experience, it isn't. Not fully, anyway. Sure, red might look different to different people in a way we'll never know, but generally we always agree when something _is_ red. And that's not really a surprise because there's a physical signature to seeing red (not the mad kind, though that too we suppose). The light that enters our eyeballs has a wavelength that we can measure, and when that light is most clearly red, something we can agree upon more or less, quirkiness and colorblindness notwithstanding, it has a wavelength of just about 670 nanometers. Yellow ? Right around 580 nanometers. Indeed, the color spectrum ranges from infrared somewhere near 750 nanometers down to ultraviolet which kicks in around 375 nanometers, dotted with only a handful or two of pure colors along the way, and never mixing more than two pure colors in between (we propose, anyway).
 
-By the way, wavelength is precisely the inverse of frequency, scaled by a speed. Wavelength is a distance, like the nanometers we've been using, and frequency counts wavelengths per unit of time, so if we know how fast the wave is moving, we can very easily convert back and forth between wavelength and frequency:
+By the way, wavelength is precisely the inverse of frequency, scaled by a speed. Wavelength is a distance, like the nanometers we've been using, and frequency counts wavelengths per unit of time. So, if we know how fast the wave is moving, we can very easily convert back and forth between wavelength and frequency:
 
 * frequency (inverse seconds) = speed (meters per second) / wavelength (meters)
 
-And so given we know very precisely how fast light speed is, a constant normally denoted as "c", we can figure out the corresponding frequencies for the color spectrum too. For example, our wavelength range for the color spectrum, from 750nm to 375nm, ranges in terahertz from:
+And so given we know very precisely how fast light travels, the "speed of light," a physical constant traditionally denoted as "c", we can figure out the corresponding frequencies for the color spectrum too. For example, our wavelength range for the color spectrum, from 750nm to 375nm, ranges in terahertz (one trillion cycles per second) from:
 
 * ~400Thz = c / 750nm (infrared onset)
 * ~800Thz = c / 375nm (ultraviolet onset)
