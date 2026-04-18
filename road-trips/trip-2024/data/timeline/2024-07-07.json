@@ -282,7 +282,6 @@
       "category": "convenience",
       "total": 8.1,
       "payment_method": "Mastercard",
-      "card_number": "**** ***9725",
       "transaction_number": "1121865",
       "terminal_number": "00846T01",
       "transaction_id": "186143",
@@ -463,7 +462,6 @@
       ],
       "category": "museum",
       "other_details": {
-        "account_number": "************9725 C",
         "card_type": "Mastercard Debit",
         "trace_number": "38191",
         "invoice_number": "2845629",
@@ -1068,7 +1066,6 @@
       "category": "convenience",
       "other_details": {
         "card_type": "Mastercard",
-        "card_number": "********9725",
         "receipt_number": "C84023605-001-149-013-0",
         "approval_number": "004117",
         "authorization_code": "01-027"
@@ -1208,7 +1205,6 @@
       "category": "groceries",
       "total": "$23.63",
       "payment_method": "Mastercard",
-      "card_number": "************9725",
       "invoice_number": "114480",
       "transaction_id": "66352617",
       "sequence_number": "022",
@@ -1559,7 +1555,6 @@
         "GST_number": "R104855408",
         "pump_number": "1",
         "payment_method": "Mastercard",
-        "card_number": "******9725",
         "reference_number": "****4466 0010013908C",
         "invoice_number": "145711",
         "authorization_number": "004120",

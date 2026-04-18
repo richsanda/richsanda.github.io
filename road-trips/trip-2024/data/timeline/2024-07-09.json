@@ -285,7 +285,6 @@
       "tip": 6.34,
       "amount_due": 0.0,
       "sale_details": {
-        "card_number": "9725",
         "amount": 31.68,
         "reference_number": "8867",
         "authorization_code": "004131"
@@ -639,7 +638,6 @@
       "total": "$35.00",
       "credit_card": {
         "card_type": "MASTERCARD",
-        "card_number": "************9725",
         "auth_code": "004136",
         "valid_through": "2024-07-15"
       },

@@ -719,7 +719,6 @@
       ],
       "category": "gas",
       "payment_method": "debit",
-      "card_number": "*****9725",
       "transaction_type": "sale",
       "authorization_mode": "issuer",
       "authorization_id": "A0000000042203",
@@ -1144,7 +1143,6 @@
       "category": "groceries",
       "total": 9.28,
       "payment_method": "Mastercard",
-      "card_number": "XXXXXXXXXXXX9725",
       "authorization_code": "004097",
       "transaction_details": {
         "entry_method": "Chip",
@@ -1901,7 +1899,6 @@
         "total": 5.78,
         "card": {
           "type": "Mastercard",
-          "account": "************9725 C",
           "auth_code": "004099",
           "trans_num": "4872",
           "auth_ref": "36",
@@ -2006,7 +2003,6 @@
       "cash_back": 100.0,
       "change_due": 100.0,
       "debit_purchase_total": 179.91,
-      "debit_card_number": "**** **** **** 9725",
       "debit_ref_number": "418700852521",
       "network_id": "0056",
       "approval_code": "000837",

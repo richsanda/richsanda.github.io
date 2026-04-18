@@ -253,7 +253,6 @@
       "category": "gas",
       "payment_method": {
         "type": "debit",
-        "account_number": "************9725",
         "entry": "Chip Read",
         "app_name": "Debit",
         "auth_network": "MAE DIR",
@@ -1283,7 +1282,6 @@
         "operator_id": "3",
         "cashier": "Trisha",
         "payment_method": "Debit",
-        "card_number": "XXXXXXXXXXXX9725",
         "invoice_number": "03490097",
         "authorization_number": "690142",
         "trace_number": "249593",
@@ -1936,7 +1934,6 @@
       "cashier": "SUPERVISOR 120",
       "store_number": "3031",
       "entry_method": "chip",
-      "card_number": "XXXXXXXXXXXX9725",
       "expiration_date": "07/03/2024",
       "mode": "debit",
       "AID": "A0000000042203",

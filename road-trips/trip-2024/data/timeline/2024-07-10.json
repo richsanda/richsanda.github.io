@@ -195,7 +195,6 @@
       "category": "gas",
       "payment_method": {
         "type": "debit",
-        "card_number": "********9725",
         "card_holder": "Richard Sanda",
         "transaction_type": "sale",
         "authorization_mode": "issuer",
@@ -947,7 +946,6 @@
         "serial_number": "520015331353",
         "rate": "Hourly",
         "payment_type": "CC (Swipe)",
-        "card_number": "#****-9725",
         "card_type": "MasterCard",
         "authorization_number": "004139"
       }
@@ -2730,7 +2728,6 @@
       "total": 22.9,
       "tip": 5.73,
       "payment_method": "MASTERCARD",
-      "card_number": "XXXX-XXXX-XXXX-9725",
       "customer_name": "Richard Sanda"
     },
     "filename": "20240902_103854",

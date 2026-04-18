@@ -1638,7 +1638,6 @@
         "cashier": "Matt",
         "payment_method": "Debit",
         "debit_amount": "$4.00",
-        "debit_card_number": "XXXXXXXXXXXX9725",
         "invoice_number": "175615",
         "authorization_number": "00-443419",
         "reference_number": "0708175615563",

@@ -1177,7 +1177,6 @@
       "total_amount": "$25.00",
       "credit_card": {
         "card_type": "MASTERCARD",
-        "card_number": "************9725",
         "auth_code": "004148",
         "valid_through": "2024-07-17"
       },
@@ -2179,7 +2178,6 @@
         "order_number": "744487",
         "pump_number": "01",
         "payment_method": "MasterCard",
-        "card_number": "XXXXXXXXXXXX9725",
         "chip_read": true,
         "debit_mode": "Issuer",
         "AID": "A0000000042203",
@@ -2225,7 +2223,6 @@
       "total": "$6.36",
       "payment": {
         "method": "MasterCard",
-        "card_number": "XXXXXXXXXXXX9725",
         "approval_code": "004152",
         "sequence_number": "026345",
         "amount": "$6.36",
@@ -2302,7 +2299,6 @@
       "category": "restaurant",
       "total": 10.24,
       "payment_method": "Mastercard",
-      "card_number": "************9725",
       "authorization_code": "004153",
       "transaction_number": "00000053",
       "APL": "Mastercard Debit",

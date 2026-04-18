@@ -352,7 +352,6 @@
         "authorization_number": "004083",
         "trace_number": "0906117927",
         "stan": "11793445643",
-        "debit_card_number": "*************9725",
         "aid": "A0000000042203",
         "tvr": "8000048000",
         "iad": "01TDAC0001220000000000000000000000FF",
@@ -436,7 +435,6 @@
         "approval_code": "491087",
         "trace_number": "0102050928",
         "stan": "11793445648",
-        "debit_number": "*************9725",
         "aid": "A0000000042203",
         "tvr": "8000048000",
         "iad": "0110A00001220000000000000000000000FF",
@@ -734,7 +732,6 @@
       "category": "groceries",
       "total": "$17.35",
       "payment_method": "debit",
-      "card_number": "XXXXXXXXXXXX9725",
       "invoice_number": "07260150",
       "authorization_code": "462208",
       "trace_number": "384533",
@@ -1207,7 +1204,6 @@
       "category": "gas",
       "payment": {
         "method": "MasterCard",
-        "card_number": "*****9725",
         "authorization_number": "004086",
         "response_code": "00",
         "stan": "1008857415"
@@ -2426,7 +2422,6 @@
       "category": "gas",
       "payment_method": "debit",
       "payment_details": {
-        "account_number": "***********9725",
         "entry": "Chip Read",
         "app_name": "Debit AuthNet",
         "mode": "Issuer",

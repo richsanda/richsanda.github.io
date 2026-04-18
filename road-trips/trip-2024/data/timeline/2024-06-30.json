@@ -369,7 +369,6 @@
       "category": "convenience",
       "payment_method": {
         "type": "debit",
-        "account_number": "************9725",
         "entry": "Chip Read",
         "app_name": "Debit",
         "auth_net": "MAE DIR",
@@ -1924,7 +1923,6 @@
         "type": "debit",
         "card_type": "MasterCard",
         "authorization_time": "17:08:51",
-        "account_number": "9725",
         "transaction_type": "sale",
         "authorization_number": "411185",
         "reference_number": "99000130155",
@@ -2040,7 +2038,6 @@
       ],
       "category": "gas",
       "payment_method": "debit",
-      "account_number": "********9725",
       "entry": "Chip Read",
       "authorization_number": "411024",
       "response_code": "000",
@@ -2051,7 +2048,6 @@
       "issuer": "Issuer",
       "aid": "A0000000042203",
       "bp_site_id": "8701815",
-      "reward_account_number": "*****9725",
       "thank_you_message": "THANK YOU",
       "additional_details": "Have a nice day!"
     },

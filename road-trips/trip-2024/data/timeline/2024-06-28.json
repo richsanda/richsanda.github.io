@@ -901,7 +901,6 @@
       ],
       "category": "gas",
       "payment_method": "debit",
-      "card_number": "************9725",
       "auth_code": "266602",
       "response_code": "000",
       "invoice_number": "658662",
@@ -1298,7 +1297,6 @@
         }
       ],
       "category": "parking",
-      "payment_method": "MC 9725",
       "powered_by": "FLASH"
     },
     "filename": "20240902_094216",

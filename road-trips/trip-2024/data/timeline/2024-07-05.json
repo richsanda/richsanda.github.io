@@ -524,7 +524,6 @@
       "category": "convenience",
       "total": 11.69,
       "payment_method": "debit",
-      "card_number": "**** **** **** 9725",
       "transaction_number": "418700155970",
       "network_id": "0082",
       "approval_code": "428538",
@@ -1367,7 +1366,6 @@
         "total": "$14.65",
         "tip": "$2.93",
         "card_type": "Mastercard",
-        "card_number": "XXXXXXXXXXXX9725",
         "cardholder_name": "Richard Sanda",
         "reference_id": "418700531145",
         "authorization_id": "004102",
@@ -2488,7 +2486,6 @@
         }
       ],
       "category": "parking",
-      "account_number": "************9725 C",
       "card_type": "Mastercard Debit",
       "trace_number": "715",
       "invoice_number": "717",
