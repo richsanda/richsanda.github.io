@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/road-trips/trip-2024/static/css/main.691d1215.css",
+    "main.css": "/road-trips/trip-2024/static/css/main.e4d166a4.css",
     "main.js": "/road-trips/trip-2024/static/js/main.11f5d4f8.js",
     "static/js/453.38e1f4b5.chunk.js": "/road-trips/trip-2024/static/js/453.38e1f4b5.chunk.js",
     "index.html": "/road-trips/trip-2024/index.html",
-    "main.691d1215.css.map": "/road-trips/trip-2024/static/css/main.691d1215.css.map",
+    "main.e4d166a4.css.map": "/road-trips/trip-2024/static/css/main.e4d166a4.css.map",
     "main.11f5d4f8.js.map": "/road-trips/trip-2024/static/js/main.11f5d4f8.js.map",
     "453.38e1f4b5.chunk.js.map": "/road-trips/trip-2024/static/js/453.38e1f4b5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.691d1215.css",
+    "static/css/main.e4d166a4.css",
     "static/js/main.11f5d4f8.js"
   ]
 }
