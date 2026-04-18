@@ -195,7 +195,6 @@
       "category": "gas",
       "payment_method": {
         "type": "debit",
-        "card_holder": "Richard Sanda",
         "transaction_type": "sale",
         "authorization_mode": "issuer",
         "authorization_id": "473890",
@@ -2728,7 +2727,6 @@
       "total": 22.9,
       "tip": 5.73,
       "payment_method": "MASTERCARD",
-      "customer_name": "Richard Sanda"
     },
     "filename": "20240902_103854",
     "position": null,

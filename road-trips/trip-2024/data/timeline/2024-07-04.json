@@ -1892,7 +1892,6 @@
       ],
       "category": "restaurant",
       "cashier": "Carlie",
-      "customer": "Richard Sanda",
       "payment": {
         "method": "Credit",
         "change": 0,

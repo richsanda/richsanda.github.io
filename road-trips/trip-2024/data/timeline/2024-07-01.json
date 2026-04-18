@@ -1639,7 +1639,6 @@
       "category": "restaurant",
       "total": 16.94,
       "payment_method": "credit card",
-      "card_holder": "Richard Sanda",
       "authorization_code": "4079",
       "chip_read": true,
       "chip_indicator": "contact",
