@@ -1,0 +1,1571 @@
+[
+  {
+    "id": 2730,
+    "type": "story",
+    "type_id": "196",
+    "timestamp": "2024-07-09T00:01",
+    "place": null,
+    "description": "days: day 13, jul 9 (west glacier, mt)\ntime: 00:01\ndate: 2024-07-09",
+    "data": {
+      "category": "days",
+      "dada_rank": 6,
+      "sydney_rank": 4
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 143,
+    "type": "map",
+    "type_id": "37",
+    "timestamp": "2024-07-09T04:05:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-09T04:05:00",
+      "end_timestamp": "2024-07-09T06:06:00",
+      "place": {
+        "state": "mt"
+      },
+      "end_place": {
+        "state": "mt"
+      },
+      "info": {
+        "duration": "2 hours, 0 minutes",
+        "distance": "0 mi",
+        "location": "Cedar, Montana -> Cedar, Montana",
+        "nearby": []
+      }
+    },
+    "filename": "Screenshot_20240723_202748_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 145,
+    "type": "map",
+    "type_id": "142",
+    "timestamp": "2024-07-09T10:31:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-09T10:31:00",
+      "end_timestamp": "2024-07-09T11:10:00",
+      "place": {
+        "city": "cedar",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "230 central ave",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "39 minutes",
+        "distance": "25 mi",
+        "location": "Cedar, Montana -> 230 Central Ave, Montana",
+        "nearby": [
+          "Whitefish",
+          "Apgar",
+          "West Glacier",
+          "Coram",
+          "Columbia Falls",
+          "Hungry Horse",
+          "La Salle",
+          "Helena Flats"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_192936_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1196,
+    "type": "picture",
+    "type_id": "812",
+    "timestamp": "2024-07-09T10:51:11",
+    "place": "9th Street, Columbia Falls, Flathead County, Montana, 59912, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "9th street",
+        "city": "columbia falls",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": "59912"
+      }
+    },
+    "filename": "20240709_105111",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 840,
+    "type": "picture",
+    "type_id": "456",
+    "timestamp": "2024-07-09T11:09:53",
+    "place": "Whitefish Pottery & Stillwater Gallery, 240, Central Avenue, Whitefish, Flathead County, Montana, 59937, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "240 central avenue",
+        "city": "whitefish",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": "59937"
+      }
+    },
+    "filename": "20240709_110953",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 147,
+    "type": "map",
+    "type_id": "24",
+    "timestamp": "2024-07-09T11:23:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-09T11:23:00",
+      "end_timestamp": "2024-07-09T11:33:00",
+      "place": {
+        "address": "baker avenue",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "102 wisconsin avenue",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "10 minutes",
+        "distance": "1 mi",
+        "location": "Baker Avenue, Montana -> 102 Wisconsin Avenue, Montana",
+        "nearby": [
+          "Waverly",
+          "HAPPY HAVEN",
+          "Whitefish Depot",
+          "Depot St",
+          "Railway St",
+          "E 1st St",
+          "Loula's Cafe",
+          "Baker Ave",
+          "Central Ave",
+          "Spokane Ave",
+          "E 3rd St",
+          "3rd St",
+          "Picture Montana",
+          "4th St"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_192928_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2011,
+    "type": "picture",
+    "type_id": "1627",
+    "timestamp": "2024-07-09T11:24:59",
+    "place": "140, East 2nd Street, Whitefish, Flathead County, Montana, 59937, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "140 east 2nd street",
+        "city": "whitefish",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": "59937"
+      }
+    },
+    "filename": "20240709_112458",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 149,
+    "type": "map",
+    "type_id": "296",
+    "timestamp": "2024-07-09T11:33:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-09T11:33:00",
+      "end_timestamp": "2024-07-09T12:09:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "35 minutes",
+        "distance": "0 mi",
+        "location": "Near 102 Wisconsin Avenue, Montana",
+        "nearby": [
+          "Skyles Pl",
+          "River Design Group",
+          "St Peter Lutheran Church",
+          "Woodland Pl",
+          "Wisconsin Ave",
+          "Edgewood Pl"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_192921_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 336,
+    "type": "receipt",
+    "type_id": "116",
+    "timestamp": "2024-07-09T11:42",
+    "place": "105 Wisconsin Ave, Whitefish, MT 59937, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "105 wisconsin ave",
+        "city": "whitefish",
+        "state": "mt",
+        "postal": "59937"
+      },
+      "date": "2024-07-07",
+      "time": "11:42",
+      "address": "105 Wisconsin Ave, Whitefish, MT 59937, United States",
+      "items": [
+        {
+          "name": "Man Burger",
+          "quantity": 2,
+          "price": 10.5,
+          "notes": "1 with cheese, 1 without secret sauce"
+        },
+        {
+          "name": "Fry",
+          "quantity": 1,
+          "price": 3.75,
+          "notes": "Medium size"
+        },
+        {
+          "name": "Bottled Coke / Fanta",
+          "quantity": 1,
+          "price": 3.0
+        },
+        {
+          "name": "Henry Wienhard's",
+          "quantity": 1,
+          "price": 3.0
+        }
+      ],
+      "category": "restaurant",
+      "total": 38.02,
+      "payment_method": "card",
+      "tip": 6.34,
+      "amount_due": 0.0,
+      "sale_details": {
+        "card_number": "9725",
+        "amount": 31.68,
+        "reference_number": "8867",
+        "authorization_code": "004131"
+      },
+      "business_details": {
+        "name": "MudMan Whitefish",
+        "phone": "(406) 730-2083",
+        "email": "mudmanmontana@gmail.com",
+        "website": "mudmanburgers.com"
+      }
+    },
+    "filename": "20240902_101308",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1839,
+    "type": "picture",
+    "type_id": "1455",
+    "timestamp": "2024-07-09T11:45:39",
+    "place": "600, Woodland Place, Whitefish, Flathead County, Montana, 59937, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "600 woodland place",
+        "city": "whitefish",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": "59937"
+      }
+    },
+    "filename": "20240709_114538",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 483,
+    "type": "picture",
+    "type_id": "99",
+    "timestamp": "2024-07-09T11:45:46",
+    "place": "600, Woodland Place, Whitefish, Flathead County, Montana, 59937, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "600 woodland place",
+        "city": "whitefish",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": "59937"
+      }
+    },
+    "filename": "20240709_114546",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2731,
+    "type": "story",
+    "type_id": "45",
+    "timestamp": "2024-07-09T12:00",
+    "place": null,
+    "description": "meals: mudman burger\ntime: 12:00",
+    "data": {
+      "category": "meals",
+      "dada_rank": 7,
+      "sydney_rank": 2
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 150,
+    "type": "map",
+    "type_id": "182",
+    "timestamp": "2024-07-09T12:09:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-09T12:09:00",
+      "end_timestamp": "2024-07-09T12:44:00",
+      "place": {
+        "address": "102 wisconsin avenue",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "us hwy 2e",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "35 minutes",
+        "distance": "17 mi",
+        "location": "102 Wisconsin Avenue, Montana -> US Hwy 2 E, Montana",
+        "nearby": [
+          "Whitefish",
+          "La Salle",
+          "Columbia Falls",
+          "Hungry Horse"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_192914_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 250,
+    "type": "shazam",
+    "type_id": "14",
+    "timestamp": "2024-07-09T12:29:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "title": "The River",
+      "artist": "The G.Brooks Collection",
+      "link": "https://www.shazam.com/track/45366433/the-river",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/f4/80/6d/f4806df6-cd57-6d82-652b-cb4e079860bc/Cover.jpg/400x400cc.jpg"
+    },
+    "filename": "https://is1-ssl.mzstatic.com/image/thumb/Music/v4/f4/80/6d/f4806df6-cd57-6d82-652b-cb4e079860bc/Cover.jpg/400x400cc.jpg",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 152,
+    "type": "map",
+    "type_id": "168",
+    "timestamp": "2024-07-09T12:46:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-09T12:46:00",
+      "end_timestamp": "2024-07-09T13:02:00",
+      "place": {
+        "address": "us hwy 2e",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "glacier ave",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "16 minutes",
+        "distance": "12 mi",
+        "location": "US Hwy 2 E, Montana -> 1 Glacier Ave, Montana",
+        "nearby": [
+          "Coram",
+          "Conkelley",
+          "Hungry Horse",
+          "West Glacier"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_192906_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 154,
+    "type": "map",
+    "type_id": "77",
+    "timestamp": "2024-07-09T13:07:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-09T13:07:00",
+      "end_timestamp": "2024-07-09T13:34:00",
+      "place": {
+        "address": "154 going to the sun hwy",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "12150 2e",
+        "city": "west glacier",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "27 minutes",
+        "distance": "2 mi",
+        "location": "154 Going To the Sun Hwy, Montana -> 12150 2 E, West Glacier, MT",
+        "nearby": [
+          "Belton Chalet",
+          "West Glacier"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_183536_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 337,
+    "type": "receipt",
+    "type_id": "45",
+    "timestamp": "2024-07-09T13:10",
+    "place": "1 Midvale St. East Glacier Park, MT 59434",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1 midvale st",
+        "city": "east glacier park",
+        "state": "mt",
+        "postal": "59434"
+      },
+      "date": "2024-07-09",
+      "time": "13:10",
+      "address": "1 Midvale St. East Glacier Park, MT 59434",
+      "items": [
+        {
+          "description": "WMNS ALARMING MTN CREW SWEAT",
+          "price": 39.99
+        },
+        {
+          "description": "CROSSNECK GNP HOODIE",
+          "price": 39.99
+        },
+        {
+          "description": "MILK CHOCOLATE HUCK BAR",
+          "price": 8.99
+        },
+        {
+          "description": "REUSABLE SHOPPING BAG",
+          "price": 3.99,
+          "quantity": 4
+        }
+      ],
+      "category": "convenience",
+      "subtotal": 92.96,
+      "handling_fee": 3.25,
+      "total": 96.21,
+      "payment_method": "Credit Card",
+      "return_policy": "30 DAY RETURN/EXCHANGE WITH RECEIPT ONLY",
+      "refund_tender": "ORIGINAL TENDER"
+    },
+    "filename": "20240902_100843",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 156,
+    "type": "map",
+    "type_id": "138",
+    "timestamp": "2024-07-09T13:34:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-09T13:34:00",
+      "end_timestamp": "2024-07-09T14:42:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "1 hour, 8 minutes",
+        "distance": "0 mi",
+        "location": "Near Cedar, Montana",
+        "nearby": []
+      }
+    },
+    "filename": "Screenshot_20240723_192841_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 157,
+    "type": "map",
+    "type_id": "303",
+    "timestamp": "2024-07-09T14:42:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-09T14:42:00",
+      "end_timestamp": "2024-07-09T15:27:00",
+      "place": {},
+      "end_place": {
+        "address": "camas road",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "45 minutes",
+        "distance": "26 mi",
+        "location": "Unknown address -> Camas Road, Montana",
+        "nearby": [
+          "Red Rock",
+          "Lake McDonald",
+          "West Glacier",
+          "Sperry Chalets"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_183521_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 338,
+    "type": "receipt",
+    "type_id": "81",
+    "timestamp": "2024-07-09T15:08",
+    "place": "PO Box 128, West Glacier, MT 59936",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "po box 128",
+        "city": "west glacier",
+        "state": "mt",
+        "postal": "59936"
+      },
+      "date": "2024-07-09",
+      "time": "15:08",
+      "address": "PO Box 128, West Glacier, MT 59936",
+      "items": [
+        {
+          "name": "7 Day Vehicle Entrance",
+          "qty": 1,
+          "price": "$35.00",
+          "total": "$35.00"
+        }
+      ],
+      "category": "parking",
+      "total": "$35.00",
+      "credit_card": {
+        "card_type": "MASTERCARD",
+        "card_number": "************9725",
+        "auth_code": "004136",
+        "valid_through": "2024-07-15"
+      },
+      "pass": {
+        "type": "Non-Transferable",
+        "refundable": false
+      },
+      "support": "Your Fees Support Your Park",
+      "terminal": "GLACWEES01",
+      "shift": "GLACWEES02:1945",
+      "cashier": "mfitz",
+      "receipt_number": "GLACWEES0100472793"
+    },
+    "filename": "20240902_104300",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 158,
+    "type": "map",
+    "type_id": "384",
+    "timestamp": "2024-07-09T15:29:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-09T15:29:00",
+      "end_timestamp": "2024-07-09T18:38:00",
+      "place": {
+        "address": "camas road",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "avalanche lake trail",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "3 hours, 9 minutes",
+        "distance": "18 mi",
+        "location": "Camas Road, Montana -> Avalanche Lake Trail, Montana",
+        "nearby": [
+          "Heavens Peak",
+          "Lake McDonald",
+          "West Glacier",
+          "Red Rock Point",
+          "Crystal Ford",
+          "Sperry Chalets"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_183504_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1066,
+    "type": "picture",
+    "type_id": "682",
+    "timestamp": "2024-07-09T16:06:21",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240709_160621",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2604,
+    "type": "picture",
+    "type_id": "2220",
+    "timestamp": "2024-07-09T16:07:00",
+    "place": "Avalanche Picnic Area Road, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "avalanche picnic area road",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_160700",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2330,
+    "type": "picture",
+    "type_id": "1946",
+    "timestamp": "2024-07-09T16:07:21",
+    "place": "Avalanche Picnic Area Road, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "avalanche picnic area road",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_160721",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1370,
+    "type": "picture",
+    "type_id": "986",
+    "timestamp": "2024-07-09T16:07:28",
+    "place": "Avalanche Picnic Area Road, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "avalanche picnic area road",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_160728",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2732,
+    "type": "story",
+    "type_id": "9",
+    "timestamp": "2024-07-09T16:15",
+    "place": null,
+    "description": "adventures/nature: pullout to creek in glacier\ntime: 15:45\ntime: 16:15",
+    "data": {
+      "category": "adventures/nature",
+      "dada_rank": 6,
+      "sydney_rank": 9
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2558,
+    "type": "picture",
+    "type_id": "2174",
+    "timestamp": "2024-07-09T16:18:04",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240709_161804",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 472,
+    "type": "picture",
+    "type_id": "88",
+    "timestamp": "2024-07-09T16:18:07",
+    "place": "Trail of the Cedars, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "trail of the cedars",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_161807",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1653,
+    "type": "picture",
+    "type_id": "1269",
+    "timestamp": "2024-07-09T16:21:26",
+    "place": "Trail of the Cedars, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "trail of the cedars",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_162126",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1314,
+    "type": "picture",
+    "type_id": "930",
+    "timestamp": "2024-07-09T16:25:44",
+    "place": "Trail of the Cedars, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "trail of the cedars",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_162543",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 619,
+    "type": "picture",
+    "type_id": "235",
+    "timestamp": "2024-07-09T16:25:49",
+    "place": "Trail of the Cedars, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "trail of the cedars",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_162548",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1246,
+    "type": "picture",
+    "type_id": "862",
+    "timestamp": "2024-07-09T16:32:00",
+    "place": "Trail of the Cedars, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "trail of the cedars",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_163200",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1011,
+    "type": "picture",
+    "type_id": "627",
+    "timestamp": "2024-07-09T16:32:20",
+    "place": "Trail of the Cedars, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "trail of the cedars",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_163220",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1443,
+    "type": "picture",
+    "type_id": "1059",
+    "timestamp": "2024-07-09T16:34:27",
+    "place": "Avalanche Lake Trail, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "avalanche lake trail",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_163427",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1612,
+    "type": "picture",
+    "type_id": "1228",
+    "timestamp": "2024-07-09T16:36:34",
+    "place": "Avalanche Lake Trail, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "avalanche lake trail",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_163633",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1861,
+    "type": "picture",
+    "type_id": "1477",
+    "timestamp": "2024-07-09T16:38:44",
+    "place": "Avalanche Lake Trail, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "avalanche lake trail",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_163844",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1739,
+    "type": "picture",
+    "type_id": "1355",
+    "timestamp": "2024-07-09T16:40:50",
+    "place": "Avalanche Lake Trail, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "avalanche lake trail",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_164050",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 449,
+    "type": "picture",
+    "type_id": "65",
+    "timestamp": "2024-07-09T16:48:12",
+    "place": "Avalanche Lake Trail, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "avalanche lake trail",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_164812",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 714,
+    "type": "picture",
+    "type_id": "330",
+    "timestamp": "2024-07-09T16:48:33",
+    "place": "Avalanche Lake Trail, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "avalanche lake trail",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_164833",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 407,
+    "type": "picture",
+    "type_id": "23",
+    "timestamp": "2024-07-09T16:50:38",
+    "place": "Avalanche Lake Trail, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "avalanche lake trail",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_165038",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1615,
+    "type": "picture",
+    "type_id": "1231",
+    "timestamp": "2024-07-09T16:53:59",
+    "place": "Avalanche Lake Trail, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "avalanche lake trail",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_165358",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1262,
+    "type": "picture",
+    "type_id": "878",
+    "timestamp": "2024-07-09T17:06:42",
+    "place": "Avalanche Lake Trail, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "avalanche lake trail",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_170641",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1735,
+    "type": "picture",
+    "type_id": "1351",
+    "timestamp": "2024-07-09T17:06:54",
+    "place": "Avalanche Lake Trail, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "avalanche lake trail",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_170654",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1592,
+    "type": "picture",
+    "type_id": "1208",
+    "timestamp": "2024-07-09T17:10:49",
+    "place": "Avalanche Lake Trail, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "avalanche lake trail",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_171049",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1799,
+    "type": "picture",
+    "type_id": "1415",
+    "timestamp": "2024-07-09T17:13:01",
+    "place": "Avalanche Lake Trail, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "avalanche lake trail",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_171301",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 855,
+    "type": "picture",
+    "type_id": "471",
+    "timestamp": "2024-07-09T17:19:02",
+    "place": "Avalanche Lake Trail, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "avalanche lake trail",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_171902",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1337,
+    "type": "picture",
+    "type_id": "953",
+    "timestamp": "2024-07-09T17:38:47",
+    "place": "Avalanche Lake Trail, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "avalanche lake trail",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_173846",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 610,
+    "type": "picture",
+    "type_id": "226",
+    "timestamp": "2024-07-09T17:39:08",
+    "place": "Avalanche Lake Trail, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "avalanche lake trail",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_173908",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1788,
+    "type": "picture",
+    "type_id": "1404",
+    "timestamp": "2024-07-09T17:40:46",
+    "place": "Avalanche Lake Trail, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "avalanche lake trail",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_174046",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 465,
+    "type": "picture",
+    "type_id": "81",
+    "timestamp": "2024-07-09T17:44:04",
+    "place": "Avalanche Lake Trail, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "avalanche lake trail",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_174404",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1131,
+    "type": "picture",
+    "type_id": "747",
+    "timestamp": "2024-07-09T18:04:19",
+    "place": "Avalanche Lake Trail, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "avalanche lake trail",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_180418",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 884,
+    "type": "picture",
+    "type_id": "500",
+    "timestamp": "2024-07-09T18:08:44",
+    "place": "Avalanche Lake Trail, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "avalanche lake trail",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_180844",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2733,
+    "type": "story",
+    "type_id": "1",
+    "timestamp": "2024-07-09T18:15",
+    "place": null,
+    "description": "adventures/nature: avalanche lake\n\ntime: 18:15",
+    "data": {
+      "category": "adventures/nature",
+      "dada_rank": 1,
+      "sydney_rank": 1
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 775,
+    "type": "picture",
+    "type_id": "391",
+    "timestamp": "2024-07-09T18:17:37",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240709_181737",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2197,
+    "type": "picture",
+    "type_id": "1813",
+    "timestamp": "2024-07-09T18:36:41",
+    "place": "Avalanche Lake Trail, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "avalanche lake trail",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_183640",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1181,
+    "type": "picture",
+    "type_id": "797",
+    "timestamp": "2024-07-09T18:36:53",
+    "place": "Avalanche Lake Trail, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "avalanche lake trail",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_183652",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1695,
+    "type": "picture",
+    "type_id": "1311",
+    "timestamp": "2024-07-09T18:45:47",
+    "place": "Avalanche Lake Trail, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "avalanche lake trail",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240709_184547",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 339,
+    "type": "receipt",
+    "type_id": "85",
+    "timestamp": "2024-07-09T19:53",
+    "place": "1 Midvale St. East Glacier Park, MT 59434",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1 midvale st",
+        "city": "east glacier park",
+        "state": "mt",
+        "postal": "59434"
+      },
+      "date": "2024-07-09",
+      "time": "19:53",
+      "address": "1 Midvale St. East Glacier Park, MT 59434",
+      "items": [
+        {
+          "description": "MG 2% HALF GALLON",
+          "quantity": 1,
+          "price": 6.19,
+          "total_price": 6.19
+        }
+      ],
+      "category": "groceries",
+      "subtotal": 6.19,
+      "tax": 0.22,
+      "total": 6.41,
+      "payment_method": "cash",
+      "tendered": 7.0,
+      "change": 0.59,
+      "return_policy": "30 DAY RETURN/EXCHANGE WITH RECEIPT ONLY. ALL REFUNDS AS ORIGINAL TENDER. ALL SALES ARE FINAL."
+    },
+    "filename": "20240902_101816",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 159,
+    "type": "map",
+    "type_id": "268",
+    "timestamp": "2024-07-09T21:20:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-09T21:20:00",
+      "end_timestamp": "2024-07-10T07:45:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "10 hours, 25 minutes",
+        "distance": "0 mi",
+        "location": "Near 12150 2 E, West Glacier, MT 59936, USA",
+        "nearby": []
+      }
+    },
+    "filename": "Screenshot_20240723_192827_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  }
+]

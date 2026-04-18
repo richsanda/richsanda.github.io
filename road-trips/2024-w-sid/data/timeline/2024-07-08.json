@@ -1,0 +1,1904 @@
+[
+  {
+    "id": 2723,
+    "type": "story",
+    "type_id": "195",
+    "timestamp": "2024-07-08T00:01",
+    "place": null,
+    "description": "days: day 12, jul 8 (west glacier, mt)\ntime: 00:01\ndate: 2024-07-08",
+    "data": {
+      "category": "days",
+      "dada_rank": 8,
+      "sydney_rank": 17
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 123,
+    "type": "map",
+    "type_id": "72",
+    "timestamp": "2024-07-08T01:18:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-08T01:18:00",
+      "end_timestamp": "2024-07-08T03:35:00",
+      "place": {
+        "state": "mt"
+      },
+      "end_place": {
+        "city": "evergreen",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "2 hours, 17 minutes",
+        "distance": "0 mi",
+        "location": "Cedar, Montana -> Evergreen, Montana",
+        "nearby": []
+      }
+    },
+    "filename": "Screenshot_20240723_202809_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 124,
+    "type": "map",
+    "type_id": "287",
+    "timestamp": "2024-07-08T06:36:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-08T06:36:00",
+      "end_timestamp": "2024-07-08T08:41:00",
+      "place": {
+        "city": "gateway",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "5553 ist st",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "2 hours, 5 minutes",
+        "distance": "127 mi",
+        "location": "Gateway, Montana -> 5553 1st St, Montana",
+        "nearby": [
+          "Babb",
+          "Glacier National Park",
+          "BLACKFEET INDIAN RESERVATION",
+          "Cut Bank",
+          "West Glacier",
+          "Columbia Falls",
+          "East Glacier Park",
+          "Flathead Lake",
+          "Flathead National Forest",
+          "Valier",
+          "Dupuyer",
+          "Choteau",
+          "Condon"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_202730_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 328,
+    "type": "receipt",
+    "type_id": "112",
+    "timestamp": "2024-07-08T07:35",
+    "place": "20958 US Hwy 2, East Glacier Park, MT 59434",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "20958 us hwy 2",
+        "city": "east glacier park",
+        "state": "mt",
+        "postal": "59434"
+      },
+      "date": "2024-07-08",
+      "time": "07:35",
+      "address": "20958 US Hwy 2, East Glacier Park, MT 59434",
+      "items": [
+        {
+          "description": "Regular Gas",
+          "price": "$3.659",
+          "quantity": "14.153G",
+          "total": "$51.79"
+        }
+      ],
+      "category": "gas",
+      "other_details": {
+        "invoice_number": "08890024",
+        "authorization_code": "004121",
+        "payment_method": "MasterCard",
+        "transaction_type": "sale",
+        "terminal_verification_results": "8000008000",
+        "transaction_status_information": "6800",
+        "issuer_application_data": "0110A00001220000000",
+        "application_cryptogram": "00000000F",
+        "authorization_response_code": "F",
+        "merchant_category_code": "3030",
+        "insert_method": "insert"
+      }
+    },
+    "filename": "20240902_103533",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1013,
+    "type": "picture",
+    "type_id": "629",
+    "timestamp": "2024-07-08T08:03:35",
+    "place": "9739, US 89, Glacier County, Montana, 59427, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "9739 us 89",
+        "city": "",
+        "county": "glacier county",
+        "state": "mt",
+        "postal": "59427"
+      }
+    },
+    "filename": "20240708_080335",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2548,
+    "type": "picture",
+    "type_id": "2164",
+    "timestamp": "2024-07-08T08:16:46",
+    "place": "US 89, Pondera County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 89",
+        "city": "",
+        "county": "pondera county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240708_081645",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 125,
+    "type": "map",
+    "type_id": "256",
+    "timestamp": "2024-07-08T08:41:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-08T08:41:00",
+      "end_timestamp": "2024-07-08T08:42:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "1 minute",
+        "distance": "0 mi",
+        "location": "Near 5553 1st St, Montana",
+        "nearby": [
+          "Starocivice",
+          "Central Ave",
+          "Perkins Rd",
+          "2nd St",
+          "1st Ave S",
+          "The Montana Dinosaur Center",
+          "1st St",
+          "2nd Ave S",
+          "Hwy 89",
+          "Front St"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_193203_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 126,
+    "type": "map",
+    "type_id": "7",
+    "timestamp": "2024-07-08T08:42:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-08T08:42:00",
+      "end_timestamp": "2024-07-08T08:51:00",
+      "place": {
+        "address": "5553 1st st",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "156 2nd ave s",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "8 minutes",
+        "distance": "127 mi",
+        "location": "5553 1st St, Montana -> 156 2nd Ave S, Montana",
+        "nearby": [
+          "Babb",
+          "Glacier National Park",
+          "BLACKFEET INDIAN RESERVATION",
+          "Cut Bank",
+          "West Glacier",
+          "Columbia Falls",
+          "Flathead Lake",
+          "Flathead National Forest",
+          "Valier",
+          "Dupuyer",
+          "Choteau",
+          "Condon"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_193146_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2724,
+    "type": "story",
+    "type_id": "16",
+    "timestamp": "2024-07-08T08:45",
+    "place": null,
+    "description": "attractions: montana dinosaur center\ntime: 08:45",
+    "data": {
+      "category": "attractions",
+      "dada_rank": 6,
+      "sydney_rank": 2
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2431,
+    "type": "picture",
+    "type_id": "2047",
+    "timestamp": "2024-07-08T08:50:36",
+    "place": "The Montana Dinosaur Center, 120, 2nd Avenue South, Bynum, Teton County, Montana, 59419, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "120 2nd avenue south",
+        "city": "bynum",
+        "county": "teton county",
+        "state": "mt",
+        "postal": "59419"
+      }
+    },
+    "filename": "20240708_085036",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 448,
+    "type": "picture",
+    "type_id": "64",
+    "timestamp": "2024-07-08T08:50:39",
+    "place": "The Montana Dinosaur Center, 120, 2nd Avenue South, Bynum, Teton County, Montana, 59419, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "120 2nd avenue south",
+        "city": "bynum",
+        "county": "teton county",
+        "state": "mt",
+        "postal": "59419"
+      }
+    },
+    "filename": "20240708_085039",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2484,
+    "type": "picture",
+    "type_id": "2100",
+    "timestamp": "2024-07-08T09:10:19",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240708_091018",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 127,
+    "type": "map",
+    "type_id": "43",
+    "timestamp": "2024-07-08T09:15:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-08T09:15:00",
+      "end_timestamp": "2024-07-08T09:33:00",
+      "place": {
+        "address": "5252 us hwy 89",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "teton canyon road",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "17 minutes",
+        "distance": "7 mi",
+        "location": "5252 US Hwy 89, Montana -> Teton Canyon Road, Montana",
+        "nearby": [
+          "Bynum",
+          "Miller Colony"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_193137_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 128,
+    "type": "map",
+    "type_id": "38",
+    "timestamp": "2024-07-08T09:33:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-08T09:33:00",
+      "end_timestamp": "2024-07-08T09:51:00",
+      "place": {
+        "address": "540 teton canyon rd",
+        "state": "mt"
+      },
+      "end_place": {
+        "state": "mt"
+      },
+      "info": {
+        "duration": "18 minutes",
+        "distance": "11 mi",
+        "location": "540 Teton Canyon Rd, Montana -> Montana",
+        "nearby": []
+      }
+    },
+    "filename": "Screenshot_20240723_193130_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 129,
+    "type": "map",
+    "type_id": "91",
+    "timestamp": "2024-07-08T09:52:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-08T09:52:00",
+      "end_timestamp": "2024-07-08T11:06:00",
+      "place": {
+        "address": "bellview road",
+        "state": "mt"
+      },
+      "end_place": {
+        "state": "mt"
+      },
+      "info": {
+        "duration": "1 hour, 13 minutes",
+        "distance": "2 mi",
+        "location": "Bellview Road, Montana -> Montana",
+        "nearby": []
+      }
+    },
+    "filename": "Screenshot_20240723_193124_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2473,
+    "type": "picture",
+    "type_id": "2089",
+    "timestamp": "2024-07-08T10:50:03",
+    "place": "Bellview Road, Teton County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "bellview road",
+        "city": "",
+        "county": "teton county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240708_105003",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1481,
+    "type": "picture",
+    "type_id": "1097",
+    "timestamp": "2024-07-08T11:00:53",
+    "place": "Teton County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "",
+        "city": "",
+        "county": "teton county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240708_110053",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 466,
+    "type": "picture",
+    "type_id": "82",
+    "timestamp": "2024-07-08T11:24:19",
+    "place": "Teton County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "",
+        "city": "",
+        "county": "teton county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240708_112419",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 671,
+    "type": "picture",
+    "type_id": "287",
+    "timestamp": "2024-07-08T11:25:46",
+    "place": "Teton County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "",
+        "city": "",
+        "county": "teton county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240708_112546",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 679,
+    "type": "picture",
+    "type_id": "295",
+    "timestamp": "2024-07-08T11:25:47",
+    "place": "Teton County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "",
+        "city": "",
+        "county": "teton county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240708_112547",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2572,
+    "type": "picture",
+    "type_id": "2188",
+    "timestamp": "2024-07-08T11:27:33",
+    "place": "Teton County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "",
+        "city": "",
+        "county": "teton county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240708_112733",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2158,
+    "type": "picture",
+    "type_id": "1774",
+    "timestamp": "2024-07-08T11:29:48",
+    "place": "Teton County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "",
+        "city": "",
+        "county": "teton county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240708_112948",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2725,
+    "type": "story",
+    "type_id": "6",
+    "timestamp": "2024-07-08T11:30",
+    "place": null,
+    "description": "adventures/nature: dig site\ntime: 11:30",
+    "data": {
+      "category": "adventures/nature",
+      "dada_rank": 9,
+      "sydney_rank": 4
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 130,
+    "type": "map",
+    "type_id": "79",
+    "timestamp": "2024-07-08T11:34:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-08T11:34:00",
+      "end_timestamp": "2024-07-08T12:13:00",
+      "place": {
+        "address": "miller colony"
+      },
+      "end_place": {
+        "address": "4886 13th ln nw",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "38 minutes",
+        "distance": "27 mi",
+        "location": "4886 13th Ln NW, Montana -> Montana",
+        "nearby": [
+          "Bynum",
+          "Miller Colony",
+          "Koyl"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_193115_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 131,
+    "type": "map",
+    "type_id": "66",
+    "timestamp": "2024-07-08T12:13:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-08T12:13:00",
+      "end_timestamp": "2024-07-08T12:30:00",
+      "place": {
+        "address": "4896 13th ln nw",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "120 2nd avenue south",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "16 minutes",
+        "distance": "7 mi",
+        "location": "4896 13th Ln NW, Montana -> 120 2nd Avenue South, Montana",
+        "nearby": [
+          "Byum",
+          "Miller Colony",
+          "Koyl"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_193107_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 132,
+    "type": "map",
+    "type_id": "127",
+    "timestamp": "2024-07-08T13:02:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-08T13:02:00",
+      "end_timestamp": "2024-07-08T14:21:00",
+      "place": {
+        "address": "us hwy 89",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "14th avenue northwest",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "1 hour, 18 minutes",
+        "distance": "65 mi",
+        "location": "US Hwy 89, Montana -> 14th Avenue Northwest, Montana",
+        "nearby": [
+          "Bynum",
+          "Brady",
+          "Dutton",
+          "Fairfield",
+          "Vaughn",
+          "Fort Shaw",
+          "Augusta",
+          "Simms",
+          "Ulm"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_193059_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1063,
+    "type": "picture",
+    "type_id": "679",
+    "timestamp": "2024-07-08T13:29:32",
+    "place": "4262, US 89, Teton County, Montana, 59422, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "4262 us 89",
+        "city": "",
+        "county": "teton county",
+        "state": "mt",
+        "postal": "59422"
+      }
+    },
+    "filename": "20240708_132932",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1367,
+    "type": "picture",
+    "type_id": "983",
+    "timestamp": "2024-07-08T13:31:15",
+    "place": "580, Main Avenue North, Choteau, Teton County, Montana, 59422, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "580 main avenue north",
+        "city": "choteau",
+        "county": "teton county",
+        "state": "mt",
+        "postal": "59422"
+      }
+    },
+    "filename": "20240708_133115",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 542,
+    "type": "picture",
+    "type_id": "158",
+    "timestamp": "2024-07-08T13:31:49",
+    "place": "2, 3rd Street Northwest, Choteau, Teton County, Montana, 59422, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "2 3rd street northwest",
+        "city": "choteau",
+        "county": "teton county",
+        "state": "mt",
+        "postal": "59422"
+      }
+    },
+    "filename": "20240708_133149",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 889,
+    "type": "picture",
+    "type_id": "505",
+    "timestamp": "2024-07-08T14:00:58",
+    "place": "924, US 89, Cascade County, Montana, 59483, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "924 us 89",
+        "city": "",
+        "county": "cascade county",
+        "state": "mt",
+        "postal": "59483"
+      },
+      "miles": "4000.0 miles",
+      "note": ""
+    },
+    "filename": "20240708_140057",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 133,
+    "type": "map",
+    "type_id": "141",
+    "timestamp": "2024-07-08T14:21:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-08T14:21:00",
+      "end_timestamp": "2024-07-08T15:09:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "47 minutes",
+        "distance": "0 mi",
+        "location": "Near 14th Avenue Northwest, Montana",
+        "nearby": [
+          "1st St NW",
+          "16th Ave NW",
+          "Vision Rd",
+          "14th Ave NW"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_183815_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 134,
+    "type": "map",
+    "type_id": "259",
+    "timestamp": "2024-07-08T15:09:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-08T15:09:00",
+      "end_timestamp": "2024-07-08T15:20:00",
+      "place": {
+        "address": "14th avenue northwest",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "central avenue",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "11 minutes",
+        "distance": "1 mi",
+        "location": "14th Avenue Northwest, Montana -> Central Avenue, Montana",
+        "nearby": [
+          "NW Bypass",
+          "Riverside Park",
+          "Bridge Suites at Falls, an IHG",
+          "6th St SW",
+          "Central Ave W",
+          "Missouri River",
+          "River Dr N",
+          "Electric City Water Park",
+          "Gibson Park",
+          "2nd Ave N",
+          "1st Ave N",
+          "5th St N"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_183757_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2130,
+    "type": "picture",
+    "type_id": "1746",
+    "timestamp": "2024-07-08T15:12:43",
+    "place": "First Avenue North Bridge, Downtown, Great Falls, Cascade County, Montana, 59045, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "first avenue north bridge",
+        "city": "great falls",
+        "county": "cascade county",
+        "state": "mt",
+        "postal": "59045"
+      }
+    },
+    "filename": "20240708_151242",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 329,
+    "type": "receipt",
+    "type_id": "69",
+    "timestamp": "2024-07-08T15:16",
+    "place": "SP+ Montana",
+    "description": null,
+    "data": {
+      "place": {
+        "business": "sp+ montana"
+      },
+      "date": "2024-07-08",
+      "time": "15:16",
+      "address": "SP+ Montana",
+      "items": [
+        {
+          "description": "Parking fee",
+          "amount": "$1.74"
+        }
+      ],
+      "category": "parking",
+      "transaction_number": "11644"
+    },
+    "filename": "20240902_103522",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 439,
+    "type": "picture",
+    "type_id": "55",
+    "timestamp": "2024-07-08T15:18:46",
+    "place": "Tracy's Family Restaurant, Central Avenue, Downtown, Great Falls, Cascade County, Montana, 59401, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "tracy's family restaurant, central avenue",
+        "city": "great falls",
+        "county": "cascade county",
+        "state": "mt",
+        "postal": "59401"
+      }
+    },
+    "filename": "20240708_151846",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 330,
+    "type": "receipt",
+    "type_id": "49",
+    "timestamp": "2024-07-08T15:20",
+    "place": "127 Central Ave, Great Falls, MT 59401",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "127 central ave",
+        "city": "great falls",
+        "state": "mt",
+        "postal": "59401"
+      },
+      "date": "2024-07-08",
+      "time": "15:20",
+      "address": "127 Central Ave, Great Falls, MT 59401",
+      "items": [
+        {
+          "name": "Pepsi",
+          "quantity": 2,
+          "price": 6.53
+        },
+        {
+          "name": "Fried Pickled Spears",
+          "quantity": 1,
+          "price": 10.99
+        },
+        {
+          "name": "Cinnamon Roll Pancake",
+          "quantity": 1,
+          "price": 14.99
+        },
+        {
+          "name": "Breakfast Burrito",
+          "quantity": 1,
+          "price": 18.99
+        },
+        {
+          "name": "Brown Gravy",
+          "quantity": 1,
+          "price": 2.99
+        },
+        {
+          "name": "Side Kickin Ranch",
+          "quantity": 1,
+          "price": 1.39
+        }
+      ],
+      "category": "restaurant",
+      "subtotal": 55.93,
+      "total": 55.93,
+      "payment_methods": [
+        "GPay",
+        "VISA",
+        "CO",
+        "DISCOVER",
+        "AMEX",
+        "DINERS"
+      ],
+      "server": "Mo S",
+      "check_number": 142,
+      "guest_count": 2,
+      "take_out": true,
+      "powered_by": "Toast"
+    },
+    "filename": "20240902_103556",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 135,
+    "type": "map",
+    "type_id": "232",
+    "timestamp": "2024-07-08T15:20:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-08T15:20:00",
+      "end_timestamp": "2024-07-08T16:15:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "54 minutes",
+        "distance": "0 mi",
+        "location": "Near Central Avenue, Montana",
+        "nearby": [
+          "Park Dr N",
+          "2nd Ave N",
+          "1st Ave N",
+          "The Great Falls Civic Center",
+          "Park Dr S",
+          "Central Ave",
+          "2nd St S"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_193039_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1727,
+    "type": "picture",
+    "type_id": "1343",
+    "timestamp": "2024-07-08T15:27:16",
+    "place": "Tracy's Family Restaurant, Central Avenue, Downtown, Great Falls, Cascade County, Montana, 59401, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "tracy's family restaurant, central avenue",
+        "city": "great falls",
+        "county": "cascade county",
+        "state": "mt",
+        "postal": "59401"
+      },
+      "caption": "we were looking for montana food, the local at urgent care directed us to tracy's"
+    },
+    "filename": "20240708_152716",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1082,
+    "type": "picture",
+    "type_id": "698",
+    "timestamp": "2024-07-08T15:27:18",
+    "place": "Tracy's Family Restaurant, Central Avenue, Downtown, Great Falls, Cascade County, Montana, 59401, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "tracy's family restaurant, central avenue",
+        "city": "great falls",
+        "county": "cascade county",
+        "state": "mt",
+        "postal": "59401"
+      }
+    },
+    "filename": "20240708_152718",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1446,
+    "type": "picture",
+    "type_id": "1062",
+    "timestamp": "2024-07-08T15:27:19",
+    "place": "Tracy's Family Restaurant, Central Avenue, Downtown, Great Falls, Cascade County, Montana, 59401, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "tracy's family restaurant, central avenue",
+        "city": "great falls",
+        "county": "cascade county",
+        "state": "mt",
+        "postal": "59401"
+      }
+    },
+    "filename": "20240708_152719",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1704,
+    "type": "picture",
+    "type_id": "1320",
+    "timestamp": "2024-07-08T15:36:29",
+    "place": "22, 2nd Street North, Downtown, Great Falls, Cascade County, Montana, 59401, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "22 2nd street north",
+        "city": "great falls",
+        "county": "cascade county",
+        "state": "mt",
+        "postal": "59401"
+      }
+    },
+    "filename": "20240708_153629",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1477,
+    "type": "picture",
+    "type_id": "1093",
+    "timestamp": "2024-07-08T15:38:27",
+    "place": "Tracy's Family Restaurant, Central Avenue, Downtown, Great Falls, Cascade County, Montana, 59401, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "tracy's family restaurant, central avenue",
+        "city": "great falls",
+        "county": "cascade county",
+        "state": "mt",
+        "postal": "59401"
+      },
+      "caption": "fried pickles are different here"
+    },
+    "filename": "20240708_153827",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2403,
+    "type": "picture",
+    "type_id": "2019",
+    "timestamp": "2024-07-08T15:47:59",
+    "place": "Tracy's Family Restaurant, Central Avenue, Downtown, Great Falls, Cascade County, Montana, 59401, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "tracy's family restaurant, central avenue",
+        "city": "great falls",
+        "county": "cascade county",
+        "state": "mt",
+        "postal": "59401"
+      },
+      "caption": "sid didn't really like those cinnamon roll pancakes"
+    },
+    "filename": "20240708_154759",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1293,
+    "type": "picture",
+    "type_id": "909",
+    "timestamp": "2024-07-08T15:48:03",
+    "place": "Tracy's Family Restaurant, Central Avenue, Downtown, Great Falls, Cascade County, Montana, 59401, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "tracy's family restaurant, central avenue",
+        "city": "great falls",
+        "county": "cascade county",
+        "state": "mt",
+        "postal": "59401"
+      },
+      "caption": "my breakfast burrito was better"
+    },
+    "filename": "20240708_154803",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2726,
+    "type": "story",
+    "type_id": "46",
+    "timestamp": "2024-07-08T16:00",
+    "place": null,
+    "description": "meals: tracy's\ntime: 16:00",
+    "data": {
+      "category": "meals",
+      "dada_rank": 8,
+      "sydney_rank": 17
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 331,
+    "type": "receipt",
+    "type_id": "22",
+    "timestamp": "2024-07-08T16:04",
+    "place": "127 Central Ave, Great Falls, MT 59401",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "127 central ave",
+        "city": "great falls",
+        "state": "mt",
+        "postal": "59401"
+      },
+      "date": "2024-07-08",
+      "time": "16:04",
+      "address": "127 Central Ave, Great Falls, MT 59401",
+      "items": [
+        {
+          "name": "Mastercard Debit",
+          "quantity": 1,
+          "price": 55.93
+        }
+      ],
+      "category": "restaurant",
+      "server": "Mo S",
+      "check_number": 142,
+      "table_number": 4,
+      "guest_count": 2,
+      "payment_method": "EMV Chip Read",
+      "approval_code": "004128",
+      "payment_id": "rjjgwYrFmKgk",
+      "application_id": "A0000000041010",
+      "application_label": "Mastercard Debit",
+      "terminal_id": "BBPOS",
+      "customer_name": "Richard Sanda",
+      "powered_by": "Toast"
+    },
+    "filename": "20240902_103618",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 136,
+    "type": "map",
+    "type_id": "277",
+    "timestamp": "2024-07-08T16:15:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-08T16:15:00",
+      "end_timestamp": "2024-07-08T16:50:00",
+      "place": {
+        "address": "central avenue",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "959 20th st s",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "35 minutes",
+        "distance": "9 mi",
+        "location": "Central Avenue, Montana -> 959 20th St S, Montana",
+        "nearby": [
+          "Great Falls",
+          "MC.M. Russell Museum",
+          "9th St N",
+          "13th St S",
+          "River Dr N",
+          "2nd Ave N",
+          "1st Ave N"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_183745_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2342,
+    "type": "picture",
+    "type_id": "1958",
+    "timestamp": "2024-07-08T16:18:57",
+    "place": "Wendy's, 806, 10th Avenue South, Great Falls, Cascade County, Montana, 59405, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "806 10th avenue south",
+        "city": "great falls",
+        "county": "cascade county",
+        "state": "mt",
+        "postal": "59405"
+      }
+    },
+    "filename": "20240708_161857",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 332,
+    "type": "receipt",
+    "type_id": "15",
+    "timestamp": "2024-07-08T16:54",
+    "place": "2001 10th Avenue South, Great Falls, MT",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "2001 10th avenue south",
+        "city": "great falls",
+        "state": "mt"
+      },
+      "date": "2024-07-08",
+      "time": "16:54",
+      "address": "2001 10th Avenue South, Great Falls, MT",
+      "items": [
+        {
+          "description": "Prescription",
+          "price": 5.0
+        }
+      ],
+      "category": "pharmacy",
+      "extraCareCard": "********3281",
+      "extraCareRewards": {
+        "balance": 34.73,
+        "yearToDateSavings": 24,
+        "fillPrescriptions": {
+          "quantityTowardReward": 4,
+          "quantityNeededForReward": 2
+        },
+        "essiePolish": {
+          "quantityTowardFree": 1,
+          "quantityNeededForFree": 6
+        },
+        "hairColor": {
+          "quantityTowardFree": 7,
+          "quantityNeededForFree": 1
+        }
+      },
+      "flexibleSpendingAccount": {
+        "eligibleTotal": 5.0,
+        "summary": "F=FLEXIBLE SPENDING ACCT SUMMARY (FSA) Prescription Eligible Total 5.00"
+      },
+      "returnPolicy": "Returns with receipt, subject to CVS Return Policy, thru 09/06/2024 Refund amount is based on price after all coupons and discounts.",
+      "paymentMethod": "Debit",
+      "change": 0.0,
+      "referenceNumber": "134413",
+      "authorizationNumber": "432412",
+      "transactionType": "Sale",
+      "terminalNumber": "88329062",
+      "cvm": "420300",
+      "tsi": "6800",
+      "thankYouMessage": "THANK YOU. SHOP 24 HOURS AT CVS.COM",
+      "extraCareCardBalances": {
+        "asOf": "06/26",
+        "yearToDateSavings": 10
+      },
+      "optedInActiveMembers": 2,
+      "accessCVSApp": "Access all coupons & rewards, and track your 2% earnings in the CVS Pharmacy app!",
+      "discount": "10% off"
+    },
+    "filename": "20240902_102120",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 137,
+    "type": "map",
+    "type_id": "23",
+    "timestamp": "2024-07-08T17:00:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-08T17:00:00",
+      "end_timestamp": "2024-07-08T19:26:00",
+      "place": {
+        "address": "10th avenue south",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "2nd avenue southeast",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "2 hours, 25 minutes",
+        "distance": "126 mi",
+        "location": "10th Avenue South, Montana -> 2nd Avenue Southeast, Montana",
+        "nearby": [
+          "BLACKFEET INDIAN RESERVATION",
+          "Cut Bank",
+          "Shelby",
+          "Glacier Park",
+          "Valier",
+          "Heart Butte",
+          "Conrad",
+          "Dupuyer",
+          "Brady",
+          "Bynum",
+          "Dutton",
+          "Choteau",
+          "Augusta",
+          "Great Falls",
+          "Fort Shaw",
+          "Ulm",
+          "Cascade"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_193023_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 440,
+    "type": "picture",
+    "type_id": "56",
+    "timestamp": "2024-07-08T17:10:09",
+    "place": "Country Club Boulevard, Great Falls, Cascade County, Montana, 59404, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "country club boulevard",
+        "city": "great falls",
+        "county": "cascade county",
+        "state": "mt",
+        "postal": "59404"
+      },
+      "caption": "exit 0"
+    },
+    "filename": "20240708_171009",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 887,
+    "type": "picture",
+    "type_id": "503",
+    "timestamp": "2024-07-08T17:28:25",
+    "place": "984, US 89, Cascade County, Montana, 59483, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "984 us 89",
+        "city": "",
+        "county": "cascade county",
+        "state": "mt",
+        "postal": "59483"
+      }
+    },
+    "filename": "20240708_172825",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 334,
+    "type": "receipt",
+    "type_id": "18",
+    "timestamp": "2024-07-08T17:55",
+    "place": "222 Main Ave N, Choteau, MT",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "222 main ave n",
+        "city": "choteau",
+        "state": "mt"
+      },
+      "date": "2024-07-08",
+      "time": "17:55",
+      "address": "222 Main Ave N, Choteau, MT",
+      "items": [
+        {
+          "description": "Regular Gas",
+          "quantity": "8.869G",
+          "price": "$3.359",
+          "total": "$29.79"
+        }
+      ],
+      "category": "gas",
+      "other_details": {
+        "store_name": "Main Street Express",
+        "store_number": "09504382",
+        "invoice_number": "175344",
+        "authorization_number": "00-004130",
+        "reference_number": "0708175344940",
+        "pump_number": "5",
+        "payment_method": "debit",
+        "debit_network_id": "16",
+        "terminal_sequence_number": "935555",
+        "completion_entry": "CHIP",
+        "batch_number": "82",
+        "terminal_id": "5",
+        "workstation_id": "00",
+        "pin_verified": true,
+        "dda": true,
+        "gas_feedback_url": "Gasfeedback.com"
+      }
+    },
+    "filename": "20240902_102025",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 335,
+    "type": "receipt",
+    "type_id": "65",
+    "timestamp": "2024-07-08T17:56",
+    "place": "222 Main Ave N, Choteau, MT",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "222 main ave n",
+        "city": "choteau",
+        "state": "mt"
+      },
+      "date": "2024-07-08",
+      "time": "17:56",
+      "address": "222 Main Ave N, Choteau, MT",
+      "items": [
+        {
+          "description": "Bag Ice",
+          "price": "$2.00"
+        },
+        {
+          "description": "Bag Ice",
+          "price": "$2.00"
+        }
+      ],
+      "category": "convenience",
+      "other_details": {
+        "register": "1",
+        "transaction_number": "5876",
+        "operator_id": "22",
+        "cashier": "Matt",
+        "payment_method": "Debit",
+        "debit_amount": "$4.00",
+        "debit_card_number": "XXXXXXXXXXXX9725",
+        "invoice_number": "175615",
+        "authorization_number": "00-443419",
+        "reference_number": "0708175615563",
+        "AID": "A0000000042203",
+        "ARQC": "3C0A6B44C176E4B2",
+        "pin_verified": true,
+        "signature_required": false,
+        "card_type": "Maestro",
+        "account_type": "DDA",
+        "terminal_sequence_number": "982365",
+        "entry_method": "CHIP",
+        "batch_number": "83",
+        "sequence_number": "1",
+        "terminal_id": "1",
+        "workstation_id": "1"
+      }
+    },
+    "filename": "20240902_101026",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2437,
+    "type": "picture",
+    "type_id": "2053",
+    "timestamp": "2024-07-08T18:06:55",
+    "place": "4111, US 89, Choteau, Teton County, Montana, 59422, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "4111 us 89",
+        "city": "choteau",
+        "county": "teton county",
+        "state": "mt",
+        "postal": "59422"
+      },
+      "signs": "browning 73\nglacier nat'l park 86"
+    },
+    "filename": "20240708_180654",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2727,
+    "type": "story",
+    "type_id": "127",
+    "timestamp": "2024-07-08T18:30",
+    "place": null,
+    "description": "wildlife: bison\ntime: 18:30",
+    "data": {
+      "category": "wildlife",
+      "dada_rank": 10,
+      "sydney_rank": 9
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 138,
+    "type": "map",
+    "type_id": "102",
+    "timestamp": "2024-07-08T19:30:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-08T19:30:00",
+      "end_timestamp": "2024-07-08T21:00:00",
+      "place": {
+        "address": "155 e central ave",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "going to the sun hwy",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "1 hour, 29 minutes",
+        "distance": "59 mi",
+        "location": "155 E Central Ave, Montana -> Going To the Sun Hwy, Montana",
+        "nearby": [
+          "Glacier National Park",
+          "Nyack",
+          "Babb",
+          "St Mary",
+          "Wetzel",
+          "Rising Sun",
+          "East Glacier Park",
+          "Bison",
+          "Pinnacle",
+          "Summit",
+          "Blackfeet Indian Reservation"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_193014_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2728,
+    "type": "story",
+    "type_id": "114",
+    "timestamp": "2024-07-08T20:00",
+    "place": null,
+    "description": "wildlife: bear\ntime: 20:00",
+    "data": {
+      "category": "wildlife",
+      "dada_rank": 4,
+      "sydney_rank": 2
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2729,
+    "type": "story",
+    "type_id": "117",
+    "timestamp": "2024-07-08T20:00",
+    "place": null,
+    "description": "wildlife: ram / mountain goat\ntime: 20:00",
+    "data": {
+      "category": "wildlife",
+      "dada_rank": 2,
+      "sydney_rank": 4
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 139,
+    "type": "map",
+    "type_id": "56",
+    "timestamp": "2024-07-08T21:19:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-08T21:19:00",
+      "end_timestamp": "2024-07-08T21:34:00",
+      "place": {
+        "address": "going to the sun hwy",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "going-to-the-sun road",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "15 minutes",
+        "distance": "9 mi",
+        "location": "Going To the Sun Hwy, Montana -> Going-to-the-Sun Road, Montana",
+        "nearby": [
+          "Apgar",
+          "West Glacier",
+          "Lake McDonald"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_193007_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 140,
+    "type": "map",
+    "type_id": "90",
+    "timestamp": "2024-07-08T21:34:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-08T21:34:00",
+      "end_timestamp": "2024-07-08T21:37:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "3 minutes",
+        "distance": "0 mi",
+        "location": "Near Going-to-the-Sun Road, Montana",
+        "nearby": [
+          "Going-to-the-Sun Road"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_192958_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 141,
+    "type": "map",
+    "type_id": "250",
+    "timestamp": "2024-07-08T22:08:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-08T22:08:00",
+      "end_timestamp": "2024-07-09T10:31:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "12 hours, 22 minutes",
+        "distance": "0 mi",
+        "location": "Near Cedar, Montana",
+        "nearby": []
+      }
+    },
+    "filename": "Screenshot_20240723_192942_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1096,
+    "type": "picture",
+    "type_id": "712",
+    "timestamp": "2024-07-08T22:08:34",
+    "place": "Glacier Campground, Aspen, West Glacier, Flathead County, Montana, 59936, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "glacier campground",
+        "city": "west glacier",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": "59936"
+      }
+    },
+    "filename": "20240708_220833",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  }
+]

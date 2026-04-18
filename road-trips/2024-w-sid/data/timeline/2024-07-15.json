@@ -1,0 +1,1516 @@
+[
+  {
+    "id": 1988,
+    "type": "picture",
+    "type_id": "1604",
+    "timestamp": "2024-07-15T06:51:52",
+    "place": "31, South Drive, Eggertsville, Buffalo, Erie County, New York, 14226, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "city": "buffalo",
+        "county": "erie county",
+        "state": "ny",
+        "postal": "14226"
+      }
+    },
+    "filename": "20240715_065152",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1239,
+    "type": "picture",
+    "type_id": "855",
+    "timestamp": "2024-07-15T06:52:19",
+    "place": "31, South Drive, Eggertsville, Buffalo, Erie County, New York, 14226, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "city": "buffalo",
+        "county": "erie county",
+        "state": "ny",
+        "postal": "14226"
+      },
+      "caption": "leia ! legit haven't seen you in 11 years !"
+    },
+    "filename": "20240715_065219",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2292,
+    "type": "picture",
+    "type_id": "1908",
+    "timestamp": "2024-07-15T07:03:04",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {},
+      "caption": "14"
+    },
+    "filename": "20240715_070300",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1522,
+    "type": "picture",
+    "type_id": "1138",
+    "timestamp": "2024-07-15T07:11:52",
+    "place": "35, South Drive, Eggertsville, Buffalo, Erie County, New York, 14226, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "city": "buffalo",
+        "county": "erie county",
+        "state": "ny",
+        "postal": "14226"
+      }
+    },
+    "filename": "20240715_071152",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 558,
+    "type": "picture",
+    "type_id": "174",
+    "timestamp": "2024-07-15T07:11:55",
+    "place": "35, South Drive, Eggertsville, Buffalo, Erie County, New York, 14226, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "city": "buffalo",
+        "county": "erie county",
+        "state": "ny",
+        "postal": "14226"
+      }
+    },
+    "filename": "20240715_071155",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2226,
+    "type": "picture",
+    "type_id": "1842",
+    "timestamp": "2024-07-15T07:26:45",
+    "place": "35, South Drive, Eggertsville, Buffalo, Erie County, New York, 14226, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "city": "buffalo",
+        "county": "erie county",
+        "state": "ny",
+        "postal": "14226"
+      },
+      "miles": "6931.3 miles",
+      "note": "at rob and sue's house"
+    },
+    "filename": "20240715_072645",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 623,
+    "type": "picture",
+    "type_id": "239",
+    "timestamp": "2024-07-15T07:26:51",
+    "place": "35, South Drive, Eggertsville, Buffalo, Erie County, New York, 14226, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "city": "buffalo",
+        "county": "erie county",
+        "state": "ny",
+        "postal": "14226"
+      }
+    },
+    "filename": "20240715_072651",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 230,
+    "type": "map",
+    "type_id": "297",
+    "timestamp": "2024-07-15T07:29:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-15T07:29:00",
+      "end_timestamp": "2024-07-15T07:37:00",
+      "place": {
+        "address": "92 lebrun rd",
+        "state": "ny"
+      },
+      "end_place": {
+        "address": "12 lasalle ave",
+        "state": "ny"
+      },
+      "info": {
+        "duration": "8 minutes",
+        "distance": "1 mi",
+        "location": "92 Lebrun Rd, New York -> 12 Lasalle Ave, New York",
+        "nearby": [
+          "Kenmore Ave",
+          "Niagara Falls Blvd",
+          "Kimball Tower",
+          "University at Buffalo",
+          "Englewood Ave",
+          "Tandoori Hut",
+          "ALDI",
+          "Main St",
+          "VA WNY Healthcare System",
+          "99 Fast Food",
+          "McCarthy Park",
+          "LASALLE",
+          "E Amherst St",
+          "Bailey Ave"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_170341_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2552,
+    "type": "picture",
+    "type_id": "2168",
+    "timestamp": "2024-07-15T07:32:58",
+    "place": "76, Highgate Avenue, University Heights, Buffalo, Erie County, New York, 14214, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "76 highgate avenue",
+        "city": "university heights",
+        "county": "erie county",
+        "state": "ny",
+        "postal": "14214"
+      }
+    },
+    "filename": "20240715_073258",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1591,
+    "type": "picture",
+    "type_id": "1207",
+    "timestamp": "2024-07-15T07:35:51",
+    "place": "Famous Doughnuts, 3043, Main Street, University Heights, Buffalo, Erie County, New York, 14214, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "3043 main street",
+        "city": "university heights",
+        "county": "erie county",
+        "state": "ny",
+        "postal": "14214"
+      }
+    },
+    "filename": "20240715_073551",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 901,
+    "type": "picture",
+    "type_id": "517",
+    "timestamp": "2024-07-15T07:35:58",
+    "place": "Famous Doughnuts, 3043, Main Street, University Heights, Buffalo, Erie County, New York, 14214, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "3043 main street",
+        "city": "university heights",
+        "county": "erie county",
+        "state": "ny",
+        "postal": "14214"
+      }
+    },
+    "filename": "20240715_073558",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2756,
+    "type": "story",
+    "type_id": "61",
+    "timestamp": "2024-07-15T07:40",
+    "place": null,
+    "description": "treats: famous doughnuts\ntime: 08:30\ntime: 07:40",
+    "data": {
+      "category": "treats",
+      "dada_rank": 5,
+      "sydney_rank": 8
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 378,
+    "type": "receipt",
+    "type_id": "12",
+    "timestamp": "2024-07-15T07:46",
+    "place": "4505 Main St, Snyder, NY 14226",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "4505 main st",
+        "city": "snyder",
+        "state": "ny",
+        "postal": "14226"
+      },
+      "date": "2024-07-15",
+      "time": "07:46",
+      "address": "4505 Main St, Snyder, NY 14226",
+      "items": [
+        {
+          "description": "UNLEADED CA #07",
+          "quantity": "12.281G",
+          "amount": "$44.94"
+        }
+      ],
+      "category": "gas",
+      "payment_method": "debit",
+      "auth_number": "786431",
+      "response_code": "000",
+      "stan": "0275847540",
+      "invoice_number": "591374",
+      "shift_number": "1",
+      "store_number": "40472",
+      "cashier": "ST#2744",
+      "transaction_number": "9072044",
+      "timestamp": "7:46:24 AM"
+    },
+    "filename": "20240902_104426",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 231,
+    "type": "map",
+    "type_id": "228",
+    "timestamp": "2024-07-15T07:49:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-15T07:49:00",
+      "end_timestamp": "2024-07-15T08:51:00",
+      "place": {
+        "address": "12 lasalle ave",
+        "state": "ny"
+      },
+      "end_place": {
+        "address": "I-90",
+        "state": "ny"
+      },
+      "info": {
+        "duration": "1 hour, 1 minute",
+        "distance": "58 mi",
+        "location": "12 Lasalle Ave, New York -> I-90, New York",
+        "nearby": [
+          "Lake Ontario",
+          "Brockport",
+          "Lockport",
+          "Batavia",
+          "Rochester",
+          "Geneseo",
+          "Buffalo"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_170315_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 379,
+    "type": "receipt",
+    "type_id": "76",
+    "timestamp": "2024-07-15T07:53",
+    "place": "3043 Main St.",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "3043 main st"
+      },
+      "date": "2024-07-15",
+      "time": "07:53",
+      "address": "3043 Main St.",
+      "items": [
+        {
+          "name": "Lg Coffee",
+          "price": "$4.50"
+        }
+      ],
+      "category": "restaurant",
+      "total": "$7.10",
+      "payment_method": "CASH",
+      "clerk": "01",
+      "receipt_number": "284499 00000"
+    },
+    "filename": "20240902_104603",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1076,
+    "type": "picture",
+    "type_id": "692",
+    "timestamp": "2024-07-15T08:02:02",
+    "place": "Youngmann Expressway, Town of Amherst, Erie County, New York, 14225, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "youngmann expressway",
+        "city": "amherst",
+        "county": "erie county",
+        "state": "ny",
+        "postal": "14225"
+      },
+      "signs": "i-90 albany\ni-90 airport, erie"
+    },
+    "filename": "20240715_080202",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1330,
+    "type": "picture",
+    "type_id": "946",
+    "timestamp": "2024-07-15T08:29:26",
+    "place": "New York State Thruway, Town of Batavia, Genesee County, New York, 14020, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "new york state thruway",
+        "city": "batavia",
+        "county": "genesee county",
+        "state": "ny",
+        "postal": "14020"
+      },
+      "miles": "100000 miles",
+      "note": "on the regular odometer"
+    },
+    "filename": "20240715_082926",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 232,
+    "type": "map",
+    "type_id": "346",
+    "timestamp": "2024-07-15T08:55:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-15T08:55:00",
+      "end_timestamp": "2024-07-15T12:13:00",
+      "place": {
+        "address": "I-90",
+        "state": "ny"
+      },
+      "end_place": {
+        "address": "120 washington ave",
+        "state": "ny"
+      },
+      "info": {
+        "duration": "3 hours, 18 minutes",
+        "distance": "221 mi",
+        "location": "I-90, New York -> 120 Washington Ave, New York",
+        "nearby": [
+          "Kingston",
+          "Rochester",
+          "Saratoga Springs",
+          "Harrisburg"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_170258_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1707,
+    "type": "picture",
+    "type_id": "1323",
+    "timestamp": "2024-07-15T09:00:38",
+    "place": "New York State Thruway, Town of Henrietta, Monroe County, New York, 14467, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "new york state thruway",
+        "city": "henrietta",
+        "county": "monroe county",
+        "state": "ny",
+        "postal": "14467"
+      },
+      "signs": "syracuse 78\nalbany 212\nnew york 360"
+    },
+    "filename": "20240715_090037",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2419,
+    "type": "picture",
+    "type_id": "2035",
+    "timestamp": "2024-07-15T09:04:17",
+    "place": "New York State Thruway, Town of Mendon, Monroe County, New York, 14506, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "new york state thruway",
+        "city": "mendon",
+        "county": "monroe county",
+        "state": "ny",
+        "postal": "14506"
+      },
+      "miles": "7002.5 miles",
+      "note": "missed another one"
+    },
+    "filename": "20240715_090417",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2148,
+    "type": "picture",
+    "type_id": "1764",
+    "timestamp": "2024-07-15T09:49:26",
+    "place": "New York State Thruway, Town of Elbridge, Onondaga County, New York, 13080, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "new york state thruway",
+        "city": "elbridge",
+        "county": "onondaga county",
+        "state": "ny",
+        "postal": "13080"
+      }
+    },
+    "filename": "20240715_094926",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2204,
+    "type": "picture",
+    "type_id": "1820",
+    "timestamp": "2024-07-15T11:01:16",
+    "place": "New York State Thruway, Town of Danube, Town of Little Falls, Herkimer County, New York, 13365, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "new york state thruway",
+        "city": "little falls",
+        "county": "herkimer county",
+        "state": "ny",
+        "postal": "13365"
+      }
+    },
+    "filename": "20240715_110116",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1358,
+    "type": "picture",
+    "type_id": "974",
+    "timestamp": "2024-07-15T11:30:07",
+    "place": "New York State Thruway, Town of Florida, Montgomery County, New York, 12069, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "new york state thruway",
+        "city": "florida",
+        "county": "montgomery county",
+        "state": "ny",
+        "postal": "12069"
+      }
+    },
+    "filename": "20240715_113007",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2085,
+    "type": "picture",
+    "type_id": "1701",
+    "timestamp": "2024-07-15T11:51:08",
+    "place": "New York State Thruway, City of Albany, Albany County, New York, 12288, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "new york state thruway",
+        "city": "albany",
+        "county": "albany county",
+        "state": "ny",
+        "postal": "12288"
+      },
+      "signs": "i-87, i-90 albany, montreal\ni-87 new york, boston"
+    },
+    "filename": "20240715_115108",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1836,
+    "type": "picture",
+    "type_id": "1452",
+    "timestamp": "2024-07-15T11:52:01",
+    "place": "New York State Thruway, City of Albany, Albany County, New York, 12288, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "new york state thruway",
+        "city": "albany",
+        "county": "albany county",
+        "state": "ny",
+        "postal": "12288"
+      },
+      "signs": "i-87, i-90 albany, montreal\ni-87 new york, boston"
+    },
+    "filename": "20240715_115201",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 475,
+    "type": "picture",
+    "type_id": "91",
+    "timestamp": "2024-07-15T12:09:36",
+    "place": "280, Lark Street, Center Square, City of Albany, Albany County, New York, 12210, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "280 lark street",
+        "city": "albany",
+        "county": "albany county",
+        "state": "ny",
+        "postal": "12210"
+      },
+      "caption": "side track through albany by way of lark street"
+    },
+    "filename": "20240715_120936",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1970,
+    "type": "picture",
+    "type_id": "1586",
+    "timestamp": "2024-07-15T12:13:02",
+    "place": "150, Washington Avenue, Lark Street, City of Albany, Albany County, New York, 12210, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "150 washington avenue",
+        "city": "albany",
+        "county": "albany county",
+        "state": "ny",
+        "postal": "12210"
+      }
+    },
+    "filename": "20240715_121302",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 531,
+    "type": "picture",
+    "type_id": "147",
+    "timestamp": "2024-07-15T12:13:27",
+    "place": "Better Bite, 99, Washington Avenue, Lark Street, City of Albany, Albany County, New York, 12210, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "99 washington avenue, lark street",
+        "city": "albany",
+        "county": "albany county",
+        "state": "ny",
+        "postal": "12210"
+      }
+    },
+    "filename": "20240715_121327",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 233,
+    "type": "map",
+    "type_id": "17",
+    "timestamp": "2024-07-15T12:14:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-15T12:14:00",
+      "end_timestamp": "2024-07-15T12:24:00",
+      "place": {
+        "address": "60 pine st",
+        "state": "ny"
+      },
+      "end_place": {
+        "address": "state rte 378",
+        "state": "ny"
+      },
+      "info": {
+        "duration": "9 minutes",
+        "distance": "6 mi",
+        "location": "60 Pine St, New York -> State Rte 378, New York",
+        "nearby": [
+          "Loudonville",
+          "Hudson Valley Community College",
+          "Huck Finn's Playland",
+          "Albany",
+          "Rensselaer",
+          "Defreestville"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_170238_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 234,
+    "type": "map",
+    "type_id": "200",
+    "timestamp": "2024-07-15T12:26:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-15T12:26:00",
+      "end_timestamp": "2024-07-15T12:34:00",
+      "place": {
+        "address": "48 water st",
+        "state": "ny"
+      },
+      "end_place": {
+        "address": "80 water st",
+        "city": "new york",
+        "state": "ny"
+      },
+      "info": {
+        "duration": "7 minutes",
+        "distance": "1 mi",
+        "location": "48 Water St, New York -> 80 Water St, New York",
+        "nearby": [
+          "South Troy Diner",
+          "S River St",
+          "Cross St",
+          "Burden Ave",
+          "Thompson St",
+          "Phelan Ct",
+          "Mill St"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_170227_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 380,
+    "type": "receipt",
+    "type_id": "109",
+    "timestamp": "2024-07-15T12:33",
+    "place": "800 Burden Ave, Troy, NY 12180",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "800 burden ave",
+        "city": "troy",
+        "state": "ny",
+        "postal": "12180"
+      },
+      "date": "2024-07-15",
+      "time": "12:33",
+      "address": "800 Burden Ave, Troy, NY 12180",
+      "items": [
+        {
+          "description": "2 Arctic Ice 5lb bags",
+          "price": 4.58
+        },
+        {
+          "description": "Prepay Pump #6 Regular Unleaded",
+          "price": 13.665
+        },
+        {
+          "description": "CMN Donation",
+          "price": 1.0
+        }
+      ],
+      "category": "convenience",
+      "total": 55.95,
+      "payment_method": "debit",
+      "card_number": "XXXXXXXXXXXX9725",
+      "entry_method": "chip card",
+      "transaction_type": "authorization",
+      "approval_code": "004185",
+      "AID": "A0000000042203",
+      "verified_by": "PIN",
+      "now_hiring": true,
+      "application_link": "Speedway.com/careers",
+      "text_number": "25000",
+      "website": "www.speedway.com"
+    },
+    "filename": "20240902_104537",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 381,
+    "type": "receipt",
+    "type_id": "72",
+    "timestamp": "2024-07-15T12:42",
+    "place": "800 Burden Ave, Troy, NY 12180",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "800 burden ave",
+        "city": "troy",
+        "state": "ny",
+        "postal": "12180"
+      },
+      "date": "2024-07-15",
+      "time": "12:42",
+      "address": "800 Burden Ave, Troy, NY 12180",
+      "items": [
+        {
+          "description": "2 Arctic Ice 5lb bags",
+          "price": 4.58
+        },
+        {
+          "description": "CMN Donation",
+          "price": 1.0
+        },
+        {
+          "description": "Regular Unleaded Fuel",
+          "price": 44.13
+        }
+      ],
+      "category": "gas",
+      "other_details": {
+        "trans_num": "3174271",
+        "reg_num": "2",
+        "pump_num": "6",
+        "gallons": "12.060",
+        "tax": "0.37",
+        "total": "50.08",
+        "debit_card_num": "XXXXXXXXXXXX9725",
+        "term": "01",
+        "trans_type": "CAPTURE",
+        "appr_num": "004185",
+        "entry_method": "Chip",
+        "aid": "A0000000042203",
+        "verified_by": "PIN"
+      }
+    },
+    "filename": "20240902_104443",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 235,
+    "type": "map",
+    "type_id": "283",
+    "timestamp": "2024-07-15T12:49:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-15T12:49:00",
+      "end_timestamp": "2024-07-15T13:01:00",
+      "place": {
+        "address": "74 water st",
+        "state": "ny"
+      },
+      "end_place": {
+        "address": "310 troy road",
+        "state": "ny"
+      },
+      "info": {
+        "duration": "12 minutes",
+        "distance": "8 mi",
+        "location": "74 Water St, New York -> 310 Troy Road, New York",
+        "nearby": [
+          "Dudonville",
+          "Finn's Playland",
+          "Albany",
+          "Hudson River",
+          "Hudson Valley Community College",
+          "Defreestville",
+          "Hampton Manor"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_170212_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1128,
+    "type": "picture",
+    "type_id": "744",
+    "timestamp": "2024-07-15T12:54:17",
+    "place": "I 787, Village of Menands, Town of Colonie, Albany County, New York, 12204, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 787",
+        "city": "menands",
+        "county": "albany county",
+        "state": "ny",
+        "postal": "12204"
+      },
+      "signs": "i-787 downtown albany\ni-90 buffalo, boston"
+    },
+    "filename": "20240715_125417",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2757,
+    "type": "story",
+    "type_id": "58",
+    "timestamp": "2024-07-15T13:00",
+    "place": null,
+    "description": "meals: birthday mcdonalds\ntime: 13:00",
+    "data": {
+      "category": "meals",
+      "dada_rank": 20,
+      "sydney_rank": 5
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2758,
+    "type": "story",
+    "type_id": "485",
+    "timestamp": "2024-07-15T13:00",
+    "place": null,
+    "description": "songs: cherry bomb -- the runaways\n\ntime: 13:00",
+    "data": {
+      "id": 206,
+      "artist_name": "The Runaways",
+      "song_name": "Cherry Bomb",
+      "image_link": "https://i.scdn.co/image/ab67616d0000b273a1c553575418ca43404cb48b",
+      "song_link": "https://open.spotify.com/track/7cdnq45E9aP2XDStHg5vd7",
+      "ordinal": null,
+      "spotify_id": "7cdnq45E9aP2XDStHg5vd7",
+      "added_at": "2024-10-26T20:52:23Z",
+      "playlist_id": "3IObyYHljpzI9F9N1gIrHC",
+      "playlist_name": "sid's 10 songs",
+      "playlist_owner": "Rich Sanda",
+      "category": "songs",
+      "dada_rank": 206,
+      "sydney_rank": 4
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1212,
+    "type": "picture",
+    "type_id": "828",
+    "timestamp": "2024-07-15T13:02:09",
+    "place": "Troy Road, Town of East Greenbush, Rensselaer County, New York, 12144, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "troy road",
+        "city": "east greenbush",
+        "county": "rensselaer county",
+        "state": "ny",
+        "postal": "12144"
+      }
+    },
+    "filename": "20240715_130208",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 382,
+    "type": "receipt",
+    "type_id": "83",
+    "timestamp": "2024-07-15T13:03",
+    "place": "310 Troy Rd and Rt 4, Rensselaer, NY 12144",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "310 troy rd and rt 4",
+        "city": "rensselaer",
+        "state": "ny",
+        "postal": "12144"
+      },
+      "date": "2024-07-15",
+      "time": "13:03",
+      "address": "310 Troy Rd and Rt 4, Rensselaer, NY 12144",
+      "items": [
+        {
+          "description": "2 Cheeseburgers, Medium-Large",
+          "price": 8.79
+        },
+        {
+          "description": "1 Medium Dr Pepper",
+          "price": 0
+        }
+      ],
+      "category": "restaurant",
+      "other_details": {
+        "survey_code": "22335-02130-71524-13033-00094-9",
+        "restaurant_number": "22335",
+        "tel_number": "518-283-3165",
+        "order_number": "13",
+        "subtotal": 8.79,
+        "tax": 0.7,
+        "takeout_total": 9.49,
+        "cash_tendered": 20.0,
+        "change": 10.51,
+        "problem_concern": "Please call 518-283-3165",
+        "rewards_program": "MyMcDonald's"
+      }
+    },
+    "filename": "20240902_104710",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 454,
+    "type": "picture",
+    "type_id": "70",
+    "timestamp": "2024-07-15T13:08:08",
+    "place": "600, North Greenbush Road, Defreestville, Town of East Greenbush, Town of North Greenbush, Rensselaer County, New York, 12144, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "600 north greenbush road",
+        "city": "defreestville",
+        "county": "rensselaer county",
+        "state": "ny",
+        "postal": "12144"
+      },
+      "caption": "birthday mcdonalds"
+    },
+    "filename": "20240715_130808",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 236,
+    "type": "map",
+    "type_id": "374",
+    "timestamp": "2024-07-15T13:20:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-15T13:20:00",
+      "end_timestamp": "2024-07-15T14:10:00",
+      "place": {
+        "address": "310 troy road",
+        "state": "ny"
+      },
+      "end_place": {
+        "address": "I-90",
+        "state": "ma"
+      },
+      "info": {
+        "duration": "49 minutes",
+        "distance": "52 mi",
+        "location": "310 Troy Road, New York -> I-90, Massachusetts",
+        "nearby": [
+          "Mechanicville",
+          "Troy",
+          "Albany",
+          "Bennington",
+          "North Adams",
+          "Adams",
+          "Pittsfield",
+          "Lenox",
+          "Great Barrington",
+          "Lee",
+          "Sheffield"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_165938_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1478,
+    "type": "picture",
+    "type_id": "1094",
+    "timestamp": "2024-07-15T13:47:28",
+    "place": "New York State Thruway Berkshire Connector, Town of Canaan, Columbia County, New York, 01266, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "new york state thruway berkshire connector",
+        "city": "canaan",
+        "county": "columbia county",
+        "state": "ny",
+        "postal": "01266"
+      },
+      "sign": "massachusetts welcomes you",
+      "note": ""
+    },
+    "filename": "20240715_134728",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1079,
+    "type": "picture",
+    "type_id": "695",
+    "timestamp": "2024-07-15T13:50:51",
+    "place": "Massachusetts Turnpike, Larrywaug, Stockbridge, Berkshire County, Massachusetts, 01229, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "massachusetts turnpike",
+        "city": "stockbridge",
+        "county": "berkshire county",
+        "state": "ma",
+        "postal": "01229"
+      },
+      "signs": "lee 8\nspringfield 50\nboston 132"
+    },
+    "filename": "20240715_135051",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 237,
+    "type": "map",
+    "type_id": "289",
+    "timestamp": "2024-07-15T14:14:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-15T14:14:00",
+      "end_timestamp": "2024-07-15T14:36:00",
+      "place": {
+        "address": "I-90",
+        "state": "ma"
+      },
+      "end_place": {
+        "address": "I-90",
+        "state": "ma"
+      },
+      "info": {
+        "duration": "22 minutes",
+        "distance": "19 mi",
+        "location": "I-90, Massachusetts -> I-90, Massachusetts",
+        "nearby": [
+          "Worthington",
+          "Chesterfield",
+          "Williamsburg",
+          "Chester",
+          "Westhampton",
+          "Easthampton",
+          "Huntington",
+          "Southampton",
+          "Russell",
+          "Blandford",
+          "Westfield",
+          "Granville",
+          "Tolland",
+          "Tunxis State Forest",
+          "Hartland",
+          "Suffield"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_165910_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 238,
+    "type": "map",
+    "type_id": "252",
+    "timestamp": "2024-07-15T14:38:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-15T14:38:00",
+      "end_timestamp": "2024-07-15T15:11:00",
+      "place": {
+        "address": "I-90",
+        "state": "ma"
+      },
+      "end_place": {
+        "address": "I-90",
+        "state": "ma"
+      },
+      "info": {
+        "duration": "32 minutes",
+        "distance": "23 mi",
+        "location": "I-90, Massachusetts -> I-90, Massachusetts",
+        "nearby": [
+          "Hadley",
+          "Northampton",
+          "Belchertown",
+          "Easthampton",
+          "Granby",
+          "Ware",
+          "Holyoke",
+          "Ludlow",
+          "Palmer",
+          "Chicopee",
+          "Springfield",
+          "Brimfield",
+          "Monson",
+          "Agawam",
+          "Hampden",
+          "Wales",
+          "Enfield",
+          "Suffield",
+          "Somers",
+          "Stafford"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_165844_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 239,
+    "type": "map",
+    "type_id": "201",
+    "timestamp": "2024-07-15T15:12:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-15T15:12:00",
+      "end_timestamp": "2024-07-15T16:17:00",
+      "place": {
+        "city": "taunton",
+        "state": "ma"
+      },
+      "end_place": {
+        "city": "narragansett",
+        "state": "ri"
+      },
+      "info": {
+        "duration": "1 hour, 4 minutes",
+        "distance": "67 mi",
+        "location": "I-90, Massachusetts -> I-495, Massachusetts",
+        "nearby": [
+          "Nashua",
+          "Lawrence",
+          "Lowell",
+          "Boston",
+          "Worcester",
+          "Framingham",
+          "Quincy",
+          "Taunton",
+          "Providence",
+          "Fall River",
+          "Warwick",
+          "Newport",
+          "Narragansett"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_165700_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2592,
+    "type": "picture",
+    "type_id": "2208",
+    "timestamp": "2024-07-15T15:32:20",
+    "place": "Massachusetts Turnpike, Auburn, Worcester County, Massachusetts, 01501, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "massachusetts turnpike",
+        "city": "auburn",
+        "county": "worcester county",
+        "state": "ma",
+        "postal": "01501"
+      }
+    },
+    "filename": "20240715_153220",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 915,
+    "type": "picture",
+    "type_id": "531",
+    "timestamp": "2024-07-15T16:06:51",
+    "place": "I 495, Franklin Industrial Park, Franklin, Norfolk County, Massachusetts, 02038, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 495 franklin industrial park",
+        "city": "franklin",
+        "county": "norfolk county",
+        "state": "ma",
+        "postal": "02038"
+      },
+      "signs": "wrentham 6\ntaunton 24\ncape cod 52"
+    },
+    "filename": "20240715_160651",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 240,
+    "type": "map",
+    "type_id": "282",
+    "timestamp": "2024-07-15T16:17:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-15T16:17:00",
+      "end_timestamp": "2024-07-15T17:24:00",
+      "place": {
+        "address": "I-495",
+        "state": "ma"
+      },
+      "end_place": {},
+      "info": {
+        "duration": "1 hour, 6 minutes",
+        "distance": "42 mi",
+        "location": "I-495, Massachusetts -> home",
+        "nearby": [
+          "Brockton",
+          "Bridgewater",
+          "Taunton",
+          "Fall River",
+          "Plymouth",
+          "Wareham"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_165645_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 863,
+    "type": "picture",
+    "type_id": "479",
+    "timestamp": "2024-07-15T16:17:03",
+    "place": "I 495, Norton Grove, Norton, Bristol County, Massachusetts, 02766, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 495 norton grove",
+        "city": "norton",
+        "county": "bristol county",
+        "state": "ma",
+        "postal": "02766"
+      },
+      "mpg": "24.7 mpg",
+      "note": "we were around 24.0 in the early going but fell to 23.7 or so somewhere along the way. hypermiled the last day 'cause what else was left to do ? 24.7 seemed impossible and was quite satisfying :)"
+    },
+    "filename": "20240715_161703",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1492,
+    "type": "picture",
+    "type_id": "1108",
+    "timestamp": "2024-07-15T16:57:32",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {},
+      "caption": "detour through plymouth -- the lobsters and birthday cake weren't ready !"
+    },
+    "filename": "20240715_165731",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1290,
+    "type": "picture",
+    "type_id": "906",
+    "timestamp": "2024-07-15T17:23:53",
+    "place": "20, Nottingham Drive, Kingston, Plymouth County, Massachusetts, 02364, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "20 nottingham drive",
+        "city": "kingston",
+        "county": "plymouth county",
+        "state": "ma",
+        "postal": "02364"
+      },
+      "miles": "7434.4 miles",
+      "note": "the end."
+    },
+    "filename": "20240715_172353",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  }
+]

@@ -1,0 +1,3255 @@
+[
+  {
+    "id": 2507,
+    "type": "picture",
+    "type_id": "2123",
+    "timestamp": "2024-07-02T06:51:04",
+    "place": "Comfort Inn West, 3900, West Superior Street, Duluth, Saint Louis County, Minnesota, 55807, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "3900 west superior street",
+        "city": "duluth",
+        "county": "saint louis county",
+        "state": "mn",
+        "postal": "55807"
+      }
+    },
+    "filename": "20240702_065101",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2301,
+    "type": "picture",
+    "type_id": "1917",
+    "timestamp": "2024-07-02T08:11:36",
+    "place": "Comfort Inn West, 3900, West Superior Street, Duluth, Saint Louis County, Minnesota, 55807, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "3900 west superior street",
+        "city": "duluth",
+        "county": "saint louis county",
+        "state": "mn",
+        "postal": "55807"
+      }
+    },
+    "filename": "20240702_081136",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1374,
+    "type": "picture",
+    "type_id": "990",
+    "timestamp": "2024-07-02T08:12:57",
+    "place": "Comfort Inn West, 3900, West Superior Street, Duluth, Saint Louis County, Minnesota, 55807, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "3900 west superior street",
+        "city": "duluth",
+        "county": "saint louis county",
+        "state": "mn",
+        "postal": "55807"
+      }
+    },
+    "filename": "20240702_081257",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1357,
+    "type": "picture",
+    "type_id": "973",
+    "timestamp": "2024-07-02T08:25:29",
+    "place": "Comfort Inn West, 3900, West Superior Street, Duluth, Saint Louis County, Minnesota, 55807, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "3900 west superior street",
+        "city": "duluth",
+        "county": "saint louis county",
+        "state": "mn",
+        "postal": "55807"
+      },
+      "miles": "1754.2 miles",
+      "note": "outside our duluth hotel the next morning"
+    },
+    "filename": "20240702_082528",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 62,
+    "type": "map",
+    "type_id": "274",
+    "timestamp": "2024-07-02T08:26:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-02T08:26:00",
+      "end_timestamp": "2024-07-02T09:29:00",
+      "place": {
+        "address": "80s 40th ave w",
+        "state": "mn"
+      },
+      "end_place": {
+        "address": "us hwy 2",
+        "state": "mn"
+      },
+      "info": {
+        "duration": "1 hour, 2 minutes",
+        "distance": "61 mi",
+        "location": "80 S 40th Ave W, Minnesota -> US Hwy 2, Minnesota",
+        "nearby": [
+          "Savanna State Forest",
+          "Cloquet Valley",
+          "Duluth",
+          "Cloquet",
+          "Esko",
+          "Superior",
+          "Moose Lake"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_211821_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2199,
+    "type": "picture",
+    "type_id": "1815",
+    "timestamp": "2024-07-02T08:44:00",
+    "place": "6893, US 2, Munger, Solway Township, Saint Louis County, Minnesota, 55779, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "6893 us 2",
+        "city": "munger",
+        "county": "solway township",
+        "state": "mn",
+        "postal": "55779"
+      },
+      "caption": "every good road trip needs one day fully dedicated to driving :) the beginning of the journey across minnesota is alpine and cloudy"
+    },
+    "filename": "20240702_084400",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 938,
+    "type": "picture",
+    "type_id": "554",
+    "timestamp": "2024-07-02T08:44:15",
+    "place": "6923, US 2, Munger, Solway Township, Saint Louis County, Minnesota, 55779, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "6923 us 2",
+        "city": "munger",
+        "county": "solway township",
+        "state": "mn",
+        "postal": "55779"
+      }
+    },
+    "filename": "20240702_084415",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 944,
+    "type": "picture",
+    "type_id": "560",
+    "timestamp": "2024-07-02T09:09:06",
+    "place": "241, United States Route 2, Floodwood, Saint Louis County, Minnesota, 55736, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "241 united states route 2",
+        "city": "floodwood",
+        "county": "saint louis county",
+        "state": "mn",
+        "postal": "55736"
+      }
+    },
+    "filename": "20240702_090905",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2422,
+    "type": "picture",
+    "type_id": "2038",
+    "timestamp": "2024-07-02T09:14:22",
+    "place": "12585, United States Route 2, Floodwood, Saint Louis County, Minnesota, 55736, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "12585 united states route 2",
+        "city": "floodwood",
+        "county": "saint louis county",
+        "state": "mn",
+        "postal": "55736"
+      }
+    },
+    "filename": "20240702_091422",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2209,
+    "type": "picture",
+    "type_id": "1825",
+    "timestamp": "2024-07-02T09:14:40",
+    "place": "12629, United States Route 2, Floodwood, Saint Louis County, Minnesota, 55736, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "12629 united states route 2",
+        "city": "floodwood",
+        "county": "saint louis county",
+        "state": "mn",
+        "postal": "55736"
+      }
+    },
+    "filename": "20240702_091439",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 827,
+    "type": "picture",
+    "type_id": "443",
+    "timestamp": "2024-07-02T09:18:57",
+    "place": "United States Route 2, Aitkin County, Minnesota, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "united states route 2",
+        "city": "",
+        "county": "aitkin county",
+        "state": "mn",
+        "postal": ""
+      }
+    },
+    "filename": "20240702_091857",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2381,
+    "type": "picture",
+    "type_id": "1997",
+    "timestamp": "2024-07-02T09:19:30",
+    "place": "United States Route 2, Aitkin County, Minnesota, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "united states route 2",
+        "city": "",
+        "county": "aitkin county",
+        "state": "mn",
+        "postal": ""
+      }
+    },
+    "filename": "20240702_091930",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1577,
+    "type": "picture",
+    "type_id": "1193",
+    "timestamp": "2024-07-02T09:20:49",
+    "place": "US 2, Warba, Itasca County, Minnesota, 55784, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2",
+        "city": "warba",
+        "county": "itasca county",
+        "state": "mn",
+        "postal": "55784"
+      },
+      "caption": "minnesota starts to open up, still cloudy though"
+    },
+    "filename": "20240702_092049",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 289,
+    "type": "receipt",
+    "type_id": "114",
+    "timestamp": "2024-07-02T09:29",
+    "place": "16282 US Highway 2, Swan River, MN 55784",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "16282 us highway 2",
+        "city": "swan river",
+        "state": "mn",
+        "postal": "55784"
+      },
+      "date": "2024-07-02",
+      "time": "09:29",
+      "address": "16282 US Highway 2, Swan River, MN 55784",
+      "items": [
+        {
+          "description": "Unleaded Economy Gas",
+          "quantity": 9.902,
+          "price": 31.18
+        }
+      ],
+      "category": "gas",
+      "other_details": {
+        "terminal_id": "00999004",
+        "batch_number": "20240701999",
+        "entry_method": "C",
+        "sequence_number": "5859",
+        "authorization_number": "004083",
+        "trace_number": "0906117927",
+        "stan": "11793445643",
+        "debit_card_number": "*************9725",
+        "aid": "A0000000042203",
+        "tvr": "8000048000",
+        "iad": "01TDAC0001220000000000000000000000FF",
+        "tsi": "6800",
+        "ac": "2FFE7B70CE8884A2",
+        "total": 31.18,
+        "cardholder_verified": true,
+        "pin_used": true,
+        "website": "www.luckysevengeneralstores.com",
+        "store_number": "24",
+        "cashier": "0",
+        "feedback_email": "feedback@eoctrimark.com",
+        "drive_number": "1",
+        "transaction_number": "9061179"
+      }
+    },
+    "filename": "20240902_094257",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 63,
+    "type": "map",
+    "type_id": "174",
+    "timestamp": "2024-07-02T09:29:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-02T09:29:00",
+      "end_timestamp": "2024-07-02T09:49:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "20 minutes",
+        "distance": "0 mi",
+        "location": "Near US Hwy 2, Minnesota",
+        "nearby": []
+      }
+    },
+    "filename": "Screenshot_20240726_211830_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 290,
+    "type": "receipt",
+    "type_id": "75",
+    "timestamp": "2024-07-02T09:31",
+    "place": "16282 US Highway 2, Swan River, MN 55784",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "16282 us highway 2",
+        "city": "swan river",
+        "state": "mn",
+        "postal": "55784"
+      },
+      "date": "2024-07-02",
+      "time": "09:31",
+      "address": "16282 US Highway 2, Swan River, MN 55784",
+      "items": [
+        {
+          "description": "GC LARGE CE",
+          "quantity": 1,
+          "amount": 7.49
+        }
+      ],
+      "category": "convenience",
+      "other_details": {
+        "merchant_id": "542930520589706",
+        "terminal_id": "00999004",
+        "batch_number": "20240701999",
+        "entry_method": "C",
+        "seo_number": "5861",
+        "approval_code": "491087",
+        "trace_number": "0102050928",
+        "stan": "11793445648",
+        "debit_number": "*************9725",
+        "aid": "A0000000042203",
+        "tvr": "8000048000",
+        "iad": "0110A00001220000000000000000000000FF",
+        "tsi": "6800",
+        "ac": "FF181060CC6FE9FC",
+        "total": 7.49,
+        "thank_you_message": "Thank You",
+        "customer_copy": "Customer Copy",
+        "employment_opportunities": "www.luckysevengeneralstores.com",
+        "store_number": "24",
+        "cashier_number": "4",
+        "feedback_email": "feedback@eoctrimark.com",
+        "drive_number": "1",
+        "transaction_number": "1020509"
+      }
+    },
+    "filename": "20240902_094509",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 64,
+    "type": "map",
+    "type_id": "354",
+    "timestamp": "2024-07-02T09:49:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-02T09:49:00",
+      "end_timestamp": "2024-07-02T11:31:00",
+      "place": {
+        "address": "us-2"
+      },
+      "end_place": {
+        "address": "jones townhall road northwest"
+      },
+      "info": {
+        "duration": "1 hour, 41 minutes",
+        "distance": "97 mi",
+        "location": "U.S. 2 -> Jones Townhall Road Northwest",
+        "nearby": [
+          "RED LAKE RESERVATION",
+          "Grand Rapids"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_194209_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1158,
+    "type": "picture",
+    "type_id": "774",
+    "timestamp": "2024-07-02T09:52:15",
+    "place": "US 2, Warba, Itasca County, Minnesota, 55744, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2",
+        "city": "warba",
+        "county": "itasca county",
+        "state": "mn",
+        "postal": "55744"
+      },
+      "signs": "grand rapids 14\nbemidji 83"
+    },
+    "filename": "20240702_095215",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2655,
+    "type": "story",
+    "type_id": "486",
+    "timestamp": "2024-07-02T10:04:34",
+    "place": null,
+    "description": "songs: good luck, babe! -- chappell roan",
+    "data": {
+      "id": 207,
+      "artist_name": "Chappell Roan",
+      "song_name": "Good Luck, Babe!",
+      "image_link": "https://i.scdn.co/image/ab67616d0000b27391b4bc7c88d91a42e0f3a8b7",
+      "song_link": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu",
+      "ordinal": null,
+      "spotify_id": "0WbMK4wrZ1wFSty9F7FCgu",
+      "added_at": "2024-07-02T15:04:34Z",
+      "playlist_id": "4cbtSLSi3GIDQI6s62Opjs",
+      "playlist_name": "roadtrip playlist",
+      "playlist_owner": "Sydney",
+      "category": "songs",
+      "dada_rank": 207,
+      "sydney_rank": 5,
+      "spotify_add": true
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2412,
+    "type": "picture",
+    "type_id": "2028",
+    "timestamp": "2024-07-02T10:05:46",
+    "place": "US 2, Huhn Addition Mobile Home Court, Grand Rapids, Itasca County, Minnesota, 55744, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2 huhn addition mobile home court",
+        "city": "grand rapids",
+        "county": "itasca county",
+        "state": "mn",
+        "postal": "55744"
+      },
+      "signs": "us-2 & us-169"
+    },
+    "filename": "20240702_100545",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1418,
+    "type": "picture",
+    "type_id": "1034",
+    "timestamp": "2024-07-02T10:07:40",
+    "place": "253, Northwest 4th Street, Grand Rapids, Itasca County, Minnesota, 55744, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "253 northwest 4th street",
+        "city": "grand rapids",
+        "county": "itasca county",
+        "state": "mn",
+        "postal": "55744"
+      }
+    },
+    "filename": "20240702_100740",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2517,
+    "type": "picture",
+    "type_id": "2133",
+    "timestamp": "2024-07-02T10:14:21",
+    "place": "636, US 2, Cohasset, Itasca County, Minnesota, 55721, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "636 us 2",
+        "city": "cohasset",
+        "county": "itasca county",
+        "state": "mn",
+        "postal": "55721"
+      },
+      "signs": "mn-6 4\nbemidji 63"
+    },
+    "filename": "20240702_101421",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2656,
+    "type": "story",
+    "type_id": "489",
+    "timestamp": "2024-07-02T10:14:54",
+    "place": null,
+    "description": "songs: sweater weather -- the neighbourhood",
+    "data": {
+      "id": 210,
+      "artist_name": "The Neighbourhood",
+      "song_name": "Sweater Weather",
+      "image_link": "https://i.scdn.co/image/ab67616d0000b2738265a736a1eb838ad5a0b921",
+      "song_link": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6",
+      "ordinal": null,
+      "spotify_id": "2QjOHCTQ1Jl3zawyYOpxh6",
+      "added_at": "2024-07-02T15:14:54Z",
+      "playlist_id": "4cbtSLSi3GIDQI6s62Opjs",
+      "playlist_name": "roadtrip playlist",
+      "playlist_owner": "Sydney",
+      "category": "songs",
+      "dada_rank": 210,
+      "sydney_rank": 1,
+      "spotify_add": true
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1486,
+    "type": "picture",
+    "type_id": "1102",
+    "timestamp": "2024-07-02T10:48:51",
+    "place": "Big Winnie General Store, US 2;IC B, Cass County, Minnesota, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "big winnie general store",
+        "city": "",
+        "county": "cass county",
+        "state": "mn",
+        "postal": ""
+      }
+    },
+    "filename": "20240702_104851",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 489,
+    "type": "picture",
+    "type_id": "105",
+    "timestamp": "2024-07-02T11:00:24",
+    "place": "US 2, Schley, Cass County, Minnesota, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2",
+        "city": "schley",
+        "county": "cass county",
+        "state": "mn",
+        "postal": ""
+      }
+    },
+    "filename": "20240702_110024",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 291,
+    "type": "receipt",
+    "type_id": "9",
+    "timestamp": "2024-07-02T11:36",
+    "place": "4895 Jones Townhall Rd NW, Solway, MN 56678",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "4895 jones townhall rd nw",
+        "city": "solway",
+        "state": "mn",
+        "postal": "56678"
+      },
+      "date": "2024-07-02",
+      "time": "11:36",
+      "address": "4895 Jones Townhall Rd NW, Solway, MN 56678",
+      "items": [
+        {
+          "description": "Diet Pepsi 12 pk",
+          "price": "$8.49"
+        },
+        {
+          "description": "Airhead Extremes",
+          "price": "$2.69"
+        },
+        {
+          "description": "Barcel Takis Fuego",
+          "price": "$2.69"
+        },
+        {
+          "description": "Assorted Fabric Bandages",
+          "price": "$2.59"
+        }
+      ],
+      "category": "groceries",
+      "total": "$17.35",
+      "payment_method": "debit",
+      "card_number": "XXXXXXXXXXXX9725",
+      "invoice_number": "07260150",
+      "authorization_code": "462208",
+      "trace_number": "384533",
+      "transaction_type": "sale",
+      "pin_verified": true
+    },
+    "filename": "20240902_095536",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1077,
+    "type": "picture",
+    "type_id": "693",
+    "timestamp": "2024-07-02T11:37:11",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {},
+      "caption": "the staples"
+    },
+    "filename": "20240702_113710",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 65,
+    "type": "map",
+    "type_id": "146",
+    "timestamp": "2024-07-02T11:42:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-02T11:42:00",
+      "end_timestamp": "2024-07-02T13:13:00",
+      "place": {
+        "address": "tom jefferson drive northwest"
+      },
+      "end_place": {
+        "address": "us-2/mn-220",
+        "state": "mn"
+      },
+      "info": {
+        "duration": "1 hour, 30 minutes",
+        "distance": "97 mi",
+        "location": "Tom Jefferson Drive Northwest, Minnesota -> US-2/MN-220, Minnesota",
+        "nearby": [
+          "Grand Forks",
+          "Crookston",
+          "Fargo",
+          "Thief River Falls",
+          "Red Lake Reservation",
+          "White Earth Reservation",
+          "Detroit Lakes"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_211852_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1417,
+    "type": "picture",
+    "type_id": "1033",
+    "timestamp": "2024-07-02T11:59:54",
+    "place": "US 2, Clearwater County, Minnesota, 56621, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2",
+        "city": "",
+        "county": "clearwater county",
+        "state": "mn",
+        "postal": "56621"
+      }
+    },
+    "filename": "20240702_115954",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 467,
+    "type": "picture",
+    "type_id": "83",
+    "timestamp": "2024-07-02T12:11:12",
+    "place": "119, 1st Street East, West View Court, Fosston, Polk County, Minnesota, 56542, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "119 1st street east",
+        "city": "fosston",
+        "county": "polk county",
+        "state": "mn",
+        "postal": "56542"
+      }
+    },
+    "filename": "20240702_121112",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2078,
+    "type": "picture",
+    "type_id": "1694",
+    "timestamp": "2024-07-02T12:22:34",
+    "place": "22527, US 2, Bartz Mobile Home Park, McIntosh, Polk County, Minnesota, 56535, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "22527 us 2",
+        "city": "mcintosh",
+        "county": "polk county",
+        "state": "mn",
+        "postal": "56535"
+      },
+      "signs": "erskine 3/4\nmn-32 15\ncrookston 31"
+    },
+    "filename": "20240702_122234",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2353,
+    "type": "picture",
+    "type_id": "1969",
+    "timestamp": "2024-07-02T12:33:20",
+    "place": "12303, US 2, Marcoux, Mentor, Polk County, Minnesota, 56736, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "12303 us 2",
+        "city": "mentor",
+        "county": "polk county",
+        "state": "mn",
+        "postal": "56736"
+      },
+      "caption": "flattening out and getting nicer out"
+    },
+    "filename": "20240702_123320",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1792,
+    "type": "picture",
+    "type_id": "1408",
+    "timestamp": "2024-07-02T12:41:15",
+    "place": "US 2, Marcoux, Mentor, Polk County, Minnesota, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2 marcoux",
+        "city": "mentor",
+        "county": "polk county",
+        "state": "mn",
+        "postal": ""
+      }
+    },
+    "filename": "20240702_124115",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1728,
+    "type": "picture",
+    "type_id": "1344",
+    "timestamp": "2024-07-02T12:42:51",
+    "place": "19555, US 2, Marcoux, Mentor, Polk County, Minnesota, 56716, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "19555 us 2",
+        "city": "mentor",
+        "county": "polk county",
+        "state": "mn",
+        "postal": "56716"
+      }
+    },
+    "filename": "20240702_124251",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2561,
+    "type": "picture",
+    "type_id": "2177",
+    "timestamp": "2024-07-02T12:42:57",
+    "place": "19565, US 2, Marcoux, Mentor, Polk County, Minnesota, 56716, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "19565 us 2",
+        "city": "mentor",
+        "county": "polk county",
+        "state": "mn",
+        "postal": "56716"
+      }
+    },
+    "filename": "20240702_124256",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2537,
+    "type": "picture",
+    "type_id": "2153",
+    "timestamp": "2024-07-02T12:49:15",
+    "place": "262, East Robert Street, Crookston, Polk County, Minnesota, 56716, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "262 east robert street",
+        "city": "crookston",
+        "county": "polk county",
+        "state": "mn",
+        "postal": "56716"
+      },
+      "signs": "red lake river"
+    },
+    "filename": "20240702_124915",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2019,
+    "type": "picture",
+    "type_id": "1635",
+    "timestamp": "2024-07-02T12:49:34",
+    "place": "169, East Robert Street, Crookston, Polk County, Minnesota, 56716, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "169 east robert street",
+        "city": "crookston",
+        "county": "polk county",
+        "state": "mn",
+        "postal": "56716"
+      },
+      "caption": "welcome, crookston"
+    },
+    "filename": "20240702_124933",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2554,
+    "type": "picture",
+    "type_id": "2170",
+    "timestamp": "2024-07-02T12:49:43",
+    "place": "115, East Robert Street, Crookston, Polk County, Minnesota, 56716, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "115 east robert street",
+        "city": "crookston",
+        "county": "polk county",
+        "state": "mn",
+        "postal": "56716"
+      }
+    },
+    "filename": "20240702_124942",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1616,
+    "type": "picture",
+    "type_id": "1232",
+    "timestamp": "2024-07-02T12:49:49",
+    "place": "101, East Robert Street, Crookston, Polk County, Minnesota, 56716, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "101 east robert street",
+        "city": "crookston",
+        "county": "polk county",
+        "state": "mn",
+        "postal": "56716"
+      }
+    },
+    "filename": "20240702_124949",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2535,
+    "type": "picture",
+    "type_id": "2151",
+    "timestamp": "2024-07-02T12:52:58",
+    "place": "Dairy Queen, 1740, University Avenue, Noyes Junction, Crookston, Polk County, Minnesota, 56716, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1740 university avenue",
+        "city": "crookston",
+        "county": "polk county",
+        "state": "mn",
+        "postal": "56716"
+      }
+    },
+    "filename": "20240702_125257",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 782,
+    "type": "picture",
+    "type_id": "398",
+    "timestamp": "2024-07-02T12:55:36",
+    "place": "US-2, Fisher, Polk County, Minnesota, 56723, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us-2",
+        "city": "fisher",
+        "county": "polk county",
+        "state": "mn",
+        "postal": "56723"
+      },
+      "signs": "fisher 8\neast grand forks 21"
+    },
+    "filename": "20240702_125536",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2132,
+    "type": "picture",
+    "type_id": "1748",
+    "timestamp": "2024-07-02T12:59:42",
+    "place": "US-2, Fisher, Polk County, Minnesota, 56723, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us-2",
+        "city": "fisher",
+        "county": "polk county",
+        "state": "mn",
+        "postal": "56723"
+      }
+    },
+    "filename": "20240702_125942",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2114,
+    "type": "picture",
+    "type_id": "1730",
+    "timestamp": "2024-07-02T12:59:54",
+    "place": "US-2, Fisher, Polk County, Minnesota, 56723, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us-2",
+        "city": "fisher",
+        "county": "polk county",
+        "state": "mn",
+        "postal": "56723"
+      }
+    },
+    "filename": "20240702_125954",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 452,
+    "type": "picture",
+    "type_id": "68",
+    "timestamp": "2024-07-02T13:00:01",
+    "place": "US-2, Fisher, Polk County, Minnesota, 56723, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us-2",
+        "city": "fisher",
+        "county": "polk county",
+        "state": "mn",
+        "postal": "56723"
+      },
+      "caption": "the first time sid really fell asleep in the car was on our first full-fledged driving day, preparing to cross the red river from minnesota into north dakota"
+    },
+    "filename": "20240702_130001",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 292,
+    "type": "receipt",
+    "type_id": "27",
+    "timestamp": "2024-07-02T13:02",
+    "place": "3635 Gateway Dr, Grand Forks, ND 58203",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "3635 gateway dr",
+        "city": "grand forks",
+        "state": "nd",
+        "postal": "58203"
+      },
+      "date": "2024-07-02",
+      "time": "13:02",
+      "address": "3635 Gateway Dr, Grand Forks, ND 58203",
+      "items": [
+        {
+          "description": "Unleaded Gas",
+          "quantity": 10.059,
+          "price": 3.299,
+          "total": 33.18
+        }
+      ],
+      "category": "gas",
+      "payment": {
+        "method": "MasterCard",
+        "card_number": "*****9725",
+        "authorization_number": "004086",
+        "response_code": "00",
+        "stan": "1008857415"
+      },
+      "site_id": "VV1078988764201"
+    },
+    "filename": "20240902_100413",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1877,
+    "type": "picture",
+    "type_id": "1493",
+    "timestamp": "2024-07-02T13:02:13",
+    "place": "US-2, Fisher, Polk County, Minnesota, 56723, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us-2",
+        "city": "fisher",
+        "county": "polk county",
+        "state": "mn",
+        "postal": "56723"
+      },
+      "miles": "2000.0 miles",
+      "note": ""
+    },
+    "filename": "20240702_130213",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2689,
+    "type": "story",
+    "type_id": "281",
+    "timestamp": "2024-07-02T13:10",
+    "place": null,
+    "description": "songs: complicit -- the weather station\n\ntime: 13:10",
+    "data": {
+      "id": 2,
+      "artist_name": "The Weather Station",
+      "song_name": "Complicit",
+      "image_link": "https://i.scdn.co/image/ab67616d0000b273b21d797800e56bcdbee20476",
+      "song_link": "https://open.spotify.com/track/2jHFkaWfr0UlmOiJ8Bsiyj",
+      "ordinal": 2,
+      "spotify_id": "2jHFkaWfr0UlmOiJ8Bsiyj",
+      "added_at": "2024-06-10T19:46:11Z",
+      "playlist_id": "41vG11QGXrrIfdsE6cy6Sz",
+      "playlist_name": "jun-10-2024",
+      "playlist_owner": "Rich Sanda",
+      "category": "songs",
+      "dada_rank": 2,
+      "sydney_rank": 24
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 435,
+    "type": "picture",
+    "type_id": "51",
+    "timestamp": "2024-07-02T13:12:17",
+    "place": "US-2/MN-220, Polk County, Minnesota, 56721, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us-2/mn-220",
+        "city": "",
+        "county": "polk county",
+        "state": "mn",
+        "postal": "56721"
+      }
+    },
+    "filename": "20240702_131217",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 66,
+    "type": "map",
+    "type_id": "210",
+    "timestamp": "2024-07-02T13:13:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-02T13:13:00",
+      "end_timestamp": "2024-07-02T14:53:00",
+      "place": {
+        "address": "us-2/mn-220",
+        "state": "mn"
+      },
+      "end_place": {
+        "address": "83rd ave ne",
+        "state": "nd"
+      },
+      "info": {
+        "duration": "1 hour, 39 minutes",
+        "distance": "93 mi",
+        "location": "US-2/MN-220, Minnesota -> 83rd Ave NE, North Dakota",
+        "nearby": [
+          "Devil Lake",
+          "Grafton",
+          "Grand Forks",
+          "Spirit Lake Reservation"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_211902_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 836,
+    "type": "picture",
+    "type_id": "452",
+    "timestamp": "2024-07-02T13:15:56",
+    "place": "Subway, 210, Gateway Drive Northeast, East Grand Forks, Polk County, Minnesota, 56721, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "210 gateway drive northeast",
+        "city": "east grand forks",
+        "county": "polk county",
+        "state": "mn",
+        "postal": "56721"
+      }
+    },
+    "filename": "20240702_131555",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2191,
+    "type": "picture",
+    "type_id": "1807",
+    "timestamp": "2024-07-02T13:17:16",
+    "place": "John F. Kennedy Memorial Bridge, Gateway Drive Northwest, East Grand Forks, Polk County, Minnesota, 56721, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "john f kennedy memorial bridge, gateway drive northwest",
+        "city": "east grand forks",
+        "county": "polk county",
+        "state": "mn",
+        "postal": "56721"
+      },
+      "sign": "welcome to north dakota",
+      "note": "be legendary"
+    },
+    "filename": "20240702_131716",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2000,
+    "type": "picture",
+    "type_id": "1616",
+    "timestamp": "2024-07-02T13:20:35",
+    "place": "The Toasted Frog, 123, North 3rd Street, Downtown Grand Forks, Grand Forks, Grand Forks County, North Dakota, 58203, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "123 north 3rd street",
+        "city": "grand forks",
+        "county": "grand forks county",
+        "state": "nd",
+        "postal": "58203"
+      }
+    },
+    "filename": "20240702_132035",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1008,
+    "type": "picture",
+    "type_id": "624",
+    "timestamp": "2024-07-02T13:21:32",
+    "place": "Caulfield Studios, 13, North 3rd Street, Downtown Grand Forks, Grand Forks, Grand Forks County, North Dakota, 58203, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "13 north 3rd street",
+        "city": "grand forks",
+        "county": "grand forks county",
+        "state": "nd",
+        "postal": "58203"
+      },
+      "caption": "the park i visited on the winnipeg -> austin leg of my big solo road trip in 2008"
+    },
+    "filename": "20240702_132132",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1544,
+    "type": "picture",
+    "type_id": "1160",
+    "timestamp": "2024-07-02T13:24:09",
+    "place": "416, DeMers Avenue, Downtown Grand Forks, Grand Forks, Grand Forks County, North Dakota, 58201, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "416 demers avenue",
+        "city": "grand forks",
+        "county": "grand forks county",
+        "state": "nd",
+        "postal": "58201"
+      }
+    },
+    "filename": "20240702_132409",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2465,
+    "type": "picture",
+    "type_id": "2081",
+    "timestamp": "2024-07-02T13:25:00",
+    "place": "102, North 5th Street, Downtown Grand Forks, Grand Forks, Grand Forks County, North Dakota, 58203, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "102 north 5th street",
+        "city": "grand forks",
+        "county": "grand forks county",
+        "state": "nd",
+        "postal": "58203"
+      }
+    },
+    "filename": "20240702_132459",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2452,
+    "type": "picture",
+    "type_id": "2068",
+    "timestamp": "2024-07-02T13:27:31",
+    "place": "Valley Dairy, 1207, North 5th Street, Grand Forks, Grand Forks County, North Dakota, 58203, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1207 north 5th street",
+        "city": "grand forks",
+        "county": "grand forks county",
+        "state": "nd",
+        "postal": "58203"
+      }
+    },
+    "filename": "20240702_132731",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1249,
+    "type": "picture",
+    "type_id": "865",
+    "timestamp": "2024-07-02T13:40:29",
+    "place": "Loaf 'N Jug, 4326, Gateway Drive, Grand Forks, Grand Forks County, North Dakota, 58203, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "loaf 'n jug, 4326 gateway drive",
+        "city": "grand forks",
+        "county": "grand forks county",
+        "state": "nd",
+        "postal": "58203"
+      },
+      "signs": "us-2 devils lake\ni-29, us-81 fargo\ni-29, us-81 winnipeg"
+    },
+    "filename": "20240702_134029",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 461,
+    "type": "picture",
+    "type_id": "77",
+    "timestamp": "2024-07-02T14:10:08",
+    "place": "US 2, Shawnee, Grand Forks County, North Dakota, 58266, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2",
+        "city": "shawnee",
+        "county": "grand forks county",
+        "state": "nd",
+        "postal": "58266"
+      }
+    },
+    "filename": "20240702_141007",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 414,
+    "type": "picture",
+    "type_id": "30",
+    "timestamp": "2024-07-02T15:03:42",
+    "place": "4th Avenue Northeast, Devils Lake, Ramsey County, North Dakota, 58301, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "4th avenue northeast",
+        "city": "devils lake",
+        "county": "ramsey county",
+        "state": "nd",
+        "postal": "58301"
+      }
+    },
+    "filename": "20240702_150342",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1608,
+    "type": "picture",
+    "type_id": "1224",
+    "timestamp": "2024-07-02T15:05:37",
+    "place": "Lotta's: Bar, 410, 4th Avenue Northeast, Devils Lake, Ramsey County, North Dakota, 58301, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "410 4th avenue northeast",
+        "city": "devils lake",
+        "county": "ramsey county",
+        "state": "nd",
+        "postal": "58301"
+      }
+    },
+    "filename": "20240702_150537",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1881,
+    "type": "picture",
+    "type_id": "1497",
+    "timestamp": "2024-07-02T15:05:41",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240702_150541",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2502,
+    "type": "picture",
+    "type_id": "2118",
+    "timestamp": "2024-07-02T15:06:04",
+    "place": "Lotta's: Bar, 410, 4th Avenue Northeast, Devils Lake, Ramsey County, North Dakota, 58301, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "410 4th avenue northeast",
+        "city": "devils lake",
+        "county": "ramsey county",
+        "state": "nd",
+        "postal": "58301"
+      }
+    },
+    "filename": "20240702_150603",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2159,
+    "type": "picture",
+    "type_id": "1775",
+    "timestamp": "2024-07-02T15:06:14",
+    "place": "Lotta's: Bar, 410, 4th Avenue Northeast, Devils Lake, Ramsey County, North Dakota, 58301, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "410 4th avenue northeast",
+        "city": "devils lake",
+        "county": "ramsey county",
+        "state": "nd",
+        "postal": "58301"
+      }
+    },
+    "filename": "20240702_150614",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2194,
+    "type": "picture",
+    "type_id": "1810",
+    "timestamp": "2024-07-02T15:07:10",
+    "place": "Hoiberg's Office Supply and Printing Centre, 407, 4th Street Northeast, Devils Lake, Ramsey County, North Dakota, 58301, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "407 4th street northeast",
+        "city": "devils lake",
+        "county": "ramsey county",
+        "state": "nd",
+        "postal": "58301"
+      }
+    },
+    "filename": "20240702_150710",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1776,
+    "type": "picture",
+    "type_id": "1392",
+    "timestamp": "2024-07-02T15:07:16",
+    "place": "Hoiberg's Office Supply and Printing Centre, 407, 4th Street Northeast, Devils Lake, Ramsey County, North Dakota, 58301, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "407 4th street northeast",
+        "city": "devils lake",
+        "county": "ramsey county",
+        "state": "nd",
+        "postal": "58301"
+      }
+    },
+    "filename": "20240702_150716",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1074,
+    "type": "picture",
+    "type_id": "690",
+    "timestamp": "2024-07-02T15:07:23",
+    "place": "Hoiberg's Office Supply and Printing Centre, 407, 4th Street Northeast, Devils Lake, Ramsey County, North Dakota, 58301, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "407 4th street northeast",
+        "city": "devils lake",
+        "county": "ramsey county",
+        "state": "nd",
+        "postal": "58301"
+      }
+    },
+    "filename": "20240702_150722",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 734,
+    "type": "picture",
+    "type_id": "350",
+    "timestamp": "2024-07-02T15:07:26",
+    "place": "Hoiberg's Office Supply and Printing Centre, 407, 4th Street Northeast, Devils Lake, Ramsey County, North Dakota, 58301, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "407 4th street northeast",
+        "city": "devils lake",
+        "county": "ramsey county",
+        "state": "nd",
+        "postal": "58301"
+      }
+    },
+    "filename": "20240702_150725",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2690,
+    "type": "story",
+    "type_id": "67",
+    "timestamp": "2024-07-02T15:15",
+    "place": null,
+    "description": "treats: devils lake ice cream\ntime: 14:30\ntime: 15:15",
+    "data": {
+      "category": "treats",
+      "dada_rank": 9,
+      "sydney_rank": 10
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1369,
+    "type": "picture",
+    "type_id": "985",
+    "timestamp": "2024-07-02T15:21:14",
+    "place": "Hoiberg's Office Supply and Printing Centre, 407, 4th Street Northeast, Devils Lake, Ramsey County, North Dakota, 58301, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "407 4th street northeast",
+        "city": "devils lake",
+        "county": "ramsey county",
+        "state": "nd",
+        "postal": "58301"
+      }
+    },
+    "filename": "20240702_152114",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1827,
+    "type": "picture",
+    "type_id": "1443",
+    "timestamp": "2024-07-02T15:21:16",
+    "place": "Hoiberg's Office Supply and Printing Centre, 407, 4th Street Northeast, Devils Lake, Ramsey County, North Dakota, 58301, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "407 4th street northeast",
+        "city": "devils lake",
+        "county": "ramsey county",
+        "state": "nd",
+        "postal": "58301"
+      }
+    },
+    "filename": "20240702_152116",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 67,
+    "type": "map",
+    "type_id": "229",
+    "timestamp": "2024-07-02T15:23:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-02T15:23:00",
+      "end_timestamp": "2024-07-02T17:30:00",
+      "place": {
+        "address": "4th avenue northeast",
+        "state": "nd"
+      },
+      "end_place": {
+        "address": "burdick expressway west",
+        "state": "nd"
+      },
+      "info": {
+        "duration": "2 hours, 7 minutes",
+        "distance": "120 mi",
+        "location": "4th Avenue Northeast, North Dakota -> Burdick Expressway West, North Dakota",
+        "nearby": [
+          "Souris",
+          "Boissevain",
+          "Bottineau",
+          "Belcourt",
+          "Minot AFB",
+          "Rugby",
+          "Velva",
+          "Devils Lake",
+          "Spirit Lake Reservation",
+          "Harvey",
+          "Washburn",
+          "Carrington",
+          "New Salem",
+          "Bismarck"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_211921_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 962,
+    "type": "picture",
+    "type_id": "578",
+    "timestamp": "2024-07-02T15:24:08",
+    "place": "Hoiberg's Office Supply and Printing Centre, 407, 4th Street Northeast, Devils Lake, Ramsey County, North Dakota, 58301, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "407 4th street northeast",
+        "city": "devils lake",
+        "county": "ramsey county",
+        "state": "nd",
+        "postal": "58301"
+      }
+    },
+    "filename": "20240702_152407",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1332,
+    "type": "picture",
+    "type_id": "948",
+    "timestamp": "2024-07-02T15:28:56",
+    "place": "Hoiberg's Office Supply and Printing Centre, 407, 4th Street Northeast, Devils Lake, Ramsey County, North Dakota, 58301, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "407 4th street northeast",
+        "city": "devils lake",
+        "county": "ramsey county",
+        "state": "nd",
+        "postal": "58301"
+      },
+      "caption": "historic fourth and fourth"
+    },
+    "filename": "20240702_152856",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1284,
+    "type": "picture",
+    "type_id": "900",
+    "timestamp": "2024-07-02T15:34:41",
+    "place": "Highway 2 West, Devils Lake, Ramsey County, North Dakota, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "highway 2 west",
+        "city": "devils lake",
+        "county": "ramsey county",
+        "state": "nd",
+        "postal": ""
+      },
+      "signs": "rugby 58\nminot 122"
+    },
+    "filename": "20240702_153441",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 628,
+    "type": "picture",
+    "type_id": "244",
+    "timestamp": "2024-07-02T15:42:25",
+    "place": "Highway 2 West, Penn, Grand Harbor, Ramsey County, North Dakota, 58362, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "highway 2 west",
+        "city": "penn",
+        "county": "ramsey county",
+        "state": "nd",
+        "postal": "58362"
+      }
+    },
+    "filename": "20240702_154225",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2076,
+    "type": "picture",
+    "type_id": "1692",
+    "timestamp": "2024-07-02T16:09:44",
+    "place": "US 2, Knox, Benson County, North Dakota, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2",
+        "city": "knox",
+        "county": "benson county",
+        "state": "nd",
+        "postal": ""
+      }
+    },
+    "filename": "20240702_160944",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1137,
+    "type": "picture",
+    "type_id": "753",
+    "timestamp": "2024-07-02T16:09:47",
+    "place": "US 2, Knox, Benson County, North Dakota, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2",
+        "city": "knox",
+        "county": "benson county",
+        "state": "nd",
+        "postal": ""
+      }
+    },
+    "filename": "20240702_160947",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1447,
+    "type": "picture",
+    "type_id": "1063",
+    "timestamp": "2024-07-02T16:09:50",
+    "place": "US 2, Knox, Benson County, North Dakota, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2",
+        "city": "knox",
+        "county": "benson county",
+        "state": "nd",
+        "postal": ""
+      }
+    },
+    "filename": "20240702_160950",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2311,
+    "type": "picture",
+    "type_id": "1927",
+    "timestamp": "2024-07-02T16:18:12",
+    "place": "3223, US 2, Pierce County, North Dakota, 58368, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "3223 us 2",
+        "city": "",
+        "county": "pierce county",
+        "state": "nd",
+        "postal": "58368"
+      },
+      "caption": "couldn't tell if the crop tops were actually that color or if they were yellow turned green by the filtered stems. later asked a local what these plants were but couldn't adequately enough describe them to elicit a confident answer"
+    },
+    "filename": "20240702_161811",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 847,
+    "type": "picture",
+    "type_id": "463",
+    "timestamp": "2024-07-02T16:22:49",
+    "place": "Rugby, Pierce County, North Dakota, 58368, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "rugby",
+        "city": "rugby",
+        "county": "pierce county",
+        "state": "nd",
+        "postal": "58368"
+      },
+      "caption": "the geographical center of north america, recalling the city labeled the heart of the continent -- winnipeg -- which i suppose isn't too far from here in the scheme of things"
+    },
+    "filename": "20240702_162249",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2289,
+    "type": "picture",
+    "type_id": "1905",
+    "timestamp": "2024-07-02T16:27:12",
+    "place": "Anytime Fitness, US 2, Rugby, Pierce County, North Dakota, 58368, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "anytime fitness, us 2",
+        "city": "rugby",
+        "county": "pierce county",
+        "state": "nd",
+        "postal": "58368"
+      }
+    },
+    "filename": "20240702_162712",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2335,
+    "type": "picture",
+    "type_id": "1951",
+    "timestamp": "2024-07-02T16:27:29",
+    "place": "Geographical Center of North America, US 2, Rugby, Pierce County, North Dakota, 58368, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "geographical center of north america",
+        "city": "rugby",
+        "county": "pierce county",
+        "state": "nd",
+        "postal": "58368"
+      }
+    },
+    "filename": "20240702_162728",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1751,
+    "type": "picture",
+    "type_id": "1367",
+    "timestamp": "2024-07-02T16:27:34",
+    "place": "Geographical Center of North America, US 2, Rugby, Pierce County, North Dakota, 58368, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "geographical center of north america",
+        "city": "rugby",
+        "county": "pierce county",
+        "state": "nd",
+        "postal": "58368"
+      }
+    },
+    "filename": "20240702_162734",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 902,
+    "type": "picture",
+    "type_id": "518",
+    "timestamp": "2024-07-02T16:28:22",
+    "place": "Geographical Center of North America, US 2, Rugby, Pierce County, North Dakota, 58368, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "geographical center of north america, us 2",
+        "city": "rugby",
+        "county": "pierce county",
+        "state": "nd",
+        "postal": "58368"
+      }
+    },
+    "filename": "20240702_162822",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2691,
+    "type": "story",
+    "type_id": "23",
+    "timestamp": "2024-07-02T16:29",
+    "place": null,
+    "description": "attractions: geographic center\n\ntime: 16:29",
+    "data": {
+      "category": "attractions",
+      "dada_rank": 14,
+      "sydney_rank": 8
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 648,
+    "type": "picture",
+    "type_id": "264",
+    "timestamp": "2024-07-02T16:30:05",
+    "place": "3rd Avenue Southwest, Rugby, Pierce County, North Dakota, 58368, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "3rd avenue southwest",
+        "city": "rugby",
+        "county": "pierce county",
+        "state": "nd",
+        "postal": "58368"
+      },
+      "signs": "dunseith\nminot\ndevils lake"
+    },
+    "filename": "20240702_163005",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 989,
+    "type": "picture",
+    "type_id": "605",
+    "timestamp": "2024-07-02T16:51:15",
+    "place": "62nd Street Northeast, Denbigh, McHenry County, North Dakota, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "62nd street northeast",
+        "city": "denbigh",
+        "county": "mchenry county",
+        "state": "nd",
+        "postal": ""
+      }
+    },
+    "filename": "20240702_165114",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 247,
+    "type": "shazam",
+    "type_id": "17",
+    "timestamp": "2024-07-02T17:04:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "title": "Hands Across The Sea",
+      "artist": "Modern English",
+      "link": "https://www.shazam.com/track/43126889/hands-across-the-sea",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music/f2/90/27/mzi.gpvxzliw.jpg/400x400cc.jpg"
+    },
+    "filename": "https://is1-ssl.mzstatic.com/image/thumb/Music/f2/90/27/mzi.gpvxzliw.jpg/400x400cc.jpg",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2276,
+    "type": "picture",
+    "type_id": "1892",
+    "timestamp": "2024-07-02T17:08:10",
+    "place": "57th Street North, Denbigh, Norwich, McHenry County, North Dakota, 58768, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "57th street north",
+        "city": "denbigh",
+        "county": "mchenry county",
+        "state": "nd",
+        "postal": "58768"
+      }
+    },
+    "filename": "20240702_170810",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2362,
+    "type": "picture",
+    "type_id": "1978",
+    "timestamp": "2024-07-02T17:14:46",
+    "place": "US 2, Surrey, Ward County, North Dakota, 58785, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2",
+        "city": "surrey",
+        "county": "ward county",
+        "state": "nd",
+        "postal": "58785"
+      }
+    },
+    "filename": "20240702_171446",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 689,
+    "type": "picture",
+    "type_id": "305",
+    "timestamp": "2024-07-02T17:22:12",
+    "place": "2063, Burdick Expressway East, Minot, Ward County, North Dakota, 58701, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "2063 burdick expressway east",
+        "city": "minot",
+        "county": "ward county",
+        "state": "nd",
+        "postal": "58701"
+      }
+    },
+    "filename": "20240702_172212",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1087,
+    "type": "picture",
+    "type_id": "703",
+    "timestamp": "2024-07-02T17:26:05",
+    "place": "201, South Main Street, Downtown, Minot, Ward County, North Dakota, 58701, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "201 south main street",
+        "city": "minot",
+        "county": "ward county",
+        "state": "nd",
+        "postal": "58701"
+      }
+    },
+    "filename": "20240702_172604",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2040,
+    "type": "picture",
+    "type_id": "1656",
+    "timestamp": "2024-07-02T17:26:07",
+    "place": "272, South Main Street, Downtown, Minot, Ward County, North Dakota, 58701, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "272 south main street",
+        "city": "minot",
+        "county": "ward county",
+        "state": "nd",
+        "postal": "58701"
+      },
+      "caption": "the mystique of minot, north dakota"
+    },
+    "filename": "20240702_172607",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 68,
+    "type": "map",
+    "type_id": "133",
+    "timestamp": "2024-07-02T17:30:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-02T17:30:00",
+      "end_timestamp": "2024-07-02T17:39:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "8 minutes",
+        "distance": "0 mi",
+        "location": "Near Burdick Expressway West, North Dakota",
+        "nearby": [
+          "Minot Voter Information",
+          "Western Ave SW",
+          "6th St SW",
+          "3rd Ave SW",
+          "Minot Police Department",
+          "5th St SW",
+          "4th Ave SW",
+          "5th Ave SW",
+          "Park St SW"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_211930_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 293,
+    "type": "receipt",
+    "type_id": "5",
+    "timestamp": "2024-07-02T17:31",
+    "place": "STOP AND SHOP",
+    "description": null,
+    "data": {
+      "place": {
+        "business": "stop and shop"
+      },
+      "date": "2024-07-02",
+      "time": "17:31",
+      "address": "STOP AND SHOP",
+      "items": [
+        {
+          "product": "UNLEADED",
+          "gallons": 12.287,
+          "price_per_gallon": 3.349,
+          "total_price": 41.15
+        }
+      ],
+      "category": "gas",
+      "payment_method": "debit",
+      "payment_details": {
+        "account_number": "***********9725",
+        "entry": "Chip Read",
+        "app_name": "Debit AuthNet",
+        "mode": "Issuer",
+        "AID": "A0000000042203",
+        "auth_number": "627091",
+        "response_code": "000",
+        "stan": "13492488233",
+        "invoice_number": "5851",
+        "shift_number": "1",
+        "store_number": "** ****",
+        "verified_by": "PIN",
+        "signature_required": false
+      },
+      "message": "Thank you, have a nice day!"
+    },
+    "filename": "20240902_094433",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1415,
+    "type": "picture",
+    "type_id": "1031",
+    "timestamp": "2024-07-02T17:34:05",
+    "place": "Burdick Expressway West, Upper Brooklyn, Minot, Ward County, North Dakota, 58702, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "burdick expressway west",
+        "city": "minot",
+        "county": "ward county",
+        "state": "nd",
+        "postal": "58702"
+      }
+    },
+    "filename": "20240702_173405",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2536,
+    "type": "picture",
+    "type_id": "2152",
+    "timestamp": "2024-07-02T17:34:37",
+    "place": "Burdick Expressway West, Upper Brooklyn, Minot, Ward County, North Dakota, 58702, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "burdick expressway west",
+        "city": "minot",
+        "county": "ward county",
+        "state": "nd",
+        "postal": "58702"
+      }
+    },
+    "filename": "20240702_173437",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 69,
+    "type": "map",
+    "type_id": "323",
+    "timestamp": "2024-07-02T17:39:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-02T17:39:00",
+      "end_timestamp": "2024-07-02T18:10:00",
+      "place": {
+        "address": "burdick expressway west",
+        "state": "nd"
+      },
+      "end_place": {
+        "address": "US 2",
+        "state": "nd"
+      },
+      "info": {
+        "duration": "31 minutes",
+        "distance": "34 mi",
+        "location": "Burdick Expressway West, North Dakota -> US 2, North Dakota",
+        "nearby": [
+          "Coulee",
+          "Donnybrook",
+          "Carpio",
+          "Minot AFB",
+          "Glenburn",
+          "Berthold",
+          "Minot"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_211938_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1390,
+    "type": "picture",
+    "type_id": "1006",
+    "timestamp": "2024-07-02T17:41:34",
+    "place": "Western Avenue Southwest, Ward County, North Dakota, 58701, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "western avenue southwest",
+        "city": "",
+        "county": "ward county",
+        "state": "nd",
+        "postal": "58701"
+      }
+    },
+    "filename": "20240702_174134",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2086,
+    "type": "picture",
+    "type_id": "1702",
+    "timestamp": "2024-07-02T17:48:42",
+    "place": "US 2;US 52, Ward County, North Dakota, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2;us 52",
+        "city": "",
+        "county": "ward county",
+        "state": "nd",
+        "postal": ""
+      }
+    },
+    "filename": "20240702_174842",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 248,
+    "type": "shazam",
+    "type_id": "16",
+    "timestamp": "2024-07-02T18:11:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "title": "Teeth Marks",
+      "artist": "S.G. Goodman",
+      "link": "https://www.shazam.com/track/604815599/teeth-marks",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/83/cf/73/83cf73b8-eed7-7a52-ed79-a4e00b41e22b/21UM1IM52126.rgb.jpg/400x400cc.jpg"
+    },
+    "filename": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/83/cf/73/83cf73b8-eed7-7a52-ed79-a4e00b41e22b/21UM1IM52126.rgb.jpg/400x400cc.jpg",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 70,
+    "type": "map",
+    "type_id": "175",
+    "timestamp": "2024-07-02T18:17:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-02T18:17:00",
+      "end_timestamp": "2024-07-02T18:33:00",
+      "place": {
+        "city": "wassaic",
+        "state": "ny"
+      },
+      "end_place": {
+        "state": "ny"
+      },
+      "info": {
+        "duration": "16 minutes",
+        "distance": "12 mi",
+        "location": "North Dakota -> 8072 US Hwy 2, North Dakota",
+        "nearby": [
+          "Wassaic",
+          "Stanley",
+          "Palermo"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_211947_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 294,
+    "type": "receipt",
+    "type_id": "53",
+    "timestamp": "2024-07-02T18:46",
+    "place": "Dollar General Store #20828, Stanley, ND",
+    "description": null,
+    "data": {
+      "place": {
+        "city": "stanley",
+        "state": "nd",
+        "business": "dollar general store #20828"
+      },
+      "date": "2024-07-02",
+      "time": "18:46",
+      "address": "Dollar General Store #20828, Stanley, ND",
+      "items": [
+        {
+          "description": "Boonie Hat Camo",
+          "price": 8.5
+        },
+        {
+          "description": "Lowlint Bth Towel",
+          "price": 15.0
+        },
+        {
+          "description": "ES24C Coffee 2pk L",
+          "price": 1.0
+        },
+        {
+          "description": "TL 6in Mesh Strain",
+          "price": 6.0
+        }
+      ],
+      "category": "convenience",
+      "subtotal": 30.5,
+      "tax": 1.98,
+      "total": 32.48,
+      "payment_method": "MC/Debit",
+      "authorization_number": "499637",
+      "reference_number": "000000092647",
+      "aid": "A0000000042203",
+      "store_number": "20828",
+      "register_number": "01",
+      "transaction_number": "3804",
+      "receipt_number": "891737713041839316122949919418161419311698",
+      "survey_code": "2077-4738-1093-312",
+      "coupon_details": {
+        "valid_date": "2024-07-06",
+        "discount_amount": 5.0,
+        "minimum_purchase": 25.0,
+        "exclusions": [
+          "phone",
+          "gift and prepaid financial cards",
+          "prepaid wireless handsets",
+          "Rug Doctor rental",
+          "propane",
+          "tobacco",
+          "alcohol"
+        ],
+        "coupon_code": "X0574528138432082"
+      }
+    },
+    "filename": "20240902_093934",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 71,
+    "type": "map",
+    "type_id": "272",
+    "timestamp": "2024-07-02T18:48:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-02T18:48:00",
+      "end_timestamp": "2024-07-02T19:23:00",
+      "place": {
+        "address": "US 2",
+        "state": "nd"
+      },
+      "end_place": {
+        "address": "64th st nw",
+        "state": "nd"
+      },
+      "info": {
+        "duration": "35 minutes",
+        "distance": "39 mi",
+        "location": "US 2, North Dakota -> 64th St NW, North Dakota",
+        "nearby": [
+          "Lostwood",
+          "Wildrose",
+          "McGregor",
+          "Powers Lake",
+          "Tioga",
+          "Wassaic",
+          "White Earth",
+          "Ray",
+          "Stanley",
+          "Ross",
+          "Lunds Landing",
+          "Charlson",
+          "Hawkeye",
+          "New Town",
+          "Belden"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_211956_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1611,
+    "type": "picture",
+    "type_id": "1227",
+    "timestamp": "2024-07-02T18:48:16",
+    "place": "State Highway 8, Stanley, Mountrail County, North Dakota, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "state highway 8",
+        "city": "stanley",
+        "county": "mountrail county",
+        "state": "nd",
+        "postal": ""
+      },
+      "signs": "new town 32\nminot 55\nwilliston 72"
+    },
+    "filename": "20240702_184816",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 593,
+    "type": "picture",
+    "type_id": "209",
+    "timestamp": "2024-07-02T19:00:17",
+    "place": "US 2, Mountrail County, North Dakota, 58776, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2",
+        "city": "",
+        "county": "mountrail county",
+        "state": "nd",
+        "postal": "58776"
+      }
+    },
+    "filename": "20240702_190017",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 72,
+    "type": "map",
+    "type_id": "325",
+    "timestamp": "2024-07-02T19:27:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-02T19:27:00",
+      "end_timestamp": "2024-07-02T19:58:00",
+      "place": {
+        "address": "64th st nw",
+        "state": "nd"
+      },
+      "end_place": {
+        "address": "2467 ist ave w",
+        "state": "nd"
+      },
+      "info": {
+        "duration": "31 minutes",
+        "distance": "25 mi",
+        "location": "64th St NW, North Dakota -> 2467 1st Ave W, North Dakota",
+        "nearby": [
+          "Marmon",
+          "Williston",
+          "Avoca",
+          "Springbrook",
+          "Epping"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212006_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1736,
+    "type": "picture",
+    "type_id": "1352",
+    "timestamp": "2024-07-02T19:27:20",
+    "place": "64th Street Northwest, Williams County, North Dakota, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "64th street northwest",
+        "city": "",
+        "county": "williams county",
+        "state": "nd",
+        "postal": ""
+      }
+    },
+    "filename": "20240702_192720",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 74,
+    "type": "map",
+    "type_id": "361",
+    "timestamp": "2024-07-02T19:37:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-02T19:37:00",
+      "end_timestamp": "2024-07-02T19:44:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "6 minutes",
+        "distance": "0 mi",
+        "location": "Near US Hwy 2, Montana",
+        "nearby": [
+          "Theodore Roosevelt Expy",
+          "Lanark Rd"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212023_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 75,
+    "type": "map",
+    "type_id": "78",
+    "timestamp": "2024-07-02T19:44:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-02T19:44:00",
+      "end_timestamp": "2024-07-02T20:09:00",
+      "place": {
+        "address": "us hwy 2",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "408 6th street east",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "25 minutes",
+        "distance": "4 mi",
+        "location": "US Hwy 2, Montana -> 408 6th Street East, Montana",
+        "nearby": [
+          "Culbertson",
+          "bertson RV Court",
+          "6th St W",
+          "Wheatland Hills",
+          "Magic City ReLeaf"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212032_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 295,
+    "type": "receipt",
+    "type_id": "101",
+    "timestamp": "2024-07-02T19:57",
+    "place": "McDonald's Restaurant #4707 2222 2ND AVE W WILLISTON, ND 58801-3410",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "2222 2nd ave w",
+        "city": "williston",
+        "state": "nd",
+        "postal": "58801",
+        "business": "mcdonald's restaurant #4707"
+      },
+      "date": "2024-07-02",
+      "time": "19:57",
+      "address": "McDonald's Restaurant #4707 2222 2ND AVE W WILLISTON, ND 58801-3410",
+      "items": [
+        {
+          "description": "Buy One Get One Any Sandwich (equal or lesser value)",
+          "category": "restaurant"
+        },
+        {
+          "description": "2 Chsburger Meal",
+          "category": "restaurant"
+        },
+        {
+          "description": "M Dr Pepper",
+          "category": "restaurant"
+        }
+      ],
+      "category": "restaurant",
+      "subtotal": 8.99,
+      "tax": 0.81,
+      "total": 9.8,
+      "cash_tendered": 20.0,
+      "change": 10.2,
+      "survey_code": "04707-13920-70224-19577-00098-0",
+      "validation_code": "1392",
+      "ks_number": "13",
+      "expires_in": "30 days",
+      "phone_number": "701-572-2364",
+      "message": "Thank You Valued Customer",
+      "app_download": "Download the App and use Linked Payment to Earn Rewards",
+      "rewards": "Sign up for MyMcDonald's rewards to earn points for future visits"
+    },
+    "filename": "20240902_094036",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 73,
+    "type": "map",
+    "type_id": "375",
+    "timestamp": "2024-07-02T19:58:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-02T19:58:00",
+      "end_timestamp": "2024-07-02T19:05:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "6 minutes",
+        "distance": "0 mi",
+        "location": "Near 2467 1st Ave W, North Dakota",
+        "nearby": [
+          "Frontage Rd",
+          "2nd Ave W",
+          "1st Ave W",
+          "25th St W",
+          "24th St W",
+          "25th St E",
+          "U-Haul Neighborhood Dealer"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212015_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 76,
+    "type": "map",
+    "type_id": "101",
+    "timestamp": "2024-07-02T20:12:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-02T20:12:00",
+      "end_timestamp": "2024-07-02T20:24:00",
+      "place": {
+        "address": "408 6th street east",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "14500 state hwy 16",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "11 minutes",
+        "distance": "12 mi",
+        "location": "408 6th Street East, Montana -> 14500 State Hwy 16, Montana",
+        "nearby": [
+          "Culberson",
+          "Lanark"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212044_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1505,
+    "type": "picture",
+    "type_id": "1121",
+    "timestamp": "2024-07-02T20:13:13",
+    "place": "329, 6th Street East, Averill, Culbertson, Roosevelt County, Montana, 59218, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "329 6th street east",
+        "city": "averill",
+        "county": "culbertson",
+        "state": "mt",
+        "postal": "59218"
+      },
+      "signs": "regina canada\n24 hour port of entry"
+    },
+    "filename": "20240702_201313",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 823,
+    "type": "picture",
+    "type_id": "439",
+    "timestamp": "2024-07-02T20:21:50",
+    "place": "14980, Theodore Roosevelt Expressway, Williams County, North Dakota, 58801, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "14980 theodore roosevelt expressway",
+        "city": "williams",
+        "county": "williams county",
+        "state": "nd",
+        "postal": "58801"
+      }
+    },
+    "filename": "20240702_202149",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 77,
+    "type": "map",
+    "type_id": "326",
+    "timestamp": "2024-07-02T20:29:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-02T20:29:00",
+      "end_timestamp": "2024-07-02T20:50:00",
+      "place": {
+        "address": "state hwy 16",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "820 south central avenue"
+      },
+      "info": {
+        "duration": "21 minutes",
+        "distance": "19 mi",
+        "location": "State Hwy 16, Montana -> 820 South Central Avenue, Sidney",
+        "nearby": [
+          "Sioux Pass",
+          "Wool",
+          "Sidney"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212053_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2692,
+    "type": "story",
+    "type_id": "121",
+    "timestamp": "2024-07-02T20:30",
+    "place": null,
+    "description": "wildlife: cow\ntime: 20:30",
+    "data": {
+      "category": "wildlife",
+      "dada_rank": 7,
+      "sydney_rank": 10
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 78,
+    "type": "map",
+    "type_id": "69",
+    "timestamp": "2024-07-02T20:50:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-02T20:50:00",
+      "end_timestamp": "2024-07-03T07:05:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "10 hours, 14 minutes",
+        "distance": "0 mi",
+        "location": "Near 820 South Central Avenue, Montana",
+        "nearby": [
+          "Lincoln Ave S",
+          "Lewis and Clark Trail",
+          "8th St SE",
+          "2nd Ave SE",
+          "Central Ave"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212102_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2693,
+    "type": "story",
+    "type_id": "84",
+    "timestamp": "2024-07-02T21:00",
+    "place": null,
+    "description": "accommodations: sidney, mt\ntime: 21:00",
+    "data": {
+      "category": "accommodations",
+      "dada_rank": 8,
+      "sydney_rank": 6
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1576,
+    "type": "picture",
+    "type_id": "1192",
+    "timestamp": "2024-07-02T21:06:46",
+    "place": "Best Western Golden Prairie Inn & Suites, 820, South Central Avenue, Four Seasons Trailer Court, Sidney, Richland County, Montana, 59270, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "820 south central avenue",
+        "city": "sidney",
+        "county": "richland county",
+        "state": "mt",
+        "postal": "59270"
+      },
+      "miles": "2434.9 miles",
+      "note": "in sidney, mt for the night"
+    },
+    "filename": "20240702_210645",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2266,
+    "type": "picture",
+    "type_id": "1882",
+    "timestamp": "2024-07-02T21:19:51",
+    "place": "Best Western Golden Prairie Inn & Suites, 820, South Central Avenue, Four Seasons Trailer Court, Sidney, Richland County, Montana, 59270, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "820 south central avenue",
+        "city": "sidney",
+        "county": "richland county",
+        "state": "mt",
+        "postal": "59270"
+      }
+    },
+    "filename": "20240702_211951",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  }
+]

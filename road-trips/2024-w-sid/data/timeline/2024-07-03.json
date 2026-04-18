@@ -1,0 +1,2156 @@
+[
+  {
+    "id": 2694,
+    "type": "story",
+    "type_id": "190",
+    "timestamp": "2024-07-03T00:01",
+    "place": null,
+    "description": "days: day 7, jul 3 (sidney, mt -> beaver creek park)\ntime: 00:01\ndate: 2024-07-03",
+    "data": {
+      "category": "days",
+      "dada_rank": 7,
+      "sydney_rank": 9
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1484,
+    "type": "picture",
+    "type_id": "1100",
+    "timestamp": "2024-07-03T06:31:52",
+    "place": "Best Western Golden Prairie Inn & Suites, 820, South Central Avenue, Four Seasons Trailer Court, Sidney, Richland County, Montana, 59270, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "820 south central avenue",
+        "city": "sidney",
+        "county": "richland county",
+        "state": "mt",
+        "postal": "59270"
+      }
+    },
+    "filename": "20240703_063152",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2417,
+    "type": "picture",
+    "type_id": "2033",
+    "timestamp": "2024-07-03T06:31:57",
+    "place": "Best Western Golden Prairie Inn & Suites, 820, South Central Avenue, Four Seasons Trailer Court, Sidney, Richland County, Montana, 59270, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "820 south central avenue",
+        "city": "sidney",
+        "county": "richland county",
+        "state": "mt",
+        "postal": "59270"
+      }
+    },
+    "filename": "20240703_063156",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1582,
+    "type": "picture",
+    "type_id": "1198",
+    "timestamp": "2024-07-03T06:32:03",
+    "place": "Best Western Golden Prairie Inn & Suites, 820, South Central Avenue, Four Seasons Trailer Court, Sidney, Richland County, Montana, 59270, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "820 south central avenue",
+        "city": "sidney",
+        "county": "richland county",
+        "state": "mt",
+        "postal": "59270"
+      }
+    },
+    "filename": "20240703_063203",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 428,
+    "type": "picture",
+    "type_id": "44",
+    "timestamp": "2024-07-03T06:58:24",
+    "place": "198, 14th Street Southeast, Sidney, Richland County, Montana, 59270, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "198 14th street southeast",
+        "city": "sidney",
+        "county": "richland county",
+        "state": "mt",
+        "postal": "59270"
+      }
+    },
+    "filename": "20240703_065824",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 79,
+    "type": "map",
+    "type_id": "13",
+    "timestamp": "2024-07-03T07:05:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-03T07:05:00",
+      "end_timestamp": "2024-07-03T07:15:00",
+      "place": {
+        "address": "820 south central avenue",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "432 n central ave",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "10 minutes",
+        "distance": "1 mi",
+        "location": "820 South Central Avenue, Montana -> 432 N Central Ave, Montana",
+        "nearby": [
+          "W Holly St",
+          "Reynolds Market",
+          "Sidney",
+          "Lewis and Clark"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212111_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1327,
+    "type": "picture",
+    "type_id": "943",
+    "timestamp": "2024-07-03T07:05:49",
+    "place": "South Central Avenue, Four Seasons Trailer Court, Sidney, Richland County, Montana, 59270, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south central avenue",
+        "city": "sidney",
+        "county": "richland county",
+        "state": "mt",
+        "postal": "59270"
+      },
+      "caption": "sidney the sunrise city :)"
+    },
+    "filename": "20240703_070549",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1215,
+    "type": "picture",
+    "type_id": "831",
+    "timestamp": "2024-07-03T07:11:19",
+    "place": "Reynolds Market, North Central Avenue, Four Seasons Trailer Court, Sidney, Richland County, Montana, 59270, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "reynolds market, north central avenue, four seasons trailer court",
+        "city": "sidney",
+        "county": "richland county",
+        "state": "mt",
+        "postal": "59270"
+      }
+    },
+    "filename": "20240703_071119",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 80,
+    "type": "map",
+    "type_id": "235",
+    "timestamp": "2024-07-03T07:15:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-03T07:15:00",
+      "end_timestamp": "2024-07-03T07:42:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "27 minutes",
+        "distance": "0 mi",
+        "location": "Near 432 N Central Ave, Montana",
+        "nearby": [
+          "Northwest",
+          "Six St NW",
+          "Central Ave",
+          "Hermans Car",
+          "GEM CITY TOWING"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212119_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 297,
+    "type": "receipt",
+    "type_id": "93",
+    "timestamp": "2024-07-03T07:40",
+    "place": "2201 W Holly St, Sidney, MT 59270",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "2201 w holly st",
+        "city": "sidney",
+        "state": "mt",
+        "postal": "59270"
+      },
+      "date": "2024-07-03",
+      "time": "07:40",
+      "address": "2201 W Holly St, Sidney, MT 59270",
+      "items": [
+        {
+          "description": "PREPAY CA #04",
+          "quantity": 1,
+          "amount": 25.0
+        }
+      ],
+      "category": "gas",
+      "payment_method": {
+        "type": "debit",
+        "account_number": "************9725",
+        "entry": "Chip Read",
+        "app_name": "Debit",
+        "auth_network": "MAE DIR",
+        "aid": "A0000000042203",
+        "auth_number": "697117",
+        "response_code": "000",
+        "stan": "07101931914",
+        "invoice_number": "143988",
+        "shift_number": 1,
+        "store_number": "4801593",
+        "verified_by": "PIN",
+        "signature_required": false
+      },
+      "store_info": {
+        "store_number": "4801593",
+        "store_name": "MILLERS CORNER",
+        "store_address": "2201 W Holly St, Sidney, MT 59270"
+      },
+      "receipt_info": {
+        "preauth_amount": 25.0,
+        "prepay_receipt_amount": 25.0,
+        "currency": "USD",
+        "payment_from": "Primary Account",
+        "transaction_number": "1026960",
+        "date_time": "2024-07-03 07:40:30"
+      }
+    },
+    "filename": "20240902_095155",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 81,
+    "type": "map",
+    "type_id": "260",
+    "timestamp": "2024-07-03T07:42:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-03T07:42:00",
+      "end_timestamp": "2024-07-03T11:29:00",
+      "place": {
+        "address": "432 n central ave",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "9 north ist street east",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "3 hours, 46 minutes",
+        "distance": "211 mi",
+        "location": "432 N Central Ave, Montana -> North 1st Street East, Montana",
+        "nearby": [
+          "Glasgow",
+          "Fort Peck Indian Reservation",
+          "Miles City",
+          "Glendive"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212129_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1536,
+    "type": "picture",
+    "type_id": "1152",
+    "timestamp": "2024-07-03T07:42:11",
+    "place": "Four Seasons Trailer Court, Richland County, Montana, 59270, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "four seasons trailer court",
+        "city": "",
+        "county": "richland county",
+        "state": "mt",
+        "postal": "59270"
+      }
+    },
+    "filename": "20240703_074211",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2482,
+    "type": "picture",
+    "type_id": "2098",
+    "timestamp": "2024-07-03T07:43:53",
+    "place": "1857, West Holly Street, Richland County, Montana, 59270, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1857 west holly street",
+        "city": "",
+        "county": "richland county",
+        "state": "mt",
+        "postal": "59270"
+      },
+      "signs": "culbertson 36\nplentywood 84\nregina 200"
+    },
+    "filename": "20240703_074353",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1686,
+    "type": "picture",
+    "type_id": "1302",
+    "timestamp": "2024-07-03T07:55:49",
+    "place": "State Highway 16, Richland County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "state highway 16",
+        "city": "",
+        "county": "richland county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240703_075549",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2113,
+    "type": "picture",
+    "type_id": "1729",
+    "timestamp": "2024-07-03T08:09:59",
+    "place": "MT 16, Sioux Pass, Richland County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "mt 16 sioux pass",
+        "city": "",
+        "county": "richland county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240703_080958",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 811,
+    "type": "picture",
+    "type_id": "427",
+    "timestamp": "2024-07-03T08:19:56",
+    "place": "15173, MT 16, Sioux Pass, Richland County, Montana, 59218, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "15173 mt 16",
+        "city": "sioux pass",
+        "county": "richland county",
+        "state": "mt",
+        "postal": "59218"
+      }
+    },
+    "filename": "20240703_081956",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2657,
+    "type": "story",
+    "type_id": "492",
+    "timestamp": "2024-07-03T08:41:25",
+    "place": null,
+    "description": "songs: hell is forever -- alex brightman",
+    "data": {
+      "id": 213,
+      "artist_name": "Alex Brightman",
+      "song_name": "Hell Is Forever",
+      "image_link": "https://i.scdn.co/image/ab67616d0000b273058d85d25752a6701564ba06",
+      "song_link": "https://open.spotify.com/track/6Ux7hThoEVu7V0YmmZqunV",
+      "ordinal": null,
+      "spotify_id": "6Ux7hThoEVu7V0YmmZqunV",
+      "added_at": "2024-07-03T14:41:25Z",
+      "playlist_id": "4cbtSLSi3GIDQI6s62Opjs",
+      "playlist_name": "roadtrip playlist",
+      "playlist_owner": "Sydney",
+      "category": "songs",
+      "dada_rank": 213,
+      "sydney_rank": 18,
+      "spotify_add": true
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2658,
+    "type": "story",
+    "type_id": "493",
+    "timestamp": "2024-07-03T08:43:41",
+    "place": null,
+    "description": "songs: happy day in hell - hazbin hotel original soundtrack -- erika henningsen",
+    "data": {
+      "id": 214,
+      "artist_name": "Erika Henningsen",
+      "song_name": "Happy Day In Hell - Hazbin Hotel Original Soundtrack",
+      "image_link": "https://i.scdn.co/image/ab67616d0000b273708a6a417a646f86700152c2",
+      "song_link": "https://open.spotify.com/track/1nEeHJvkOjHmFgDw8esamO",
+      "ordinal": null,
+      "spotify_id": "1nEeHJvkOjHmFgDw8esamO",
+      "added_at": "2024-07-03T14:43:41Z",
+      "playlist_id": "4cbtSLSi3GIDQI6s62Opjs",
+      "playlist_name": "roadtrip playlist",
+      "playlist_owner": "Sydney",
+      "category": "songs",
+      "dada_rank": 214,
+      "sydney_rank": 14,
+      "spotify_add": true
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 471,
+    "type": "picture",
+    "type_id": "87",
+    "timestamp": "2024-07-03T10:22:12",
+    "place": "First Community Bank, 540, 2nd Avenue South, Glasgow, Valley County, Montana, 59230, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "540 2nd avenue south",
+        "city": "glasgow",
+        "county": "valley county",
+        "state": "mt",
+        "postal": "59230"
+      }
+    },
+    "filename": "20240703_102211",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2095,
+    "type": "picture",
+    "type_id": "1711",
+    "timestamp": "2024-07-03T10:59:39",
+    "place": "Lewis and Clark Trail, Valley County, Montana, 59261, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "lewis and clark trail",
+        "city": "",
+        "county": "valley county",
+        "state": "mt",
+        "postal": "59261"
+      }
+    },
+    "filename": "20240703_105939",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2695,
+    "type": "story",
+    "type_id": "283",
+    "timestamp": "2024-07-03T11:00",
+    "place": null,
+    "description": "songs: burn -- indigo sparke\n\ntime: 11:00",
+    "data": {
+      "id": 4,
+      "artist_name": "Indigo Sparke",
+      "song_name": "Burn",
+      "image_link": "https://i.scdn.co/image/ab67616d0000b2730f13ef5d282f17ceac4c3b28",
+      "song_link": "https://open.spotify.com/track/5OXKRcuhKDHZgAWGl2dKKJ",
+      "ordinal": 4,
+      "spotify_id": "5OXKRcuhKDHZgAWGl2dKKJ",
+      "added_at": "2024-06-11T00:12:33Z",
+      "playlist_id": "41vG11QGXrrIfdsE6cy6Sz",
+      "playlist_name": "jun-10-2024",
+      "playlist_owner": "Rich Sanda",
+      "category": "songs",
+      "dada_rank": 1,
+      "sydney_rank": 26
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2193,
+    "type": "picture",
+    "type_id": "1809",
+    "timestamp": "2024-07-03T11:04:28",
+    "place": "300, Taylor Street, Saco, Phillips County, Montana, 59261, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "300 taylor street",
+        "city": "saco",
+        "county": "phillips county",
+        "state": "mt",
+        "postal": "59261"
+      }
+    },
+    "filename": "20240703_110428",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2659,
+    "type": "story",
+    "type_id": "539",
+    "timestamp": "2024-07-03T11:16:23",
+    "place": null,
+    "description": "songs: digital silence -- peter mcpoland",
+    "data": {
+      "id": 260,
+      "artist_name": "Peter McPoland",
+      "song_name": "Digital Silence",
+      "image_link": "https://i.scdn.co/image/ab67616d0000b273d68115b481ece9368a4823b5",
+      "song_link": "https://open.spotify.com/track/05UdmOwDMr4LsAk56AFfsE",
+      "ordinal": null,
+      "spotify_id": "05UdmOwDMr4LsAk56AFfsE",
+      "added_at": "2024-07-03T17:16:23Z",
+      "playlist_id": "4cbtSLSi3GIDQI6s62Opjs",
+      "playlist_name": "roadtrip playlist",
+      "playlist_owner": "Sydney",
+      "category": "songs",
+      "dada_rank": 260,
+      "sydney_rank": 260,
+      "spotify_add": true
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1349,
+    "type": "picture",
+    "type_id": "965",
+    "timestamp": "2024-07-03T11:25:43",
+    "place": "US 2, Hiline Trailer Park, Phillips County, Montana, 59538, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2 hiline trailer park",
+        "city": "",
+        "county": "phillips county",
+        "state": "mt",
+        "postal": "59538"
+      }
+    },
+    "filename": "20240703_112543",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1828,
+    "type": "picture",
+    "type_id": "1444",
+    "timestamp": "2024-07-03T11:25:57",
+    "place": "US 2, Hiline Trailer Park, Phillips County, Montana, 59538, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2 hiline trailer park",
+        "city": "",
+        "county": "phillips county",
+        "state": "mt",
+        "postal": "59538"
+      }
+    },
+    "filename": "20240703_112557",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 82,
+    "type": "map",
+    "type_id": "25",
+    "timestamp": "2024-07-03T11:29:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-03T11:29:00",
+      "end_timestamp": "2024-07-03T12:03:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "34 minutes",
+        "distance": "0 mi",
+        "location": "Near North 1st Street East, Montana",
+        "nearby": [
+          "Milk River",
+          "Great Plains",
+          "Dinosaur Museum",
+          "Phillips County",
+          "1st St E",
+          "U.S. Rte 2"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212151_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2027,
+    "type": "picture",
+    "type_id": "1643",
+    "timestamp": "2024-07-03T11:30:59",
+    "place": "Great Plains Dinosaur Museum, North 1st Street East, Malta, Phillips County, Montana, 59538, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "great plains dinosaur museum, north 1st street east",
+        "city": "malta",
+        "county": "phillips county",
+        "state": "mt",
+        "postal": "59538"
+      }
+    },
+    "filename": "20240703_113059",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1241,
+    "type": "picture",
+    "type_id": "857",
+    "timestamp": "2024-07-03T11:31:06",
+    "place": "Great Plains Dinosaur Museum, North 1st Street East, Malta, Phillips County, Montana, 59538, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "great plains dinosaur museum, north 1st street east",
+        "city": "malta",
+        "county": "phillips county",
+        "state": "mt",
+        "postal": "59538"
+      }
+    },
+    "filename": "20240703_113105",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 721,
+    "type": "picture",
+    "type_id": "337",
+    "timestamp": "2024-07-03T11:31:18",
+    "place": "Great Plains Dinosaur Museum, North 1st Street East, Malta, Phillips County, Montana, 59538, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "great plains dinosaur museum, north 1st street east",
+        "city": "malta",
+        "county": "phillips county",
+        "state": "mt",
+        "postal": "59538"
+      }
+    },
+    "filename": "20240703_113118",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 922,
+    "type": "picture",
+    "type_id": "538",
+    "timestamp": "2024-07-03T11:42:15",
+    "place": "Great Plains Dinosaur Museum, North 1st Street East, Malta, Phillips County, Montana, 59538, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "great plains dinosaur museum, north 1st street east",
+        "city": "malta",
+        "county": "phillips county",
+        "state": "mt",
+        "postal": "59538"
+      }
+    },
+    "filename": "20240703_114215",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1395,
+    "type": "picture",
+    "type_id": "1011",
+    "timestamp": "2024-07-03T11:43:37",
+    "place": "Great Plains Dinosaur Museum, North 1st Street East, Malta, Phillips County, Montana, 59538, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "great plains dinosaur museum, north 1st street east",
+        "city": "malta",
+        "county": "phillips county",
+        "state": "mt",
+        "postal": "59538"
+      }
+    },
+    "filename": "20240703_114337",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2540,
+    "type": "picture",
+    "type_id": "2156",
+    "timestamp": "2024-07-03T11:43:52",
+    "place": "Great Plains Dinosaur Museum, North 1st Street East, Malta, Phillips County, Montana, 59538, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "great plains dinosaur museum, north 1st street east",
+        "city": "malta",
+        "county": "phillips county",
+        "state": "mt",
+        "postal": "59538"
+      }
+    },
+    "filename": "20240703_114352",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 933,
+    "type": "picture",
+    "type_id": "549",
+    "timestamp": "2024-07-03T11:46:12",
+    "place": "Great Plains Dinosaur Museum, North 1st Street East, Malta, Phillips County, Montana, 59538, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "great plains dinosaur museum, north 1st street east",
+        "city": "malta",
+        "county": "phillips county",
+        "state": "mt",
+        "postal": "59538"
+      }
+    },
+    "filename": "20240703_114612",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2080,
+    "type": "picture",
+    "type_id": "1696",
+    "timestamp": "2024-07-03T11:46:21",
+    "place": "Great Plains Dinosaur Museum, North 1st Street East, Malta, Phillips County, Montana, 59538, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "great plains dinosaur museum, north 1st street east",
+        "city": "malta",
+        "county": "phillips county",
+        "state": "mt",
+        "postal": "59538"
+      }
+    },
+    "filename": "20240703_114620",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1724,
+    "type": "picture",
+    "type_id": "1340",
+    "timestamp": "2024-07-03T11:49:04",
+    "place": "Great Plains Dinosaur Museum, North 1st Street East, Malta, Phillips County, Montana, 59538, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "great plains dinosaur museum, north 1st street east",
+        "city": "malta",
+        "county": "phillips county",
+        "state": "mt",
+        "postal": "59538"
+      }
+    },
+    "filename": "20240703_114904",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 640,
+    "type": "picture",
+    "type_id": "256",
+    "timestamp": "2024-07-03T11:51:30",
+    "place": "Great Plains Dinosaur Museum, North 1st Street East, Malta, Phillips County, Montana, 59538, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "great plains dinosaur museum, north 1st street east",
+        "city": "malta",
+        "county": "phillips county",
+        "state": "mt",
+        "postal": "59538"
+      }
+    },
+    "filename": "20240703_115130",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1890,
+    "type": "picture",
+    "type_id": "1506",
+    "timestamp": "2024-07-03T11:52:47",
+    "place": "Great Plains Dinosaur Museum, North 1st Street East, Malta, Phillips County, Montana, 59538, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "great plains dinosaur museum, north 1st street east",
+        "city": "malta",
+        "county": "phillips county",
+        "state": "mt",
+        "postal": "59538"
+      }
+    },
+    "filename": "20240703_115247",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 826,
+    "type": "picture",
+    "type_id": "442",
+    "timestamp": "2024-07-03T11:52:56",
+    "place": "Great Plains Dinosaur Museum, North 1st Street East, Malta, Phillips County, Montana, 59538, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "great plains dinosaur museum, north 1st street east",
+        "city": "malta",
+        "county": "phillips county",
+        "state": "mt",
+        "postal": "59538"
+      }
+    },
+    "filename": "20240703_115255",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2286,
+    "type": "picture",
+    "type_id": "1902",
+    "timestamp": "2024-07-03T11:53:09",
+    "place": "Great Plains Dinosaur Museum, North 1st Street East, Malta, Phillips County, Montana, 59538, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "great plains dinosaur museum, north 1st street east",
+        "city": "malta",
+        "county": "phillips county",
+        "state": "mt",
+        "postal": "59538"
+      }
+    },
+    "filename": "20240703_115309",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1144,
+    "type": "picture",
+    "type_id": "760",
+    "timestamp": "2024-07-03T11:55:50",
+    "place": "Great Plains Dinosaur Museum, North 1st Street East, Malta, Phillips County, Montana, 59538, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "great plains dinosaur museum, north 1st street east",
+        "city": "malta",
+        "county": "phillips county",
+        "state": "mt",
+        "postal": "59538"
+      }
+    },
+    "filename": "20240703_115550",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1251,
+    "type": "picture",
+    "type_id": "867",
+    "timestamp": "2024-07-03T11:56:02",
+    "place": "Great Plains Dinosaur Museum, North 1st Street East, Malta, Phillips County, Montana, 59538, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "great plains dinosaur museum, north 1st street east",
+        "city": "malta",
+        "county": "phillips county",
+        "state": "mt",
+        "postal": "59538"
+      }
+    },
+    "filename": "20240703_115602",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1986,
+    "type": "picture",
+    "type_id": "1602",
+    "timestamp": "2024-07-03T11:56:37",
+    "place": "Great Plains Dinosaur Museum, North 1st Street East, Malta, Phillips County, Montana, 59538, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "great plains dinosaur museum, north 1st street east",
+        "city": "malta",
+        "county": "phillips county",
+        "state": "mt",
+        "postal": "59538"
+      }
+    },
+    "filename": "20240703_115637",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1228,
+    "type": "picture",
+    "type_id": "844",
+    "timestamp": "2024-07-03T11:56:43",
+    "place": "Great Plains Dinosaur Museum, North 1st Street East, Malta, Phillips County, Montana, 59538, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "great plains dinosaur museum, north 1st street east",
+        "city": "malta",
+        "county": "phillips county",
+        "state": "mt",
+        "postal": "59538"
+      }
+    },
+    "filename": "20240703_115643",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1222,
+    "type": "picture",
+    "type_id": "838",
+    "timestamp": "2024-07-03T12:00:18",
+    "place": "Great Plains Dinosaur Museum, North 1st Street East, Malta, Phillips County, Montana, 59538, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "great plains dinosaur museum, north 1st street east",
+        "city": "malta",
+        "county": "phillips county",
+        "state": "mt",
+        "postal": "59538"
+      }
+    },
+    "filename": "20240703_120018",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2438,
+    "type": "picture",
+    "type_id": "2054",
+    "timestamp": "2024-07-03T12:01:03",
+    "place": "Great Plains Dinosaur Museum, North 1st Street East, Malta, Phillips County, Montana, 59538, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "great plains dinosaur museum, north 1st street east",
+        "city": "malta",
+        "county": "phillips county",
+        "state": "mt",
+        "postal": "59538"
+      }
+    },
+    "filename": "20240703_120103",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2391,
+    "type": "picture",
+    "type_id": "2007",
+    "timestamp": "2024-07-03T12:01:39",
+    "place": "Great Plains Dinosaur Museum, North 1st Street East, Malta, Phillips County, Montana, 59538, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "great plains dinosaur museum, north 1st street east",
+        "city": "malta",
+        "county": "phillips county",
+        "state": "mt",
+        "postal": "59538"
+      }
+    },
+    "filename": "20240703_120139",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2696,
+    "type": "story",
+    "type_id": "17",
+    "timestamp": "2024-07-03T12:02",
+    "place": null,
+    "description": "attractions: dino museum in malta\ntime: 12:30\ntime: 12:02",
+    "data": {
+      "category": "attractions",
+      "dada_rank": 8,
+      "sydney_rank": 4
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1263,
+    "type": "picture",
+    "type_id": "879",
+    "timestamp": "2024-07-03T12:02:34",
+    "place": "Great Plains Dinosaur Museum, North 1st Street East, Malta, Phillips County, Montana, 59538, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "great plains dinosaur museum, north 1st street east",
+        "city": "malta",
+        "county": "phillips county",
+        "state": "mt",
+        "postal": "59538"
+      }
+    },
+    "filename": "20240703_120234",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 83,
+    "type": "map",
+    "type_id": "254",
+    "timestamp": "2024-07-03T12:03:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-03T12:03:00",
+      "end_timestamp": "2024-07-03T14:24:00",
+      "place": {
+        "address": "north 1st street east",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "blackie coulee road",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "2 hours, 20 minutes",
+        "distance": "113 mi",
+        "location": "North 1st Street East, Montana -> Blackie Coulee Road, Montana",
+        "nearby": [
+          "Elder",
+          "Chinook",
+          "Havre",
+          "Malta",
+          "FORT BELKNAP RESERVATION",
+          "Upper Missouri River Breaks"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212201_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 298,
+    "type": "receipt",
+    "type_id": "88",
+    "timestamp": "2024-07-03T12:06",
+    "place": "3 N 1st St E, Malta, MT 59538",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "3 n 1st st e",
+        "city": "malta",
+        "state": "mt",
+        "postal": "59538"
+      },
+      "date": "2024-07-03",
+      "time": "12:06",
+      "address": "3 N 1st St E, Malta, MT 59538",
+      "items": [
+        {
+          "description": "UNLEADED CA PUMP# 5",
+          "price": "$40.00"
+        }
+      ],
+      "category": "gas",
+      "other_details": {
+        "register": "1",
+        "transaction_number": "6393",
+        "operator_id": "3",
+        "cashier": "Trisha",
+        "payment_method": "Debit",
+        "card_number": "XXXXXXXXXXXX9725",
+        "invoice_number": "03490097",
+        "authorization_number": "690142",
+        "trace_number": "249593",
+        "AID": "A0000000042203",
+        "TVR": "8000048000",
+        "TSI": "6800",
+        "IAD": "0110A00001220000000000000000000000FF",
+        "ARC": "3030",
+        "transaction_type": "SALE",
+        "PIN_verified": true
+      }
+    },
+    "filename": "20240902_095437",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1742,
+    "type": "picture",
+    "type_id": "1358",
+    "timestamp": "2024-07-03T12:09:36",
+    "place": "98, North 1st Street West, Malta, Phillips County, Montana, 59538, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "98 north 1st street west",
+        "city": "malta",
+        "county": "phillips county",
+        "state": "mt",
+        "postal": "59538"
+      }
+    },
+    "filename": "20240703_120935",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1550,
+    "type": "picture",
+    "type_id": "1166",
+    "timestamp": "2024-07-03T12:09:55",
+    "place": "6, North 1st Street West, Malta, Phillips County, Montana, 59538, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "6 north 1st street west",
+        "city": "malta",
+        "county": "phillips county",
+        "state": "mt",
+        "postal": "59538"
+      }
+    },
+    "filename": "20240703_120954",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 249,
+    "type": "shazam",
+    "type_id": "15",
+    "timestamp": "2024-07-03T12:26:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "title": "Supersad",
+      "artist": "Suki Waterhouse",
+      "link": "https://www.shazam.com/track/701987176/supersad",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/92/05/2292055f-7797-db28-c3e0-ae94b142a176/098787959260.png/400x400cc.jpg"
+    },
+    "filename": "https://is1-ssl.mzstatic.com/image/thumb/Music221/v4/22/92/05/2292055f-7797-db28-c3e0-ae94b142a176/098787959260.png/400x400cc.jpg",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2376,
+    "type": "picture",
+    "type_id": "1992",
+    "timestamp": "2024-07-03T13:54:15",
+    "place": "Beaver Creek Road, Havre, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "beaver creek road",
+        "city": "havre",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240703_135415",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1065,
+    "type": "picture",
+    "type_id": "681",
+    "timestamp": "2024-07-03T14:04:43",
+    "place": "MT 234, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "mt 234",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240703_140443",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 569,
+    "type": "picture",
+    "type_id": "185",
+    "timestamp": "2024-07-03T14:16:45",
+    "place": "Beaver Creek Road, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "beaver creek road",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      },
+      "miles": "2756.7 miles",
+      "note": "arrived :) beaver creek park."
+    },
+    "filename": "20240703_141645",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2697,
+    "type": "story",
+    "type_id": "82",
+    "timestamp": "2024-07-03T14:18",
+    "place": null,
+    "description": "accommodations: beaver creek campground\ntime: 15:00\ntime: 14:18",
+    "data": {
+      "category": "accommodations",
+      "dada_rank": 5,
+      "sydney_rank": 4
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1914,
+    "type": "picture",
+    "type_id": "1530",
+    "timestamp": "2024-07-03T14:19:08",
+    "place": "Beaver Creek Road, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "beaver creek road",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240703_141908",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 84,
+    "type": "map",
+    "type_id": "271",
+    "timestamp": "2024-07-03T14:24:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-03T14:24:00",
+      "end_timestamp": "2024-07-03T17:38:00",
+      "place": {
+        "address": "campground rd",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "5th avenue",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "3 hours, 14 minutes",
+        "distance": "22 mi",
+        "location": "Campground Rd, Montana -> 5th Avenue, Montana",
+        "nearby": [
+          "Beaver Creek",
+          "Herron",
+          "Saddle Butte",
+          "Sangrey",
+          "Shambo Springs"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212213_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1856,
+    "type": "picture",
+    "type_id": "1472",
+    "timestamp": "2024-07-03T14:29:22",
+    "place": "Beaver Creek Road, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "beaver creek road",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240703_142922",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 921,
+    "type": "picture",
+    "type_id": "537",
+    "timestamp": "2024-07-03T14:29:26",
+    "place": "Beaver Creek Road, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "beaver creek road",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240703_142926",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 975,
+    "type": "picture",
+    "type_id": "591",
+    "timestamp": "2024-07-03T14:29:31",
+    "place": "Beaver Creek Road, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "beaver creek road",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240703_142930",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2526,
+    "type": "picture",
+    "type_id": "2142",
+    "timestamp": "2024-07-03T14:31:19",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240703_143118",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2698,
+    "type": "story",
+    "type_id": "7",
+    "timestamp": "2024-07-03T14:32",
+    "place": null,
+    "description": "adventures/nature: creek behind camp in beaver creek park\ntime: 15:30\ntime: 14:32",
+    "data": {
+      "category": "adventures/nature",
+      "dada_rank": 8,
+      "sydney_rank": 3
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1402,
+    "type": "picture",
+    "type_id": "1018",
+    "timestamp": "2024-07-03T14:36:53",
+    "place": "Beaver Creek Road, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "beaver creek road",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240703_143653",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2398,
+    "type": "picture",
+    "type_id": "2014",
+    "timestamp": "2024-07-03T15:01:12",
+    "place": "Beaver Creek Road, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "beaver creek road",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240703_150112",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2475,
+    "type": "picture",
+    "type_id": "2091",
+    "timestamp": "2024-07-03T15:58:53",
+    "place": "Beaver Creek Road, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "beaver creek road",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240703_155853",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1075,
+    "type": "picture",
+    "type_id": "691",
+    "timestamp": "2024-07-03T15:59:06",
+    "place": "Beaver Creek Road, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "beaver creek road",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240703_155905",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2046,
+    "type": "picture",
+    "type_id": "1662",
+    "timestamp": "2024-07-03T16:10:19",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240703_161018",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 661,
+    "type": "picture",
+    "type_id": "277",
+    "timestamp": "2024-07-03T16:11:19",
+    "place": "Beaver Creek Road, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "beaver creek road",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240703_161119",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 85,
+    "type": "map",
+    "type_id": "244",
+    "timestamp": "2024-07-03T17:38:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-03T17:38:00",
+      "end_timestamp": "2024-07-03T17:40:00",
+      "place": {
+        "address": "5th avenue",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "395 ist st",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "1 minute",
+        "distance": "None None",
+        "location": "5th Avenue, Montana -> 395 1st St, Montana",
+        "nearby": [
+          "Havre",
+          "Main St",
+          "U.S. Rte 2",
+          "Havre Beneath the Streets",
+          "2nd St",
+          "3rd St"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212224_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 86,
+    "type": "map",
+    "type_id": "246",
+    "timestamp": "2024-07-03T17:40:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-03T17:40:00",
+      "end_timestamp": "2024-07-03T17:42:00",
+      "place": {
+        "address": "1st street"
+      },
+      "end_place": {
+        "address": "2nd street"
+      },
+      "info": {
+        "duration": "2 minutes",
+        "distance": "0 mi",
+        "nearby": [
+          "Havre",
+          "Main St",
+          "U.S. Rte 2",
+          "Havre Beneath the Streets",
+          "2nd St",
+          "3rd St",
+          "1st Street"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_194049_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 87,
+    "type": "map",
+    "type_id": "188",
+    "timestamp": "2024-07-03T17:41:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-03T17:41:00",
+      "end_timestamp": "2024-07-03T17:46:00",
+      "place": {
+        "address": "4th avenue",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "742 ist st",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "5 minutes",
+        "distance": "0 mi",
+        "location": "4th Avenue, Montana -> 742 1st St, Montana",
+        "nearby": [
+          "Columbia Grain",
+          "Guadalajara Méxican",
+          "Taco Treat",
+          "Boxcars Restaurant"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212233_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1510,
+    "type": "picture",
+    "type_id": "1126",
+    "timestamp": "2024-07-03T17:46:26",
+    "place": "7th Avenue, Clear Creek Terrace Trailer Court, Havre, Hill County, Montana, 59501, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "7th avenue clear creek terrace trailer court",
+        "city": "havre",
+        "county": "hill county",
+        "state": "mt",
+        "postal": "59501"
+      }
+    },
+    "filename": "20240703_174625",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 299,
+    "type": "receipt",
+    "type_id": "67",
+    "timestamp": "2024-07-03T18:01",
+    "place": "730 1st Street, Havre, Montana 59501",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "730 1st street",
+        "city": "havre",
+        "state": "mt",
+        "postal": "59501"
+      },
+      "date": "2024-07-03",
+      "time": "18:01",
+      "address": "730 1st Street, Havre, Montana 59501",
+      "items": [
+        {
+          "description": "AQAUTANA WTR 1 GAL",
+          "price": "$1.99"
+        },
+        {
+          "description": "REESES CUP W REESE P",
+          "price": "$2.69"
+        },
+        {
+          "description": "HONEY MAID HONEY GRA",
+          "price": "$3.99"
+        },
+        {
+          "description": "JUMBO MALLOW",
+          "price": "$5.59"
+        }
+      ],
+      "category": "groceries",
+      "total": "$18.24",
+      "payment_method": "debit card",
+      "auth_code": "124666",
+      "change": "$50.00",
+      "cashier": "SUPERVISOR 120",
+      "store_number": "3031",
+      "entry_method": "chip",
+      "card_number": "XXXXXXXXXXXX9725",
+      "expiration_date": "07/03/2024",
+      "mode": "debit",
+      "AID": "A0000000042203",
+      "TVR": "000FF",
+      "TSI": "6800",
+      "K": "Issuer-PIN Verified",
+      "ARC": "00 50071668CC57DB64",
+      "RRN": "012806"
+    },
+    "filename": "20240902_095553",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 88,
+    "type": "map",
+    "type_id": "278",
+    "timestamp": "2024-07-03T18:04:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-03T18:04:00",
+      "end_timestamp": "2024-07-03T18:06:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "2 minutes",
+        "distance": "0 mi",
+        "location": "Near 1218 1st St, Montana",
+        "nearby": [
+          "10th Ave",
+          "Keystone Park",
+          "12th Ave",
+          "1st St",
+          "BNSF Railway",
+          "13th Ave",
+          "U.S. Rte 2",
+          "2nd St"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212241_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 300,
+    "type": "receipt",
+    "type_id": "54",
+    "timestamp": "2024-07-03T18:06",
+    "place": "299 1200 1st St, Havre, MT 59501",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "299 1200 1st st",
+        "city": "havre",
+        "state": "mt",
+        "postal": "59501"
+      },
+      "date": "2024-07-03",
+      "time": "18:06",
+      "address": "299 1200 1st St, Havre, MT 59501",
+      "items": [
+        {
+          "description": "Grocery",
+          "quantity": 2,
+          "price": 9.0
+        }
+      ],
+      "category": "groceries",
+      "subtotal": 18.0,
+      "total": 18.0,
+      "payment_method": "cash",
+      "change_due": -2.0,
+      "cash_received": 20.0,
+      "cashier": "Cashier"
+    },
+    "filename": "20240902_095225",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 89,
+    "type": "map",
+    "type_id": "107",
+    "timestamp": "2024-07-03T18:10:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-03T18:10:00",
+      "end_timestamp": "2024-07-03T18:51:00",
+      "place": {
+        "address": "1275 2nd st",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "campground rd",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "40 minutes",
+        "distance": "26 mi",
+        "location": "1275 2nd St, Montana -> Campground Rd, Montana",
+        "nearby": [
+          "Laredo",
+          "Lohman",
+          "Havre",
+          "Saddle Butte",
+          "Agency"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212251_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 90,
+    "type": "map",
+    "type_id": "131",
+    "timestamp": "2024-07-03T18:51:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-03T18:51:00",
+      "end_timestamp": "2024-07-04T10:21:00",
+      "place": {
+        "address": "campground rd",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "1010 ist st",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "15 hours, 29 minutes",
+        "distance": "26 mi",
+        "location": "Campground Rd, Montana -> 1010 1st St, Montana",
+        "nearby": [
+          "Burnham",
+          "Havre",
+          "Beaver Creek",
+          "Herron",
+          "Saddle Butte",
+          "Laredo",
+          "Agency",
+          "Shambo Springs",
+          "Sangrey"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212305_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 587,
+    "type": "picture",
+    "type_id": "203",
+    "timestamp": "2024-07-03T19:55:08",
+    "place": "Beaver Creek Road, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "beaver creek road",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240703_195508",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2370,
+    "type": "picture",
+    "type_id": "1986",
+    "timestamp": "2024-07-03T21:04:28",
+    "place": "Beaver Creek Road, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "beaver creek road",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240703_210427",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  }
+]

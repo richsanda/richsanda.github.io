@@ -1,0 +1,2128 @@
+[
+  {
+    "id": 2699,
+    "type": "story",
+    "type_id": "191",
+    "timestamp": "2024-07-04T00:01",
+    "place": null,
+    "description": "days: day 8, jul 4 (beaver creek park -> great falls, mt)\ndate: 2024-07-04\ntime: 00:01",
+    "data": {
+      "category": "days",
+      "dada_rank": 10,
+      "sydney_rank": 7
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 992,
+    "type": "picture",
+    "type_id": "608",
+    "timestamp": "2024-07-04T06:14:39",
+    "place": "Beaver Creek Road, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "beaver creek road",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_061439",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1743,
+    "type": "picture",
+    "type_id": "1359",
+    "timestamp": "2024-07-04T06:43:36",
+    "place": "Beaver Creek Road, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "beaver creek road",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_064336",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2588,
+    "type": "picture",
+    "type_id": "2204",
+    "timestamp": "2024-07-04T06:46:08",
+    "place": "Beaver Creek Road, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "beaver creek road",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_064608",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1498,
+    "type": "picture",
+    "type_id": "1114",
+    "timestamp": "2024-07-04T06:49:52",
+    "place": "Beaver Creek Road, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "beaver creek road",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_064952",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1606,
+    "type": "picture",
+    "type_id": "1222",
+    "timestamp": "2024-07-04T07:00:51",
+    "place": "Beaver Creek Road, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "beaver creek road",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_070050",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1960,
+    "type": "picture",
+    "type_id": "1576",
+    "timestamp": "2024-07-04T07:01:02",
+    "place": "Beaver Creek Road, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "beaver creek road",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_070102",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2363,
+    "type": "picture",
+    "type_id": "1979",
+    "timestamp": "2024-07-04T07:23:54",
+    "place": "Beaver Creek Road, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "beaver creek road",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_072354",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 441,
+    "type": "picture",
+    "type_id": "57",
+    "timestamp": "2024-07-04T07:37:31",
+    "place": "Beaver Creek Road, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "beaver creek road",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_073731",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 986,
+    "type": "picture",
+    "type_id": "602",
+    "timestamp": "2024-07-04T07:38:12",
+    "place": "Beaver Creek Road, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "beaver creek road",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_073812",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1214,
+    "type": "picture",
+    "type_id": "830",
+    "timestamp": "2024-07-04T07:40:32",
+    "place": "Beaver Creek Road, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "beaver creek road",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_074031",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1252,
+    "type": "picture",
+    "type_id": "868",
+    "timestamp": "2024-07-04T08:20:37",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240704_082037",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1945,
+    "type": "picture",
+    "type_id": "1561",
+    "timestamp": "2024-07-04T08:20:43",
+    "place": "Beaver Creek Road, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "beaver creek road",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_082042",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2367,
+    "type": "picture",
+    "type_id": "1983",
+    "timestamp": "2024-07-04T08:20:44",
+    "place": "Beaver Creek Road, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "beaver creek road",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_082044",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2355,
+    "type": "picture",
+    "type_id": "1971",
+    "timestamp": "2024-07-04T08:20:45",
+    "place": "Beaver Creek Road, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "beaver creek road",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_082045",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 499,
+    "type": "picture",
+    "type_id": "115",
+    "timestamp": "2024-07-04T09:14:27",
+    "place": "MT 234, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "mt 234",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_091427",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 876,
+    "type": "picture",
+    "type_id": "492",
+    "timestamp": "2024-07-04T09:14:30",
+    "place": "MT 234, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "mt 234",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_091430",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2433,
+    "type": "picture",
+    "type_id": "2049",
+    "timestamp": "2024-07-04T09:15:57",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240704_091557",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 645,
+    "type": "picture",
+    "type_id": "261",
+    "timestamp": "2024-07-04T09:16:48",
+    "place": "MT 234, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "mt 234",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_091647",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 663,
+    "type": "picture",
+    "type_id": "279",
+    "timestamp": "2024-07-04T09:17:55",
+    "place": "MT 234, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "mt 234",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_091755",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 825,
+    "type": "picture",
+    "type_id": "441",
+    "timestamp": "2024-07-04T09:17:59",
+    "place": "MT 234, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "mt 234",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_091758",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2450,
+    "type": "picture",
+    "type_id": "2066",
+    "timestamp": "2024-07-04T09:22:46",
+    "place": "MT 234, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "mt 234",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_092245",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2156,
+    "type": "picture",
+    "type_id": "1772",
+    "timestamp": "2024-07-04T09:22:48",
+    "place": "MT 234, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "mt 234",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_092248",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2246,
+    "type": "picture",
+    "type_id": "1862",
+    "timestamp": "2024-07-04T09:23:40",
+    "place": "MT 234, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "mt 234",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_092340",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2348,
+    "type": "picture",
+    "type_id": "1964",
+    "timestamp": "2024-07-04T09:24:15",
+    "place": "MT 234, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "mt 234",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_092415",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2700,
+    "type": "story",
+    "type_id": "4",
+    "timestamp": "2024-07-04T09:30",
+    "place": null,
+    "description": "adventures/nature: beaver creek hike to the falls\ntime: 09:30",
+    "data": {
+      "category": "adventures/nature",
+      "dada_rank": 5,
+      "sydney_rank": 10
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 639,
+    "type": "picture",
+    "type_id": "255",
+    "timestamp": "2024-07-04T09:30:50",
+    "place": "MT 234, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "mt 234",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_093050",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1579,
+    "type": "picture",
+    "type_id": "1195",
+    "timestamp": "2024-07-04T09:30:54",
+    "place": "MT 234, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "mt 234",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_093054",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2029,
+    "type": "picture",
+    "type_id": "1645",
+    "timestamp": "2024-07-04T09:31:47",
+    "place": "MT 234, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "mt 234",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_093147",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1138,
+    "type": "picture",
+    "type_id": "754",
+    "timestamp": "2024-07-04T09:31:52",
+    "place": "MT 234, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "mt 234",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_093152",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1401,
+    "type": "picture",
+    "type_id": "1017",
+    "timestamp": "2024-07-04T09:31:54",
+    "place": "MT 234, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "mt 234",
+        "city": "",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_093153",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 301,
+    "type": "receipt",
+    "type_id": "95",
+    "timestamp": "2024-07-04T10:03",
+    "place": "1064 1st St, Havre, MT 59501",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1064 1st st",
+        "city": "havre",
+        "state": "mt",
+        "postal": "59501"
+      },
+      "date": "2024-07-04",
+      "time": "10:03",
+      "address": "1064 1st St, Havre, MT 59501",
+      "items": [
+        {
+          "description": "Unleaded Gas",
+          "quantity": 1.547,
+          "price": 3.499,
+          "total": 40.4
+        }
+      ],
+      "category": "gas",
+      "payment_method": "debit",
+      "card_number": "*****9725",
+      "transaction_type": "sale",
+      "authorization_mode": "issuer",
+      "authorization_id": "A0000000042203",
+      "tvr": "8000048000",
+      "ac": "5AF5A783D3B5480",
+      "tsi": "6800",
+      "iad": "0118A0000122000",
+      "arc": "00",
+      "authorization_number": "848759",
+      "response_code": "00",
+      "stan": "09381364225",
+      "trace_number": "791387",
+      "payment_net": "040 Mae Stro",
+      "pin_used": true,
+      "notes": "Thank you, have a nice day."
+    },
+    "filename": "20240902_095315",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 302,
+    "type": "receipt",
+    "type_id": "37",
+    "timestamp": "2024-07-04T10:19",
+    "place": "1004 1st St, Havre, MT 59501",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1004 1st st",
+        "city": "havre",
+        "state": "mt",
+        "postal": "59501"
+      },
+      "date": "2024-07-04",
+      "time": "10:19",
+      "address": "1004 1st St, Havre, MT 59501",
+      "items": [
+        {
+          "description": "1 TROT LW MNTN HTH",
+          "price": 24.99
+        }
+      ],
+      "category": "convenience",
+      "store": "Cenex Zip Trip",
+      "store_number": "49",
+      "store_phone": "(406) 265-9812",
+      "associate": "ANGELA R.",
+      "receipt_number": "1-000000210415",
+      "subtotal": 24.99,
+      "total": 24.99
+    },
+    "filename": "20240902_095253",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 91,
+    "type": "map",
+    "type_id": "147",
+    "timestamp": "2024-07-04T10:29:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-04T10:29:00",
+      "end_timestamp": "2024-07-04T10:32:00",
+      "place": {
+        "address": "7th avenue north",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "352 3rd st",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "3 minutes",
+        "distance": "1 mi",
+        "location": "7th Avenue North, Montana -> 352 3rd St, Montana",
+        "nearby": [
+          "2nd St NW",
+          "Columbia Grain",
+          "Guadalajara Mexican",
+          "2nd St",
+          "3rd St",
+          "4th St",
+          "5th St",
+          "7th Ave",
+          "8th Ave",
+          "1st St N",
+          "10th Ave",
+          "10th Ave N"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212317_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1954,
+    "type": "picture",
+    "type_id": "1570",
+    "timestamp": "2024-07-04T10:29:20",
+    "place": "Gary and Leo's Fresh Foods IGA, 730, 1st Street, Clear Creek Terrace Trailer Court, Havre, Hill County, Montana, 59501, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "730 1st street",
+        "city": "havre",
+        "county": "hill county",
+        "state": "mt",
+        "postal": "59501"
+      },
+      "signs": "canada ->"
+    },
+    "filename": "20240704_102919",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 92,
+    "type": "map",
+    "type_id": "122",
+    "timestamp": "2024-07-04T10:32:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-04T10:32:00",
+      "end_timestamp": "2024-07-04T10:46:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "14 minutes",
+        "distance": "0 mi",
+        "location": "Near 352 3rd St, Montana",
+        "nearby": [
+          "Havre Beneath the Streets",
+          "Hill County Courthouse",
+          "Havre-Hill County Library",
+          "River Insurance"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212333_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 303,
+    "type": "receipt",
+    "type_id": "68",
+    "timestamp": "2024-07-04T10:37",
+    "place": "322 3rd St., Havre, MT 59501",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "322 3rd st",
+        "city": "havre",
+        "state": "mt",
+        "postal": "59501"
+      },
+      "date": "2024-07-04",
+      "time": "10:37",
+      "address": "322 3rd St., Havre, MT 59501",
+      "items": [
+        {
+          "description": "Accessories",
+          "price": 3.98,
+          "category": "clothing"
+        },
+        {
+          "description": "Clothing Women",
+          "price": 3.99,
+          "category": "clothing"
+        },
+        {
+          "description": "Clothing Men",
+          "price": 3.99,
+          "category": "clothing"
+        }
+      ],
+      "category": "thrift store",
+      "total": 8.96,
+      "payment": {
+        "method": "cash",
+        "amount_tendered": 20.0,
+        "change": 11.04
+      },
+      "store": {
+        "name": "Salvation Army",
+        "phone": "406-265-1101",
+        "hours": "Tues-Sat 10 am - 6 pm",
+        "employee": "Meaghan"
+      },
+      "receipt_number": "036406 00002"
+    },
+    "filename": "20240902_093038",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 93,
+    "type": "map",
+    "type_id": "281",
+    "timestamp": "2024-07-04T10:46:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-04T10:46:00",
+      "end_timestamp": "2024-07-04T11:31:00",
+      "place": {
+        "address": "352 3rd st",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "135 johannes avenue",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "45 minutes",
+        "distance": "34 mi",
+        "location": "352 3rd St, Montana -> 135 Johannes Avenue, Montana",
+        "nearby": [
+          "Kremlin",
+          "Box Elder",
+          "Rocky Crossing",
+          "Laredo",
+          "Agency",
+          "Saddle Butte"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212447_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 862,
+    "type": "picture",
+    "type_id": "478",
+    "timestamp": "2024-07-04T11:05:17",
+    "place": "US 87, Box Elder, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 87",
+        "city": "box elder",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_110516",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2030,
+    "type": "picture",
+    "type_id": "1646",
+    "timestamp": "2024-07-04T11:21:32",
+    "place": "Park Street, Big Sandy, Chouteau County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "park street",
+        "city": "big sandy",
+        "county": "chouteau county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_112132",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1205,
+    "type": "picture",
+    "type_id": "821",
+    "timestamp": "2024-07-04T11:22:14",
+    "place": "Paul Williams Memorial Rest Area, 79355, US 87, Big Sandy, Chouteau County, Montana, 59520, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "paul williams memorial rest area, 79355, us 87",
+        "city": "big sandy",
+        "county": "chouteau county",
+        "state": "mt",
+        "postal": "59520"
+      }
+    },
+    "filename": "20240704_112214",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1964,
+    "type": "picture",
+    "type_id": "1580",
+    "timestamp": "2024-07-04T11:22:21",
+    "place": "Paul Williams Memorial Rest Area, 79355, US 87, Big Sandy, Chouteau County, Montana, 59520, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "paul williams memorial rest area, 79355, us 87",
+        "city": "big sandy",
+        "county": "chouteau county",
+        "state": "mt",
+        "postal": "59520"
+      }
+    },
+    "filename": "20240704_112221",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 519,
+    "type": "picture",
+    "type_id": "135",
+    "timestamp": "2024-07-04T11:24:38",
+    "place": "Johannes Avenue West, Big Sandy, Chouteau County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "johannes avenue west",
+        "city": "big sandy",
+        "county": "chouteau county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_112438",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2110,
+    "type": "picture",
+    "type_id": "1726",
+    "timestamp": "2024-07-04T11:26:01",
+    "place": "The Grocery Store, 135, Johannes Avenue, Big Sandy, Chouteau County, Montana, 59520, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "135 johannes avenue",
+        "city": "big sandy",
+        "county": "chouteau county",
+        "state": "mt",
+        "postal": "59520"
+      }
+    },
+    "filename": "20240704_112601",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 304,
+    "type": "receipt",
+    "type_id": "115",
+    "timestamp": "2024-07-04T11:29",
+    "place": "Big Sandy, MT 59520",
+    "description": null,
+    "data": {
+      "place": {
+        "city": "big sandy",
+        "state": "mt",
+        "postal": "59520"
+      },
+      "date": "2024-07-04",
+      "time": "11:29",
+      "address": "Big Sandy, MT 59520",
+      "items": [
+        {
+          "description": "PUR LFE DISTILLED WATER",
+          "price": 2.79
+        },
+        {
+          "description": "POST HONEY ROAST",
+          "price": 6.49
+        }
+      ],
+      "category": "groceries",
+      "total": 9.28,
+      "payment_method": "Mastercard",
+      "card_number": "XXXXXXXXXXXX9725",
+      "authorization_code": "004097",
+      "transaction_details": {
+        "entry_method": "Chip",
+        "issuer": "Mastercard",
+        "AID": "A0000000041010",
+        "TVR": "8000008000",
+        "IGD": "0110600001220000000000000000000 000FF",
+        "TSI": "6800",
+        "ARC": "00",
+        "TC": "F36805CA01181774",
+        "MID": "280967",
+        "TID": "001",
+        "SEQ": "013612"
+      },
+      "change_due": 0,
+      "total_savings": 1.1,
+      "store_id": "01-2408793"
+    },
+    "filename": "20240902_095411",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 94,
+    "type": "map",
+    "type_id": "245",
+    "timestamp": "2024-07-04T11:32:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-04T11:32:00",
+      "end_timestamp": "2024-07-04T12:16:00",
+      "place": {
+        "address": "141 johannes ave",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "1408 front st",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "43 minutes",
+        "distance": "40 mi",
+        "location": "141 Johannes Ave, Montana -> 1408 Front St, Montana",
+        "nearby": [
+          "Fort Eon",
+          "Kenilworth",
+          "Loma Lippard",
+          "Big Sandy",
+          "Coal Banks Landing"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212500_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2162,
+    "type": "picture",
+    "type_id": "1778",
+    "timestamp": "2024-07-04T11:39:30",
+    "place": "US 87, Verona, Chouteau County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 87",
+        "city": "verona",
+        "county": "chouteau county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_113929",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1929,
+    "type": "picture",
+    "type_id": "1545",
+    "timestamp": "2024-07-04T11:56:02",
+    "place": "US 87, Loma, Chouteau County, Montana, 59460, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 87",
+        "city": "loma",
+        "county": "chouteau county",
+        "state": "mt",
+        "postal": "59460"
+      }
+    },
+    "filename": "20240704_115602",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 95,
+    "type": "map",
+    "type_id": "194",
+    "timestamp": "2024-07-04T12:16:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-04T12:16:00",
+      "end_timestamp": "2024-07-04T13:57:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "1 hour, 41 minutes",
+        "distance": "0 mi",
+        "location": "Near 1408 Front St, Montana",
+        "nearby": [
+          "Franklin St",
+          "15th St",
+          "Laundromat",
+          "Main St",
+          "13th St",
+          "14th St",
+          "16th St",
+          "The Shep Memorial"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212510_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2215,
+    "type": "picture",
+    "type_id": "1831",
+    "timestamp": "2024-07-04T12:26:24",
+    "place": "Steamboat Levee Park, Front Street, Fort Benton, Chouteau County, Montana, 59442, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "steamboat levee park, front street",
+        "city": "fort benton",
+        "county": "chouteau county",
+        "state": "mt",
+        "postal": "59442"
+      }
+    },
+    "filename": "20240704_122624",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2016,
+    "type": "picture",
+    "type_id": "1632",
+    "timestamp": "2024-07-04T12:26:42",
+    "place": "Steamboat Levee Park, Front Street, Fort Benton, Chouteau County, Montana, 59442, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "steamboat levee park, front street",
+        "city": "fort benton",
+        "county": "chouteau county",
+        "state": "mt",
+        "postal": "59442"
+      }
+    },
+    "filename": "20240704_122642",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2570,
+    "type": "picture",
+    "type_id": "2186",
+    "timestamp": "2024-07-04T12:26:48",
+    "place": "Steamboat Levee Park, Front Street, Fort Benton, Chouteau County, Montana, 59442, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "steamboat levee park, front street",
+        "city": "fort benton",
+        "county": "chouteau county",
+        "state": "mt",
+        "postal": "59442"
+      }
+    },
+    "filename": "20240704_122648",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1072,
+    "type": "picture",
+    "type_id": "688",
+    "timestamp": "2024-07-04T12:27:04",
+    "place": "Steamboat Levee Park, Front Street, Fort Benton, Chouteau County, Montana, 59442, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "steamboat levee park, front street",
+        "city": "fort benton",
+        "county": "chouteau county",
+        "state": "mt",
+        "postal": "59442"
+      }
+    },
+    "filename": "20240704_122704",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 710,
+    "type": "picture",
+    "type_id": "326",
+    "timestamp": "2024-07-04T12:27:54",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240704_122754",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1017,
+    "type": "picture",
+    "type_id": "633",
+    "timestamp": "2024-07-04T12:28:01",
+    "place": "Steamboat Levee Park, Front Street, Fort Benton, Chouteau County, Montana, 59442, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "steamboat levee park, front street",
+        "city": "fort benton",
+        "county": "chouteau county",
+        "state": "mt",
+        "postal": "59442"
+      }
+    },
+    "filename": "20240704_122801",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2426,
+    "type": "picture",
+    "type_id": "2042",
+    "timestamp": "2024-07-04T12:54:01",
+    "place": "1312, Front Street, Fort Benton, Chouteau County, Montana, 59442, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1312 front street",
+        "city": "fort benton",
+        "county": "chouteau county",
+        "state": "mt",
+        "postal": "59442"
+      }
+    },
+    "filename": "20240704_125400",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1613,
+    "type": "picture",
+    "type_id": "1229",
+    "timestamp": "2024-07-04T12:54:07",
+    "place": "1312, Front Street, Fort Benton, Chouteau County, Montana, 59442, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1312 front street",
+        "city": "fort benton",
+        "county": "chouteau county",
+        "state": "mt",
+        "postal": "59442"
+      }
+    },
+    "filename": "20240704_125407",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 982,
+    "type": "picture",
+    "type_id": "598",
+    "timestamp": "2024-07-04T12:54:13",
+    "place": "1312, Front Street, Fort Benton, Chouteau County, Montana, 59442, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1312 front street",
+        "city": "fort benton",
+        "county": "chouteau county",
+        "state": "mt",
+        "postal": "59442"
+      }
+    },
+    "filename": "20240704_125413",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 702,
+    "type": "picture",
+    "type_id": "318",
+    "timestamp": "2024-07-04T13:22:57",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240704_132257",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2701,
+    "type": "story",
+    "type_id": "275",
+    "timestamp": "2024-07-04T13:25",
+    "place": null,
+    "description": "attractions: b social bowling alley\n\ntime: 13:25",
+    "data": {
+      "category": "attractions",
+      "dada_rank": 7,
+      "sydney_rank": 7
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 96,
+    "type": "map",
+    "type_id": "218",
+    "timestamp": "2024-07-04T13:57:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-04T13:57:00",
+      "end_timestamp": "2024-07-04T14:46:00",
+      "place": {
+        "address": "1408 front st",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "9th street south",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "48 minutes",
+        "distance": "42 mi",
+        "location": "1408 Front St, Montana -> 9th Street South, Montana",
+        "nearby": [
+          "Great Falls",
+          "Gibson Flats",
+          "Fort Benton",
+          "Tunis",
+          "Carter",
+          "Floweree",
+          "Sand Coulee",
+          "Belt",
+          "Highwood"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212524_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 755,
+    "type": "picture",
+    "type_id": "371",
+    "timestamp": "2024-07-04T14:26:42",
+    "place": "US 87, Cascade County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 87",
+        "city": "",
+        "county": "cascade county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240704_142641",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 97,
+    "type": "map",
+    "type_id": "159",
+    "timestamp": "2024-07-04T14:52:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-04T14:52:00",
+      "end_timestamp": "2024-07-04T15:01:00",
+      "place": {
+        "address": "1022 9th st s",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "1044 5th st s",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "9 minutes",
+        "distance": "3 mi",
+        "location": "1022 9th St S, Montana -> 1044 5th St S, Montana",
+        "nearby": [
+          "Best Western Riverfront Hotel",
+          "Holiday Falls Convention Center",
+          "5th St S",
+          "6th St S",
+          "9th St S",
+          "10th Ave S"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212534_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 98,
+    "type": "map",
+    "type_id": "186",
+    "timestamp": "2024-07-04T15:13:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-04T15:13:00",
+      "end_timestamp": "2024-07-04T15:31:00",
+      "place": {
+        "address": "1080 5th st s",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "5th street south",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "18 minutes",
+        "distance": "0 mi",
+        "location": "1080 5th St S, Montana -> 5th Street South, Montana",
+        "nearby": []
+      }
+    },
+    "filename": "Screenshot_20240726_212542_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 99,
+    "type": "map",
+    "type_id": "60",
+    "timestamp": "2024-07-04T15:31:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-04T15:31:00",
+      "end_timestamp": "2024-07-04T17:07:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "1 hour, 35 minutes",
+        "distance": "0 mi",
+        "location": "Near 5th Street South, Montana",
+        "nearby": [
+          "Hwy 89",
+          "4th St S",
+          "10th Ave S",
+          "5th St S",
+          "12th Ave S"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212549_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1050,
+    "type": "picture",
+    "type_id": "666",
+    "timestamp": "2024-07-04T17:04:50",
+    "place": "12th Avenue South, Southside, Great Falls, Cascade County, Montana, 59045, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "12th avenue south",
+        "city": "great falls",
+        "county": "cascade county",
+        "state": "mt",
+        "postal": "59045"
+      },
+      "miles": "2962.0 miles",
+      "note": "staying at the convention center hotel in grand falls"
+    },
+    "filename": "20240704_170449",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 100,
+    "type": "map",
+    "type_id": "337",
+    "timestamp": "2024-07-04T17:07:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-04T17:07:00",
+      "end_timestamp": "2024-07-04T17:41:00",
+      "place": {
+        "address": "5th street south",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "1st avenue south",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "34 minutes",
+        "distance": "7 mi",
+        "location": "5th Street South, Montana -> 1st Avenue South, Montana",
+        "nearby": [
+          "Meadowlark Country Club",
+          "Missouri River",
+          "C. M. Russell Museum",
+          "Scheels",
+          "6th St SW",
+          "3rd St NW",
+          "9th St N",
+          "15th St S"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212612_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2702,
+    "type": "story",
+    "type_id": "86",
+    "timestamp": "2024-07-04T18:00",
+    "place": null,
+    "description": "accommodations: great falls, mt\ntime: 18:00",
+    "data": {
+      "category": "accommodations",
+      "dada_rank": 10,
+      "sydney_rank": 9
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 101,
+    "type": "map",
+    "type_id": "22",
+    "timestamp": "2024-07-04T18:01:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-04T18:01:00",
+      "end_timestamp": "2024-07-04T18:05:00",
+      "place": {
+        "address": "1st avenue south",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "342 central ave w",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "4 minutes",
+        "distance": "1 mi",
+        "location": "1st Avenue South, Montana -> 342 Central Ave W, Montana",
+        "nearby": [
+          "Edge Suites",
+          "Electric City Water Park",
+          "Best Western Plus Riverfront Hotel",
+          "Riverside Park",
+          "Gibson Park",
+          "3rd St NW",
+          "2nd Ave N",
+          "1st Ave N"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212620_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 102,
+    "type": "map",
+    "type_id": "222",
+    "timestamp": "2024-07-04T18:05:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-04T18:05:00",
+      "end_timestamp": "2024-07-04T18:27:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "22 minutes",
+        "distance": "0 mi",
+        "location": "Near 342 Central Ave W, Montana",
+        "nearby": [
+          "4th St NW",
+          "Central Ave W",
+          "1st Ave SW",
+          "3rd St NW",
+          "3rd St SW",
+          "4th St SW"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212628_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 305,
+    "type": "receipt",
+    "type_id": "113",
+    "timestamp": "2024-07-04T18:09",
+    "place": "317 Central Avenue West, Great Falls, MT 59404",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "317 central avenue west",
+        "city": "great falls",
+        "state": "mt",
+        "postal": "59404"
+      },
+      "date": "2024-07-04",
+      "time": "18:09",
+      "address": "317 Central Avenue West, Great Falls, MT 59404",
+      "items": [
+        {
+          "description": "Go Large",
+          "price": 2.99
+        },
+        {
+          "description": "Ind Fries",
+          "price": 2.79
+        },
+        {
+          "description": "Upsize to Lrg Drink",
+          "price": 0
+        },
+        {
+          "description": "Drink Only",
+          "price": 0
+        },
+        {
+          "description": "Md Pepsi",
+          "price": 0
+        }
+      ],
+      "category": "restaurant",
+      "cashier": "Carlie",
+      "customer": "Richard Sanda",
+      "payment": {
+        "method": "Credit",
+        "change": 0,
+        "total": 5.78,
+        "card": {
+          "type": "Mastercard",
+          "account": "************9725 C",
+          "auth_code": "004099",
+          "trans_num": "4872",
+          "auth_ref": "36",
+          "auth_amt": 5.73,
+          "emv_aid": "40000000041010",
+          "emv_tvr": "8000008000",
+          "emv_tsi": "6800",
+          "emv_app_name": "Mastercard Debit"
+        }
+      },
+      "feedback": {
+        "website": "www.kfclistens-usa.com",
+        "survey": "Survey responses accepted within 3 days of original purchase date."
+      },
+      "donation": {
+        "organization": "KFC Foundation",
+        "cause": "community-based charities, scholarships, hardship assistance, and more for restaurant employees."
+      }
+    },
+    "filename": "20240902_093357",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 103,
+    "type": "map",
+    "type_id": "203",
+    "timestamp": "2024-07-04T18:27:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-04T18:27:00",
+      "end_timestamp": "2024-07-04T18:34:00",
+      "place": {
+        "business": "walmart supercenter"
+      },
+      "end_place": {
+        "address": "2138 8th st ne",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "6 minutes",
+        "distance": "2 mi",
+        "location": "342 Central Ave W, Montana -> 2138 8th St NE, Montana",
+        "nearby": [
+          "Albertsons",
+          "Walmart Supercenter",
+          "3rd St NW",
+          "Smelter Ave NE",
+          "NW Bypass",
+          "Gibson Park",
+          "Children's Museum of Montana",
+          "Water Park",
+          "Great Falls"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212638_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 306,
+    "type": "receipt",
+    "type_id": "38",
+    "timestamp": "2024-07-04T18:42",
+    "place": "701 Smelter Ave NE, Great Falls, MT 59404",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "701 smelter ave ne",
+        "city": "great falls",
+        "state": "mt",
+        "postal": "59404"
+      },
+      "date": "2024-07-04",
+      "time": "18:42",
+      "address": "701 Smelter Ave NE, Great Falls, MT 59404",
+      "items": [
+        {
+          "description": "Camp Pad Pillow",
+          "price": 19.97
+        },
+        {
+          "description": "CAMP PAD PILLOW",
+          "price": 49.97
+        },
+        {
+          "description": "CAMP PAD PILLOW",
+          "price": 9.97
+        }
+      ],
+      "category": "convenience",
+      "total": 79.91,
+      "payment_method": "debit",
+      "cash_back": 100.0,
+      "change_due": 100.0,
+      "debit_purchase_total": 179.91,
+      "debit_card_number": "**** **** **** 9725",
+      "debit_ref_number": "418700852521",
+      "network_id": "0056",
+      "approval_code": "000837",
+      "aid": "A0000000042203",
+      "aac": "7187D330AB1120FE",
+      "pin_verified": true,
+      "terminal_number": "52405343",
+      "walmart_plus": true,
+      "free_delivery": true,
+      "free_trial": 30
+    },
+    "filename": "20240902_095341",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 104,
+    "type": "map",
+    "type_id": "264",
+    "timestamp": "2024-07-04T18:49:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-04T18:49:00",
+      "end_timestamp": "2024-07-04T18:59:00",
+      "place": {
+        "address": "2138 8th st ne",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "5th street south",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "10 minutes",
+        "distance": "2 mi",
+        "location": "2138 8th St NE, Montana -> 5th Street South, Montana",
+        "nearby": [
+          "Walmart Supercenter",
+          "Missouri River",
+          "15th St",
+          "Smelter Ave NE",
+          "C. M. Russell Museum",
+          "9th St N",
+          "Great Falls",
+          "Meadowlark Country Club",
+          "Scheels",
+          "River Dr N",
+          "2nd Ave N",
+          "13th St S"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212658_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 105,
+    "type": "map",
+    "type_id": "6",
+    "timestamp": "2024-07-04T18:59:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-04T18:59:00",
+      "end_timestamp": "2024-07-05T06:48:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "11 hours, 48 minutes",
+        "distance": "0 mi",
+        "location": "Near 5th Street South, Montana",
+        "nearby": [
+          "4th St S",
+          "10th Ave S",
+          "5th St",
+          "12th Ave S",
+          "14th Ave S"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212710_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1562,
+    "type": "picture",
+    "type_id": "1178",
+    "timestamp": "2024-07-04T19:06:26",
+    "place": "Holiday Inn, 5th Street South, Southside, Great Falls, Cascade County, Montana, 59045, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "holiday inn, 5th street south",
+        "city": "great falls",
+        "county": "cascade county",
+        "state": "mt",
+        "postal": "59045"
+      }
+    },
+    "filename": "20240704_190625",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  }
+]

@@ -1,0 +1,2662 @@
+[
+  {
+    "id": 2674,
+    "type": "story",
+    "type_id": "187",
+    "timestamp": "2024-06-30T00:01",
+    "place": null,
+    "description": "days: day 4, jun 30 (cleveland -> upper peninsula)\ntime: 00:01\ndate: 2024-06-30",
+    "data": {
+      "category": "days",
+      "dada_rank": 9,
+      "sydney_rank": 10
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2410,
+    "type": "picture",
+    "type_id": "2026",
+    "timestamp": "2024-06-30T07:42:52",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240630_074251",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1121,
+    "type": "picture",
+    "type_id": "737",
+    "timestamp": "2024-06-30T08:04:29",
+    "place": "Westin, 777, Saint Clair Avenue Northeast, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "777 saint clair avenue northeast",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      },
+      "miles": "784.9 miles",
+      "note": "in our cleveland parking garage"
+    },
+    "filename": "20240630_080429",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 42,
+    "type": "map",
+    "type_id": "315",
+    "timestamp": "2024-06-30T08:07:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-30T08:07:00",
+      "end_timestamp": "2024-06-30T10:26:00",
+      "place": {
+        "address": "777 saint clair avenue north"
+      },
+      "end_place": {
+        "address": "1301n dixie hwy",
+        "state": "mi"
+      },
+      "info": {
+        "duration": "2 hours, 19 minutes",
+        "distance": "134 mi",
+        "location": "777 Saint Clair Avenue North, Michigan -> 1301 N Dixie Hwy, Michigan",
+        "nearby": [
+          "Detroit",
+          "Arbor",
+          "Findlay",
+          "Lake Erie",
+          "Cleveland",
+          "Wooster",
+          "Mansfield",
+          "Akron"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_211008_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1594,
+    "type": "picture",
+    "type_id": "1210",
+    "timestamp": "2024-06-30T08:25:45",
+    "place": "Northwest Freeway, Westlake, Cuyahoga County, Ohio, 44145, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "northwest freeway",
+        "city": "westlake",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44145"
+      },
+      "signs": "i-90, oh 2 toledo"
+    },
+    "filename": "20240630_082545",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1715,
+    "type": "picture",
+    "type_id": "1331",
+    "timestamp": "2024-06-30T08:26:37",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240630_082637",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 243,
+    "type": "shazam",
+    "type_id": "21",
+    "timestamp": "2024-06-30T08:27:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "title": "Treehouse (feat. Emily Yacina)",
+      "artist": "Alex G",
+      "link": "https://www.shazam.com/track/550269835/treehouse-feat-emily-yacina",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a6/0e/25/a60e2563-d67f-dde5-37b8-debbc3effb65/859753084726_cover.jpg/400x400cc.jpg"
+    },
+    "filename": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a6/0e/25/a60e2563-d67f-dde5-37b8-debbc3effb65/859753084726_cover.jpg/400x400cc.jpg",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2017,
+    "type": "picture",
+    "type_id": "1633",
+    "timestamp": "2024-06-30T08:33:56",
+    "place": "Northwest Freeway, Sheffield, Lorain County, Ohio, 44054, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "northwest freeway",
+        "city": "sheffield",
+        "county": "lorain county",
+        "state": "oh",
+        "postal": "44054"
+      },
+      "signs": "elyria 3\ntoledo 95"
+    },
+    "filename": "20240630_083355",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 279,
+    "type": "receipt",
+    "type_id": "106",
+    "timestamp": "2024-06-30T08:40",
+    "place": "OHIO TURNPIKE, www.ohioturnpike.org",
+    "description": null,
+    "data": {
+      "place": {
+        "business": "ohio turnpike"
+      },
+      "date": "2024-06-30",
+      "time": "08:40",
+      "address": "OHIO TURNPIKE, www.ohioturnpike.org",
+      "items": [
+        {
+          "description": "Entry TP142",
+          "price": "$0.00"
+        },
+        {
+          "description": "Exit TP071",
+          "price": "$0.00"
+        },
+        {
+          "description": "Class: 1 Axles: 2",
+          "price": "$6.75"
+        },
+        {
+          "description": "Collector 107166",
+          "price": "$0.00"
+        },
+        {
+          "description": "Payment",
+          "price": "$0.00"
+        },
+        {
+          "description": "Toll Due",
+          "price": "$6.75"
+        },
+        {
+          "description": "Paid",
+          "price": "$6.75"
+        },
+        {
+          "description": "Bal Due",
+          "price": "$0.00"
+        }
+      ],
+      "category": "toll",
+      "other_details": "Save up to 33% on future Ohio Turnpike tolls To open an E-ZPass account Go to www.ezpassoh.com"
+    },
+    "filename": "20240902_095502",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1573,
+    "type": "picture",
+    "type_id": "1189",
+    "timestamp": "2024-06-30T08:42:15",
+    "place": "Ohio Turnpike, Amherst Township, Lorain County, Ohio, 44001, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "ohio turnpike",
+        "city": "amherst township",
+        "county": "lorain county",
+        "state": "oh",
+        "postal": "44001"
+      }
+    },
+    "filename": "20240630_084215",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1190,
+    "type": "picture",
+    "type_id": "806",
+    "timestamp": "2024-06-30T08:42:37",
+    "place": "Ohio Turnpike, Amherst Township, Lorain County, Ohio, 44001, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "ohio turnpike",
+        "city": "amherst township",
+        "county": "lorain county",
+        "state": "oh",
+        "postal": "44001"
+      }
+    },
+    "filename": "20240630_084237",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2675,
+    "type": "story",
+    "type_id": "491",
+    "timestamp": "2024-06-30T09:00",
+    "place": null,
+    "description": "songs: yellow -- coldplay\n\ntime: 09:00",
+    "data": {
+      "id": 212,
+      "artist_name": "Coldplay",
+      "song_name": "Yellow",
+      "image_link": "https://i.scdn.co/image/ab67616d0000b2739164bafe9aaa168d93f4816a",
+      "song_link": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg",
+      "ordinal": null,
+      "spotify_id": "3AJwUDP919kvQ9QcozQPxg",
+      "added_at": "2024-06-24T16:20:49Z",
+      "playlist_id": "4cbtSLSi3GIDQI6s62Opjs",
+      "playlist_name": "roadtrip playlist",
+      "playlist_owner": "Sydney",
+      "category": "songs",
+      "dada_rank": 212,
+      "sydney_rank": 10
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2240,
+    "type": "picture",
+    "type_id": "1856",
+    "timestamp": "2024-06-30T09:01:38",
+    "place": "Ohio Turnpike, Milan Township, Erie County, Ohio, 44846, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "ohio turnpike",
+        "city": "milan township",
+        "county": "erie county",
+        "state": "oh",
+        "postal": "44846"
+      }
+    },
+    "filename": "20240630_090138",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 280,
+    "type": "receipt",
+    "type_id": "121",
+    "timestamp": "2024-06-30T09:30",
+    "place": "1012 N County Rd Clyde OH 43410",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1012 n county rd",
+        "city": "clyde",
+        "state": "oh",
+        "postal": "43410"
+      },
+      "date": "2024-06-30",
+      "time": "09:30",
+      "address": "1012 N County Rd Clyde OH 43410",
+      "items": [
+        {
+          "description": "PREPAY CA #02",
+          "quantity": 1,
+          "amount": 50.0
+        }
+      ],
+      "category": "convenience",
+      "payment_method": {
+        "type": "debit",
+        "account_number": "************9725",
+        "entry": "Chip Read",
+        "app_name": "Debit",
+        "auth_net": "MAE DIR",
+        "aid": "A0000000042203",
+        "auth_number": "426626",
+        "response_code": "000",
+        "stan": "0145452214",
+        "invoice_number": "549933",
+        "shift_number": 1
+      },
+      "store_number": "7755",
+      "cashier": "12",
+      "transaction_number": "1013943"
+    },
+    "filename": "20240902_100542",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1720,
+    "type": "picture",
+    "type_id": "1336",
+    "timestamp": "2024-06-30T09:39:25",
+    "place": "Ohio Turnpike, Sandusky County, Ohio, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "ohio turnpike",
+        "city": "",
+        "county": "sandusky county",
+        "state": "oh",
+        "postal": ""
+      },
+      "signs": "elmore 11\ni-280 20\ntoledo 31"
+    },
+    "filename": "20240630_093925",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1719,
+    "type": "picture",
+    "type_id": "1335",
+    "timestamp": "2024-06-30T09:54:08",
+    "place": "Ohio Turnpike, Wood County, Ohio, 43447, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "ohio turnpike",
+        "city": "",
+        "county": "wood county",
+        "state": "oh",
+        "postal": "43447"
+      },
+      "signs": "i-280 toledo, detroit"
+    },
+    "filename": "20240630_095408",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1531,
+    "type": "picture",
+    "type_id": "1147",
+    "timestamp": "2024-06-30T09:56:52",
+    "place": "Ohio Turnpike, Wood County, Ohio, 43447, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "ohio turnpike",
+        "city": "",
+        "county": "wood county",
+        "state": "oh",
+        "postal": "43447"
+      },
+      "signs": "i-280 toledo, detroit\noh-420 stony ridge"
+    },
+    "filename": "20240630_095651",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 476,
+    "type": "picture",
+    "type_id": "92",
+    "timestamp": "2024-06-30T10:06:01",
+    "place": "Veterans' Memorial Glass City Skyway, East Toledo, Ryan, Toledo, Lucas County, Ohio, 43603, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "veterans' memorial glass city skyway",
+        "city": "toledo",
+        "county": "lucas county",
+        "state": "oh",
+        "postal": "43603"
+      }
+    },
+    "filename": "20240630_100601",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1627,
+    "type": "picture",
+    "type_id": "1243",
+    "timestamp": "2024-06-30T10:06:25",
+    "place": "Veterans' Memorial Glass City Skyway, Bush Street Historic District, Toledo, Lucas County, Ohio, 43605, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "veterans' memorial glass city skyway",
+        "city": "toledo",
+        "county": "lucas county",
+        "state": "oh",
+        "postal": "43605"
+      }
+    },
+    "filename": "20240630_100625",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1210,
+    "type": "picture",
+    "type_id": "826",
+    "timestamp": "2024-06-30T10:07:43",
+    "place": "I 280, Northriver, Toledo, Lucas County, Ohio, 43608, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 280 northriver",
+        "city": "toledo",
+        "county": "lucas county",
+        "state": "oh",
+        "postal": "43608"
+      },
+      "signs": "i-75 detroit"
+    },
+    "filename": "20240630_100742",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 539,
+    "type": "picture",
+    "type_id": "155",
+    "timestamp": "2024-06-30T10:11:35",
+    "place": "I 75, Toledo, Lucas County, Ohio, 43611, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 75",
+        "city": "toledo",
+        "county": "lucas county",
+        "state": "oh",
+        "postal": "43611"
+      },
+      "sign": "welcome to pure michigan",
+      "note": ""
+    },
+    "filename": "20240630_101134",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 43,
+    "type": "map",
+    "type_id": "213",
+    "timestamp": "2024-06-30T10:32:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-30T10:32:00",
+      "end_timestamp": "2024-06-30T11:43:00",
+      "place": {
+        "address": "1268 n dixie hwy",
+        "state": "mi"
+      },
+      "end_place": {
+        "address": "cadillac square",
+        "state": "mi"
+      },
+      "info": {
+        "duration": "1 hour, 11 minutes",
+        "distance": "41 mi",
+        "location": "1268 N Dixie Hwy, Michigan -> Cadillac Square, Michigan",
+        "nearby": [
+          "Canton",
+          "Livonia",
+          "Romulus",
+          "Monroe",
+          "Taylor"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_211020_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 498,
+    "type": "picture",
+    "type_id": "114",
+    "timestamp": "2024-06-30T10:58:42",
+    "place": "Fisher Freeway, Oakwood Heights, Delray Junction, Detroit, Wayne County, Michigan, 48218, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "fisher freeway",
+        "city": "detroit",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48218"
+      }
+    },
+    "filename": "20240630_105842",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2111,
+    "type": "picture",
+    "type_id": "1727",
+    "timestamp": "2024-06-30T11:02:12",
+    "place": "Fisher Freeway, Hubbard Farms, Detroit, Wayne County, Michigan, 48216, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "fisher freeway",
+        "city": "detroit",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48216"
+      },
+      "signs": "bridge to canada"
+    },
+    "filename": "20240630_110212",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 870,
+    "type": "picture",
+    "type_id": "486",
+    "timestamp": "2024-06-30T11:03:42",
+    "place": "17th Street, Corktown, Detroit, Wayne County, Michigan, 48216, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "17th street",
+        "city": "detroit",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48216"
+      },
+      "signs": "tunnel to canada"
+    },
+    "filename": "20240630_110342",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1307,
+    "type": "picture",
+    "type_id": "923",
+    "timestamp": "2024-06-30T11:06:07",
+    "place": "John C Lodge Drive, West Side Industrial Park, Detroit, Wayne County, Michigan, 48226, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "john c lodge drive",
+        "city": "detroit",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48226"
+      }
+    },
+    "filename": "20240630_110606",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1756,
+    "type": "picture",
+    "type_id": "1372",
+    "timestamp": "2024-06-30T11:06:29",
+    "place": "West Lafayette Boulevard, West Side Industrial Park, Detroit, Wayne County, Michigan, 48216, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "west lafayette boulevard",
+        "city": "detroit",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48216"
+      }
+    },
+    "filename": "20240630_110629",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1311,
+    "type": "picture",
+    "type_id": "927",
+    "timestamp": "2024-06-30T11:07:44",
+    "place": "West Lafayette Boulevard, West Side Industrial Park, Detroit, Wayne County, Michigan, 48216, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "west lafayette boulevard",
+        "city": "detroit",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48216"
+      }
+    },
+    "filename": "20240630_110743",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 731,
+    "type": "picture",
+    "type_id": "347",
+    "timestamp": "2024-06-30T11:07:49",
+    "place": "Comerica Bank Center, 411, West Lafayette Boulevard, West Side Industrial Park, Detroit, Wayne County, Michigan, 48226, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "comerica bank center, 411 west lafayette boulevard",
+        "city": "detroit",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48226"
+      }
+    },
+    "filename": "20240630_110749",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1768,
+    "type": "picture",
+    "type_id": "1384",
+    "timestamp": "2024-06-30T11:08:54",
+    "place": "Griswold Capitol Park, 150, Michigan Avenue, Greektown, Detroit, Wayne County, Michigan, 48226, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "150 michigan avenue",
+        "city": "detroit",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48226"
+      }
+    },
+    "filename": "20240630_110853",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2109,
+    "type": "picture",
+    "type_id": "1725",
+    "timestamp": "2024-06-30T11:11:16",
+    "place": "150 W. Jefferson Garage, 150, West Jefferson Service Drive, Detroit, Wayne County, Michigan, 48226, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "150 w jefferson garage",
+        "city": "detroit",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48226"
+      }
+    },
+    "filename": "20240630_111116",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1530,
+    "type": "picture",
+    "type_id": "1146",
+    "timestamp": "2024-06-30T11:11:34",
+    "place": "Gomidas Vartabed, West Jefferson Avenue, Detroit, Wayne County, Michigan, 48243, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "gomidas vartabed west jefferson avenue",
+        "city": "detroit",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48243"
+      }
+    },
+    "filename": "20240630_111133",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 478,
+    "type": "picture",
+    "type_id": "94",
+    "timestamp": "2024-06-30T11:11:56",
+    "place": "Gomidas Vartabed, West Jefferson Avenue, Detroit, Wayne County, Michigan, 48243, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "gomidas vartabed west jefferson avenue",
+        "city": "detroit",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48243"
+      }
+    },
+    "filename": "20240630_111155",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2175,
+    "type": "picture",
+    "type_id": "1791",
+    "timestamp": "2024-06-30T11:16:55",
+    "place": "1236, Randolph Street, Greektown, Detroit, Wayne County, Michigan, 48226, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1236 randolph street",
+        "city": "detroit",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48226"
+      }
+    },
+    "filename": "20240630_111655",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2233,
+    "type": "picture",
+    "type_id": "1849",
+    "timestamp": "2024-06-30T11:20:18",
+    "place": "17, East Montcalm Street, Chinatown, Midtown, Detroit, Wayne County, Michigan, 48201, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "17 east montcalm street",
+        "city": "detroit",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48201"
+      }
+    },
+    "filename": "20240630_112018",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2461,
+    "type": "picture",
+    "type_id": "2077",
+    "timestamp": "2024-06-30T11:20:59",
+    "place": "Comerica Garage, 50, West Montcalm Street, Chinatown, Detroit, Wayne County, Michigan, 48226, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "comerica garage, 50 west montcalm street",
+        "city": "detroit",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48226"
+      }
+    },
+    "filename": "20240630_112058",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1681,
+    "type": "picture",
+    "type_id": "1297",
+    "timestamp": "2024-06-30T11:21:58",
+    "place": "9, West Elizabeth Street, Detroit, Wayne County, Michigan, 48201, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "9 west elizabeth street",
+        "city": "detroit",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48201"
+      }
+    },
+    "filename": "20240630_112157",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2190,
+    "type": "picture",
+    "type_id": "1806",
+    "timestamp": "2024-06-30T11:34:46",
+    "place": "Cadillac Square, Greektown, Detroit, Wayne County, Michigan, 48243, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "cadillac square",
+        "city": "detroit",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48243"
+      }
+    },
+    "filename": "20240630_113445",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2390,
+    "type": "picture",
+    "type_id": "2006",
+    "timestamp": "2024-06-30T11:51:23",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240630_115123",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 44,
+    "type": "map",
+    "type_id": "266",
+    "timestamp": "2024-06-30T11:52:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-30T11:52:00",
+      "end_timestamp": "2024-06-30T11:54:00",
+      "place": {
+        "address": "140 w jefferson ave",
+        "state": "mi"
+      },
+      "end_place": {
+        "address": "133 cadillac sq",
+        "state": "mi"
+      },
+      "info": {
+        "duration": "1 minute",
+        "distance": "0 mi",
+        "location": "140 W Jefferson Ave, Michigan -> 133 Cadillac Sq, Michigan",
+        "nearby": [
+          "Larned St",
+          "Cadillac Square",
+          "Griswold St",
+          "Woodward Ave",
+          "Randolph Street",
+          "E Congress St",
+          "Bates St",
+          "Jefferson Ave"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_211034_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 45,
+    "type": "map",
+    "type_id": "151",
+    "timestamp": "2024-06-30T11:54:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-30T11:54:00",
+      "end_timestamp": "2024-06-30T12:00:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "6 minutes",
+        "distance": "0 mi",
+        "location": "Near 133 Cadillac Sq, Michigan",
+        "nearby": [
+          "One Campus Martius Garage",
+          "Parking Garage",
+          "Monroe St",
+          "Farmer St",
+          "Bates St",
+          "Detroit",
+          "Cadillac Square",
+          "Woodward Ave",
+          "E Lafayette St",
+          "E Fort St",
+          "Randolph Street",
+          "E Congress St",
+          "One Detroit Garage",
+          "Brush St"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_211047_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 46,
+    "type": "map",
+    "type_id": "33",
+    "timestamp": "2024-06-30T12:00:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-30T12:00:00",
+      "end_timestamp": "2024-06-30T12:05:00",
+      "place": {
+        "address": "133 cadillac sq",
+        "state": "mi"
+      },
+      "end_place": {
+        "address": "211 joseph campau street"
+      },
+      "info": {
+        "duration": "4 minutes",
+        "distance": "1 mi",
+        "location": "133 Cadillac Sq, Michigan -> 211 Joseph Campau Street, Detroit",
+        "nearby": [
+          "EASTERN MARKET",
+          "Dequindre Cut",
+          "E Vernor Hwy",
+          "Comerica Park",
+          "Hollywood Casino at Greektown",
+          "Detroit Riverwalk",
+          "Caesars Windsor"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_211513_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 47,
+    "type": "map",
+    "type_id": "18",
+    "timestamp": "2024-06-30T12:05:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-30T12:05:00",
+      "end_timestamp": "2024-06-30T12:58:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "52 minutes",
+        "distance": "0 mi",
+        "location": "Near 211 Joseph Campau Street, Michigan",
+        "nearby": [
+          "Franklin St",
+          "Wight St",
+          "Guoin St",
+          "Jos Campau",
+          "River Place",
+          "McDougall",
+          "Atwater St",
+          "Talon Centre Dr"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_211522_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1165,
+    "type": "picture",
+    "type_id": "781",
+    "timestamp": "2024-06-30T12:06:35",
+    "place": "Atwater Street, Rivertown, Detroit, Wayne County, Michigan, 48207, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "atwater street",
+        "city": "detroit",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48207"
+      }
+    },
+    "filename": "20240630_120634",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2041,
+    "type": "picture",
+    "type_id": "1657",
+    "timestamp": "2024-06-30T12:06:56",
+    "place": "Atwater Street, Rivertown, Detroit, Wayne County, Michigan, 48207, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "atwater street",
+        "city": "detroit",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48207"
+      }
+    },
+    "filename": "20240630_120656",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2404,
+    "type": "picture",
+    "type_id": "2020",
+    "timestamp": "2024-06-30T12:12:40",
+    "place": "3045, East Lafayette Street, Elmwood Park, Detroit, Wayne County, Michigan, 48207, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "3045 east lafayette street",
+        "city": "elmwood park",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48207"
+      }
+    },
+    "filename": "20240630_121240",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 773,
+    "type": "picture",
+    "type_id": "389",
+    "timestamp": "2024-06-30T12:12:42",
+    "place": "3045, East Lafayette Street, Elmwood Park, Detroit, Wayne County, Michigan, 48207, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "3045 east lafayette street",
+        "city": "elmwood park",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48207"
+      }
+    },
+    "filename": "20240630_121242",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 935,
+    "type": "picture",
+    "type_id": "551",
+    "timestamp": "2024-06-30T12:12:58",
+    "place": "207, Joseph Campau Street, River Place, Detroit, Wayne County, Michigan, 48207, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "207 joseph campau street",
+        "city": "detroit",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48207"
+      }
+    },
+    "filename": "20240630_121258",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 932,
+    "type": "picture",
+    "type_id": "548",
+    "timestamp": "2024-06-30T12:16:08",
+    "place": "207, Joseph Campau Street, River Place, Detroit, Wayne County, Michigan, 48207, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "207 joseph campau street",
+        "city": "detroit",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48207"
+      }
+    },
+    "filename": "20240630_121608",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2676,
+    "type": "story",
+    "type_id": "42",
+    "timestamp": "2024-06-30T12:40",
+    "place": null,
+    "description": "meals: andrews on the corner\ntime: 13:30\ntime: 12:40",
+    "data": {
+      "category": "meals",
+      "dada_rank": 4,
+      "sydney_rank": 16
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 281,
+    "type": "receipt",
+    "type_id": "90",
+    "timestamp": "2024-06-30T12:44",
+    "place": "201 Jos Campau Detroit, MI 48207",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "201 jos campau",
+        "city": "detroit",
+        "state": "mi",
+        "postal": "48207"
+      },
+      "date": "2024-06-30",
+      "time": "12:44",
+      "address": "201 Jos Campau Detroit, MI 48207",
+      "items": [
+        {
+          "description": "Double burger",
+          "quantity": 1,
+          "price": 16.95
+        },
+        {
+          "description": "Perch sandwich",
+          "quantity": 1,
+          "price": 21.95
+        },
+        {
+          "description": "Coke",
+          "quantity": 1,
+          "price": 2.75
+        }
+      ],
+      "category": "restaurant",
+      "subtotal": 41.65,
+      "MI sales tax": 2.5,
+      "total": 44.15,
+      "gratuity": 0.0,
+      "delivery fee": 0.0,
+      "party size": 1,
+      "customer name": "Cathy",
+      "ticket number": 8,
+      "to go order": false
+    },
+    "filename": "20240902_100440",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 565,
+    "type": "picture",
+    "type_id": "181",
+    "timestamp": "2024-06-30T12:51:29",
+    "place": "Atwater Street, Rivertown, Detroit, Wayne County, Michigan, 48207, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "atwater street",
+        "city": "detroit",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48207"
+      },
+      "miles": "959.6 miles",
+      "note": "in case i forget to notice 1000..."
+    },
+    "filename": "20240630_125129",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 774,
+    "type": "picture",
+    "type_id": "390",
+    "timestamp": "2024-06-30T12:52:01",
+    "place": "Atwater Street, Rivertown, Detroit, Wayne County, Michigan, 48207, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "atwater street",
+        "city": "detroit",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48207"
+      }
+    },
+    "filename": "20240630_125201",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 48,
+    "type": "map",
+    "type_id": "324",
+    "timestamp": "2024-06-30T12:58:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-30T12:58:00",
+      "end_timestamp": "2024-06-30T13:54:00",
+      "place": {
+        "address": "211 joseph campau street",
+        "state": "mi"
+      },
+      "end_place": {
+        "address": "2180 glen meadows",
+        "state": "mi"
+      },
+      "info": {
+        "duration": "56 minutes",
+        "distance": "53 mi",
+        "location": "211 Joseph Campau Street, Michigan -> 2180 Glen Meadows, Michigan",
+        "nearby": [
+          "Fenton",
+          "Waterford Township",
+          "Novi",
+          "West Bloomfield Township",
+          "Rochester Hills",
+          "Troy",
+          "Sterling Heights",
+          "St Clair",
+          "Livonia",
+          "Canton",
+          "Taylor",
+          "Romulus",
+          "Ann Arbor",
+          "Ypsilanti"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_211533_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1047,
+    "type": "picture",
+    "type_id": "663",
+    "timestamp": "2024-06-30T13:05:07",
+    "place": "Dequindre Cut Greenway, Lafayette Park, Detroit, Wayne County, Michigan, 48207, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "dequindre cut greenway",
+        "city": "detroit",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48207"
+      }
+    },
+    "filename": "20240630_130507",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1391,
+    "type": "picture",
+    "type_id": "1007",
+    "timestamp": "2024-06-30T13:08:19",
+    "place": "John C Lodge Freeway, Midtown, Detroit, Wayne County, Michigan, 48201, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "john c lodge freeway",
+        "city": "detroit",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48201"
+      },
+      "signs": "i-94 chicago\ni-94 port huron"
+    },
+    "filename": "20240630_130818",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1974,
+    "type": "picture",
+    "type_id": "1590",
+    "timestamp": "2024-06-30T13:16:16",
+    "place": "John C Lodge Freeway, Winship, Northwest Detroit, Detroit, Wayne County, Michigan, 48235, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "john c lodge freeway",
+        "city": "detroit",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48235"
+      },
+      "signs": "8 mile road"
+    },
+    "filename": "20240630_131616",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2084,
+    "type": "picture",
+    "type_id": "1700",
+    "timestamp": "2024-06-30T13:21:53",
+    "place": "27498, John C Lodge Freeway, Southfield, Oakland County, Michigan, 48034, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "27498 john c lodge freeway",
+        "city": "southfield",
+        "county": "oakland county",
+        "state": "mi",
+        "postal": "48034"
+      },
+      "signs": "i-696 lansing"
+    },
+    "filename": "20240630_132153",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2102,
+    "type": "picture",
+    "type_id": "1718",
+    "timestamp": "2024-06-30T13:41:26",
+    "place": "I 96, Lyon Charter Township, Oakland County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 96",
+        "city": "lyon charter township",
+        "county": "oakland county",
+        "state": "mi",
+        "postal": ""
+      },
+      "miles": "1000.0 miles",
+      "note": "...but i didn't :)"
+    },
+    "filename": "20240630_134126",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 730,
+    "type": "picture",
+    "type_id": "346",
+    "timestamp": "2024-06-30T13:43:54",
+    "place": "I 96, Brighton Charter Township, Livingston County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 96",
+        "city": "brighton charter township",
+        "county": "livingston county",
+        "state": "mi",
+        "postal": ""
+      },
+      "signs": "i-96 lansing\nus-23 flint, ann arbor"
+    },
+    "filename": "20240630_134353",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 49,
+    "type": "map",
+    "type_id": "345",
+    "timestamp": "2024-06-30T14:01:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-30T14:01:00",
+      "end_timestamp": "2024-06-30T15:08:00",
+      "place": {
+        "address": "10874 highland rd",
+        "state": "mi"
+      },
+      "end_place": {
+        "address": "6179 westside saginaw rd",
+        "state": "mi"
+      },
+      "info": {
+        "duration": "1 hour, 6 minutes",
+        "distance": "69 mi",
+        "location": "10874 Highland Rd, Michigan -> 6179 Westside Saginaw Rd, Michigan",
+        "nearby": [
+          "Midland",
+          "Saginaw",
+          "Cass City",
+          "Lansing",
+          "Holt",
+          "Sterling"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_211545_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2364,
+    "type": "picture",
+    "type_id": "1980",
+    "timestamp": "2024-06-30T14:24:10",
+    "place": "I 75;US 23, Flint Charter Township, Genesee County, Michigan, 48551, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 75;us 23",
+        "city": "flint charter township",
+        "county": "genesee county",
+        "state": "mi",
+        "postal": "48551"
+      },
+      "signs": "i-75, us-23 saginaw\ni-69 lansing\ni-69 flint, port huron"
+    },
+    "filename": "20240630_142410",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2466,
+    "type": "picture",
+    "type_id": "2082",
+    "timestamp": "2024-06-30T14:40:12",
+    "place": "I 75;US 23, Birch Run, Birch Run Township, Saginaw County, Michigan, 48415, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 75;us 23",
+        "city": "birch run",
+        "county": "saginaw county",
+        "state": "mi",
+        "postal": "48415"
+      },
+      "signs": "saginaw 16\nbay city 29\nmackinac br 201"
+    },
+    "filename": "20240630_144012",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 803,
+    "type": "picture",
+    "type_id": "419",
+    "timestamp": "2024-06-30T14:50:11",
+    "place": "I 75;US 23, Buena Vista, Buena Vista Charter Township, Saginaw County, Michigan, 48607, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 75;us 23",
+        "city": "buena vista",
+        "county": "saginaw county",
+        "state": "mi",
+        "postal": "48607"
+      },
+      "signs": "i-75, us-23 mackinac br\ni-675 downtown saginaw"
+    },
+    "filename": "20240630_145011",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 282,
+    "type": "receipt",
+    "type_id": "33",
+    "timestamp": "2024-06-30T15:01",
+    "place": "6183 Westside Sagina M-84 Party St, Bay City, MI 48706",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "6183 westside saginaw m-84 party st",
+        "city": "bay city",
+        "state": "mi",
+        "postal": "48706"
+      },
+      "date": "2024-06-30",
+      "time": "15:01",
+      "address": "6183 Westside Sagina M-84 Party St, Bay City, MI 48706",
+      "items": [
+        {
+          "description": "Regular Gas",
+          "price": "$3.799",
+          "quantity": "13.793G",
+          "total": "$52.40"
+        }
+      ],
+      "category": "gas",
+      "other_details": {
+        "invoice_number": "059152",
+        "authorization_number": "477529",
+        "pump_number": "7",
+        "payment_method": "debit",
+        "site_number": "0000000009655051",
+        "shift_number": "1",
+        "sequence_number": "58806",
+        "chip_read": true,
+        "mode": "issuer",
+        "AID": "ABBBBBBB042203",
+        "TVR": "8888848888",
+        "TSI": "6880",
+        "ARC": "88",
+        "TC": "A9A898936E802188",
+        "approved": true,
+        "verified_by_PIN": true
+      }
+    },
+    "filename": "20240902_100619",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 50,
+    "type": "map",
+    "type_id": "51",
+    "timestamp": "2024-06-30T15:10:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-30T15:10:00",
+      "end_timestamp": "2024-06-30T17:06:00",
+      "place": {
+        "address": "I-75",
+        "state": "mi"
+      },
+      "end_place": {
+        "address": "6132 w m68",
+        "state": "mi"
+      },
+      "info": {
+        "duration": "1 hour, 56 minutes",
+        "distance": "150 mi",
+        "location": "I-75, Michigan -> 6132 W M 68, Michigan",
+        "nearby": [
+          "Traverse City",
+          "Cadillac",
+          "Petoskey",
+          "Gard",
+          "Alpena",
+          "Saginaw",
+          "Oscoda"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_211554_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 728,
+    "type": "picture",
+    "type_id": "344",
+    "timestamp": "2024-06-30T15:16:03",
+    "place": "I 75;US 23, Kawkawlin Township, Bay County, Michigan, 48706, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 75;us 23",
+        "city": "kawkawlin township",
+        "county": "bay county",
+        "state": "mi",
+        "postal": "48706"
+      }
+    },
+    "filename": "20240630_151603",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2677,
+    "type": "story",
+    "type_id": "488",
+    "timestamp": "2024-06-30T15:30",
+    "place": null,
+    "description": "songs: rebel girl -- bikini kill\n\ntime: 15:30",
+    "data": {
+      "id": 209,
+      "artist_name": "Bikini Kill",
+      "song_name": "Rebel Girl",
+      "image_link": "https://i.scdn.co/image/ab67616d0000b2733aaf814e8350a1ae241603a0",
+      "song_link": "https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf",
+      "ordinal": null,
+      "spotify_id": "0XyjtybwqSdqMAFfBEkmZf",
+      "added_at": "2024-06-24T16:25:17Z",
+      "playlist_id": "4cbtSLSi3GIDQI6s62Opjs",
+      "playlist_name": "roadtrip playlist",
+      "playlist_owner": "Sydney",
+      "category": "songs",
+      "dada_rank": 209,
+      "sydney_rank": 6
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2678,
+    "type": "story",
+    "type_id": "118",
+    "timestamp": "2024-06-30T16:00",
+    "place": null,
+    "description": "wildlife: deer\ntime: 16:00",
+    "data": {
+      "category": "wildlife",
+      "dada_rank": 9,
+      "sydney_rank": 7
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 51,
+    "type": "map",
+    "type_id": "284",
+    "timestamp": "2024-06-30T17:06:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-30T17:06:00",
+      "end_timestamp": "2024-06-30T17:23:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "17 minutes",
+        "distance": "0 mi",
+        "location": "Near 6132 W M 68, Michigan",
+        "nearby": [
+          "Waterway Ln",
+          "N Central State Trail",
+          "Sturgeon River",
+          "Club Rd"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_211603_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 283,
+    "type": "receipt",
+    "type_id": "44",
+    "timestamp": "2024-06-30T17:08",
+    "place": "6220 M-68 & I-75, Indian River, MI 49749",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "6220 m-68 & i-75",
+        "city": "indian river",
+        "state": "mi",
+        "postal": "49749"
+      },
+      "date": "2024-06-30",
+      "time": "17:08",
+      "address": "6220 M-68 & I-75, Indian River, MI 49749",
+      "items": [
+        {
+          "description": "Packaged Ice 20lb",
+          "quantity": 1,
+          "amount": 5.99
+        }
+      ],
+      "category": "convenience",
+      "tax": 0.36,
+      "total": 6.35,
+      "payment_method": {
+        "type": "debit",
+        "card_type": "MasterCard",
+        "authorization_time": "17:08:51",
+        "account_number": "9725",
+        "transaction_type": "sale",
+        "authorization_number": "411185",
+        "reference_number": "99000130155",
+        "application_name": "Debit",
+        "application_id": "A0000000042203",
+        "application_cryptogram": "ARQC 2F1FD64E6FE56A6D",
+        "entry_mode": "insert",
+        "emv_stan": "05487944090",
+        "account_type": "DDA",
+        "network_name": "MasterCard",
+        "terminal_sequence_number": "922811",
+        "pin_used": true
+      },
+      "loyalty_program": {
+        "name": "Marathon Rewards",
+        "join_date": "2024-06-30",
+        "cashier": "9",
+        "drive_number": 1,
+        "transaction_number": 1019496
+      },
+      "message": "Thanks for shopping at Indian River Expressway E-Z Mart! Don't forget to join our loyalty program and earn rewards. See you again soon!"
+    },
+    "filename": "20240902_094823",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 52,
+    "type": "map",
+    "type_id": "155",
+    "timestamp": "2024-06-30T17:23:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-30T17:23:00",
+      "end_timestamp": "2024-06-30T18:17:00",
+      "place": {
+        "address": "6132 wm 68",
+        "state": "mi"
+      },
+      "end_place": {
+        "address": "US 2",
+        "state": "mi"
+      },
+      "info": {
+        "duration": "53 minutes",
+        "distance": "50 mi",
+        "location": "6132 W M 68, Michigan -> US 2, Michigan",
+        "nearby": [
+          "Brevort",
+          "St Ignace",
+          "Cedarville",
+          "Mackinaw City",
+          "Bois Blanc Island",
+          "Carp Lake",
+          "Cheboygan",
+          "Cross Village",
+          "Levering",
+          "Good Hart",
+          "Pellston",
+          "Petoskey",
+          "Indian River",
+          "Afton"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_211613_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 528,
+    "type": "picture",
+    "type_id": "144",
+    "timestamp": "2024-06-30T17:45:57",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240630_174556",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 284,
+    "type": "receipt",
+    "type_id": "31",
+    "timestamp": "2024-06-30T17:51",
+    "place": "N/A",
+    "description": null,
+    "data": {
+      "place": {},
+      "date": "2024-06-30",
+      "time": "17:51",
+      "address": "N/A",
+      "items": [
+        {
+          "product": "UNLD",
+          "gallons": 10.018,
+          "price_per_gallon": 3.899,
+          "total_price": 39.06
+        }
+      ],
+      "category": "gas",
+      "payment_method": "debit",
+      "account_number": "********9725",
+      "entry": "Chip Read",
+      "authorization_number": "411024",
+      "response_code": "000",
+      "stan": "102315060630",
+      "invoice_number": "212613",
+      "verified_by": "PIN",
+      "auth_net": "MAE DIR MODE",
+      "issuer": "Issuer",
+      "aid": "A0000000042203",
+      "bp_site_id": "8701815",
+      "reward_account_number": "*****9725",
+      "thank_you_message": "THANK YOU",
+      "additional_details": "Have a nice day!"
+    },
+    "filename": "20240902_100350",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2414,
+    "type": "picture",
+    "type_id": "2030",
+    "timestamp": "2024-06-30T18:01:48",
+    "place": "US 2, Moran Township, Mackinac County, Michigan, 49781, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2",
+        "city": "moran township",
+        "county": "mackinac county",
+        "state": "mi",
+        "postal": "49781"
+      }
+    },
+    "filename": "20240630_180148",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 581,
+    "type": "picture",
+    "type_id": "197",
+    "timestamp": "2024-06-30T18:19:20",
+    "place": "US 2, Brevort, Moran Township, Mackinac County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2",
+        "city": "brevort",
+        "county": "mackinac county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240630_181920",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 765,
+    "type": "picture",
+    "type_id": "381",
+    "timestamp": "2024-06-30T18:19:21",
+    "place": "US 2, Brevort, Moran Township, Mackinac County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2",
+        "city": "brevort",
+        "county": "mackinac county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240630_181921",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 882,
+    "type": "picture",
+    "type_id": "498",
+    "timestamp": "2024-06-30T18:20:46",
+    "place": "US 2, Brevort, Moran Township, Mackinac County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2",
+        "city": "brevort",
+        "county": "mackinac county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240630_182045",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1233,
+    "type": "picture",
+    "type_id": "849",
+    "timestamp": "2024-06-30T18:20:55",
+    "place": "US 2, Brevort, Moran Township, Mackinac County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2",
+        "city": "brevort",
+        "county": "mackinac county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240630_182054",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1911,
+    "type": "picture",
+    "type_id": "1527",
+    "timestamp": "2024-06-30T18:20:57",
+    "place": "US 2, Brevort, Moran Township, Mackinac County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2",
+        "city": "brevort",
+        "county": "mackinac county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240630_182057",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1463,
+    "type": "picture",
+    "type_id": "1079",
+    "timestamp": "2024-06-30T18:24:33",
+    "place": "US 2, Brevort, Moran Township, Mackinac County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2",
+        "city": "brevort",
+        "county": "mackinac county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240630_182433",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2559,
+    "type": "picture",
+    "type_id": "2175",
+    "timestamp": "2024-06-30T18:24:40",
+    "place": "US 2, Brevort, Moran Township, Mackinac County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2",
+        "city": "brevort",
+        "county": "mackinac county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240630_182440",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2679,
+    "type": "story",
+    "type_id": "11",
+    "timestamp": "2024-06-30T18:25",
+    "place": null,
+    "description": "adventures/nature: lake michigan / the moth\ntime: 18:25",
+    "data": {
+      "category": "adventures/nature",
+      "dada_rank": 7,
+      "sydney_rank": 2
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1525,
+    "type": "picture",
+    "type_id": "1141",
+    "timestamp": "2024-06-30T18:28:33",
+    "place": "US 2, Brevort, Moran Township, Mackinac County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2",
+        "city": "brevort",
+        "county": "mackinac county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240630_182833",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 981,
+    "type": "picture",
+    "type_id": "597",
+    "timestamp": "2024-06-30T18:28:39",
+    "place": "US 2, Brevort, Moran Township, Mackinac County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2",
+        "city": "brevort",
+        "county": "mackinac county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240630_182839",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 53,
+    "type": "map",
+    "type_id": "39",
+    "timestamp": "2024-06-30T18:29:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-30T18:29:00",
+      "end_timestamp": "2024-06-30T20:28:00",
+      "place": {
+        "address": "us hwy 2",
+        "state": "mi"
+      },
+      "end_place": {
+        "address": "6395 state st",
+        "state": "mi"
+      },
+      "info": {
+        "duration": "1 hour, 58 minutes",
+        "distance": "97 mi",
+        "location": "US Hwy 2, Michigan -> 6395 State St, Michigan",
+        "nearby": [
+          "Munising",
+          "Seney",
+          "Newberry",
+          "Shingleton",
+          "Germfask",
+          "Curtis",
+          "Sault Sainte Marie",
+          "Manistee",
+          "Mackinaw",
+          "Beaver Island",
+          "Petoskey",
+          "Charlevoix"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_211629_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2520,
+    "type": "picture",
+    "type_id": "2136",
+    "timestamp": "2024-06-30T20:12:06",
+    "place": "Garden Congregational Church, State Street, Garden, Garden Township, Delta County, Michigan, 49835, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "garden congregational church, state street",
+        "city": "garden",
+        "county": "delta county",
+        "state": "mi",
+        "postal": "49835"
+      }
+    },
+    "filename": "20240630_201206",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1187,
+    "type": "picture",
+    "type_id": "803",
+    "timestamp": "2024-06-30T20:12:54",
+    "place": "Garden Congregational Church, State Street, Garden, Garden Township, Delta County, Michigan, 49835, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "garden congregational church, state street",
+        "city": "garden",
+        "county": "delta county",
+        "state": "mi",
+        "postal": "49835"
+      }
+    },
+    "filename": "20240630_201254",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 54,
+    "type": "map",
+    "type_id": "302",
+    "timestamp": "2024-06-30T20:28:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-30T20:28:00",
+      "end_timestamp": "2024-07-01T00:00:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "3 hours, 31 minutes",
+        "distance": "0 mi",
+        "location": "Near 6395 State St, Michigan",
+        "nearby": [
+          "Old Garden School",
+          "183 State St",
+          "1st Ave",
+          "D&M Storage"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_211649_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1843,
+    "type": "picture",
+    "type_id": "1459",
+    "timestamp": "2024-06-30T21:01:04",
+    "place": "Garden Congregational Church, State Street, Garden, Garden Township, Delta County, Michigan, 49835, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "garden congregational church",
+        "city": "garden",
+        "county": "delta county",
+        "state": "mi",
+        "postal": "49835"
+      }
+    },
+    "filename": "20240630_210104",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1825,
+    "type": "picture",
+    "type_id": "1441",
+    "timestamp": "2024-06-30T21:01:12",
+    "place": "Garden Congregational Church, State Street, Garden, Garden Township, Delta County, Michigan, 49835, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "garden congregational church",
+        "city": "garden",
+        "county": "delta county",
+        "state": "mi",
+        "postal": "49835"
+      }
+    },
+    "filename": "20240630_210112",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1157,
+    "type": "picture",
+    "type_id": "773",
+    "timestamp": "2024-06-30T21:04:04",
+    "place": "Garden Congregational Church, State Street, Garden, Garden Township, Delta County, Michigan, 49835, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "garden congregational church",
+        "city": "garden",
+        "county": "delta county",
+        "state": "mi",
+        "postal": "49835"
+      }
+    },
+    "filename": "20240630_210404",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 669,
+    "type": "picture",
+    "type_id": "285",
+    "timestamp": "2024-06-30T21:04:23",
+    "place": "Garden Congregational Church, State Street, Garden, Garden Township, Delta County, Michigan, 49835, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "garden congregational church, state street",
+        "city": "garden",
+        "county": "delta county",
+        "state": "mi",
+        "postal": "49835"
+      }
+    },
+    "filename": "20240630_210422",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2622,
+    "type": "picture",
+    "type_id": "2238",
+    "timestamp": "2024-06-30T21:10:50",
+    "place": "Garden Congregational Church, State Street, Garden, Garden Township, Delta County, Michigan, 49835, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "garden congregational church, state street",
+        "city": "garden",
+        "county": "delta county",
+        "state": "mi",
+        "postal": "49835"
+      }
+    },
+    "filename": "20240630_211050",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1247,
+    "type": "picture",
+    "type_id": "863",
+    "timestamp": "2024-06-30T21:10:55",
+    "place": "Garden Congregational Church, State Street, Garden, Garden Township, Delta County, Michigan, 49835, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "garden congregational church",
+        "city": "garden",
+        "county": "delta county",
+        "state": "mi",
+        "postal": "49835"
+      }
+    },
+    "filename": "20240630_211055",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2680,
+    "type": "story",
+    "type_id": "76",
+    "timestamp": "2024-06-30T21:15",
+    "place": null,
+    "description": "accommodations: the retreat\ntime: 21:15",
+    "data": {
+      "category": "accommodations",
+      "dada_rank": 1,
+      "sydney_rank": 14
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 409,
+    "type": "picture",
+    "type_id": "25",
+    "timestamp": "2024-06-30T21:16:43",
+    "place": "Garden Congregational Church, State Street, Garden, Garden Township, Delta County, Michigan, 49835, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "garden congregational church, state street",
+        "city": "garden",
+        "county": "delta county",
+        "state": "mi",
+        "postal": "49835"
+      }
+    },
+    "filename": "20240630_211643",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 942,
+    "type": "picture",
+    "type_id": "558",
+    "timestamp": "2024-06-30T21:16:56",
+    "place": "Garden Congregational Church, State Street, Garden, Garden Township, Delta County, Michigan, 49835, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "garden congregational church, state street",
+        "city": "garden",
+        "county": "delta county",
+        "state": "mi",
+        "postal": "49835"
+      }
+    },
+    "filename": "20240630_211654",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1893,
+    "type": "picture",
+    "type_id": "1509",
+    "timestamp": "2024-06-30T21:50:03",
+    "place": "Garden Congregational Church, State Street, Garden, Garden Township, Delta County, Michigan, 49835, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "garden congregational church, state street",
+        "city": "garden",
+        "county": "delta county",
+        "state": "mi",
+        "postal": "49835"
+      }
+    },
+    "filename": "20240630_215003",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  }
+]

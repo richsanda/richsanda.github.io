@@ -1,0 +1,2870 @@
+[
+  {
+    "id": 2670,
+    "type": "story",
+    "type_id": "186",
+    "timestamp": "2024-06-29T00:01",
+    "place": null,
+    "description": "days: day 3, jun 29 (cleveland)\ntime: 00:01\ndate: 2024-06-29",
+    "data": {
+      "category": "days",
+      "dada_rank": 5,
+      "sydney_rank": 6
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1409,
+    "type": "picture",
+    "type_id": "1025",
+    "timestamp": "2024-06-29T07:49:18",
+    "place": "Westin, 777, Saint Clair Avenue Northeast, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "777 westin saint clair avenue northeast",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      }
+    },
+    "filename": "20240629_074917",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2323,
+    "type": "picture",
+    "type_id": "1939",
+    "timestamp": "2024-06-29T07:50:10",
+    "place": "Westin, 777, Saint Clair Avenue Northeast, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "777 saint clair avenue northeast",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      }
+    },
+    "filename": "20240629_075010",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2201,
+    "type": "picture",
+    "type_id": "1817",
+    "timestamp": "2024-06-29T07:51:59",
+    "place": "Westin, 777, Saint Clair Avenue Northeast, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "777 saint clair avenue northeast",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      },
+      "caption": "the boots that earned sid so many compiments"
+    },
+    "filename": "20240629_075159",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 21,
+    "type": "map",
+    "type_id": "269",
+    "timestamp": "2024-06-29T09:52:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-29T09:52:00",
+      "end_timestamp": "2024-06-29T09:55:00",
+      "place": {
+        "address": "777 saint clair avenue north"
+      },
+      "end_place": {
+        "address": "145 erieside ave",
+        "state": "oh"
+      },
+      "info": {
+        "duration": "2 minutes",
+        "distance": "0 mi",
+        "location": "777 Saint Clair Avenue North, Ohio -> 145 Erieside Ave, Ohio",
+        "nearby": [
+          "Key Plaza",
+          "Cleveland Memorial Shoreway",
+          "E 9th St",
+          "Willard Park",
+          "Lakeside Ave E",
+          "E 6th St",
+          "S Marginal Rd",
+          "Bethel Ct"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210411_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2324,
+    "type": "picture",
+    "type_id": "1940",
+    "timestamp": "2024-06-29T09:52:44",
+    "place": "1171, East 9th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1171 east 9th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      },
+      "caption": "who knew cleveland had one of these ?"
+    },
+    "filename": "20240629_095244",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 22,
+    "type": "map",
+    "type_id": "234",
+    "timestamp": "2024-06-29T09:55:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-29T09:55:00",
+      "end_timestamp": "2024-06-29T11:25:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "1 hour, 30 minutes",
+        "distance": "0 mi",
+        "location": "Near 145 Erieside Ave, Ohio",
+        "nearby": [
+          "GOODTIME III",
+          "US Army Corps of Engineers",
+          "E 9th St",
+          "Memorial Shoreway"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210426_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2511,
+    "type": "picture",
+    "type_id": "2127",
+    "timestamp": "2024-06-29T09:55:30",
+    "place": "East 9th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "east 9th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      }
+    },
+    "filename": "20240629_095530",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1658,
+    "type": "picture",
+    "type_id": "1274",
+    "timestamp": "2024-06-29T09:57:00",
+    "place": "Rock and Roll Hall of Fame, East 9th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "rock and roll hall of fame, east 9th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      }
+    },
+    "filename": "20240629_095700",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 807,
+    "type": "picture",
+    "type_id": "423",
+    "timestamp": "2024-06-29T09:57:05",
+    "place": "Rock and Roll Hall of Fame, East 9th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "rock and roll hall of fame, east 9th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      }
+    },
+    "filename": "20240629_095705",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 274,
+    "type": "receipt",
+    "type_id": "58",
+    "timestamp": "2024-06-29T10:01",
+    "place": "751 Erieside Ave, Cleveland, OH 44114",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "751 erieside ave",
+        "city": "cleveland",
+        "state": "oh",
+        "postal": "44114"
+      },
+      "date": "2024-06-29",
+      "time": "10:01",
+      "address": "751 Erieside Ave, Cleveland, OH 44114",
+      "items": [
+        {
+          "name": "Aquafina 20 oz",
+          "quantity": 1,
+          "price": 4.5
+        },
+        {
+          "name": "Diet Pepsi 20 oz",
+          "quantity": 1,
+          "price": 4.5
+        }
+      ],
+      "category": "restaurant",
+      "subtotal": 9.0,
+      "tax": 0.72,
+      "total": 9.72,
+      "server": "Denise S",
+      "check_number": 1,
+      "guest_count": 1,
+      "input_type": "Mastercard Debit",
+      "time_of_transaction": "10:01",
+      "transaction_type": "Sale",
+      "approval_code": "004065",
+      "payment_id": "7LC99WrTMLTW",
+      "application_id": "A0000000041010",
+      "application_label": "Mastercard Debit",
+      "terminal_id": "6b7e14437027b872",
+      "card_reader": "BBPOS",
+      "powered_by": "Toast"
+    },
+    "filename": "20240902_100233",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 43,
+    "type": "receipt",
+    "type_id": 58,
+    "timestamp": "2024-06-29T10:01",
+    "place": null,
+    "description": "first customer of the day !\n\ncafeteria opened at 10a",
+    "data": null,
+    "filename": null,
+    "position": "below",
+    "keep": false,
+    "notes": null,
+    "is_note": true,
+    "ordinal": 3
+  },
+  {
+    "id": 822,
+    "type": "picture",
+    "type_id": "438",
+    "timestamp": "2024-06-29T10:21:45",
+    "place": "Rock and Roll Hall of Fame, East 9th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "rock and roll hall of fame, east 9th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      }
+    },
+    "filename": "20240629_102145",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2061,
+    "type": "picture",
+    "type_id": "1677",
+    "timestamp": "2024-06-29T10:27:27",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {},
+      "caption": "encountering the tributes to different cities was a big heartswell"
+    },
+    "filename": "20240629_102726",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 652,
+    "type": "picture",
+    "type_id": "268",
+    "timestamp": "2024-06-29T10:29:59",
+    "place": "Erieside Avenue, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "erieside avenue",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      }
+    },
+    "filename": "20240629_102959",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1389,
+    "type": "picture",
+    "type_id": "1005",
+    "timestamp": "2024-06-29T10:35:45",
+    "place": "Erieside Avenue, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "erieside avenue",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      },
+      "caption": "alice in chains setlist"
+    },
+    "filename": "20240629_103545",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2384,
+    "type": "picture",
+    "type_id": "2000",
+    "timestamp": "2024-06-29T10:41:19",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240629_104119",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1905,
+    "type": "picture",
+    "type_id": "1521",
+    "timestamp": "2024-06-29T10:43:13",
+    "place": "Erieside Avenue, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "erieside avenue",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      }
+    },
+    "filename": "20240629_104312",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2259,
+    "type": "picture",
+    "type_id": "1875",
+    "timestamp": "2024-06-29T10:45:33",
+    "place": "Erieside Avenue, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "erieside avenue",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      }
+    },
+    "filename": "20240629_104533",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 410,
+    "type": "picture",
+    "type_id": "26",
+    "timestamp": "2024-06-29T10:58:39",
+    "place": "Erieside Avenue, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "erieside avenue",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      },
+      "caption": "lyrics to broken horses by brandi carlile"
+    },
+    "filename": "20240629_105838",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 23,
+    "type": "map",
+    "type_id": "117",
+    "timestamp": "2024-06-29T11:25:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-29T11:25:00",
+      "end_timestamp": "2024-06-29T11:31:00",
+      "place": {
+        "address": "145 erieside ave",
+        "state": "oh"
+      },
+      "end_place": {
+        "address": "313 w 3rd st",
+        "state": "oh"
+      },
+      "info": {
+        "duration": "5 minutes",
+        "distance": "None None",
+        "location": "145 Erieside Ave, Ohio -> 813 W 3rd St, Ohio",
+        "nearby": [
+          "Rock & Roll Hall of Fame",
+          "Great Lakes Science Center",
+          "Alfred Lerner Way",
+          "Key Plaza",
+          "Cleveland Memorial Shoreway",
+          "Cleveland"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210453_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 491,
+    "type": "picture",
+    "type_id": "107",
+    "timestamp": "2024-06-29T11:25:56",
+    "place": "Erieside Avenue, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "erieside avenue",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      },
+      "caption": "where the browns play"
+    },
+    "filename": "20240629_112555",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 24,
+    "type": "map",
+    "type_id": "36",
+    "timestamp": "2024-06-29T11:31:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-29T11:31:00",
+      "end_timestamp": "2024-06-29T11:37:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "6 minutes",
+        "distance": "0 mi",
+        "location": "Near 813 W 3rd St, Ohio",
+        "nearby": [
+          "Erieside Ave",
+          "Graham Statue",
+          "Alfred Lerner Way",
+          "W 3rd St Station",
+          "800 Summit Parking",
+          "Society Of Cleveland"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210528_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 983,
+    "type": "picture",
+    "type_id": "599",
+    "timestamp": "2024-06-29T11:32:31",
+    "place": "Cleveland Memorial Shoreway, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "cleveland memorial shoreway",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240629_113231",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 25,
+    "type": "map",
+    "type_id": "386",
+    "timestamp": "2024-06-29T11:37:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-29T11:37:00",
+      "end_timestamp": "2024-06-29T11:40:00",
+      "place": {
+        "address": "813 w 3rd st",
+        "state": "oh"
+      },
+      "end_place": {
+        "address": "1320 w 6th st",
+        "state": "oh"
+      },
+      "info": {
+        "duration": "3 minutes",
+        "distance": "0 mi",
+        "location": "813 W 3rd St, Ohio -> 1320 W 6th St, Ohio",
+        "nearby": [
+          "Summit",
+          "Cleveland Memorial Shoreway",
+          "Johnson Ct",
+          "W 6th St",
+          "W Lakeside Ave",
+          "Civic Center District",
+          "W 4th St",
+          "W 3rd St",
+          "W St Clair Ave"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210538_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 26,
+    "type": "map",
+    "type_id": "152",
+    "timestamp": "2024-06-29T11:40:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-29T11:40:00",
+      "end_timestamp": "2024-06-29T12:26:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "46 minutes",
+        "distance": "0 mi",
+        "location": "Near 1320 W 6th St, Ohio",
+        "nearby": [
+          "Civic Center District",
+          "The Legal Aid Society Of Cleveland",
+          "Worthington Yards",
+          "PLAZ Parking-West 9th Warehouse"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210547_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1493,
+    "type": "picture",
+    "type_id": "1109",
+    "timestamp": "2024-06-29T11:42:35",
+    "place": "Agave & Rye, 1352, West 6th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1352 west 6th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      },
+      "caption": "the epic tacos menu"
+    },
+    "filename": "20240629_114234",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 859,
+    "type": "picture",
+    "type_id": "475",
+    "timestamp": "2024-06-29T11:42:45",
+    "place": "Agave & Rye, 1352, West 6th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1352 west 6th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240629_114245",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1353,
+    "type": "picture",
+    "type_id": "969",
+    "timestamp": "2024-06-29T11:45:58",
+    "place": "Agave & Rye, 1352, West 6th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1352 west 6th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240629_114557",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1712,
+    "type": "picture",
+    "type_id": "1328",
+    "timestamp": "2024-06-29T11:46:07",
+    "place": "Agave & Rye, 1352, West 6th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1352 west 6th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240629_114606",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2099,
+    "type": "picture",
+    "type_id": "1715",
+    "timestamp": "2024-06-29T11:54:00",
+    "place": "Agave & Rye, 1352, West 6th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1352 west 6th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240629_115400",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1949,
+    "type": "picture",
+    "type_id": "1565",
+    "timestamp": "2024-06-29T12:08:01",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240629_120801",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 242,
+    "type": "shazam",
+    "type_id": "22",
+    "timestamp": "2024-06-29T12:14:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "title": "High and Low",
+      "artist": "Empire of the Sun",
+      "link": "https://www.shazam.com/track/322703019/high-and-low",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/89/28/93/892893fd-93cf-832e-a8bf-ff6ae376ea52/00602557127652.rgb.jpg/400x400cc.jpg"
+    },
+    "filename": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/89/28/93/892893fd-93cf-832e-a8bf-ff6ae376ea52/00602557127652.rgb.jpg/400x400cc.jpg",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2366,
+    "type": "picture",
+    "type_id": "1982",
+    "timestamp": "2024-06-29T12:16:50",
+    "place": "Agave & Rye, 1352, West 6th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1352 west 6th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240629_121650",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 518,
+    "type": "picture",
+    "type_id": "134",
+    "timestamp": "2024-06-29T12:17:36",
+    "place": "1352, West 6th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1352 west 6th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240629_121736",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2257,
+    "type": "picture",
+    "type_id": "1873",
+    "timestamp": "2024-06-29T12:17:38",
+    "place": "Agave & Rye, 1352, West 6th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1352 west 6th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240629_121738",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 275,
+    "type": "receipt",
+    "type_id": "61",
+    "timestamp": "2024-06-29T12:18",
+    "place": "Agave & Rye, Tequila and Bourbon Hall",
+    "description": null,
+    "data": {
+      "place": {
+        "business": "agave & rye, tequila and bourbon hall"
+      },
+      "date": "2024-06-29",
+      "time": "12:18",
+      "address": "Agave & Rye, Tequila and Bourbon Hall",
+      "items": [
+        {
+          "name": "Water",
+          "price": 0.0
+        },
+        {
+          "name": "The Big Thumper",
+          "price": 13.5
+        },
+        {
+          "name": "Soda",
+          "price": 3.75
+        },
+        {
+          "name": "Kids Beef Quesadilla",
+          "quantity": 2,
+          "price": 7.5
+        }
+      ],
+      "category": "restaurant",
+      "subtotal": 32.25,
+      "merchant_fee": 0.97,
+      "tax": 2.66,
+      "total": 35.88,
+      "balance_due": 35.88,
+      "suggested_tip": {
+        "18%": 5.81,
+        "20%": 6.45,
+        "25%": 8.06
+      }
+    },
+    "filename": "20240902_095617",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2671,
+    "type": "story",
+    "type_id": "40",
+    "timestamp": "2024-06-29T12:18",
+    "place": null,
+    "description": "meals: agave and rye\ntime: 11:30\ntime: 12:18",
+    "data": {
+      "category": "meals",
+      "dada_rank": 2,
+      "sydney_rank": 13
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 276,
+    "type": "receipt",
+    "type_id": "6",
+    "timestamp": "2024-06-29T12:21",
+    "place": "Agave & Rye, Tequila and Bourbon Hall",
+    "description": null,
+    "data": {
+      "place": {
+        "business": "agave & rye, tequila and bourbon hall"
+      },
+      "date": "2024-06-29",
+      "time": "12:21",
+      "address": "Agave & Rye, Tequila and Bourbon Hall",
+      "items": [
+        {
+          "description": "Sale",
+          "price": "$35.88"
+        },
+        {
+          "description": "Tip",
+          "price": "$5.81"
+        }
+      ],
+      "category": "restaurant",
+      "card_number": "XXXXXXXXXXXX9725",
+      "card_holder": "Richard Sanda",
+      "card_entry_method": "S",
+      "approval_code": "004066",
+      "retrieval_number": "000000520000006",
+      "total_amount": "$41.69"
+    },
+    "filename": "20240902_095737",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 27,
+    "type": "map",
+    "type_id": "49",
+    "timestamp": "2024-06-29T12:29:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-29T12:29:00",
+      "end_timestamp": "2024-06-29T12:35:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "5 minutes",
+        "distance": "0 mi",
+        "location": "Near 1318 W 3rd St, Ohio",
+        "nearby": [
+          "Huntington Park",
+          "Lakeside Ave",
+          "Civic Center District",
+          "W 4th St",
+          "W 6th St",
+          "W 3rd St",
+          "W St Clair Ave",
+          "Ontario St",
+          "W 2nd St"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210607_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1494,
+    "type": "picture",
+    "type_id": "1110",
+    "timestamp": "2024-06-29T12:31:47",
+    "place": "Global Center for Health Innovation, 133, Saint Clair Avenue Northeast, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "133 saint clair avenue northeast",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      }
+    },
+    "filename": "20240629_123147",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 28,
+    "type": "map",
+    "type_id": "109",
+    "timestamp": "2024-06-29T12:38:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-29T12:38:00",
+      "end_timestamp": "2024-06-29T13:06:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "28 minutes",
+        "distance": "0 mi",
+        "location": "Near 697 St Clair Ave NE, Ohio",
+        "nearby": [
+          "Willard Park",
+          "Anthony J. Celebrezze Federal Building",
+          "E Mall Dr",
+          "E 6th St",
+          "Lakeside Ave",
+          "St Clair Ave NE",
+          "E 10th St",
+          "Theresa Ct",
+          "Bethel Ct",
+          "Erieview Plz"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210619_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1029,
+    "type": "picture",
+    "type_id": "645",
+    "timestamp": "2024-06-29T12:57:12",
+    "place": "Westin, 777, Saint Clair Avenue Northeast, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "777 saint clair avenue northeast",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      }
+    },
+    "filename": "20240629_125712",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 29,
+    "type": "map",
+    "type_id": "74",
+    "timestamp": "2024-06-29T13:06:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-29T13:06:00",
+      "end_timestamp": "2024-06-29T13:23:00",
+      "place": {
+        "address": "697 st clair ave ne",
+        "state": "oh"
+      },
+      "end_place": {
+        "address": "9 east 9th street",
+        "state": "oh"
+      },
+      "info": {
+        "duration": "17 minutes",
+        "distance": "1 mi",
+        "location": "697 St Clair Ave NE, Ohio -> East 9th Street, Ohio",
+        "nearby": [
+          "Erieside Ave",
+          "Rock & Roll Hall of Fame",
+          "Great Lakes Science Center",
+          "N Marginal Rd",
+          "North Coast Harbor",
+          "Key Plaza",
+          "Cleveland",
+          "Alfred Lerner Way",
+          "Memorial Shoreway",
+          "Hilton Cleveland",
+          "Lakeside Ave E",
+          "E 6th St",
+          "E 9th St"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210637_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1382,
+    "type": "picture",
+    "type_id": "998",
+    "timestamp": "2024-06-29T13:12:08",
+    "place": "Cleveland Browns Stadium, 100, Alfred Lerner Way, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "100 alfred lerner way",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240629_131208",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1512,
+    "type": "picture",
+    "type_id": "1128",
+    "timestamp": "2024-06-29T13:12:53",
+    "place": "Cleveland Browns Stadium, 100, Alfred Lerner Way, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "100 alfred lerner way",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240629_131253",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 30,
+    "type": "map",
+    "type_id": "310",
+    "timestamp": "2024-06-29T13:23:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-29T13:23:00",
+      "end_timestamp": "2024-06-29T14:27:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "1 hour, 3 minutes",
+        "distance": "0 mi",
+        "location": "Near East 9th Street, Ohio",
+        "nearby": [
+          "GOODTIME III",
+          "US Army Corps of Engineers",
+          "Erieside Ave",
+          "Memorial Shoreway",
+          "East 9th Street"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210705_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 636,
+    "type": "picture",
+    "type_id": "252",
+    "timestamp": "2024-06-29T13:25:51",
+    "place": "Erieside Avenue, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "erieside avenue",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      },
+      "caption": "went back to the r+r after lunch and through the primary exhibit downstairs a second time expressly to take pics of sid w/her favorite fashions"
+    },
+    "filename": "20240629_132550",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 802,
+    "type": "picture",
+    "type_id": "418",
+    "timestamp": "2024-06-29T13:30:53",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240629_133053",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2135,
+    "type": "picture",
+    "type_id": "1751",
+    "timestamp": "2024-06-29T13:31:23",
+    "place": "Erieside Avenue, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "erieside avenue",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      }
+    },
+    "filename": "20240629_133123",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2307,
+    "type": "picture",
+    "type_id": "1923",
+    "timestamp": "2024-06-29T13:31:54",
+    "place": "Erieside Avenue, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "erieside avenue",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      }
+    },
+    "filename": "20240629_133154",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2435,
+    "type": "picture",
+    "type_id": "2051",
+    "timestamp": "2024-06-29T13:33:15",
+    "place": "Erieside Avenue, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "erieside avenue",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      }
+    },
+    "filename": "20240629_133315",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2271,
+    "type": "picture",
+    "type_id": "1887",
+    "timestamp": "2024-06-29T13:33:44",
+    "place": "Rock and Roll Hall of Fame, East 9th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "rock and roll hall of fame, east 9th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      }
+    },
+    "filename": "20240629_133343",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1231,
+    "type": "picture",
+    "type_id": "847",
+    "timestamp": "2024-06-29T13:34:24",
+    "place": "Erieside Avenue, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "erieside avenue",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      }
+    },
+    "filename": "20240629_133424",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2107,
+    "type": "picture",
+    "type_id": "1723",
+    "timestamp": "2024-06-29T13:37:10",
+    "place": "Erieside Avenue, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "erieside avenue",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      }
+    },
+    "filename": "20240629_133709",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 618,
+    "type": "picture",
+    "type_id": "234",
+    "timestamp": "2024-06-29T13:37:47",
+    "place": "Erieside Avenue, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "erieside avenue",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      }
+    },
+    "filename": "20240629_133746",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2161,
+    "type": "picture",
+    "type_id": "1777",
+    "timestamp": "2024-06-29T13:40:19",
+    "place": "Erieside Avenue, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "erieside avenue",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      }
+    },
+    "filename": "20240629_134019",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1935,
+    "type": "picture",
+    "type_id": "1551",
+    "timestamp": "2024-06-29T13:41:36",
+    "place": "Rock and Roll Hall of Fame, East 9th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "rock and roll hall of fame, east 9th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      }
+    },
+    "filename": "20240629_134136",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 48,
+    "type": "picture",
+    "type_id": 1052,
+    "timestamp": "2024-06-29T13:47:46",
+    "place": null,
+    "description": "this year's inductees\n\nchaka kahn\nsheryl crow\ndon cornelius\nthe spinners\nal kooper\nrage against the machine\nlink wray\nwillie nelson and family\nkate bush\ngeorge michael",
+    "data": null,
+    "filename": null,
+    "position": "above",
+    "keep": false,
+    "notes": null,
+    "is_note": true,
+    "ordinal": 1
+  },
+  {
+    "id": 1436,
+    "type": "picture",
+    "type_id": "1052",
+    "timestamp": "2024-06-29T13:47:46",
+    "place": "Rock and Roll Hall of Fame, East 9th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "rock and roll hall of fame, east 9th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      },
+      "note": "this year's inductees\n\nchaka kahn\nsheryl crow\ndon cornelius\nthe spinners\nal kooper\nrage against the machine\nlink wray\nwillie nelson and family\nkate bush\ngeorge michael"
+    },
+    "filename": "20240629_134745",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2313,
+    "type": "picture",
+    "type_id": "1929",
+    "timestamp": "2024-06-29T13:48:04",
+    "place": "Rock and Roll Hall of Fame, East 9th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "rock and roll hall of fame, east 9th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      },
+      "caption": "inducted this year: sheryl crow"
+    },
+    "filename": "20240629_134804",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1650,
+    "type": "picture",
+    "type_id": "1266",
+    "timestamp": "2024-06-29T13:48:15",
+    "place": "Rock and Roll Hall of Fame, East 9th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "rock and roll hall of fame, east 9th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      },
+      "caption": "inducted this year: don cornelius"
+    },
+    "filename": "20240629_134814",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1725,
+    "type": "picture",
+    "type_id": "1341",
+    "timestamp": "2024-06-29T13:48:23",
+    "place": "Rock and Roll Hall of Fame, East 9th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "rock and roll hall of fame, east 9th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      },
+      "caption": "inducted this year: the spinners"
+    },
+    "filename": "20240629_134822",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2069,
+    "type": "picture",
+    "type_id": "1685",
+    "timestamp": "2024-06-29T13:48:39",
+    "place": "Rock and Roll Hall of Fame, East 9th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "rock and roll hall of fame, east 9th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      },
+      "caption": "inducted this year: al kooper"
+    },
+    "filename": "20240629_134839",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 594,
+    "type": "picture",
+    "type_id": "210",
+    "timestamp": "2024-06-29T13:48:51",
+    "place": "Rock and Roll Hall of Fame, East 9th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "rock and roll hall of fame, east 9th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      },
+      "caption": "inducted this year: rage against the machine"
+    },
+    "filename": "20240629_134851",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1876,
+    "type": "picture",
+    "type_id": "1492",
+    "timestamp": "2024-06-29T13:48:58",
+    "place": "Rock and Roll Hall of Fame, East 9th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "rock and roll hall of fame, east 9th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      },
+      "caption": "inducted this year: link wray"
+    },
+    "filename": "20240629_134858",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1149,
+    "type": "picture",
+    "type_id": "765",
+    "timestamp": "2024-06-29T13:49:08",
+    "place": "Rock and Roll Hall of Fame, East 9th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "rock and roll hall of fame, east 9th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      },
+      "caption": "inducted this year: willie nelson & family"
+    },
+    "filename": "20240629_134908",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 918,
+    "type": "picture",
+    "type_id": "534",
+    "timestamp": "2024-06-29T13:49:19",
+    "place": "Rock and Roll Hall of Fame, East 9th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "rock and roll hall of fame, east 9th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      },
+      "caption": "inducted this year: kate bush"
+    },
+    "filename": "20240629_134919",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1689,
+    "type": "picture",
+    "type_id": "1305",
+    "timestamp": "2024-06-29T13:49:27",
+    "place": "Rock and Roll Hall of Fame, East 9th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "rock and roll hall of fame, east 9th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      },
+      "caption": "inducted this year: george michael"
+    },
+    "filename": "20240629_134926",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 404,
+    "type": "picture",
+    "type_id": "20",
+    "timestamp": "2024-06-29T13:51:32",
+    "place": "Rock and Roll Hall of Fame, East 9th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "rock and roll hall of fame, east 9th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      },
+      "note": "who you think should be inducted\n\nsid was insistent that we submit our vote for gorillaz, currently 83rd but trending up !"
+    },
+    "filename": "20240629_135132",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2244,
+    "type": "picture",
+    "type_id": "1860",
+    "timestamp": "2024-06-29T13:51:48",
+    "place": "Erieside Avenue, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "erieside avenue",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      }
+    },
+    "filename": "20240629_135147",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1625,
+    "type": "picture",
+    "type_id": "1241",
+    "timestamp": "2024-06-29T13:52:06",
+    "place": "Rock and Roll Hall of Fame, East 9th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "rock and roll hall of fame, east 9th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      }
+    },
+    "filename": "20240629_135205",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2142,
+    "type": "picture",
+    "type_id": "1758",
+    "timestamp": "2024-06-29T13:52:23",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240629_135223",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2477,
+    "type": "picture",
+    "type_id": "2093",
+    "timestamp": "2024-06-29T13:52:38",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {},
+      "caption": "our vote was for gorillaz, pushing them up to 83rd !"
+    },
+    "filename": "20240629_135238",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2672,
+    "type": "story",
+    "type_id": "12",
+    "timestamp": "2024-06-29T14:20",
+    "place": null,
+    "description": "attractions: rock n roll hall of fame\ntime: 14:20",
+    "data": {
+      "category": "attractions",
+      "dada_rank": 1,
+      "sydney_rank": 3
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 780,
+    "type": "picture",
+    "type_id": "396",
+    "timestamp": "2024-06-29T14:21:47",
+    "place": "East 9th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "east 9th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      },
+      "caption": "tori on the floor (for laura)"
+    },
+    "filename": "20240629_142147",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 31,
+    "type": "map",
+    "type_id": "357",
+    "timestamp": "2024-06-29T14:27:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-29T14:27:00",
+      "end_timestamp": "2024-06-29T14:31:00",
+      "place": {
+        "address": "east 9th street",
+        "state": "oh"
+      },
+      "end_place": {
+        "address": "alfred lerner way",
+        "state": "oh"
+      },
+      "info": {
+        "duration": "4 minutes",
+        "distance": "0 mi",
+        "location": "East 9th Street, Ohio -> Alfred Lerner Way, Ohio",
+        "nearby": [
+          "Erieside Ave",
+          "Great Lakes Science Center",
+          "Key Plaza",
+          "Cleveland Memorial Shoreway",
+          "Cleveland"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210716_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 970,
+    "type": "picture",
+    "type_id": "586",
+    "timestamp": "2024-06-29T14:27:20",
+    "place": "Erieside Avenue, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "erieside avenue",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      },
+      "caption": "took me a while to realize this was fire and not some monster claw, despite the obvious firemen"
+    },
+    "filename": "20240629_142720",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 32,
+    "type": "map",
+    "type_id": "31",
+    "timestamp": "2024-06-29T14:32:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-29T14:32:00",
+      "end_timestamp": "2024-06-29T14:52:00",
+      "place": {
+        "address": "cleveland memorial shoreway",
+        "state": "oh"
+      },
+      "end_place": {
+        "address": "7258 euclid ave",
+        "state": "oh"
+      },
+      "info": {
+        "duration": "20 minutes",
+        "distance": "6 mi",
+        "location": "Cleveland Memorial Shoreway -> 7258 Euclid Ave, Ohio",
+        "nearby": [
+          "Goodrich-Kirtland Park",
+          "Cleveland",
+          "St. Clair-Superior",
+          "Industrial Valley"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210730_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1528,
+    "type": "picture",
+    "type_id": "1144",
+    "timestamp": "2024-06-29T14:50:00",
+    "place": "7124, Euclid Avenue, Hough, Cleveland, Cuyahoga County, Ohio, 44103, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "7124 euclid avenue",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44103"
+      }
+    },
+    "filename": "20240629_145000",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 277,
+    "type": "receipt",
+    "type_id": "35",
+    "timestamp": "2024-06-29T15:02",
+    "place": "7500 Euclid Avenue, Cleveland, OH 44103",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "7500 euclid avenue",
+        "city": "cleveland",
+        "state": "oh",
+        "postal": "44103"
+      },
+      "date": "2024-06-29",
+      "time": "15:02",
+      "address": "7500 Euclid Avenue, Cleveland, OH 44103",
+      "items": [
+        {
+          "description": "Large Eco-Bags",
+          "price": 0.99,
+          "category": "groceries"
+        },
+        {
+          "description": "Purified GL Water",
+          "price": 1.19,
+          "category": "groceries"
+        },
+        {
+          "description": "Purified GL Water",
+          "price": 1.19,
+          "category": "groceries"
+        },
+        {
+          "description": "1% Milk, 1/2 Gal",
+          "price": 1.49,
+          "category": "groceries"
+        },
+        {
+          "description": "Dish Detergent",
+          "price": 2.09,
+          "category": "household"
+        },
+        {
+          "description": "Aluminum Foil",
+          "price": 3.75,
+          "category": "household"
+        },
+        {
+          "description": "Cleaning Eraser",
+          "price": 1.59,
+          "category": "household"
+        },
+        {
+          "description": "Pebbles Cereal",
+          "price": 4.0,
+          "category": "groceries"
+        }
+      ],
+      "category": "groceries",
+      "subtotal": 16.29,
+      "taxable": 0.67,
+      "amount_due": 16.96,
+      "payment_method": "cash",
+      "change_due": -3.04,
+      "receipt_number": "9155 F693/003/008",
+      "feedback_link": "www.tellaldi.us",
+      "email_signup_link": "www.aldi.us/signup",
+      "age_requirement": 18,
+      "no_purchase_necessary": true,
+      "prize": "$100 ALDI gift card"
+    },
+    "filename": "20240902_095802",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 33,
+    "type": "map",
+    "type_id": "15",
+    "timestamp": "2024-06-29T15:07:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-29T15:07:00",
+      "end_timestamp": "2024-06-29T15:09:00",
+      "place": {
+        "address": "7774 euclid ave",
+        "state": "oh"
+      },
+      "end_place": {
+        "address": "2021 e79th st",
+        "state": "oh"
+      },
+      "info": {
+        "duration": "2 minutes",
+        "distance": "20 mi",
+        "location": "7774 Euclid Ave, Ohio -> 2021 E 79th St, Ohio",
+        "nearby": [
+          "Euclid Ave",
+          "E 79th St"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210754_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 34,
+    "type": "map",
+    "type_id": "377",
+    "timestamp": "2024-06-29T15:15:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-29T15:15:00",
+      "end_timestamp": "2024-06-29T15:30:00",
+      "place": {
+        "address": "2092 e79th st",
+        "state": "oh"
+      },
+      "end_place": {
+        "address": "3553 steelyard drive",
+        "state": "oh"
+      },
+      "info": {
+        "duration": "15 minutes",
+        "distance": "6 mi",
+        "location": "2092 E 79th St, Ohio -> 3553 Steelyard Drive, Ohio",
+        "nearby": [
+          "Cleveland",
+          "Newburgh Heights",
+          "St Stanislaus Church",
+          "Industrial Valley"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210803_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1125,
+    "type": "picture",
+    "type_id": "741",
+    "timestamp": "2024-06-29T15:22:45",
+    "place": "E. 59th Pedestrian Bridge, Opportunity Corridor, Cleveland, Cuyahoga County, Ohio, 44127, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "e 59th pedestrian bridge",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44127"
+      }
+    },
+    "filename": "20240629_152245",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 35,
+    "type": "map",
+    "type_id": "93",
+    "timestamp": "2024-06-29T15:30:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-29T15:30:00",
+      "end_timestamp": "2024-06-29T16:05:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "35 minutes",
+        "distance": "0 mi",
+        "location": "Near 3553 Steelyard Drive, Ohio",
+        "nearby": [
+          "Steelyard Commons Trail",
+          "Steelyard Dr",
+          "Ohio & Erie Canal Towpath Trail"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210812_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 278,
+    "type": "receipt",
+    "type_id": "71",
+    "timestamp": "2024-06-29T15:56",
+    "place": "3535 Steelyard Dr, Cleveland, OH 44109-2387",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "3535 steelyard dr",
+        "city": "cleveland",
+        "state": "oh",
+        "postal": "44109-2387"
+      },
+      "date": "2024-06-29",
+      "time": "15:56",
+      "address": "3535 Steelyard Dr, Cleveland, OH 44109-2387",
+      "items": [
+        {
+          "description": "MISSION",
+          "price": "$2.89"
+        },
+        {
+          "description": "STONE FRUIT",
+          "price": "$2.38",
+          "quantity": 2,
+          "unit_price": "$1.19"
+        },
+        {
+          "description": "ANNIE'S",
+          "price": "$4.17",
+          "quantity": 3,
+          "unit_price": "$1.39",
+          "regular_price": "$1.59"
+        },
+        {
+          "description": "KRAFT",
+          "price": "$1.29"
+        },
+        {
+          "description": "DELALLO",
+          "price": "$3.49"
+        },
+        {
+          "description": "MP BACON",
+          "price": "$4.99"
+        },
+        {
+          "description": "TILLAMOOK",
+          "price": "$4.29"
+        },
+        {
+          "description": "GG TORTLLNI",
+          "price": "$5.19"
+        },
+        {
+          "description": "GG CHEESE",
+          "price": "$1.79",
+          "quantity": 2
+        },
+        {
+          "description": "EGGLNDS BST",
+          "price": "$3.69"
+        },
+        {
+          "description": "PROGRESSO",
+          "price": "$2.39",
+          "item_number": "212180769"
+        },
+        {
+          "description": "PROGRESSO",
+          "price": "$2.29",
+          "item_number": "212183241"
+        },
+        {
+          "description": "PROGRESSO",
+          "price": "$2.29",
+          "item_number": "212183240"
+        },
+        {
+          "description": "Amy's-.",
+          "price": "$7.38",
+          "quantity": 2,
+          "unit_price": "$3.69"
+        },
+        {
+          "description": "PACIFICFOODS",
+          "price": "$3.19",
+          "item_number": "212181010"
+        },
+        {
+          "description": "OLD EL PASO",
+          "price": "$1.99",
+          "item_number": "212260754"
+        },
+        {
+          "description": "MARKT PANTRY FD COOKIES",
+          "price": "$4.49",
+          "item_number": "218130194"
+        },
+        {
+          "description": "CANADA DRY",
+          "price": "$6.99",
+          "item_number": "271300300"
+        },
+        {
+          "description": "COKE ZERO",
+          "price": "$7.99",
+          "item_number": "271100314"
+        },
+        {
+          "description": "DIET PEPSI",
+          "price": "$7.69",
+          "item_number": "271200469"
+        },
+        {
+          "description": "GG SPICES",
+          "price": "$1.19",
+          "item_number": "261021272"
+        },
+        {
+          "description": "BUSHS GRILLN",
+          "price": "$2.29",
+          "regular_price": "$2.69",
+          "item_number": "212120028"
+        },
+        {
+          "description": "SNDWCH 150CT",
+          "price": "$5.99",
+          "item_number": "253010395"
+        },
+        {
+          "description": "POTS AND PAN",
+          "price": "$34.99",
+          "item_number": "070012651"
+        },
+        {
+          "description": "OXO",
+          "price": "$13.99",
+          "item_number": "070050346"
+        },
+        {
+          "description": "up & up",
+          "price": "$3.59",
+          "item_number": "253055879"
+        },
+        {
+          "description": "Hefty",
+          "price": "$3.99",
+          "item_number": "253059542"
+        },
+        {
+          "description": "Sharpie Mrkr",
+          "price": "$5.99",
+          "item_number": "081020282"
+        },
+        {
+          "description": "MARKERS",
+          "price": "$3.99",
+          "item_number": "081021618"
+        },
+        {
+          "description": "MAT BOARDS",
+          "price": "$2.07",
+          "quantity": 3,
+          "unit_price": "$0.69",
+          "item_number": "081220797"
+        },
+        {
+          "description": "up & up",
+          "price": "$9.59",
+          "item_number": "081224666"
+        }
+      ],
+      "category": "groceries",
+      "subtotal": "$172.21",
+      "tax": "$8.70",
+      "total": "$180.91",
+      "payment_method": "debit",
+      "payment_details": {
+        "total": "$180.91",
+        "debit_total": "$180.91",
+        "aid": "A0000000042203",
+        "auth_code": "423542"
+      },
+      "return_policy": "When you return any item, your return credit will not include any promotional discount or coupon applied to the original order.",
+      "savings": "$1.00",
+      "receipt_number": "2-4181-2228-0082-0719-2",
+      "vcd_number": "752-162-938",
+      "survey_link": "informtarget.com",
+      "user_id": "7581 8777 2991",
+      "password": "792 808",
+      "spanish_survey": "CUENTENOS EN ESPAÑOL",
+      "survey_deadline": "7 days"
+    },
+    "filename": "20240902_100050",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 36,
+    "type": "map",
+    "type_id": "317",
+    "timestamp": "2024-06-29T16:05:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-29T16:05:00",
+      "end_timestamp": "2024-06-29T16:39:00",
+      "place": {
+        "address": "3553 steelyard drive",
+        "state": "oh"
+      },
+      "end_place": {
+        "address": "697 st clair ave ne",
+        "state": "oh"
+      },
+      "info": {
+        "duration": "34 minutes",
+        "distance": "5 mi",
+        "location": "3553 Steelyard Drive, Ohio -> 697 St Clair Ave NE, Ohio",
+        "nearby": [
+          "Hall of Fame",
+          "Cleveland",
+          "Ohio City",
+          "House from A Christmas Story",
+          "St Stanislaus Church",
+          "Cleveland Metroparks Zoo",
+          "Newburgh Heights"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210821_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 37,
+    "type": "map",
+    "type_id": "330",
+    "timestamp": "2024-06-29T16:39:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-29T16:39:00",
+      "end_timestamp": "2024-06-29T19:05:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "2 hours, 25 minutes",
+        "distance": "0 mi",
+        "location": "Near 697 St Clair Ave NE, Ohio",
+        "nearby": [
+          "Willard Park",
+          "Anthony J. Celebrezze Federal Building",
+          "E Mall Dr",
+          "Lakeside Ave",
+          "E 10th St",
+          "Bethel Ct",
+          "Erieview Plz",
+          "St Clair Ave NE",
+          "E 6th St",
+          "E 9th St",
+          "Theresa Ct"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210842_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 52,
+    "type": "map",
+    "type_id": 330,
+    "timestamp": "2024-06-29T16:39:00",
+    "place": null,
+    "description": "running\n\nthis is when i ran all over cleveland, don't tell mama sid was alone on the 21st floor !",
+    "data": null,
+    "filename": null,
+    "position": "below",
+    "keep": false,
+    "notes": null,
+    "is_note": true,
+    "ordinal": 3
+  },
+  {
+    "id": 468,
+    "type": "picture",
+    "type_id": "84",
+    "timestamp": "2024-06-29T18:59:54",
+    "place": "Westin, 777, Saint Clair Avenue Northeast, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "777 saint clair avenue northeast",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      },
+      "caption": "sid had no interest in the staff making her bed for her"
+    },
+    "filename": "20240629_185954",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 38,
+    "type": "map",
+    "type_id": "350",
+    "timestamp": "2024-06-29T19:05:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-29T19:05:00",
+      "end_timestamp": "2024-06-29T19:26:00",
+      "place": {
+        "address": "697 st clair ave ne",
+        "state": "oh"
+      },
+      "end_place": {
+        "address": "1869 west 25th street",
+        "state": "oh"
+      },
+      "info": {
+        "duration": "21 minutes",
+        "distance": "2 mi",
+        "location": "697 St Clair Ave NE, Ohio -> 1869 West 25th Street, Ohio",
+        "nearby": [
+          "Cleveland",
+          "DOWNTOWN",
+          "IRISHTOWN BEND",
+          "endy Park",
+          "THE FLATS",
+          "OHIO CITY"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210905_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2546,
+    "type": "picture",
+    "type_id": "2162",
+    "timestamp": "2024-06-29T19:23:55",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {},
+      "caption": "ice cream at mitchell's in the flats is apparently a hot spot !"
+    },
+    "filename": "20240629_192355",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1058,
+    "type": "picture",
+    "type_id": "674",
+    "timestamp": "2024-06-29T19:24:25",
+    "place": "2498, Gould Court, Ohio City, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "2498 gould court",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240629_192425",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 39,
+    "type": "map",
+    "type_id": "67",
+    "timestamp": "2024-06-29T19:26:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-29T19:26:00",
+      "end_timestamp": "2024-06-29T20:06:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "40 minutes",
+        "distance": "0 mi",
+        "location": "Near 1869 West 25th Street, Ohio",
+        "nearby": [
+          "Jay Ave",
+          "Riverview Towers",
+          "W 25th St",
+          "Bridge Ave",
+          "Carroll Ave",
+          "W 24th St",
+          "W 24th Pl",
+          "W 23rd St",
+          "Market Square Park",
+          "Market Ave",
+          "W 28th St",
+          "W 26th St"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210914_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1532,
+    "type": "picture",
+    "type_id": "1148",
+    "timestamp": "2024-06-29T19:32:23",
+    "place": "Clandestina, 1865, West 25th Street, Ohio City, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1865 west 25th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240629_193223",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 879,
+    "type": "picture",
+    "type_id": "495",
+    "timestamp": "2024-06-29T19:47:55",
+    "place": "Mitchell's Ice Cream, 1867, West 25th Street, Ohio City, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1867 west 25th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240629_194755",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2673,
+    "type": "story",
+    "type_id": "62",
+    "timestamp": "2024-06-29T19:50",
+    "place": null,
+    "description": "treats: ice cream in the flats\ntime: 19:50",
+    "data": {
+      "category": "treats",
+      "dada_rank": 3,
+      "sydney_rank": 4
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 40,
+    "type": "map",
+    "type_id": "104",
+    "timestamp": "2024-06-29T20:06:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-29T20:06:00",
+      "end_timestamp": "2024-06-29T20:39:00",
+      "place": {
+        "address": "1869 west 25th street",
+        "state": "oh"
+      },
+      "end_place": {
+        "address": "777 saint clair avenue north",
+        "state": "oh"
+      },
+      "info": {
+        "duration": "32 minutes",
+        "distance": "3 mi",
+        "location": "1869 West 25th Street, Ohio -> 777 Saint Clair Avenue North",
+        "nearby": [
+          "Hilton Cleveland Downtown",
+          "Blue Point Grille",
+          "THE FLATS",
+          "Detroit Ave",
+          "IRISHTOWN BEND",
+          "Superior Ave",
+          "St Clair Ave NE",
+          "Ontario St",
+          "Euclid Ave"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210922_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1646,
+    "type": "picture",
+    "type_id": "1262",
+    "timestamp": "2024-06-29T20:13:50",
+    "place": "1323, West 25th Street, Ohio City, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1323 west 25th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      },
+      "caption": "texted this pic to laura"
+    },
+    "filename": "20240629_201349",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 804,
+    "type": "picture",
+    "type_id": "420",
+    "timestamp": "2024-06-29T20:15:27",
+    "place": "2052, Center Street, Ohio City, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "2052 center street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240629_201527",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 41,
+    "type": "map",
+    "type_id": "139",
+    "timestamp": "2024-06-29T20:39:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-29T20:39:00",
+      "end_timestamp": "2024-06-30T08:07:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "11 hours, 27 minutes",
+        "distance": "0 mi",
+        "location": "Near 777 Saint Clair Avenue Northeast, Ohio",
+        "nearby": [
+          "Willard Park",
+          "Bethel Ct",
+          "Erieview Plz",
+          "E 6th St",
+          "Lakeside Ave",
+          "St Clair Ave NE",
+          "E 10th St",
+          "Theresa Ct"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210959_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  }
+]

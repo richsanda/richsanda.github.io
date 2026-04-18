@@ -1,0 +1,3509 @@
+[
+  {
+    "id": 338,
+    "timestamp": "2024-06-27",
+    "img_location": "maps/Screenshot_20240726_205658_Life360.jpg",
+    "start_time": "15:03",
+    "end_time": "17:34",
+    "start_place": "home",
+    "end_place": "I-90, Massachusetts",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 230,
+    "timestamp": "2024-06-27",
+    "img_location": "maps/Screenshot_20240726_205707_Life360.jpg",
+    "start_time": "17:41",
+    "end_time": "18:50",
+    "start_place": "I-90, Massachusetts",
+    "end_place": "1877 Columbia Turnpike, New York",
+    "map_places": [
+      "Lyons Falls",
+      "Brattleboro",
+      "Albany",
+      "Pittsfield",
+      "Amherst",
+      "Northampton",
+      "Springfield"
+    ],
+    "hide": false
+  },
+  {
+    "id": 183,
+    "timestamp": "2024-06-27",
+    "img_location": "maps/Screenshot_20240726_205721_Life360.jpg",
+    "start_time": "18:50",
+    "end_time": "19:04",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 128,
+    "timestamp": "2024-06-27",
+    "img_location": "maps/Screenshot_20240726_205732_Life360.jpg",
+    "start_time": "19:04",
+    "end_time": "20:00",
+    "start_place": "1877 Columbia Tpke, New York",
+    "end_place": "214 Daketown Rd, New York",
+    "map_places": [
+      "Clifton"
+    ],
+    "hide": false
+  },
+  {
+    "id": 162,
+    "timestamp": "2024-06-28",
+    "img_location": "maps/Screenshot_20240726_205850_Life360.jpg",
+    "start_time": "06:40",
+    "end_time": "07:36",
+    "start_place": "46 Lake Desolation Rd, New York",
+    "end_place": "579 1st Street, New York",
+    "map_places": [
+      "Saratoga Springs",
+      "Ballston Spa",
+      "Schenectady"
+    ],
+    "hide": false
+  },
+  {
+    "id": 207,
+    "timestamp": "2024-06-28",
+    "img_location": "maps/Screenshot_20240726_205925_Life360.jpg",
+    "start_time": "07:36",
+    "end_time": "08:15",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 145,
+    "timestamp": "2024-06-28",
+    "img_location": "maps/Screenshot_20240726_205950_Life360.jpg",
+    "start_time": "08:15",
+    "end_time": "09:06",
+    "start_place": "579 Ist Street, New York",
+    "end_place": "479 Front St, New York",
+    "map_places": [
+      "Halfmoon",
+      "Clifton"
+    ],
+    "hide": false
+  },
+  {
+    "id": 306,
+    "timestamp": "2024-06-28",
+    "img_location": "maps/Screenshot_20240726_210026_Life360.jpg",
+    "start_time": "09:06",
+    "end_time": "09:11",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 380,
+    "timestamp": "2024-06-28",
+    "img_location": "maps/Screenshot_20240726_210044_Life360.jpg",
+    "start_time": "09:11",
+    "end_time": "10:12",
+    "start_place": "479 Front St, New York",
+    "end_place": "New York State Thruway, Ne...",
+    "map_places": [
+      "Ferris Lake",
+      "Wild Forest"
+    ],
+    "hide": false
+  },
+  {
+    "id": 59,
+    "timestamp": "2024-06-28",
+    "img_location": "maps/Screenshot_20240726_210101_Life360.jpg",
+    "start_time": "10:19",
+    "end_time": "11:59",
+    "start_place": "Schuyler Service Area, New York",
+    "end_place": "New York State Thruway, New York",
+    "map_places": [
+      "Utica",
+      "Lake Ontario"
+    ],
+    "hide": false
+  },
+  {
+    "id": 321,
+    "timestamp": "2024-06-28",
+    "img_location": "maps/Screenshot_20240726_210144_Life360.jpg",
+    "start_time": "12:10",
+    "end_time": "13:04",
+    "start_place": "I-90, New York",
+    "end_place": "New York State Thruway, New York",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 313,
+    "timestamp": "2024-06-28",
+    "img_location": "maps/Screenshot_20240726_210156_Life360.jpg",
+    "start_time": "13:12",
+    "end_time": "15:18",
+    "start_place": "I-90, New York",
+    "end_place": "2246 State Route 45, Ohio",
+    "map_places": [
+      "National Forest"
+    ],
+    "hide": false
+  },
+  {
+    "id": 285,
+    "timestamp": "2024-06-28",
+    "img_location": "maps/Screenshot_20240726_210221_Life360.jpg",
+    "start_time": "15:18",
+    "end_time": "15:35",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 223,
+    "timestamp": "2024-06-28",
+    "img_location": "maps/Screenshot_20240726_210235_Life360.jpg",
+    "start_time": "15:35",
+    "end_time": "16:30",
+    "start_place": "2246 State Route 45, Ohio",
+    "end_place": "777 Saint Clair Avenue North, Ohio",
+    "map_places": [
+      "Ashtabula",
+      "Jefferson"
+    ],
+    "hide": false
+  },
+  {
+    "id": 251,
+    "timestamp": "2024-06-28",
+    "img_location": "maps/Screenshot_20240726_210250_Life360.jpg",
+    "start_time": "16:30",
+    "end_time": "17:40",
+    "start_place": null,
+    "end_place": null,
+    "map_places": [
+      "Tae"
+    ],
+    "hide": false
+  },
+  {
+    "id": 231,
+    "timestamp": "2024-06-28",
+    "img_location": "maps/Screenshot_20240726_210305_Life360.jpg",
+    "start_time": "17:40",
+    "end_time": "18:02",
+    "start_place": "777 Saint Clair Avenue North",
+    "end_place": "1875 Merwin Ave, Ohio",
+    "map_places": [
+      "Hilton Ln",
+      "Downtown",
+      "Grille"
+    ],
+    "hide": false
+  },
+  {
+    "id": 221,
+    "timestamp": "2024-06-28",
+    "img_location": "maps/Screenshot_20240726_210317_Life360.jpg",
+    "start_time": "18:02",
+    "end_time": "18:39",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 112,
+    "timestamp": "2024-06-28",
+    "img_location": "maps/Screenshot_20240726_210325_Life360.jpg",
+    "start_time": "18:54",
+    "end_time": "19:00",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 294,
+    "timestamp": "2024-06-28",
+    "img_location": "maps/Screenshot_20240726_210344_Life360.jpg",
+    "start_time": "19:00",
+    "end_time": "19:23",
+    "start_place": "1815 Columbus Rd, Ohio",
+    "end_place": "777 Saint Clair Avenue Northeast, Ohio",
+    "map_places": [
+      "Hilton Cleveland Downtown",
+      "Blue Point Grille",
+      "IrishTown Bend"
+    ],
+    "hide": false
+  },
+  {
+    "id": 137,
+    "timestamp": "2024-06-28",
+    "img_location": "maps/Screenshot_20240726_210353_Life360.jpg",
+    "start_time": "19:23",
+    "end_time": "09:52",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 269,
+    "timestamp": "2024-06-29",
+    "img_location": "maps/Screenshot_20240726_210411_Life360.jpg",
+    "start_time": "09:52",
+    "end_time": "09:55",
+    "start_place": "777 Saint Clair Avenue North",
+    "end_place": "145 Erieside Ave, Ohio",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 234,
+    "timestamp": "2024-06-29",
+    "img_location": "maps/Screenshot_20240726_210426_Life360.jpg",
+    "start_time": "09:55",
+    "end_time": "11:25",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 117,
+    "timestamp": "2024-06-29",
+    "img_location": "maps/Screenshot_20240726_210453_Life360.jpg",
+    "start_time": "11:25",
+    "end_time": "11:31",
+    "start_place": "145 Erieside Ave, Ohio",
+    "end_place": "313 W 3rd St, Ohio",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 36,
+    "timestamp": "2024-06-29",
+    "img_location": "maps/Screenshot_20240726_210528_Life360.jpg",
+    "start_time": "11:31",
+    "end_time": "11:37",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 386,
+    "timestamp": "2024-06-29",
+    "img_location": "maps/Screenshot_20240726_210538_Life360.jpg",
+    "start_time": "11:37",
+    "end_time": "11:40",
+    "start_place": "813 W 3rd St, Ohio",
+    "end_place": "1320 W 6th St, Ohio",
+    "map_places": [
+      "WAS",
+      "Civic Center District"
+    ],
+    "hide": false
+  },
+  {
+    "id": 152,
+    "timestamp": "2024-06-29",
+    "img_location": "maps/Screenshot_20240726_210547_Life360.jpg",
+    "start_time": "11:40",
+    "end_time": "12:26",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 49,
+    "timestamp": "2024-06-29",
+    "img_location": "maps/Screenshot_20240726_210607_Life360.jpg",
+    "start_time": "12:29",
+    "end_time": "12:35",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 109,
+    "timestamp": "2024-06-29",
+    "img_location": "maps/Screenshot_20240726_210619_Life360.jpg",
+    "start_time": "12:38",
+    "end_time": "13:06",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 74,
+    "timestamp": "2024-06-29",
+    "img_location": "maps/Screenshot_20240726_210637_Life360.jpg",
+    "start_time": "13:06",
+    "end_time": "13:23",
+    "start_place": "697 St Clair Ave NE, Ohio",
+    "end_place": "9 East 9th Street, Ohio",
+    "map_places": [
+      "Rock and Roll Hall of Fame",
+      "Great Lakes Science Center"
+    ],
+    "hide": false
+  },
+  {
+    "id": 310,
+    "timestamp": "2024-06-29",
+    "img_location": "maps/Screenshot_20240726_210705_Life360.jpg",
+    "start_time": "13:23",
+    "end_time": "14:27",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 357,
+    "timestamp": "2024-06-29",
+    "img_location": "maps/Screenshot_20240726_210716_Life360.jpg",
+    "start_time": "14:27",
+    "end_time": "14:31",
+    "start_place": "East 9th Street, Ohio",
+    "end_place": "Alfred Lerner Way, Ohio",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 31,
+    "timestamp": "2024-06-29",
+    "img_location": "maps/Screenshot_20240726_210730_Life360.jpg",
+    "start_time": "14:32",
+    "end_time": "14:52",
+    "start_place": "Cleveland Memorial Shoreway",
+    "end_place": "7258 Euclid Ave, Ohio",
+    "map_places": [
+      "Glenville",
+      "St. Clair-Superior",
+      "Goodrich-Kirtland Park",
+      "Cleveland"
+    ],
+    "hide": false
+  },
+  {
+    "id": 15,
+    "timestamp": "2024-06-29",
+    "img_location": "maps/Screenshot_20240726_210754_Life360.jpg",
+    "start_time": "15:07",
+    "end_time": "15:09",
+    "start_place": "7774 Euclid Ave, Ohio",
+    "end_place": "2021E79th St, Ohio",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 377,
+    "timestamp": "2024-06-29",
+    "img_location": "maps/Screenshot_20240726_210803_Life360.jpg",
+    "start_time": "15:15",
+    "end_time": "15:30",
+    "start_place": "2092 E79th St, Ohio",
+    "end_place": "3553 Steelyard Drive, Ohio",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 93,
+    "timestamp": "2024-06-29",
+    "img_location": "maps/Screenshot_20240726_210812_Life360.jpg",
+    "start_time": "15:30",
+    "end_time": "16:05",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 317,
+    "timestamp": "2024-06-29",
+    "img_location": "maps/Screenshot_20240726_210821_Life360.jpg",
+    "start_time": "16:05",
+    "end_time": "16:39",
+    "start_place": "3553 Steelyard Drive, Ohio",
+    "end_place": "697 St Clair Ave NE, Ohio",
+    "map_places": [
+      "House",
+      "Christmas",
+      "St Stanislaus Church",
+      "Newburgh",
+      "Cleveland Heights"
+    ],
+    "hide": false
+  },
+  {
+    "id": 330,
+    "timestamp": "2024-06-29",
+    "img_location": "maps/Screenshot_20240726_210842_Life360.jpg",
+    "start_time": "16:39",
+    "end_time": "19:05",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 350,
+    "timestamp": "2024-06-29",
+    "img_location": "maps/Screenshot_20240726_210905_Life360.jpg",
+    "start_time": "19:05",
+    "end_time": "19:26",
+    "start_place": "697 St Clair Ave NE, Ohio",
+    "end_place": "1869 West 25th Street, Ohio",
+    "map_places": [
+      "andy, Park",
+      "THE FLATS",
+      "OHIO CITY"
+    ],
+    "hide": false
+  },
+  {
+    "id": 67,
+    "timestamp": "2024-06-29",
+    "img_location": "maps/Screenshot_20240726_210914_Life360.jpg",
+    "start_time": "19:26",
+    "end_time": "20:06",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 104,
+    "timestamp": "2024-06-29",
+    "img_location": "maps/Screenshot_20240726_210922_Life360.jpg",
+    "start_time": "20:06",
+    "end_time": "20:39",
+    "start_place": "1869 West 25th Street, Ohio",
+    "end_place": "777 Saint Clair Avenue North, Ohio",
+    "map_places": [
+      "Hilton Cleveland",
+      "Darga",
+      "Point Grille",
+      "The Flats",
+      "Irish Town",
+      "VAC"
+    ],
+    "hide": false
+  },
+  {
+    "id": 139,
+    "timestamp": "2024-06-29",
+    "img_location": "maps/Screenshot_20240726_210959_Life360.jpg",
+    "start_time": "20:39",
+    "end_time": "08:07",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 315,
+    "timestamp": "2024-06-30",
+    "img_location": "maps/Screenshot_20240726_211008_Life360.jpg",
+    "start_time": "08:07",
+    "end_time": "10:26",
+    "start_place": "777 Saint Clair Avenue North",
+    "end_place": "1301N Dixie Hwy, Michigan",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 213,
+    "timestamp": "2024-06-30",
+    "img_location": "maps/Screenshot_20240726_211020_Life360.jpg",
+    "start_time": "10:32",
+    "end_time": "11:43",
+    "start_place": "1268 N Dixie Hwy, Michigan",
+    "end_place": "Cadillac Square, Michigan",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 266,
+    "timestamp": "2024-06-30",
+    "img_location": "maps/Screenshot_20240726_211034_Life360.jpg",
+    "start_time": "11:52",
+    "end_time": "11:54",
+    "start_place": "140 W Jefferson Ave, Michigan",
+    "end_place": "133 Cadillac Sq, Michigan",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 151,
+    "timestamp": "2024-06-30",
+    "img_location": "maps/Screenshot_20240726_211047_Life360.jpg",
+    "start_time": "11:54",
+    "end_time": "12:00",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 33,
+    "timestamp": "2024-06-30",
+    "img_location": "maps/Screenshot_20240726_211513_Life360.jpg",
+    "start_time": "12:00",
+    "end_time": "12:05",
+    "start_place": "133 Cadillac Sq, Michigan",
+    "end_place": "211 Joseph Campau Street",
+    "map_places": [
+      "EASTERN MARKET VA",
+      "Dequindre Cut",
+      "Comerica Park",
+      "Hollywood Casino",
+      "Greektown",
+      "Detroit Riverwalk",
+      "Caesars Windsor"
+    ],
+    "hide": false
+  },
+  {
+    "id": 18,
+    "timestamp": "2024-06-30",
+    "img_location": "maps/Screenshot_20240726_211522_Life360.jpg",
+    "start_time": "12:05",
+    "end_time": "12:58",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 324,
+    "timestamp": "2024-06-30",
+    "img_location": "maps/Screenshot_20240726_211533_Life360.jpg",
+    "start_time": "12:58",
+    "end_time": "13:54",
+    "start_place": "211 Joseph Campau Street, Michigan",
+    "end_place": "2180 Glen Meadows, Michigan",
+    "map_places": [
+      "Fenton",
+      "Waterford",
+      "Auburn Hills",
+      "Ann Arbor",
+      "Ypsilanti",
+      "Taylor"
+    ],
+    "hide": false
+  },
+  {
+    "id": 345,
+    "timestamp": "2024-06-30",
+    "img_location": "maps/Screenshot_20240726_211545_Life360.jpg",
+    "start_time": "14:01",
+    "end_time": "15:08",
+    "start_place": "10874 Highland Rd, Michigan",
+    "end_place": "6179 Westside Saginaw Rd, M...",
+    "map_places": [
+      "Cass City"
+    ],
+    "hide": false
+  },
+  {
+    "id": 51,
+    "timestamp": "2024-06-30",
+    "img_location": "maps/Screenshot_20240726_211554_Life360.jpg",
+    "start_time": "15:10",
+    "end_time": "17:06",
+    "start_place": "I-75, Michigan",
+    "end_place": "6132 W M68, Michigan",
+    "map_places": [
+      "Petoskey",
+      "Traverse City"
+    ],
+    "hide": false
+  },
+  {
+    "id": 284,
+    "timestamp": "2024-06-30",
+    "img_location": "maps/Screenshot_20240726_211603_Life360.jpg",
+    "start_time": "17:06",
+    "end_time": "17:23",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 155,
+    "timestamp": "2024-06-30",
+    "img_location": "maps/Screenshot_20240726_211613_Life360.jpg",
+    "start_time": "17:23",
+    "end_time": "18:17",
+    "start_place": "6132 WM 68, Michigan",
+    "end_place": "US 2, Michigan",
+    "map_places": [
+      "Brevon Cedarville",
+      "St Ignace",
+      "Mackinaw City",
+      "Bois Blanc Island",
+      "Cheboygan",
+      "Cross Village",
+      "Good Hart",
+      "Tomahawk Lake",
+      "Indian River",
+      "Afton"
+    ],
+    "hide": false
+  },
+  {
+    "id": 39,
+    "timestamp": "2024-06-30",
+    "img_location": "maps/Screenshot_20240726_211629_Life360.jpg",
+    "start_time": "18:29",
+    "end_time": "20:28",
+    "start_place": "US Hwy 2, Michigan",
+    "end_place": "6395 State St, Michigan",
+    "map_places": [
+      "Munising",
+      "Seney",
+      "Newberry",
+      "Shingleton",
+      "Germfask",
+      "Curtis",
+      "Sault Sainte Marie",
+      "Manistique",
+      "Beaver Island",
+      "Petoskey",
+      "Charlevoix"
+    ],
+    "hide": false
+  },
+  {
+    "id": 302,
+    "timestamp": "2024-06-30",
+    "img_location": "maps/Screenshot_20240726_211649_Life360.jpg",
+    "start_time": "20:28",
+    "end_time": "00:00",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 199,
+    "timestamp": "2024-07-01",
+    "img_location": "maps/Screenshot_20240723_194241_Life360.jpg",
+    "start_time": "08:41",
+    "end_time": "10:07",
+    "start_place": "State Street",
+    "end_place": "Unnamed Road",
+    "map_places": [
+      "AuTrain",
+      "Munising",
+      "Seney",
+      "Trenary",
+      "Germfask",
+      "Curtis",
+      "Hiawatha National Forest",
+      "Rapid River",
+      "Gladstone",
+      "Escanaba"
+    ],
+    "hide": false
+  },
+  {
+    "id": 372,
+    "timestamp": "2024-07-01",
+    "img_location": "maps/Screenshot_20240726_211709_Life360.jpg",
+    "start_time": "10:07",
+    "end_time": "14:24",
+    "start_place": "Chapel Rock Trail, Michigan",
+    "end_place": "Chapel Rd, Michigan",
+    "map_places": [
+      "Chapel Beach",
+      "Chapel Falls",
+      "Chapel Rock Trailhead"
+    ],
+    "hide": false
+  },
+  {
+    "id": 233,
+    "timestamp": "2024-07-01",
+    "img_location": "maps/Screenshot_20240726_211720_Life360.jpg",
+    "start_time": "14:24",
+    "end_time": "15:18",
+    "start_place": "Chapel Rd, Michigan",
+    "end_place": "State Hwy M 28, Michigan",
+    "map_places": [
+      "Trenary",
+      "Eben Junction Shingleton"
+    ],
+    "hide": false
+  },
+  {
+    "id": 153,
+    "timestamp": "2024-07-01",
+    "img_location": "maps/Screenshot_20240726_211736_Life360.jpg",
+    "start_time": "15:18",
+    "end_time": "15:43",
+    "start_place": "State Highway 28, Michigan",
+    "end_place": "West Washington Street, Mic...",
+    "map_places": [
+      "Marquette",
+      "Deerton",
+      "Sands",
+      "Yalmar",
+      "K.I. Sawyer AFB",
+      "Carlshend",
+      "Swinn",
+      "Little Lake"
+    ],
+    "hide": false
+  },
+  {
+    "id": 126,
+    "timestamp": "2024-07-01",
+    "img_location": "maps/Screenshot_20240726_211747_Life360.jpg",
+    "start_time": "15:43",
+    "end_time": "16:02",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 215,
+    "timestamp": "2024-07-01",
+    "img_location": "maps/Screenshot_20240726_211756_Life360.jpg",
+    "start_time": "16:17",
+    "end_time": "21:46",
+    "start_place": "299 S Mc Clellan Ave, Michigan",
+    "end_place": "80S 40th Ave W, Minnesota",
+    "map_places": [
+      "Thunder Bay",
+      "Superior National Forest",
+      "Houghton",
+      "Marquette",
+      "Chequamegon-Nicolet National Forest",
+      "Green Bay"
+    ],
+    "hide": false
+  },
+  {
+    "id": 191,
+    "timestamp": "2024-07-01",
+    "img_location": "maps/Screenshot_20240726_211806_Life360.jpg",
+    "start_time": "21:46",
+    "end_time": "09:26",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 274,
+    "timestamp": "2024-07-02",
+    "img_location": "maps/Screenshot_20240726_211821_Life360.jpg",
+    "start_time": "09:26",
+    "end_time": "10:29",
+    "start_place": "80S 40th Ave W, Minnesota",
+    "end_place": "US Hwy 2, Minnesota",
+    "map_places": [
+      "Cloquet Valley",
+      "Savanna",
+      "Duluth",
+      "Cloquet"
+    ],
+    "hide": false
+  },
+  {
+    "id": 174,
+    "timestamp": "2024-07-02",
+    "img_location": "maps/Screenshot_20240726_211830_Life360.jpg",
+    "start_time": "10:29",
+    "end_time": "10:49",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 354,
+    "timestamp": "2024-07-02",
+    "img_location": "maps/Screenshot_20240723_194209_Life360.jpg",
+    "start_time": "10:49",
+    "end_time": "12:31",
+    "start_place": "US-2",
+    "end_place": "Jones Townhall Road Northwest",
+    "map_places": [
+      "RED)EAKE RESERVATION"
+    ],
+    "hide": false
+  },
+  {
+    "id": 146,
+    "timestamp": "2024-07-02",
+    "img_location": "maps/Screenshot_20240726_211852_Life360.jpg",
+    "start_time": "12:42",
+    "end_time": "14:13",
+    "start_place": "Tom Jefferson Drive Northwest",
+    "end_place": "US-2/MN-220, Minnesota",
+    "map_places": [
+      "Thief River Falls",
+      "Red Lake Reservation",
+      "White Earth Reservation",
+      "Fargo",
+      "Detroit Lakes",
+      "Glyndon",
+      "Pelican Rapids",
+      "Fergus Falls",
+      "Vergas",
+      "Perham",
+      "Wadena",
+      "Sebeka",
+      "Menahga",
+      "Park Rapids",
+      "Bagley",
+      "Bemidji",
+      "Blackduck",
+      "Kelliher",
+      "Northome",
+      "Big Falls",
+      "Littlefork",
+      "International Falls"
+    ],
+    "hide": false
+  },
+  {
+    "id": 210,
+    "timestamp": "2024-07-02",
+    "img_location": "maps/Screenshot_20240726_211902_Life360.jpg",
+    "start_time": "14:13",
+    "end_time": "15:53",
+    "start_place": "US-2/MN-220, Minnesota",
+    "end_place": "83rd Ave NE, North Dakota",
+    "map_places": [
+      "Spirit Lake Reservation"
+    ],
+    "hide": false
+  },
+  {
+    "id": 229,
+    "timestamp": "2024-07-02",
+    "img_location": "maps/Screenshot_20240726_211921_Life360.jpg",
+    "start_time": "16:23",
+    "end_time": "18:30",
+    "start_place": "4th Avenue Northeast, North Dakota",
+    "end_place": "Burdick Expressway West, North Dakota",
+    "map_places": [
+      "Souris",
+      "Boissevain",
+      "Bottineau",
+      "Belcourt",
+      "Spirit Lake Reservation",
+      "Harvey",
+      "New Salem"
+    ],
+    "hide": false
+  },
+  {
+    "id": 133,
+    "timestamp": "2024-07-02",
+    "img_location": "maps/Screenshot_20240726_211930_Life360.jpg",
+    "start_time": "18:30",
+    "end_time": "18:39",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 323,
+    "timestamp": "2024-07-02",
+    "img_location": "maps/Screenshot_20240726_211938_Life360.jpg",
+    "start_time": "18:39",
+    "end_time": "19:10",
+    "start_place": "Burdick Expressway West, North Dakota",
+    "end_place": "US 2, North Dakota",
+    "map_places": [
+      "Gales",
+      "Glenburn",
+      "Minot AFB",
+      "Berthold",
+      "Burlington"
+    ],
+    "hide": false
+  },
+  {
+    "id": 175,
+    "timestamp": "2024-07-02",
+    "img_location": "maps/Screenshot_20240726_211947_Life360.jpg",
+    "start_time": "19:17",
+    "end_time": "19:33",
+    "start_place": "Wassaic",
+    "end_place": "Palermo",
+    "map_places": [
+      "Stanley"
+    ],
+    "hide": false
+  },
+  {
+    "id": 272,
+    "timestamp": "2024-07-02",
+    "img_location": "maps/Screenshot_20240726_211956_Life360.jpg",
+    "start_time": "19:48",
+    "end_time": "20:23",
+    "start_place": "US 2, North Dakota",
+    "end_place": "64th St NW, North Dakota",
+    "map_places": [
+      "Eastwood",
+      "Wildrose",
+      "McGregor",
+      "Powers Lake",
+      "Lostwood",
+      "Wassaic",
+      "White Earth",
+      "Stanley",
+      "Ross",
+      "Belden",
+      "Hawkeye"
+    ],
+    "hide": false
+  },
+  {
+    "id": 325,
+    "timestamp": "2024-07-02",
+    "img_location": "maps/Screenshot_20240726_212006_Life360.jpg",
+    "start_time": "20:27",
+    "end_time": "20:58",
+    "start_place": "64th St NW, North Dakota",
+    "end_place": "2467 Ist Ave W, North Dakota",
+    "map_places": [
+      "Springbrook",
+      "Avoca",
+      "Williston"
+    ],
+    "hide": false
+  },
+  {
+    "id": 375,
+    "timestamp": "2024-07-02",
+    "img_location": "maps/Screenshot_20240726_212015_Life360.jpg",
+    "start_time": "20:58",
+    "end_time": "21:05",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 361,
+    "timestamp": "2024-07-02",
+    "img_location": "maps/Screenshot_20240726_212023_Life360.jpg",
+    "start_time": "21:37",
+    "end_time": "21:44",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 78,
+    "timestamp": "2024-07-02",
+    "img_location": "maps/Screenshot_20240726_212032_Life360.jpg",
+    "start_time": "21:44",
+    "end_time": "22:09",
+    "start_place": "US Hwy 2, Montana",
+    "end_place": "408 6th Street East, Montana",
+    "map_places": [
+      "Rich's 4 mi drive",
+      "Wheatland Hills",
+      "6th St W.",
+      "Magic City ReLeaf"
+    ],
+    "hide": false
+  },
+  {
+    "id": 101,
+    "timestamp": "2024-07-02",
+    "img_location": "maps/Screenshot_20240726_212044_Life360.jpg",
+    "start_time": "22:12",
+    "end_time": "22:24",
+    "start_place": "408 6th Street East, Montana",
+    "end_place": "14500 State Hwy 16, Montana",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 326,
+    "timestamp": "2024-07-02",
+    "img_location": "maps/Screenshot_20240726_212053_Life360.jpg",
+    "start_time": "22:29",
+    "end_time": "22:50",
+    "start_place": "State Hwy 16, Montana",
+    "end_place": "820 South Central Avenue",
+    "map_places": [
+      "Sioux Pass",
+      "Wool",
+      "Sidney"
+    ],
+    "hide": false
+  },
+  {
+    "id": 69,
+    "timestamp": "2024-07-02",
+    "img_location": "maps/Screenshot_20240726_212102_Life360.jpg",
+    "start_time": "22:50",
+    "end_time": "09:05",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 13,
+    "timestamp": "2024-07-03",
+    "img_location": "maps/Screenshot_20240726_212111_Life360.jpg",
+    "start_time": "09:05",
+    "end_time": "09:15",
+    "start_place": "820 South Central Avenue, Montana",
+    "end_place": "432 N Central Ave, Montana",
+    "map_places": [
+      "Reynolds Market",
+      "Wholly St",
+      "Sidney"
+    ],
+    "hide": false
+  },
+  {
+    "id": 235,
+    "timestamp": "2024-07-03",
+    "img_location": "maps/Screenshot_20240726_212119_Life360.jpg",
+    "start_time": "09:15",
+    "end_time": "09:42",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 260,
+    "timestamp": "2024-07-03",
+    "img_location": "maps/Screenshot_20240726_212129_Life360.jpg",
+    "start_time": "09:42",
+    "end_time": "13:29",
+    "start_place": "432 N Central Ave, Montana",
+    "end_place": "9 North Ist Street East, Montana",
+    "map_places": [
+      "FORT PECK",
+      "Cer INDIAN",
+      "mt RESERVATION",
+      "Glendive",
+      "Miles City"
+    ],
+    "hide": false
+  },
+  {
+    "id": 25,
+    "timestamp": "2024-07-03",
+    "img_location": "maps/Screenshot_20240726_212151_Life360.jpg",
+    "start_time": "13:29",
+    "end_time": "14:03",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 254,
+    "timestamp": "2024-07-03",
+    "img_location": "maps/Screenshot_20240726_212201_Life360.jpg",
+    "start_time": "14:03",
+    "end_time": "16:24",
+    "start_place": "North 1st Street East, Montana",
+    "end_place": "Blackie Coulee Road, Montana",
+    "map_places": [
+      "Havre",
+      "Chinook",
+      "Malta",
+      "Fort Belknap Reservation",
+      "Upper Missouri River Breaks National Monument"
+    ],
+    "hide": false
+  },
+  {
+    "id": 271,
+    "timestamp": "2024-07-03",
+    "img_location": "maps/Screenshot_20240726_212213_Life360.jpg",
+    "start_time": "16:24",
+    "end_time": "19:38",
+    "start_place": "Campground Rd, Montana",
+    "end_place": "5th Avenue, Montana",
+    "map_places": [
+      "Beaver-Creek",
+      "Herron Saddle Butte",
+      "Sangrey"
+    ],
+    "hide": false
+  },
+  {
+    "id": 244,
+    "timestamp": "2024-07-03",
+    "img_location": "maps/Screenshot_20240726_212224_Life360.jpg",
+    "start_time": "19:38",
+    "end_time": "19:40",
+    "start_place": "5th Avenue, Montana",
+    "end_place": "395 Ist St, Montana",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 246,
+    "timestamp": "2024-07-03",
+    "img_location": "maps/Screenshot_20240723_194049_Life360.jpg",
+    "start_time": "19:40",
+    "end_time": "19:42",
+    "start_place": "1st Street",
+    "end_place": "2nd Street",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 188,
+    "timestamp": "2024-07-03",
+    "img_location": "maps/Screenshot_20240726_212233_Life360.jpg",
+    "start_time": "19:41",
+    "end_time": "19:46",
+    "start_place": "4th Avenue, Montana",
+    "end_place": "742 Ist St, Montana",
+    "map_places": [
+      "2nd St Nw",
+      "Columbia Grain OQ",
+      "Guadalajara Méxican",
+      "Taco veal w",
+      "3rd St",
+      "4th st",
+      "1 4th os"
+    ],
+    "hide": false
+  },
+  {
+    "id": 278,
+    "timestamp": "2024-07-03",
+    "img_location": "maps/Screenshot_20240726_212241_Life360.jpg",
+    "start_time": "20:04",
+    "end_time": "20:06",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 107,
+    "timestamp": "2024-07-03",
+    "img_location": "maps/Screenshot_20240726_212251_Life360.jpg",
+    "start_time": "20:10",
+    "end_time": "20:51",
+    "start_place": "1275 2nd St, Montana",
+    "end_place": "Campground Rd, Montana",
+    "map_places": [
+      "St",
+      "Lohman",
+      "Sears",
+      "Saddle Butte",
+      "Agency"
+    ],
+    "hide": false
+  },
+  {
+    "id": 131,
+    "timestamp": "2024-07-03",
+    "img_location": "maps/Screenshot_20240726_212305_Life360.jpg",
+    "start_time": "20:51",
+    "end_time": "12:21",
+    "start_place": "Campground Rd, Montana",
+    "end_place": "1010 Ist St, Montana",
+    "map_places": [
+      "232",
+      "Havk",
+      "Beaver",
+      "Shambo",
+      "Sangrey Springs",
+      "Agency"
+    ],
+    "hide": false
+  },
+  {
+    "id": 147,
+    "timestamp": "2024-07-04",
+    "img_location": "maps/Screenshot_20240726_212317_Life360.jpg",
+    "start_time": "12:29",
+    "end_time": "12:32",
+    "start_place": "7th Avenue North, Montana",
+    "end_place": "352 3rd St, Montana",
+    "map_places": [
+      "2nd St",
+      "NW Columbia Grain",
+      "Guadalajara Mexican EI",
+      "3rd St",
+      "4th St"
+    ],
+    "hide": false
+  },
+  {
+    "id": 122,
+    "timestamp": "2024-07-04",
+    "img_location": "maps/Screenshot_20240726_212333_Life360.jpg",
+    "start_time": "12:32",
+    "end_time": "12:46",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 281,
+    "timestamp": "2024-07-04",
+    "img_location": "maps/Screenshot_20240726_212447_Life360.jpg",
+    "start_time": "12:46",
+    "end_time": "13:31",
+    "start_place": "352 3rd St, Montana",
+    "end_place": "135 Johannes Avenue, Montana",
+    "map_places": [
+      "Kremlin",
+      "Saddle Butte",
+      "Lado",
+      "Box Elder",
+      "Rocky Agency Crossing"
+    ],
+    "hide": false
+  },
+  {
+    "id": 245,
+    "timestamp": "2024-07-04",
+    "img_location": "maps/Screenshot_20240726_212500_Life360.jpg",
+    "start_time": "13:32",
+    "end_time": "14:16",
+    "start_place": "141 Johannes Ave, Montana",
+    "end_place": "1408 Front St, Montana",
+    "map_places": [
+      "Kenilworth",
+      "Landing",
+      "Loma",
+      "Lippard",
+      "Fort"
+    ],
+    "hide": false
+  },
+  {
+    "id": 194,
+    "timestamp": "2024-07-04",
+    "img_location": "maps/Screenshot_20240726_212510_Life360.jpg",
+    "start_time": "14:16",
+    "end_time": "15:57",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 218,
+    "timestamp": "2024-07-04",
+    "img_location": "maps/Screenshot_20240726_212524_Life360.jpg",
+    "start_time": "15:57",
+    "end_time": "16:46",
+    "start_place": "1408 Front St, Montana",
+    "end_place": "9th Street South, Montana",
+    "map_places": [
+      "Fort Benton",
+      "Floweree",
+      "Shon",
+      "Highwood",
+      "Gibson Flats",
+      "Sand Coulee Ralt"
+    ],
+    "hide": false
+  },
+  {
+    "id": 159,
+    "timestamp": "2024-07-04",
+    "img_location": "maps/Screenshot_20240726_212534_Life360.jpg",
+    "start_time": "16:52",
+    "end_time": "17:01",
+    "start_place": "1022 9th St S, Montana",
+    "end_place": "1044 5th St S, Montana",
+    "map_places": [
+      "Best Western Waterfront Hotel",
+      "Holiday Inn Great Falls- Convention Center"
+    ],
+    "hide": false
+  },
+  {
+    "id": 186,
+    "timestamp": "2024-07-04",
+    "img_location": "maps/Screenshot_20240726_212542_Life360.jpg",
+    "start_time": "17:13",
+    "end_time": "17:31",
+    "start_place": "1080 5th St S, Montana",
+    "end_place": "5th Street South, Montana",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 60,
+    "timestamp": "2024-07-04",
+    "img_location": "maps/Screenshot_20240726_212549_Life360.jpg",
+    "start_time": "17:31",
+    "end_time": "19:07",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 337,
+    "timestamp": "2024-07-04",
+    "img_location": "maps/Screenshot_20240726_212612_Life360.jpg",
+    "start_time": "19:07",
+    "end_time": "19:41",
+    "start_place": "5th Street South, Montana",
+    "end_place": "1st Avenue South, Montana",
+    "map_places": [
+      "Russell Museum",
+      "Scheels Country Club"
+    ],
+    "hide": false
+  },
+  {
+    "id": 22,
+    "timestamp": "2024-07-04",
+    "img_location": "maps/Screenshot_20240726_212620_Life360.jpg",
+    "start_time": "20:01",
+    "end_time": "20:05",
+    "start_place": "1st Avenue South, Montana",
+    "end_place": "342 Central Ave W, Montana",
+    "map_places": [
+      "Riverside Park",
+      "Great Falls",
+      "Electric City",
+      "Water Park",
+      "Best Western Plus Riverfront Hotel"
+    ],
+    "hide": false
+  },
+  {
+    "id": 222,
+    "timestamp": "2024-07-04",
+    "img_location": "maps/Screenshot_20240726_212628_Life360.jpg",
+    "start_time": "20:05",
+    "end_time": "20:27",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 203,
+    "timestamp": "2024-07-04",
+    "img_location": "maps/Screenshot_20240726_212638_Life360.jpg",
+    "start_time": "20:27",
+    "end_time": "20:34",
+    "start_place": "Walmart Supercenter",
+    "end_place": "2138 8th St NE, Montana",
+    "map_places": [
+      "Smelter Ave NE",
+      "Albertsons 9",
+      "GQ Bypass",
+      "8th Ave N",
+      "ge Suites",
+      "5th St N",
+      "Gibson Park",
+      "Children's Museum",
+      "2nd Ave N",
+      "Great Falls",
+      "Veterans Park"
+    ],
+    "hide": false
+  },
+  {
+    "id": 264,
+    "timestamp": "2024-07-04",
+    "img_location": "maps/Screenshot_20240726_212658_Life360.jpg",
+    "start_time": "20:49",
+    "end_time": "20:59",
+    "start_place": "2138 8th St NE, Montana",
+    "end_place": "5th Street South, Montana",
+    "map_places": [
+      "Walmart Supercenter 3",
+      "Black Eagle",
+      "Great Falls"
+    ],
+    "hide": false
+  },
+  {
+    "id": 6,
+    "timestamp": "2024-07-04",
+    "img_location": "maps/Screenshot_20240726_212710_Life360.jpg",
+    "start_time": "20:59",
+    "end_time": "08:48",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 58,
+    "timestamp": "2024-07-05",
+    "img_location": "maps/Screenshot_20240723_193947_Life360.jpg",
+    "start_time": "08:48",
+    "end_time": "08:56",
+    "start_place": "10th Avenue South",
+    "end_place": "Smelter Avenue Northeast",
+    "map_places": [
+      "Great Falls"
+    ],
+    "hide": false
+  },
+  {
+    "id": 371,
+    "timestamp": "2024-07-05",
+    "img_location": "maps/Screenshot_20240726_212736_Life360.jpg",
+    "start_time": "09:04",
+    "end_time": "09:07",
+    "start_place": "701 Smelter Avenue Northeast",
+    "end_place": "701 Smelter Avenue Northeast",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 314,
+    "timestamp": "2024-07-05",
+    "img_location": "maps/Screenshot_20240726_212746_Life360.jpg",
+    "start_time": "09:07",
+    "end_time": "09:15",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 224,
+    "timestamp": "2024-07-05",
+    "img_location": "maps/Screenshot_20240726_212758_Life360.jpg",
+    "start_time": "09:15",
+    "end_time": "10:53",
+    "start_place": "701 Smelter Avenue Northeast, Montana",
+    "end_place": "US Hwy 2NE, Montana",
+    "map_places": [
+      "Gildford",
+      "Kremlin",
+      "Chester",
+      "Joplin",
+      "Box Elder",
+      "Big Sandy Agency",
+      "Lomia",
+      "Barter",
+      "Geraldine",
+      "Highwood",
+      "Greg",
+      "Denton"
+    ],
+    "hide": false
+  },
+  {
+    "id": 48,
+    "timestamp": "2024-07-05",
+    "img_location": "maps/Screenshot_20240723_193930_Life360.jpg",
+    "start_time": "11:11",
+    "end_time": "11:21",
+    "start_place": "US. Route 2",
+    "end_place": "1st Street",
+    "map_places": [
+      "Havre North",
+      "West Havre"
+    ],
+    "hide": false
+  },
+  {
+    "id": 319,
+    "timestamp": "2024-07-05",
+    "img_location": "maps/Screenshot_20240726_212822_Life360.jpg",
+    "start_time": "11:21",
+    "end_time": "11:38",
+    "start_place": "1169 1st St, Montana",
+    "end_place": "535 17th St, Montana",
+    "map_places": [
+      "Best Western Plus Havre Great Northern Inn",
+      "South Avalon Sonnens"
+    ],
+    "hide": false
+  },
+  {
+    "id": 172,
+    "timestamp": "2024-07-05",
+    "img_location": "maps/Screenshot_20240726_213104_Life360.jpg",
+    "start_time": "11:38",
+    "end_time": "11:50",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 16,
+    "timestamp": "2024-07-05",
+    "img_location": "maps/Screenshot_20240723_193914_Life360.jpg",
+    "start_time": "11:50",
+    "end_time": "12:10",
+    "start_place": "7th Avenue",
+    "end_place": "Saint Joe Road",
+    "map_places": [
+      "East End",
+      "Colony",
+      "Saddle Butte"
+    ],
+    "hide": false
+  },
+  {
+    "id": 170,
+    "timestamp": "2024-07-05",
+    "img_location": "maps/Screenshot_20240726_213309_Life360.jpg",
+    "start_time": "12:29",
+    "end_time": "16:04",
+    "start_place": "Saint Joe Rd, Montana",
+    "end_place": "Trans-Canada Highway, Alb...",
+    "map_places": [
+      "Golden Prairie",
+      "Dunmore",
+      "Woolchester Maple Creek",
+      "Orion",
+      "Robsart",
+      "Manyberries"
+    ],
+    "hide": false
+  },
+  {
+    "id": 11,
+    "timestamp": "2024-07-05",
+    "img_location": "maps/Screenshot_20240726_213332_Life360.jpg",
+    "start_time": "16:42",
+    "end_time": "05:43",
+    "start_place": "126 South Railway Street SE, A...",
+    "end_place": "South Campground, Alberta",
+    "map_places": [
+      "Steveville",
+      "Jenner",
+      "Patricia",
+      "Tilley.",
+      "lling Hills Suffield",
+      "MedicipsHat y",
+      "Desert Blume",
+      "Dunmore",
+      "Bow Island KA",
+      "Wouiches"
+    ],
+    "hide": false
+  },
+  {
+    "id": 132,
+    "timestamp": "2024-07-06",
+    "img_location": "maps/Screenshot_20240723_202926_Life360.jpg",
+    "start_time": "06:04",
+    "end_time": "05:28",
+    "start_place": "South Campground, Alberta",
+    "end_place": "South Campground, Alberta",
+    "map_places": [
+      "Provincial Centre"
+    ],
+    "hide": false
+  },
+  {
+    "id": 208,
+    "timestamp": "2024-07-06",
+    "img_location": "maps/Screenshot_20240723_202941_Life360.jpg",
+    "start_time": "20:17",
+    "end_time": "05:43",
+    "start_place": "Mpinossur ara Campground",
+    "end_place": "South Campground, Alberta",
+    "map_places": [
+      "Mpinossur ara Campground",
+      "South Campground, Alberta"
+    ],
+    "hide": false
+  },
+  {
+    "id": 121,
+    "timestamp": "2024-07-07",
+    "img_location": "maps/Screenshot_20240723_202917_Life360.jpg",
+    "start_time": "06:29",
+    "end_time": "13:00",
+    "start_place": "South Campground, Alberta",
+    "end_place": "901 North Dinosaur Trail, Alberta",
+    "map_places": [
+      "Craigmyle",
+      "Hanna",
+      "Pollockville",
+      "Cessford"
+    ],
+    "hide": false
+  },
+  {
+    "id": 216,
+    "timestamp": "2024-07-07",
+    "img_location": "maps/Screenshot_20240723_202906_Life360.jpg",
+    "start_time": "14:18",
+    "end_time": "16:35",
+    "start_place": "14 Street Northwest, Alberta",
+    "end_place": "4Street SW, Alberta",
+    "map_places": [
+      "Rockyford",
+      "Standard",
+      "Gleichen",
+      "Strathmore",
+      "SIKSIKA INDIAN RESERVE #146",
+      "Diamond Valley"
+    ],
+    "hide": false
+  },
+  {
+    "id": 9,
+    "timestamp": "2024-07-07",
+    "img_location": "maps/Screenshot_20240726_213416_Life360.jpg",
+    "start_time": "17:33",
+    "end_time": "00:27",
+    "start_place": "30212 Avenue SW, Alberta",
+    "end_place": "Cedar, Montana",
+    "map_places": [
+      "Cochrane",
+      "Calgary",
+      "Strathmore",
+      "Okotoks",
+      "Siksika Indians",
+      "High River",
+      "Claresholm",
+      "Sparwood",
+      "Taber",
+      "Fort Macleod",
+      "Fernie",
+      "Pincher Creek",
+      "Blood 148",
+      "Blackfeet Indian Reservation",
+      "Kalispell"
+    ],
+    "hide": false
+  },
+  {
+    "id": 189,
+    "timestamp": "2024-07-08",
+    "img_location": "maps/Screenshot_20240723_202842_Life360.jpg",
+    "start_time": "00:27",
+    "end_time": "00:46",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 123,
+    "timestamp": "2024-07-08",
+    "img_location": "maps/Screenshot_20240723_202832_Life360.jpg",
+    "start_time": "00:46",
+    "end_time": "02:43",
+    "start_place": "Cedar, Montana",
+    "end_place": "Cedar, Montana",
+    "map_places": [
+      "Google al"
+    ],
+    "hide": false
+  },
+  {
+    "id": 72,
+    "timestamp": "2024-07-08",
+    "img_location": "maps/Screenshot_20240723_202809_Life360.jpg",
+    "start_time": "03:18",
+    "end_time": "05:35",
+    "start_place": "Cedar, Montana",
+    "end_place": "Evergreen, Montana",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 287,
+    "timestamp": "2024-07-08",
+    "img_location": "maps/Screenshot_20240723_202730_Life360.jpg",
+    "start_time": "08:36",
+    "end_time": "10:41",
+    "start_place": "Gateway, Montana",
+    "end_place": "5553 Ist St, Montana",
+    "map_places": [
+      "Glacier National Park",
+      "Indian Reservation",
+      "West Glacier",
+      "Valier",
+      "Dupuyer",
+      "Flathead National Forest",
+      "Choteau",
+      "Poison",
+      "Condon"
+    ],
+    "hide": false
+  },
+  {
+    "id": 256,
+    "timestamp": "2024-07-08",
+    "img_location": "maps/Screenshot_20240723_193203_Life360.jpg",
+    "start_time": "10:41",
+    "end_time": "10:42",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 7,
+    "timestamp": "2024-07-08",
+    "img_location": "maps/Screenshot_20240723_193146_Life360.jpg",
+    "start_time": "10:42",
+    "end_time": "10:51",
+    "start_place": "5553 1st St, Montana",
+    "end_place": "156 2nd Ave S, Montana",
+    "map_places": [
+      "Glacier National Park",
+      "West Glacier",
+      "Cut Bank",
+      "Valier",
+      "Dupuyer",
+      "Flathead National Forest",
+      "Choteau",
+      "Poison",
+      "Condon"
+    ],
+    "hide": false
+  },
+  {
+    "id": 43,
+    "timestamp": "2024-07-08",
+    "img_location": "maps/Screenshot_20240723_193137_Life360.jpg",
+    "start_time": "11:15",
+    "end_time": "11:33",
+    "start_place": "5252 US Hwy 89, Montana",
+    "end_place": "Teton Canyon Road, Montana",
+    "map_places": [
+      "X",
+      "Bynum",
+      "Miller Caley"
+    ],
+    "hide": false
+  },
+  {
+    "id": 38,
+    "timestamp": "2024-07-08",
+    "img_location": "maps/Screenshot_20240723_193130_Life360.jpg",
+    "start_time": "11:33",
+    "end_time": "11:51",
+    "start_place": "540 Teton Canyon Rd, Montana",
+    "end_place": "Montana",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 91,
+    "timestamp": "2024-07-08",
+    "img_location": "maps/Screenshot_20240723_193124_Life360.jpg",
+    "start_time": "11:52",
+    "end_time": "13:06",
+    "start_place": "Bellview Road, Montana",
+    "end_place": "Montana",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 79,
+    "timestamp": "2024-07-08",
+    "img_location": "maps/Screenshot_20240723_193115_Life360.jpg",
+    "start_time": "13:34",
+    "end_time": "14:13",
+    "start_place": "Miller Colony",
+    "end_place": "4886 13th Ln NW, Montana",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 66,
+    "timestamp": "2024-07-08",
+    "img_location": "maps/Screenshot_20240723_193107_Life360.jpg",
+    "start_time": "14:13",
+    "end_time": "14:30",
+    "start_place": "4896 13th Ln NW, Montana",
+    "end_place": "120 2nd Avenue South, Montana",
+    "map_places": [
+      "Miller Colony",
+      "Koyl"
+    ],
+    "hide": false
+  },
+  {
+    "id": 127,
+    "timestamp": "2024-07-08",
+    "img_location": "maps/Screenshot_20240723_193059_Life360.jpg",
+    "start_time": "15:02",
+    "end_time": "16:21",
+    "start_place": "US Hwy 89, Montana",
+    "end_place": "14th Avenue Northwest, Montana",
+    "map_places": [
+      "Fairfield",
+      "Vaughn",
+      "Augusta",
+      "Fort Shaw",
+      "Simms"
+    ],
+    "hide": false
+  },
+  {
+    "id": 141,
+    "timestamp": "2024-07-08",
+    "img_location": "maps/Screenshot_20240723_183815_Life360.jpg",
+    "start_time": "16:21",
+    "end_time": "17:09",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 259,
+    "timestamp": "2024-07-08",
+    "img_location": "maps/Screenshot_20240723_183757_Life360.jpg",
+    "start_time": "17:09",
+    "end_time": "17:20",
+    "start_place": "14th Avenue Northwest, Montana",
+    "end_place": "Central Avenue, Montana",
+    "map_places": [
+      "Park",
+      "Gibson Park",
+      "Central Avenue",
+      "2nd Ave N",
+      "Great Falls",
+      "Electric City Water"
+    ],
+    "hide": false
+  },
+  {
+    "id": 232,
+    "timestamp": "2024-07-08",
+    "img_location": "maps/Screenshot_20240723_193039_Life360.jpg",
+    "start_time": "17:20",
+    "end_time": "18:15",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 277,
+    "timestamp": "2024-07-08",
+    "img_location": "maps/Screenshot_20240723_183745_Life360.jpg",
+    "start_time": "18:15",
+    "end_time": "18:50",
+    "start_place": "Central Avenue, Montana",
+    "end_place": "959 20th St S, Montana",
+    "map_places": [
+      "C.M. Russell Museum",
+      "Fe, oy",
+      "N4S U6",
+      "2ndrAveN",
+      "1st Ave N",
+      "Miss, Our; Ry",
+      "iy, er",
+      "Great Falls"
+    ],
+    "hide": false
+  },
+  {
+    "id": 23,
+    "timestamp": "2024-07-08",
+    "img_location": "maps/Screenshot_20240723_193023_Life360.jpg",
+    "start_time": "19:00",
+    "end_time": "21:26",
+    "start_place": "10th Avenue South, Montana",
+    "end_place": "2nd Avenue Southeast, Montana",
+    "map_places": [
+      "Blackfeet",
+      "Cut Bank",
+      "Shelby",
+      "Heart Butte",
+      "Conrad",
+      "Dupuyer",
+      "Brady",
+      "Bynum",
+      "Dutton"
+    ],
+    "hide": false
+  },
+  {
+    "id": 102,
+    "timestamp": "2024-07-08",
+    "img_location": "maps/Screenshot_20240723_193014_Life360.jpg",
+    "start_time": "21:30",
+    "end_time": "23:00",
+    "start_place": "155 E Central Ave, Montana",
+    "end_place": "Going To the Sun Hwy, Montana",
+    "map_places": [
+      "Blackfeet Indian Reservation"
+    ],
+    "hide": false
+  },
+  {
+    "id": 56,
+    "timestamp": "2024-07-08",
+    "img_location": "maps/Screenshot_20240723_193007_Life360.jpg",
+    "start_time": "23:19",
+    "end_time": "23:34",
+    "start_place": "Going To the Sun Hwy, Montana",
+    "end_place": "Going-to-the-Sun Road, Montana",
+    "map_places": [
+      "McDonald Lake"
+    ],
+    "hide": false
+  },
+  {
+    "id": 90,
+    "timestamp": "2024-07-08",
+    "img_location": "maps/Screenshot_20240723_192958_Life360.jpg",
+    "start_time": "23:34",
+    "end_time": "23:37",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 250,
+    "timestamp": "2024-07-09",
+    "img_location": "maps/Screenshot_20240723_192942_Life360.jpg",
+    "start_time": "00:08",
+    "end_time": "12:31",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 41,
+    "timestamp": "2024-07-09",
+    "img_location": "maps/Screenshot_20240723_211422_Life360.jpg",
+    "start_time": "00:14",
+    "end_time": "N/A",
+    "start_place": null,
+    "end_place": null,
+    "map_places": [
+      "Beach Q",
+      "Happy Haven",
+      "Loula's Cafe",
+      "2nd St - Whitefish",
+      "Whitefish River",
+      "Safeway"
+    ],
+    "hide": false
+  },
+  {
+    "id": 37,
+    "timestamp": "2024-07-09",
+    "img_location": "maps/Screenshot_20240723_202748_Life360.jpg",
+    "start_time": "06:05",
+    "end_time": "08:06",
+    "start_place": "Cedar, Montana",
+    "end_place": "Cedar, Montana",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 197,
+    "timestamp": "2024-07-09",
+    "img_location": "maps/Screenshot_20240723_203505_Life360.jpg",
+    "start_time": "08:35",
+    "end_time": "17:00",
+    "start_place": null,
+    "end_place": null,
+    "map_places": [
+      "Trailcreek",
+      "Ford",
+      "Glacier National Park",
+      "Ald",
+      "Nyack",
+      "Pinnacle",
+      "Esse",
+      "Lal",
+      "N/A"
+    ],
+    "hide": false
+  },
+  {
+    "id": 142,
+    "timestamp": "2024-07-09",
+    "img_location": "maps/Screenshot_20240723_192936_Life360.jpg",
+    "start_time": "12:31",
+    "end_time": "13:10",
+    "start_place": "Cedar, Montana",
+    "end_place": "230 Central Ave, Montana",
+    "map_places": [
+      "Apgar",
+      "West Glacier",
+      "Coram",
+      "Kalispell",
+      "La Salle"
+    ],
+    "hide": false
+  },
+  {
+    "id": 167,
+    "timestamp": "2024-07-09",
+    "img_location": "maps/Screenshot_20240723_183631_Life360.jpg",
+    "start_time": "12:31",
+    "end_time": "13:10",
+    "start_place": "Unknown address",
+    "end_place": "230 Central Ave, Montana",
+    "map_places": [
+      "Apgar",
+      "West Glacier",
+      "Coram",
+      "La Salle"
+    ],
+    "hide": false
+  },
+  {
+    "id": 24,
+    "timestamp": "2024-07-09",
+    "img_location": "maps/Screenshot_20240723_192928_Life360.jpg",
+    "start_time": "13:23",
+    "end_time": "13:33",
+    "start_place": "Baker Avenue, Montana",
+    "end_place": "102 Wisconsin Avenue, Montana",
+    "map_places": [
+      "Happy Haven",
+      "Whitefish Depot",
+      "Central Ave",
+      "Spokane Ave",
+      "E 1st St",
+      "Loula's Cafe",
+      "E 3rd St",
+      "COTA",
+      "Picture Montana",
+      "4th St"
+    ],
+    "hide": false
+  },
+  {
+    "id": 62,
+    "timestamp": "2024-07-09",
+    "img_location": "maps/Screenshot_20240723_183619_Life360.jpg",
+    "start_time": "13:23",
+    "end_time": "13:33",
+    "start_place": "Baker Avenue, Montana",
+    "end_place": "102 Wisconsin Avenue, Montana",
+    "map_places": [
+      "Waverly",
+      "HAPPY HAVEN",
+      "fish Depot",
+      "Depot St",
+      "Central Ave",
+      "Spokane Ave",
+      "E1stSt",
+      "Loula's Cafe",
+      "E 3rd St",
+      "E 4th St"
+    ],
+    "hide": false
+  },
+  {
+    "id": 296,
+    "timestamp": "2024-07-09",
+    "img_location": "maps/Screenshot_20240723_192921_Life360.jpg",
+    "start_time": "13:33",
+    "end_time": "14:09",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 182,
+    "timestamp": "2024-07-09",
+    "img_location": "maps/Screenshot_20240723_192914_Life360.jpg",
+    "start_time": "14:09",
+    "end_time": "14:44",
+    "start_place": "102 Wisconsin Avenue, Montana",
+    "end_place": "US Hwy 2E, Montana",
+    "map_places": [
+      "Prien",
+      "VF",
+      "Hungry",
+      "Columbia Falls"
+    ],
+    "hide": false
+  },
+  {
+    "id": 320,
+    "timestamp": "2024-07-09",
+    "img_location": "maps/Screenshot_20240723_183609_Life360.jpg",
+    "start_time": "14:09",
+    "end_time": "14:44",
+    "start_place": "102 Wisconsin Avenue, Montana",
+    "end_place": "US Hwy 2E, Montana",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 168,
+    "timestamp": "2024-07-09",
+    "img_location": "maps/Screenshot_20240723_192906_Life360.jpg",
+    "start_time": "14:46",
+    "end_time": "15:02",
+    "start_place": "US Hwy 2E, Montana",
+    "end_place": "Glacier Ave, Montana",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 327,
+    "timestamp": "2024-07-09",
+    "img_location": "maps/Screenshot_20240723_183557_Life360.jpg",
+    "start_time": "14:46",
+    "end_time": "15:02",
+    "start_place": "US Hwy 2E, Montana",
+    "end_place": "Glacier Ave, Montana",
+    "map_places": [
+      "Coram"
+    ],
+    "hide": false
+  },
+  {
+    "id": 77,
+    "timestamp": "2024-07-09",
+    "img_location": "maps/Screenshot_20240723_183536_Life360.jpg",
+    "start_time": "15:07",
+    "end_time": "15:34",
+    "start_place": "154 Going To the Sun Hwy, M...",
+    "end_place": "12150 2E, West Glacier, MT 59...",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 154,
+    "timestamp": "2024-07-09",
+    "img_location": "maps/Screenshot_20240723_192854_Life360.jpg",
+    "start_time": "15:07",
+    "end_time": "15:34",
+    "start_place": "154 Going To the Sun Hwy, Montana",
+    "end_place": "Cedar, Montana",
+    "map_places": [
+      "Belton Chalet",
+      "West Glacier"
+    ],
+    "hide": false
+  },
+  {
+    "id": 138,
+    "timestamp": "2024-07-09",
+    "img_location": "maps/Screenshot_20240723_192841_Life360.jpg",
+    "start_time": "15:34",
+    "end_time": "16:42",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 303,
+    "timestamp": "2024-07-09",
+    "img_location": "maps/Screenshot_20240723_183521_Life360.jpg",
+    "start_time": "16:42",
+    "end_time": "17:27",
+    "start_place": "Unknown address",
+    "end_place": "Camas Road, Montana",
+    "map_places": [
+      "Red Rock A",
+      "Sperry Chalets"
+    ],
+    "hide": false
+  },
+  {
+    "id": 384,
+    "timestamp": "2024-07-09",
+    "img_location": "maps/Screenshot_20240723_183504_Life360.jpg",
+    "start_time": "17:29",
+    "end_time": "20:38",
+    "start_place": "Camas Road, Montana",
+    "end_place": "Avalanche Lake Trail, Montana",
+    "map_places": [
+      "Heavens Peak",
+      "Red Rock Point",
+      "Sperry Chalets",
+      "West Glacier"
+    ],
+    "hide": false
+  },
+  {
+    "id": 268,
+    "timestamp": "2024-07-09",
+    "img_location": "maps/Screenshot_20240723_192827_Life360.jpg",
+    "start_time": "23:20",
+    "end_time": "09:45",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 68,
+    "timestamp": "2024-07-10",
+    "img_location": "maps/Screenshot_20240723_183453_Life360.jpg",
+    "start_time": "09:45",
+    "end_time": "10:04",
+    "start_place": "Unknown address",
+    "end_place": "12150 2E, West Glacier, MT",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 286,
+    "timestamp": "2024-07-10",
+    "img_location": "maps/Screenshot_20240723_192816_Life360.jpg",
+    "start_time": "10:04",
+    "end_time": "10:54",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 211,
+    "timestamp": "2024-07-10",
+    "img_location": "maps/Screenshot_20240723_183439_Life360.jpg",
+    "start_time": "10:54",
+    "end_time": "11:42",
+    "start_place": "Unknown address",
+    "end_place": "405 South Main Street, Mont...",
+    "map_places": [
+      "West Glacier",
+      "Coram",
+      "Whitefish",
+      "Columbia Falls"
+    ],
+    "hide": false
+  },
+  {
+    "id": 179,
+    "timestamp": "2024-07-10",
+    "img_location": "maps/Screenshot_20240723_192755_Life360.jpg",
+    "start_time": "11:42",
+    "end_time": "11:55",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 76,
+    "timestamp": "2024-07-10",
+    "img_location": "maps/Screenshot_20240723_183330_Life360.jpg",
+    "start_time": "11:55",
+    "end_time": "12:54",
+    "start_place": "405 South Main Street, Montana",
+    "end_place": "2nd Avenue West, Montana",
+    "map_places": [
+      "Marion",
+      "Kila",
+      "Bigfork",
+      "Prairie Takeside",
+      "Flathead National Forest",
+      "Lake Mary",
+      "Ronan",
+      "Swan Lake",
+      "Rollins",
+      "Dayton",
+      "Lonepine",
+      "Pablo",
+      "Saln",
+      "Wil Pre"
+    ],
+    "hide": false
+  },
+  {
+    "id": 181,
+    "timestamp": "2024-07-10",
+    "img_location": "maps/Screenshot_20240723_183318_Life360.jpg",
+    "start_time": "12:58",
+    "end_time": "14:31",
+    "start_place": "130 Main St, Montana",
+    "end_place": "221 W Front St, Montana",
+    "map_places": [
+      "Condon",
+      "FLATHEAD RESERVATION",
+      "Stl tius",
+      "Seeley Lake",
+      "Superior",
+      "Lolo National Forest",
+      "Lolo",
+      "Clinton"
+    ],
+    "hide": false
+  },
+  {
+    "id": 160,
+    "timestamp": "2024-07-10",
+    "img_location": "maps/Screenshot_20240723_192740_Life360.jpg",
+    "start_time": "14:31",
+    "end_time": "15:19",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 332,
+    "timestamp": "2024-07-10",
+    "img_location": "maps/Screenshot_20240723_183303_Life360.jpg",
+    "start_time": "15:19",
+    "end_time": "16:30",
+    "start_place": "221 W Front St, Montana",
+    "end_place": "US Hwy 12, Montana",
+    "map_places": [
+      "Seeley Lake",
+      "Lincoln",
+      "Florence",
+      "Drummond",
+      "Philipsburg",
+      "Hamilton",
+      "Anaconda",
+      "Butte"
+    ],
+    "hide": false
+  },
+  {
+    "id": 26,
+    "timestamp": "2024-07-10",
+    "img_location": "maps/Screenshot_20240723_183253_Life360.jpg",
+    "start_time": "16:32",
+    "end_time": "16:43",
+    "start_place": "US Hwy 12, Montana",
+    "end_place": "9149 US Hwy 12W, Montana",
+    "map_places": [
+      "BLOSSBURG",
+      "Frontier Town"
+    ],
+    "hide": false
+  },
+  {
+    "id": 55,
+    "timestamp": "2024-07-10",
+    "img_location": "maps/Screenshot_20240723_192301_Life360.jpg",
+    "start_time": "16:43",
+    "end_time": "16:52",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 301,
+    "timestamp": "2024-07-10",
+    "img_location": "maps/Screenshot_20240723_192251_Life360.jpg",
+    "start_time": "16:52",
+    "end_time": "17:08",
+    "start_place": "9149 US Hwy 12 W, Montana",
+    "end_place": "West 6th Avenue, Montana",
+    "map_places": [
+      "Helena Valley Northwest",
+      "Birdseye Helena Valley West Central",
+      "Austin",
+      "Helena",
+      "Trier Town",
+      "South Unionville",
+      "Rimini"
+    ],
+    "hide": false
+  },
+  {
+    "id": 80,
+    "timestamp": "2024-07-10",
+    "img_location": "maps/Screenshot_20240723_184629_Life360.jpg",
+    "start_time": "17:08",
+    "end_time": "17:24",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 165,
+    "timestamp": "2024-07-10",
+    "img_location": "maps/Screenshot_20240723_192712_Life360.jpg",
+    "start_time": "17:24",
+    "end_time": "17:49",
+    "start_place": "West 6th Avenue, Montana",
+    "end_place": "1863 I-15 Bus, Montana",
+    "map_places": [
+      "Shellie's Country Cafe & N Benton Ave",
+      "Western Premier a.Great Northern",
+      "Mount Ascension Park"
+    ],
+    "hide": false
+  },
+  {
+    "id": 54,
+    "timestamp": "2024-07-10",
+    "img_location": "maps/Screenshot_20240723_183222_Life360.jpg",
+    "start_time": "18:11",
+    "end_time": "18:38",
+    "start_place": "4703 US Hwy 12, Montana",
+    "end_place": "US 287, Montana",
+    "map_places": [
+      "Spokane Creek",
+      "Noble",
+      "Winston",
+      "Canton",
+      "Bedford",
+      "McMullan",
+      "Townsend",
+      "Hassel",
+      "Radersburg"
+    ],
+    "hide": false
+  },
+  {
+    "id": 309,
+    "timestamp": "2024-07-10",
+    "img_location": "maps/Screenshot_20240723_192648_Life360.jpg",
+    "start_time": "18:40",
+    "end_time": "19:39",
+    "start_place": "8575 US Hwy 287, Montana",
+    "end_place": "63 Jackrabbit Ln, Montana",
+    "map_places": [
+      "Sixteen",
+      "Radersburg",
+      "Boston",
+      "Maudlow",
+      "Clarkston",
+      "Tree' gas",
+      "Creek Bridge",
+      "Harrison",
+      "Bozeman"
+    ],
+    "hide": false
+  },
+  {
+    "id": 304,
+    "timestamp": "2024-07-10",
+    "img_location": "maps/Screenshot_20240723_183202_Life360.jpg",
+    "start_time": "19:57",
+    "end_time": "22:22",
+    "start_place": "Huffine Lane, Montana",
+    "end_place": "843 Parkway Lane, Montana",
+    "map_places": [
+      "Roundup",
+      "Laurel",
+      "Custer, Gallatin",
+      "Gallatin National Forest",
+      "Gardiner",
+      "Powell",
+      "West Yellowstone",
+      "Yellowstone National Park"
+    ],
+    "hide": false
+  },
+  {
+    "id": 169,
+    "timestamp": "2024-07-10",
+    "img_location": "maps/Screenshot_20240723_184613_Life360.jpg",
+    "start_time": "22:22",
+    "end_time": "08:29",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 279,
+    "timestamp": "2024-07-11",
+    "img_location": "maps/Screenshot_20240723_183143_Life360.jpg",
+    "start_time": "08:29",
+    "end_time": "08:39",
+    "start_place": "843 Parkway Lane, Montana",
+    "end_place": "Old Hardin Road, Montana",
+    "map_places": [
+      "Billings",
+      "Heights",
+      "Lockwood",
+      "Bozeman"
+    ],
+    "hide": false
+  },
+  {
+    "id": 243,
+    "timestamp": "2024-07-11",
+    "img_location": "maps/Screenshot_20240723_183126_Life360.jpg",
+    "start_time": "08:40",
+    "end_time": "09:22",
+    "start_place": "I-90, US 87, US 212, Montana",
+    "end_place": "State Hwy 47, Montana",
+    "map_places": [
+      "Waco",
+      "Pompeys Pillar",
+      "Shepherd",
+      "Foster",
+      "Soda Springs",
+      "Stikavier"
+    ],
+    "hide": false
+  },
+  {
+    "id": 280,
+    "timestamp": "2024-07-11",
+    "img_location": "maps/Screenshot_20240723_183116_Life360.jpg",
+    "start_time": "09:25",
+    "end_time": "10:19",
+    "start_place": "I-90 Bus, Montana",
+    "end_place": "US Highway 212, Montana",
+    "map_places": [
+      "Colstrip",
+      "Crow Agency",
+      "Northern Cheyenne Indian Reservation",
+      "Lodge Grass",
+      "Birney"
+    ],
+    "hide": false
+  },
+  {
+    "id": 63,
+    "timestamp": "2024-07-11",
+    "img_location": "maps/Screenshot_20240723_184554_Life360.jpg",
+    "start_time": "10:19",
+    "end_time": "10:33",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 173,
+    "timestamp": "2024-07-11",
+    "img_location": "maps/Screenshot_20240723_183100_Life360.jpg",
+    "start_time": "10:33",
+    "end_time": "11:35",
+    "start_place": "US Highway 212, Montana",
+    "end_place": "101 Park Ave, Montana",
+    "map_places": [
+      "Colstrip",
+      "Volborg",
+      "Northern Cheyenne Indian Reservation",
+      "Birney"
+    ],
+    "hide": false
+  },
+  {
+    "id": 149,
+    "timestamp": "2024-07-11",
+    "img_location": "maps/Screenshot_20240723_183047_Life360.jpg",
+    "start_time": "11:44",
+    "end_time": "13:36",
+    "start_place": "Park Ave, Montana",
+    "end_place": "Hwy 10, Wyoming",
+    "map_places": [
+      "Broadus",
+      "Cap",
+      "Diamond",
+      "Albion",
+      "Biddle",
+      "Belle Fourche",
+      "Sundance",
+      "Weston"
+    ],
+    "hide": false
+  },
+  {
+    "id": 164,
+    "timestamp": "2024-07-11",
+    "img_location": "maps/Screenshot_20240723_183037_Life360.jpg",
+    "start_time": "13:40",
+    "end_time": "14:49",
+    "start_place": "175 Hwy 110, Wyoming",
+    "end_place": "US Hwy 85, South Dakota",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 258,
+    "timestamp": "2024-07-11",
+    "img_location": "maps/Screenshot_20240723_183026_Life360.jpg",
+    "start_time": "14:53",
+    "end_time": "15:35",
+    "start_place": "US Hwy 85, South Dakota",
+    "end_place": "983 Lazelle St, South Dakota",
+    "map_places": [
+      "Whitewood",
+      "Crook City",
+      "Deadwood",
+      "Galena"
+    ],
+    "hide": false
+  },
+  {
+    "id": 5,
+    "timestamp": "2024-07-11",
+    "img_location": "maps/Screenshot_20240723_184540_Life360.jpg",
+    "start_time": "15:35",
+    "end_time": "16:34",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 148,
+    "timestamp": "2024-07-11",
+    "img_location": "maps/Screenshot_20240723_183012_Life360.jpg",
+    "start_time": "16:34",
+    "end_time": "17:35",
+    "start_place": "983 Lazelle St, South Dakota",
+    "end_place": "Highway 79, South Dakota",
+    "map_places": [
+      "Hereford",
+      "Deadwood",
+      "Piedmont",
+      "Black Nek",
+      "Rogaine RapidkCity, New.",
+      "Underwc Hills",
+      "Hisega Rapid Valley",
+      "Forest",
+      "Keystone",
+      "Hermosa",
+      "Crazy Horse",
+      "Custer Ln",
+      "Custer",
+      "Sorkton State Park",
+      "Red Shirt",
+      "Wind Cave",
+      "Nenle National Par",
+      "Hat Springs"
+    ],
+    "hide": false
+  },
+  {
+    "id": 227,
+    "timestamp": "2024-07-11",
+    "img_location": "maps/Screenshot_20240723_171014_Life360.jpg",
+    "start_time": "17:37",
+    "end_time": "18:00",
+    "start_place": "SD Highway 79, South Dakota",
+    "end_place": "1701 Summit Rd, South Dakota",
+    "map_places": [
+      "Ny",
+      "Buffalo Gap",
+      "Hot Springs",
+      "Juneuon"
+    ],
+    "hide": false
+  },
+  {
+    "id": 335,
+    "timestamp": "2024-07-11",
+    "img_location": "maps/Screenshot_20240723_184527_Life360.jpg",
+    "start_time": "18:00",
+    "end_time": "18:57",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 238,
+    "timestamp": "2024-07-11",
+    "img_location": "maps/Screenshot_20240723_170958_Life360.jpg",
+    "start_time": "18:57",
+    "end_time": "19:55",
+    "start_place": "1701 Summit Rd, South Dakota",
+    "end_place": "Brennan Avenue, South Dakota",
+    "map_places": [
+      "Qe",
+      "Exlocaye) rt",
+      "PINF RIDC"
+    ],
+    "hide": false
+  },
+  {
+    "id": 322,
+    "timestamp": "2024-07-11",
+    "img_location": "maps/Screenshot_20240723_184516_Life360.jpg",
+    "start_time": "19:55",
+    "end_time": "20:25",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 367,
+    "timestamp": "2024-07-11",
+    "img_location": "maps/Screenshot_20240723_170947_Life360.jpg",
+    "start_time": "20:25",
+    "end_time": "20:28",
+    "start_place": "Brennan Avenue, South Dakota",
+    "end_place": "1846 Eglin Street, South Dakota",
+    "map_places": [
+      "Meadowlark Hill",
+      "Mobile Estates",
+      "Menards",
+      "E North St",
+      "Beaus Carhbell 9 Street Diner",
+      "Brookdale Estates",
+      "Central States Fair, Inc"
+    ],
+    "hide": false
+  },
+  {
+    "id": 308,
+    "timestamp": "2024-07-11",
+    "img_location": "maps/Screenshot_20240723_184504_Life360.jpg",
+    "start_time": "20:28",
+    "end_time": "21:00",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 344,
+    "timestamp": "2024-07-11",
+    "img_location": "maps/Screenshot_20240723_170852_Life360.jpg",
+    "start_time": "21:00",
+    "end_time": "22:10",
+    "start_place": "1846 Eglin Street, South Dakota",
+    "end_place": "Ch4, South Dakota",
+    "map_places": [
+      "Badlands Vee, National Park",
+      "Interior",
+      "Wanblee",
+      "Kyle"
+    ],
+    "hide": false
+  },
+  {
+    "id": 50,
+    "timestamp": "2024-07-11",
+    "img_location": "maps/Screenshot_20240723_184453_Life360.jpg",
+    "start_time": "22:10",
+    "end_time": "22:20",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 150,
+    "timestamp": "2024-07-11",
+    "img_location": "maps/Screenshot_20240723_170839_Life360.jpg",
+    "start_time": "22:20",
+    "end_time": "23:49",
+    "start_place": "Ch 4, South Dakota",
+    "end_place": "374 W Sioux Ave, South Dakota",
+    "map_places": [
+      "Belvidere",
+      "Rosebud Reservation"
+    ],
+    "hide": false
+  },
+  {
+    "id": 1,
+    "timestamp": "2024-07-11",
+    "img_location": "maps/Screenshot_20240723_192058_Life360.jpg",
+    "start_time": "23:49",
+    "end_time": "08:59",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 75,
+    "timestamp": "2024-07-12",
+    "img_location": "maps/Screenshot_20240723_170826_Life360.jpg",
+    "start_time": "08:59",
+    "end_time": "09:04",
+    "start_place": "374 W Sioux Ave, South Dakota",
+    "end_place": "9 East Capitol Avenue, South Dakota",
+    "map_places": [
+      "The Historic Farr House",
+      "Mad Mary's",
+      "Scooters"
+    ],
+    "hide": false
+  },
+  {
+    "id": 47,
+    "timestamp": "2024-07-12",
+    "img_location": "maps/Screenshot_20240723_170816_Life360.jpg",
+    "start_time": "09:05",
+    "end_time": "11:12",
+    "start_place": "East Capitol Avenue, South Dakota",
+    "end_place": "7735 Main St, South Dakota",
+    "map_places": [
+      "Dakota",
+      "Hurc",
+      "Crow Creek Reservation",
+      "Rosebud CECT",
+      "Platte"
+    ],
+    "hide": false
+  },
+  {
+    "id": 343,
+    "timestamp": "2024-07-12",
+    "img_location": "maps/Screenshot_20240723_170807_Life360.jpg",
+    "start_time": "11:20",
+    "end_time": "12:36",
+    "start_place": "Purple Heart Memorial Highway",
+    "end_place": "5229N Granite Ln, South Dakota",
+    "map_places": [
+      "Huron",
+      "Brookings",
+      "Lake Preston",
+      "Wessington",
+      "Flandreau",
+      "Woonsocket",
+      "Madison",
+      "Dell Rapids",
+      "Plankinton",
+      "Mitchell",
+      "Salem",
+      "Alexandria",
+      "Sioux Falls",
+      "Parkston",
+      "Parker",
+      "Freeman",
+      "Harrisburg",
+      "Canton",
+      "Yankton",
+      "Tyndall"
+    ],
+    "hide": false
+  },
+  {
+    "id": 27,
+    "timestamp": "2024-07-12",
+    "img_location": "maps/Screenshot_20240723_170756_Life360.jpg",
+    "start_time": "12:52",
+    "end_time": "14:21",
+    "start_place": "W 54th St N, South Dakota",
+    "end_place": "551 4th St, lowa",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 110,
+    "timestamp": "2024-07-12",
+    "img_location": "maps/Screenshot_20240723_184418_Life360.jpg",
+    "start_time": "14:21",
+    "end_time": "15:01",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 81,
+    "timestamp": "2024-07-12",
+    "img_location": "maps/Screenshot_20240723_170742_Life360.jpg",
+    "start_time": "15:01",
+    "end_time": "18:00",
+    "start_place": "551 4th St, lowa",
+    "end_place": "16248 N Ave, lowa",
+    "map_places": [
+      "Kocnester",
+      "Sioux Falls",
+      "Sioux City",
+      "Des Moines"
+    ],
+    "hide": false
+  },
+  {
+    "id": 389,
+    "timestamp": "2024-07-12",
+    "img_location": "maps/Screenshot_20240723_184404_Life360.jpg",
+    "start_time": "18:00",
+    "end_time": "18:19",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 261,
+    "timestamp": "2024-07-12",
+    "img_location": "maps/Screenshot_20240723_170729_Life360.jpg",
+    "start_time": "18:19",
+    "end_time": "20:51",
+    "start_place": "16248 N Ave, lowa",
+    "end_place": "Golden Valley Drive, lowa",
+    "map_places": [
+      "Marshalltown",
+      "Waterloo"
+    ],
+    "hide": false
+  },
+  {
+    "id": 307,
+    "timestamp": "2024-07-12",
+    "img_location": "maps/Screenshot_20240723_184350_Life360.jpg",
+    "start_time": "20:51",
+    "end_time": "21:08",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 347,
+    "timestamp": "2024-07-12",
+    "img_location": "maps/Screenshot_20240723_170713_Life360.jpg",
+    "start_time": "21:08",
+    "end_time": "21:18",
+    "start_place": "Golden Valley Drive, Iowa",
+    "end_place": "Spruce Hills Drive, Iowa",
+    "map_places": [
+      "Home2 Suites by Hilton",
+      "Bettendorf Quad Cities"
+    ],
+    "hide": false
+  },
+  {
+    "id": 53,
+    "timestamp": "2024-07-12",
+    "img_location": "maps/Screenshot_20240723_170657_Life360.jpg",
+    "start_time": "21:21",
+    "end_time": "21:42",
+    "start_place": "3971 Elmore Ave, Iowa",
+    "end_place": "Golden Valley Drive, Iowa",
+    "map_places": [
+      "Staybridge Suites Davenport, an IHG",
+      "E 46th St Crow Creek Rd",
+      "Elmore Marketplace",
+      "Lowe's",
+      "Sam's Club",
+      "Tanglefoot Ln",
+      "Home2 Suites by Hilton Bettendorf"
+    ],
+    "hide": false
+  },
+  {
+    "id": 379,
+    "timestamp": "2024-07-12",
+    "img_location": "maps/Screenshot_20240723_184332_Life360.jpg",
+    "start_time": "21:42",
+    "end_time": "09:16",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 341,
+    "timestamp": "2024-07-13",
+    "img_location": "maps/Screenshot_20240723_170646_Life360.jpg",
+    "start_time": "09:16",
+    "end_time": "09:39",
+    "start_place": "Golden Valley Drive, Iowa",
+    "end_place": "I-88, Illinois",
+    "map_places": [
+      "McCausland",
+      "Grove",
+      "Hillsdale",
+      "St. Claire"
+    ],
+    "hide": false
+  },
+  {
+    "id": 85,
+    "timestamp": "2024-07-13",
+    "img_location": "maps/Screenshot_20240723_170635_Life360.jpg",
+    "start_time": "09:41",
+    "end_time": "11:03",
+    "start_place": "I-88, Illinois",
+    "end_place": "Orchard Road, Illinois",
+    "map_places": [
+      "Rockford",
+      "Lake"
+    ],
+    "hide": false
+  },
+  {
+    "id": 28,
+    "timestamp": "2024-07-13",
+    "img_location": "maps/Screenshot_20240723_170621_Life360.jpg",
+    "start_time": "11:07",
+    "end_time": "12:39",
+    "start_place": "Unknown address",
+    "end_place": "122W Monroe St, Illinois",
+    "map_places": [
+      "Orland Park",
+      "Oswego",
+      "Plainfield",
+      "Tinley",
+      "Joliet",
+      "Frankfort"
+    ],
+    "hide": false
+  },
+  {
+    "id": 87,
+    "timestamp": "2024-07-13",
+    "img_location": "maps/Screenshot_20240723_184254_Life360.jpg",
+    "start_time": "12:39",
+    "end_time": "12:55",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 42,
+    "timestamp": "2024-07-13",
+    "img_location": "maps/Screenshot_20240723_170610_Life360.jpg",
+    "start_time": "12:55",
+    "end_time": "13:01",
+    "start_place": "122 W Monroe St, Illinois",
+    "end_place": "East Monroe Drive, Illinois",
+    "map_places": [
+      "Lake St",
+      "Chicago Theatre",
+      "Dale Sane",
+      "Washington St",
+      "State St",
+      "Madison St",
+      "Clark St",
+      "Monroe St",
+      "Adams St",
+      "Van Buren St",
+      "Federal St",
+      "South Ct",
+      "Michigan Ave"
+    ],
+    "hide": false
+  },
+  {
+    "id": 64,
+    "timestamp": "2024-07-13",
+    "img_location": "maps/Screenshot_20240723_184225_Life360.jpg",
+    "start_time": "13:01",
+    "end_time": "13:18",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 30,
+    "timestamp": "2024-07-13",
+    "img_location": "maps/Screenshot_20240723_184215_Life360.jpg",
+    "start_time": "13:29",
+    "end_time": "13:35",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 318,
+    "timestamp": "2024-07-13",
+    "img_location": "maps/Screenshot_20240723_170558_Life360.jpg",
+    "start_time": "13:35",
+    "end_time": "13:41",
+    "start_place": "275 S Michigan Ave, Illinois",
+    "end_place": "Pedway, Illinois",
+    "map_places": [
+      "Washington",
+      "Washington/Wabash",
+      "W Madison St",
+      "E Madison St",
+      "W Monroe St",
+      "Monroe",
+      "W Adams St",
+      "Adams/Wabash",
+      "Jackson",
+      "Jackson Blvd",
+      "W Van Buren St",
+      "E Van Buren St"
+    ],
+    "hide": false
+  },
+  {
+    "id": 157,
+    "timestamp": "2024-07-13",
+    "img_location": "maps/Screenshot_20240723_184147_Life360.jpg",
+    "start_time": "13:48",
+    "end_time": "14:32",
+    "start_place": "104 Sla Salle St, Illinois",
+    "end_place": "South Wells Street, Illinois",
+    "map_places": [
+      "United Center",
+      "National Museum of Mexican Art",
+      "McCormick Place",
+      "31st Street Beach",
+      "Bridgeport",
+      "Burnham Park"
+    ],
+    "hide": false
+  },
+  {
+    "id": 204,
+    "timestamp": "2024-07-13",
+    "img_location": "maps/Screenshot_20240723_184135_Life360.jpg",
+    "start_time": "14:32",
+    "end_time": "15:46",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 111,
+    "timestamp": "2024-07-13",
+    "img_location": "maps/Screenshot_20240723_184124_Life360.jpg",
+    "start_time": "15:46",
+    "end_time": "17:04",
+    "start_place": "South Wells Street, Illinois",
+    "end_place": "I-94, Michigan",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 135,
+    "timestamp": "2024-07-13",
+    "img_location": "maps/Screenshot_20240723_184107_Life360.jpg",
+    "start_time": "17:16",
+    "end_time": "19:37",
+    "start_place": "4900 Lake St, Michigan",
+    "end_place": "3163 Boardwalk Dr, Michigan",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 114,
+    "timestamp": "2024-07-13",
+    "img_location": "maps/Screenshot_20240723_184053_Life360.jpg",
+    "start_time": "19:37",
+    "end_time": "19:55",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 362,
+    "timestamp": "2024-07-13",
+    "img_location": "maps/Screenshot_20240723_184039_Life360.jpg",
+    "start_time": "19:55",
+    "end_time": "20:13",
+    "start_place": "3163 Boardwalk Dr, Michigan",
+    "end_place": "3093 Boardwalk Dr, Michigan",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 134,
+    "timestamp": "2024-07-13",
+    "img_location": "maps/Screenshot_20240723_184025_Life360.jpg",
+    "start_time": "20:13",
+    "end_time": "21:08",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 265,
+    "timestamp": "2024-07-13",
+    "img_location": "maps/Screenshot_20240723_184011_Life360.jpg",
+    "start_time": "21:08",
+    "end_time": "21:31",
+    "start_place": "3093 Boardwalk Dr, Michigan",
+    "end_place": "3201 Boardwalk Dr, Michigan",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 70,
+    "timestamp": "2024-07-13",
+    "img_location": "maps/Screenshot_20240723_191916_Life360.jpg",
+    "start_time": "21:31",
+    "end_time": "08:37",
+    "start_place": null,
+    "end_place": null,
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 119,
+    "timestamp": "2024-07-14",
+    "img_location": "maps/Screenshot_20240723_183941_Life360.jpg",
+    "start_time": "08:37",
+    "end_time": "09:35",
+    "start_place": "3201 Boardwalk Dr, Michigan",
+    "end_place": "Unknown address",
+    "map_places": [
+      "N/A",
+      "Bloomfield",
+      "Brighton",
+      "Novi",
+      "Livonia",
+      "Ann Arbor",
+      "Canton",
+      "Dearborn",
+      "Unknown address"
+    ],
+    "hide": false
+  },
+  {
+    "id": 312,
+    "timestamp": "2024-07-14",
+    "img_location": "maps/Screenshot_20240723_170518_Life360.jpg",
+    "start_time": "10:22",
+    "end_time": "13:34",
+    "start_place": "Highway 401, Ontario",
+    "end_place": "Unknown address",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 270,
+    "timestamp": "2024-07-14",
+    "img_location": "maps/Screenshot_20240723_170446_Life360.jpg",
+    "start_time": "13:35",
+    "end_time": "15:15",
+    "start_place": "5560 South Service Road, Ontario",
+    "end_place": "5875 Falls Avenue, Ontario",
+    "map_places": [
+      "Niagara-on-the-Lake",
+      "Stella Niagara",
+      "Lewiston",
+      "Lincoln",
+      "Tintern",
+      "Wainfleet",
+      "Wellandport",
+      "Port Colborne",
+      "Cowbanks",
+      "Maitland"
+    ],
+    "hide": false
+  },
+  {
+    "id": 298,
+    "timestamp": "2024-07-14",
+    "img_location": "maps/Screenshot_20240723_170430_Life360.jpg",
+    "start_time": "15:16",
+    "end_time": "15:45",
+    "start_place": "Falls Avenue, Ontario",
+    "end_place": "219 Cresthill Avenue, New York",
+    "map_places": [
+      "Sanborn",
+      "North Tonawanda",
+      "Grand Island"
+    ],
+    "hide": false
+  },
+  {
+    "id": 297,
+    "timestamp": "2024-07-15",
+    "img_location": "maps/Screenshot_20240723_170341_Life360.jpg",
+    "start_time": "07:29",
+    "end_time": "07:37",
+    "start_place": "92 Lebrun Rd, New York",
+    "end_place": "12 Lasalle Ave, New York",
+    "map_places": [
+      "Kenmore Ave",
+      "Buffalo",
+      "McCarthy Park",
+      "LASALLE",
+      "Amherst St"
+    ],
+    "hide": false
+  },
+  {
+    "id": 228,
+    "timestamp": "2024-07-15",
+    "img_location": "maps/Screenshot_20240723_170315_Life360.jpg",
+    "start_time": "07:49",
+    "end_time": "08:51",
+    "start_place": "12 Lasalle Ave, New York",
+    "end_place": "I-90, New York",
+    "map_places": [
+      "Lake Ontario"
+    ],
+    "hide": false
+  },
+  {
+    "id": 346,
+    "timestamp": "2024-07-15",
+    "img_location": "maps/Screenshot_20240723_170258_Life360.jpg",
+    "start_time": "08:55",
+    "end_time": "12:13",
+    "start_place": "I-90, New York",
+    "end_place": "120 Washington Ave, New York",
+    "map_places": [
+      "Saratoga Springs",
+      "Pennsylvania"
+    ],
+    "hide": false
+  },
+  {
+    "id": 17,
+    "timestamp": "2024-07-15",
+    "img_location": "maps/Screenshot_20240723_170238_Life360.jpg",
+    "start_time": "12:14",
+    "end_time": "12:24",
+    "start_place": "60 Pine St, New York",
+    "end_place": "State Rte 378, New York",
+    "map_places": [
+      "Loudonville",
+      "Bans",
+      "Gorfimunity College",
+      "Defreestville",
+      "Rénsselaer"
+    ],
+    "hide": false
+  },
+  {
+    "id": 200,
+    "timestamp": "2024-07-15",
+    "img_location": "maps/Screenshot_20240723_170227_Life360.jpg",
+    "start_time": "12:26",
+    "end_time": "12:34",
+    "start_place": "48 Water St, New York",
+    "end_place": "80 Water St, New York",
+    "map_places": null,
+    "hide": false
+  },
+  {
+    "id": 283,
+    "timestamp": "2024-07-15",
+    "img_location": "maps/Screenshot_20240723_170212_Life360.jpg",
+    "start_time": "12:49",
+    "end_time": "13:01",
+    "start_place": "74 Water St, New York",
+    "end_place": "310 Troy Road, New York",
+    "map_places": [
+      "Defreestville",
+      "Hampton",
+      "Saratoga Springs"
+    ],
+    "hide": false
+  },
+  {
+    "id": 374,
+    "timestamp": "2024-07-15",
+    "img_location": "maps/Screenshot_20240723_165938_Life360.jpg",
+    "start_time": "13:20",
+    "end_time": "14:10",
+    "start_place": "310 Troy Road, New York",
+    "end_place": "I-90, Massachusetts",
+    "map_places": [
+      "Mechanicville"
+    ],
+    "hide": false
+  },
+  {
+    "id": 289,
+    "timestamp": "2024-07-15",
+    "img_location": "maps/Screenshot_20240723_165910_Life360.jpg",
+    "start_time": "14:14",
+    "end_time": "14:36",
+    "start_place": "I-90, Massachusetts",
+    "end_place": "I-90, Massachusetts",
+    "map_places": [
+      "Worthington",
+      "Chesterfield",
+      "Williamsburg",
+      "Northampton",
+      "Westhampton",
+      "Chester",
+      "Easthampton",
+      "Southampton",
+      "Russell",
+      "Blandford",
+      "Westfield",
+      "Granville",
+      "Tolland",
+      "Tunxis State Forest",
+      "Hartland",
+      "Suffield"
+    ],
+    "hide": false
+  },
+  {
+    "id": 252,
+    "timestamp": "2024-07-15",
+    "img_location": "maps/Screenshot_20240723_165844_Life360.jpg",
+    "start_time": "14:38",
+    "end_time": "15:11",
+    "start_place": "I-90, Massachusetts",
+    "end_place": "I-90, Massachusetts",
+    "map_places": [
+      "Hadley",
+      "Northampton",
+      "Belchertown",
+      "Easthampton",
+      "Granby",
+      "Ware",
+      "Holyoke",
+      "Palmer",
+      "Monson",
+      "Hampden",
+      "Wales",
+      "Enfield",
+      "Suffield",
+      "Somers",
+      "Stafford"
+    ],
+    "hide": false
+  },
+  {
+    "id": 201,
+    "timestamp": "2024-07-15",
+    "img_location": "maps/Screenshot_20240723_165700_Life360.jpg",
+    "start_time": "15:12",
+    "end_time": "16:17",
+    "start_place": "Taunton",
+    "end_place": "Narragansett",
+    "map_places": [
+      "Newport"
+    ],
+    "hide": false
+  },
+  {
+    "id": 282,
+    "timestamp": "2024-07-15",
+    "img_location": "maps/Screenshot_20240723_165645_Life360.jpg",
+    "start_time": "16:17",
+    "end_time": "17:24",
+    "start_place": "I-495, Massachusetts",
+    "end_place": "home",
+    "map_places": [
+      "Brockton",
+      "Bridgewater"
+    ],
+    "hide": false
+  }
+]

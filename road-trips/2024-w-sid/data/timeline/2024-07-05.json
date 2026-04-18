@@ -1,0 +1,2616 @@
+[
+  {
+    "id": 2703,
+    "type": "story",
+    "type_id": "192",
+    "timestamp": "2024-07-05T00:01",
+    "place": null,
+    "description": "days: day 9, jul 5 (great falls, mt -> dinosaur pp, ab)\ntime: 00:01\ndate: 2024-07-05",
+    "data": {
+      "category": "days",
+      "dada_rank": 1,
+      "sydney_rank": 5
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1796,
+    "type": "picture",
+    "type_id": "1412",
+    "timestamp": "2024-07-05T06:46:06",
+    "place": "12th Avenue South, Southside, Great Falls, Cascade County, Montana, 59045, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "12th avenue south",
+        "city": "great falls",
+        "county": "cascade county",
+        "state": "mt",
+        "postal": "59045"
+      }
+    },
+    "filename": "20240705_064606",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1874,
+    "type": "picture",
+    "type_id": "1490",
+    "timestamp": "2024-07-05T06:46:11",
+    "place": "12th Avenue South, Southside, Great Falls, Cascade County, Montana, 59045, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "12th avenue south",
+        "city": "great falls",
+        "county": "cascade county",
+        "state": "mt",
+        "postal": "59045"
+      }
+    },
+    "filename": "20240705_064611",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 106,
+    "type": "map",
+    "type_id": "58",
+    "timestamp": "2024-07-05T06:48:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-05T06:48:00",
+      "end_timestamp": "2024-07-05T06:56:00",
+      "place": {
+        "address": "10th avenue south"
+      },
+      "end_place": {
+        "address": "smelter avenue northeast"
+      },
+      "info": {
+        "duration": "8 minutes",
+        "distance": "3 mi",
+        "location": "10th Avenue South -> Smelter Avenue Northeast",
+        "nearby": [
+          "Walmart Supercenter",
+          "C. M. Russell Museum",
+          "Missouri River",
+          "Great Falls",
+          "Black Eagle",
+          "Smelter Hill",
+          "Roadhouse Dine"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_193947_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1643,
+    "type": "picture",
+    "type_id": "1259",
+    "timestamp": "2024-07-05T06:52:20",
+    "place": "884, 9th Street North, Downtown, Great Falls, Cascade County, Montana, 59401, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "884 9th street north",
+        "city": "great falls",
+        "county": "cascade county",
+        "state": "mt",
+        "postal": "59401"
+      }
+    },
+    "filename": "20240705_065220",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 107,
+    "type": "map",
+    "type_id": "371",
+    "timestamp": "2024-07-05T07:04:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-05T07:04:00",
+      "end_timestamp": "2024-07-05T07:07:00",
+      "place": {
+        "address": "701 smelter avenue northeast"
+      },
+      "end_place": {
+        "address": "701 smelter avenue northeast"
+      },
+      "info": {
+        "duration": "3 minutes",
+        "distance": "0 mi",
+        "location": "701 Smelter Avenue Northeast -> 701 Smelter Avenue Northeast",
+        "nearby": [
+          "Coinstar"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212736_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 307,
+    "type": "receipt",
+    "type_id": "105",
+    "timestamp": "2024-07-05T07:06",
+    "place": "701 Smelter Ave NE, Great Falls, MT 59404",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "701 smelter ave ne",
+        "city": "great falls",
+        "state": "mt",
+        "postal": "59404"
+      },
+      "date": "2024-07-05",
+      "time": "07:06",
+      "address": "701 Smelter Ave NE, Great Falls, MT 59404",
+      "items": [
+        {
+          "description": "GV BTTR QTRS",
+          "price": 3.98
+        },
+        {
+          "description": "EQ WMNS ADLT",
+          "price": 9.88
+        },
+        {
+          "description": "1 MILK",
+          "price": 2.73
+        },
+        {
+          "description": "SMPLY OJ SS",
+          "price": 1.68
+        }
+      ],
+      "category": "groceries",
+      "total": 18.27,
+      "payment_method": "debit",
+      "cash_back": 80.0,
+      "change_due": 80.0,
+      "eft_debit": 18.27,
+      "purchase_details": {
+        "store_number": "02455",
+        "operator_number": "009044",
+        "terminal_number": "26589479",
+        "transaction_number": "04171",
+        "items_sold": 4,
+        "transaction_code": "1614 3641 1997 9673 9349",
+        "network_id": "0008",
+        "approval_code": "412604",
+        "aid": "A0000000042203",
+        "pin_verified": true,
+        "primary_payment": 18.27,
+        "cash_back_amount": 80.0,
+        "total_purchase": 98.27,
+        "debit_ref_number": "418700771118"
+      },
+      "promotions": [
+        {
+          "description": "Get free delivery from this store with Walmart+",
+          "expiration_date": "2024-07-05",
+          "expiration_time": "07:06:39",
+          "scan_for_trial": true
+        }
+      ],
+      "message": "Low prices you can trust, every day."
+    },
+    "filename": "20240902_093655",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 108,
+    "type": "map",
+    "type_id": "314",
+    "timestamp": "2024-07-05T07:07:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-05T07:07:00",
+      "end_timestamp": "2024-07-05T07:15:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "7 minutes",
+        "distance": "0 mi",
+        "location": "Near 701 Smelter Avenue Northeast, Montana",
+        "nearby": [
+          "Jackson Hewitt Tax Service",
+          "Smelter Ave NE",
+          "8th St NE"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212746_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 109,
+    "type": "map",
+    "type_id": "224",
+    "timestamp": "2024-07-05T07:15:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-05T07:15:00",
+      "end_timestamp": "2024-07-05T08:53:00",
+      "place": {
+        "address": "701 smelter avenue northeast",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "us hwy 2ne",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "1 hour, 37 minutes",
+        "distance": "109 mi",
+        "location": "701 Smelter Avenue Northeast, Montana -> US Hwy 2 NE, Montana",
+        "nearby": [
+          "Chester",
+          "Joplin",
+          "Gildford",
+          "Kremlin",
+          "Box Elder",
+          "Big Sandy Agency",
+          "Carter",
+          "Highwood",
+          "Geraldine",
+          "Ulm",
+          "Belt",
+          "Denton"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212758_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2471,
+    "type": "picture",
+    "type_id": "2087",
+    "timestamp": "2024-07-05T07:21:26",
+    "place": "US 87, Great Falls, Cascade County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 87",
+        "city": "great falls",
+        "county": "cascade county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240705_072126",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 705,
+    "type": "picture",
+    "type_id": "321",
+    "timestamp": "2024-07-05T07:21:32",
+    "place": "US 87, Great Falls, Cascade County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 87",
+        "city": "great falls",
+        "county": "cascade county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240705_072132",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1116,
+    "type": "picture",
+    "type_id": "732",
+    "timestamp": "2024-07-05T07:58:24",
+    "place": "US 87, Loma, Chouteau County, Montana, 59460, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 87",
+        "city": "loma",
+        "county": "chouteau county",
+        "state": "mt",
+        "postal": "59460"
+      }
+    },
+    "filename": "20240705_075824",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1454,
+    "type": "picture",
+    "type_id": "1070",
+    "timestamp": "2024-07-05T07:58:34",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {},
+      "signs": "big sandy 27\nhavre 62"
+    },
+    "filename": "20240705_075833",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1872,
+    "type": "picture",
+    "type_id": "1488",
+    "timestamp": "2024-07-05T08:09:55",
+    "place": "US 87, Verona, Chouteau County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 87",
+        "city": "verona",
+        "county": "chouteau county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240705_080955",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1790,
+    "type": "picture",
+    "type_id": "1406",
+    "timestamp": "2024-07-05T08:13:46",
+    "place": "US 87, Verona, Chouteau County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 87",
+        "city": "verona",
+        "county": "chouteau county",
+        "state": "mt",
+        "postal": ""
+      },
+      "caption": "the most significant patch of mountains to protrude from the high plains east of the real mountains were the bear paw mountains, where we camped two nights prior"
+    },
+    "filename": "20240705_081345",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 659,
+    "type": "picture",
+    "type_id": "275",
+    "timestamp": "2024-07-05T08:52:31",
+    "place": "US 2, Hillside Trailer Court, Havre, Hill County, Montana, 59710, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2 hillside trailer court",
+        "city": "havre",
+        "county": "hill county",
+        "state": "mt",
+        "postal": "59710"
+      }
+    },
+    "filename": "20240705_085230",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2213,
+    "type": "picture",
+    "type_id": "1829",
+    "timestamp": "2024-07-05T08:52:45",
+    "place": "US 2, Hillside Trailer Court, Havre, Hill County, Montana, 59710, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2 hillside trailer court",
+        "city": "havre",
+        "county": "hill county",
+        "state": "mt",
+        "postal": "59710"
+      }
+    },
+    "filename": "20240705_085245",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 308,
+    "type": "receipt",
+    "type_id": "89",
+    "timestamp": "2024-07-05T09:01",
+    "place": "3510 US Highway 2 W, Havre, MT 59501",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "3510 us highway 2 w",
+        "city": "havre",
+        "state": "mt",
+        "postal": "59501"
+      },
+      "date": "2024-07-05",
+      "time": "09:01",
+      "address": "3510 US Highway 2 W, Havre, MT 59501",
+      "items": [
+        {
+          "description": "SM BAG ICE",
+          "price": 1.88
+        },
+        {
+          "description": "ANTISEPTICS",
+          "price": 3.98
+        },
+        {
+          "description": "EQ FF XL 10C",
+          "price": 1.98
+        },
+        {
+          "description": "CANDY BAR",
+          "price": 1.97
+        }
+      ],
+      "category": "convenience",
+      "total": 11.69,
+      "payment_method": "debit",
+      "card_number": "**** **** **** 9725",
+      "transaction_number": "418700155970",
+      "network_id": "0082",
+      "approval_code": "428538",
+      "terminal_number": "54504383",
+      "time_stamp": "09:01:01",
+      "free_delivery": true,
+      "free_trial": 30
+    },
+    "filename": "20240902_094549",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 110,
+    "type": "map",
+    "type_id": "48",
+    "timestamp": "2024-07-05T09:11:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-05T09:11:00",
+      "end_timestamp": "2024-07-05T09:21:00",
+      "place": {
+        "address": "us route 2"
+      },
+      "end_place": {
+        "address": "1st street"
+      },
+      "info": {
+        "duration": "9 minutes",
+        "distance": "3 mi",
+        "location": "U.S. Route 2 -> 1st Street",
+        "nearby": [
+          "West Havre",
+          "Havre",
+          "Havre North"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_193930_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 577,
+    "type": "picture",
+    "type_id": "193",
+    "timestamp": "2024-07-05T09:12:49",
+    "place": "1st Street West, Havre, Hill County, Montana, 59501, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1st street west",
+        "city": "havre",
+        "county": "hill county",
+        "state": "mt",
+        "postal": "59501"
+      }
+    },
+    "filename": "20240705_091249",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1617,
+    "type": "picture",
+    "type_id": "1233",
+    "timestamp": "2024-07-05T09:15:34",
+    "place": "268, 1st Street, Clear Creek Terrace Trailer Court, Havre, Hill County, Montana, 59501, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "268 1st street",
+        "city": "havre",
+        "county": "hill county",
+        "state": "mt",
+        "postal": "59501"
+      }
+    },
+    "filename": "20240705_091534",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 309,
+    "type": "receipt",
+    "type_id": "41",
+    "timestamp": "2024-07-05T09:19",
+    "place": "1200 1st St, Havre, MT 59501",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1200 1st st",
+        "city": "havre",
+        "state": "mt",
+        "postal": "59501"
+      },
+      "date": "2024-07-05",
+      "time": "09:19",
+      "address": "1200 1st St, Havre, MT 59501",
+      "items": [
+        {
+          "description": "Regular gas",
+          "price": "$40.00"
+        },
+        {
+          "description": "Ice",
+          "price": "$2.00"
+        }
+      ],
+      "category": "gas",
+      "other_details": {
+        "register": "1",
+        "transaction_number": "3106",
+        "operator_id": "1",
+        "cashier": "Cashier",
+        "payment_method": "Debit",
+        "invoice_number": "082527",
+        "authorization_number": "717621",
+        "chip_read": true,
+        "mode": "Issuer",
+        "AID": "A0000000042203",
+        "TVR": "8000048000",
+        "TAD": "0110430001220000000000000000000000FF",
+        "TSI": "6800",
+        "ARC": "00",
+        "approved": true,
+        "verified_by_PIN": true
+      }
+    },
+    "filename": "20240902_092236",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 111,
+    "type": "map",
+    "type_id": "319",
+    "timestamp": "2024-07-05T09:21:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-05T09:21:00",
+      "end_timestamp": "2024-07-05T09:38:00",
+      "place": {
+        "address": "1169 1st st",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "535 17th st",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "17 minutes",
+        "distance": "2 mi",
+        "location": "1169 1st St, Montana -> 535 17th St, Montana",
+        "nearby": [
+          "Havre",
+          "Best Western Plus Great Northern Inn",
+          "5th Ave",
+          "Death the Streets"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_212822_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2652,
+    "type": "story",
+    "type_id": "309",
+    "timestamp": "2024-07-05T09:29:09",
+    "place": null,
+    "description": "songs: why do you lie -- indigo sparke",
+    "data": {
+      "id": 30,
+      "artist_name": "Indigo Sparke",
+      "song_name": "Why Do You Lie",
+      "image_link": "https://i.scdn.co/image/ab67616d0000b2730f13ef5d282f17ceac4c3b28",
+      "song_link": "https://open.spotify.com/track/38YaymwM6Udptg4N8TUSdj",
+      "ordinal": 30,
+      "spotify_id": "38YaymwM6Udptg4N8TUSdj",
+      "added_at": "2024-07-05T15:29:09Z",
+      "playlist_id": "05sTOluR8dsB7xaztqBafT",
+      "playlist_name": "My playlist #187",
+      "playlist_owner": "Rich Sanda",
+      "category": "songs",
+      "dada_rank": 35,
+      "sydney_rank": 50,
+      "spotify_add": true
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2654,
+    "type": "story",
+    "type_id": "325",
+    "timestamp": "2024-07-05T09:29:49",
+    "place": null,
+    "description": "songs: teeth marks -- s.g. goodman",
+    "data": {
+      "id": 46,
+      "artist_name": "S.G. Goodman",
+      "song_name": "Teeth Marks",
+      "image_link": "https://i.scdn.co/image/ab67616d0000b27389c57b7469989dabff817d72",
+      "song_link": "https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx",
+      "ordinal": 46,
+      "spotify_id": "4hpHGNOycA02mFKH6U97Gx",
+      "added_at": "2024-07-05T15:29:49Z",
+      "playlist_id": "05sTOluR8dsB7xaztqBafT",
+      "playlist_name": "My playlist #187",
+      "playlist_owner": "Rich Sanda",
+      "category": "songs",
+      "dada_rank": 5,
+      "sydney_rank": 66,
+      "spotify_add": true
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2650,
+    "type": "story",
+    "type_id": "303",
+    "timestamp": "2024-07-05T09:30:02",
+    "place": null,
+    "description": "songs: heart swell -- s.g. goodman",
+    "data": {
+      "id": 24,
+      "artist_name": "S.G. Goodman",
+      "song_name": "Heart Swell",
+      "image_link": "https://i.scdn.co/image/ab67616d0000b273448200cfa67ab59c154addf3",
+      "song_link": "https://open.spotify.com/track/0Nqpwh40TX2a1rsq1u3auY",
+      "ordinal": 24,
+      "spotify_id": "0Nqpwh40TX2a1rsq1u3auY",
+      "added_at": "2024-07-05T15:30:02Z",
+      "playlist_id": "05sTOluR8dsB7xaztqBafT",
+      "playlist_name": "My playlist #187",
+      "playlist_owner": "Rich Sanda",
+      "category": "songs",
+      "dada_rank": 31,
+      "sydney_rank": 44,
+      "spotify_add": true
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2653,
+    "type": "story",
+    "type_id": "317",
+    "timestamp": "2024-07-05T09:33:20",
+    "place": null,
+    "description": "songs: television -- lula wiles",
+    "data": {
+      "id": 38,
+      "artist_name": "Lula Wiles",
+      "song_name": "Television",
+      "image_link": "https://i.scdn.co/image/ab67616d0000b273c73bd850912aed7557f95d91",
+      "song_link": "https://open.spotify.com/track/3GILEwEmWoonGBHZ0GgMoK",
+      "ordinal": 38,
+      "spotify_id": "3GILEwEmWoonGBHZ0GgMoK",
+      "added_at": "2024-07-05T15:33:20Z",
+      "playlist_id": "05sTOluR8dsB7xaztqBafT",
+      "playlist_name": "My playlist #187",
+      "playlist_owner": "Rich Sanda",
+      "category": "songs",
+      "dada_rank": 43,
+      "sydney_rank": 58,
+      "spotify_add": true
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 112,
+    "type": "map",
+    "type_id": "172",
+    "timestamp": "2024-07-05T09:38:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-05T09:38:00",
+      "end_timestamp": "2024-07-05T09:50:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "11 minutes",
+        "distance": "0 mi",
+        "location": "Near 535 17th St, Montana",
+        "nearby": [
+          "Curve Dr",
+          "Knob Rd",
+          "16th St",
+          "17th St",
+          "6th Ave",
+          "Saddle Butte Dr",
+          "15th St"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_213104_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2454,
+    "type": "picture",
+    "type_id": "2070",
+    "timestamp": "2024-07-05T09:40:33",
+    "place": "5th Ave Grind, 5th Avenue, Havre, Hill County, Montana, 59501, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "5th ave grind",
+        "city": "havre",
+        "county": "hill county",
+        "state": "mt",
+        "postal": "59501"
+      }
+    },
+    "filename": "20240705_094033",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 125,
+    "type": "map",
+    "type_id": 16,
+    "timestamp": "2024-07-05T09:50:00",
+    "place": null,
+    "description": "crossing the tracks\n\nfinally breaking north of the hiline and the tracks that run parallel, headed for the border",
+    "data": null,
+    "filename": null,
+    "position": "above",
+    "keep": false,
+    "notes": null,
+    "is_note": true,
+    "ordinal": 1
+  },
+  {
+    "id": 113,
+    "type": "map",
+    "type_id": "16",
+    "timestamp": "2024-07-05T09:50:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-05T09:50:00",
+      "end_timestamp": "2024-07-05T10:10:00",
+      "place": {
+        "address": "7th avenue"
+      },
+      "end_place": {
+        "address": "saint joe road"
+      },
+      "info": {
+        "duration": "19 minutes",
+        "distance": "14 mi",
+        "location": "7th Avenue -> Saint Joe Road",
+        "nearby": [
+          "East End Colony",
+          "Havre",
+          "Beaver Creek",
+          "Herron",
+          "Saddle Butte"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_193914_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2704,
+    "type": "story",
+    "type_id": "292",
+    "timestamp": "2024-07-05T09:52",
+    "place": null,
+    "description": "songs: farewell transmission -- songs: ohia\n\ntime: 09:52",
+    "data": {
+      "id": 13,
+      "artist_name": "Songs: Ohia",
+      "song_name": "Farewell Transmission",
+      "image_link": "https://i.scdn.co/image/ab67616d0000b27389b54a2385458cbe68bc35c6",
+      "song_link": "https://open.spotify.com/track/5Plx6OhvSukqCRdZ52wUXz",
+      "ordinal": 13,
+      "spotify_id": "5Plx6OhvSukqCRdZ52wUXz",
+      "added_at": "2024-10-27T03:37:16Z",
+      "playlist_id": "5tsTWtzNU7OO2wEG2GbTmO",
+      "playlist_name": "rich's 10 songs",
+      "playlist_owner": "Rich Sanda",
+      "category": "songs",
+      "dada_rank": 7,
+      "sydney_rank": 35
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 550,
+    "type": "picture",
+    "type_id": "166",
+    "timestamp": "2024-07-05T09:59:25",
+    "place": "Wild Horse Road, Havre North, Havre, Hill County, Montana, 59501, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "wild horse road",
+        "city": "havre",
+        "county": "hill county",
+        "state": "mt",
+        "postal": "59501"
+      }
+    },
+    "filename": "20240705_095924",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1107,
+    "type": "picture",
+    "type_id": "723",
+    "timestamp": "2024-07-05T10:02:57",
+    "place": "5044, Saint Joe Road, Havre, Hill County, Montana, 59501, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "5044 saint joe road",
+        "city": "havre",
+        "county": "hill county",
+        "state": "mt",
+        "postal": "59501"
+      }
+    },
+    "filename": "20240705_100257",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2705,
+    "type": "story",
+    "type_id": "123",
+    "timestamp": "2024-07-05T10:04",
+    "place": null,
+    "description": "wildlife: prairie dog\ntime: 11:15\ntime: 10:04",
+    "data": {
+      "category": "wildlife",
+      "dada_rank": 8,
+      "sydney_rank": 6
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2706,
+    "type": "story",
+    "type_id": "120",
+    "timestamp": "2024-07-05T10:05",
+    "place": null,
+    "description": "wildlife: horse\ntime: 11:00\ntime: 10:05",
+    "data": {
+      "category": "wildlife",
+      "dada_rank": 5,
+      "sydney_rank": 5
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 798,
+    "type": "picture",
+    "type_id": "414",
+    "timestamp": "2024-07-05T10:16:02",
+    "place": "Saint Joe Road, Havre, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "saint joe road",
+        "city": "havre",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240705_101601",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2504,
+    "type": "picture",
+    "type_id": "2120",
+    "timestamp": "2024-07-05T10:19:30",
+    "place": "Saint Joe Road, Havre, Hill County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "saint joe road",
+        "city": "havre",
+        "county": "hill county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240705_101930",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2707,
+    "type": "story",
+    "type_id": "115",
+    "timestamp": "2024-07-05T10:20",
+    "place": null,
+    "description": "wildlife: pronghorn\ntime: 11:45\ntime: 10:20",
+    "data": {
+      "category": "wildlife",
+      "dada_rank": 1,
+      "sydney_rank": 3
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 114,
+    "type": "map",
+    "type_id": "170",
+    "timestamp": "2024-07-05T10:29:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-05T10:29:00",
+      "end_timestamp": "2024-07-05T14:04:00",
+      "place": {
+        "address": "saint joe rd",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "trans-canada highway",
+        "state": "ab"
+      },
+      "info": {
+        "duration": "3 hours, 35 minutes",
+        "distance": "141 mi",
+        "location": "Saint Joe Rd, Montana -> Trans-Canada Highway, Alberta",
+        "nearby": [
+          "Medicine Hat",
+          "Dunmore",
+          "Woolchester",
+          "Orion",
+          "Manyberries",
+          "Irvine",
+          "Walsh",
+          "Elkwater",
+          "Golden Prairie",
+          "Fort Walsh",
+          "Maple Creek",
+          "Robsart",
+          "Consul"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_213309_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 126,
+    "type": "map",
+    "type_id": 170,
+    "timestamp": "2024-07-05T10:29:00",
+    "place": null,
+    "description": "sparse data\n\nnot a lot of data collection going on in the app along this stretch",
+    "data": null,
+    "filename": null,
+    "position": "below",
+    "keep": false,
+    "notes": null,
+    "is_note": true,
+    "ordinal": 3
+  },
+  {
+    "id": 2007,
+    "type": "picture",
+    "type_id": "1623",
+    "timestamp": "2024-07-05T10:48:07",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {},
+      "signs": "consul 56\nmaple creek 135"
+    },
+    "filename": "20240705_104807",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2214,
+    "type": "picture",
+    "type_id": "1830",
+    "timestamp": "2024-07-05T11:10:32",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240705_111032",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 665,
+    "type": "picture",
+    "type_id": "281",
+    "timestamp": "2024-07-05T11:10:48",
+    "place": "Red Coat Trail, Division No. 4, Saskatchewan, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "red coat trail",
+        "city": "",
+        "county": "division no. 4",
+        "state": "sk",
+        "postal": ""
+      },
+      "signs": "consul 28\nmaple creek 106\nshaunavon 130"
+    },
+    "filename": "20240705_111047",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2442,
+    "type": "picture",
+    "type_id": "2058",
+    "timestamp": "2024-07-05T11:38:29",
+    "place": "Centre Street, Consul, Division No. 4, Saskatchewan, S0N 0P0, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "centre street",
+        "city": "consul",
+        "county": "division no. 4",
+        "state": "sk",
+        "postal": "s0n 0p0"
+      }
+    },
+    "filename": "20240705_113829",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2623,
+    "type": "picture",
+    "type_id": "2239",
+    "timestamp": "2024-07-05T11:38:33",
+    "place": "Centre Street, Consul, Division No. 4, Saskatchewan, S0N 0P0, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "centre street",
+        "city": "consul",
+        "county": "division no. 4",
+        "state": "sk",
+        "postal": "s0n 0p0"
+      }
+    },
+    "filename": "20240705_113833",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 310,
+    "type": "receipt",
+    "type_id": "59",
+    "timestamp": "2024-07-05T11:45",
+    "place": "Manleys Bread and Honey, 61792 Butterhorn",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "61792 butterhorn",
+        "business": "manleys bread and honey"
+      },
+      "date": "2024-07-05",
+      "time": "11:45",
+      "address": "Manleys Bread and Honey, 61792 Butterhorn",
+      "items": [
+        {
+          "description": "Bread and Honey",
+          "quantity": 1,
+          "price": 5.6
+        },
+        {
+          "description": "Cookies",
+          "quantity": 1,
+          "price": 2.55
+        },
+        {
+          "description": "Coffee / Tea",
+          "quantity": 1,
+          "price": 2.65
+        }
+      ],
+      "category": "restaurant",
+      "subtotal": 13.2,
+      "tax": {
+        "EST": 0.66,
+        "ST": 0.79
+      },
+      "total": 14.65,
+      "payment_method": "Card",
+      "transaction_number": "#1-61792"
+    },
+    "filename": "20240902_092153",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 311,
+    "type": "receipt",
+    "type_id": "118",
+    "timestamp": "2024-07-05T11:45",
+    "place": "103 Centre Street, Consul, SK SON OPO 3062992050",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "103 centre street",
+        "city": "consul",
+        "state": "sk",
+        "postal": "son opo"
+      },
+      "date": "2024-07-05",
+      "time": "11:45",
+      "address": "103 Centre Street, Consul, SK SON OPO 3062992050",
+      "items": [
+        {
+          "description": "Debit card sale",
+          "amount": "$17.58"
+        }
+      ],
+      "category": "restaurant",
+      "other_details": {
+        "cashier": "Employee",
+        "transaction_number": "005483",
+        "total": "$14.65",
+        "tip": "$2.93",
+        "card_type": "Mastercard",
+        "card_number": "XXXXXXXXXXXX9725",
+        "cardholder_name": "Richard Sanda",
+        "reference_id": "418700531145",
+        "authorization_id": "004102",
+        "merchant_id": "********1999",
+        "application_id": "A0000000041010",
+        "network_name": "MASTERCARD",
+        "signature": "Online: https://clover.com/p/FNHKVNNQ1D4KC"
+      }
+    },
+    "filename": "20240902_093619",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2708,
+    "type": "story",
+    "type_id": "59",
+    "timestamp": "2024-07-05T11:50",
+    "place": null,
+    "description": "treats: butterhorn\ntime: 13:30\ntime: 11:50",
+    "data": {
+      "category": "treats",
+      "dada_rank": 1,
+      "sydney_rank": 1
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 510,
+    "type": "picture",
+    "type_id": "126",
+    "timestamp": "2024-07-05T11:52:33",
+    "place": "Railway Avenue, Consul, Division No. 4, Saskatchewan, S0N 0P0, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "railway avenue",
+        "city": "consul",
+        "county": "division no. 4",
+        "state": "sk",
+        "postal": "s0n 0p0"
+      }
+    },
+    "filename": "20240705_115233",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2493,
+    "type": "picture",
+    "type_id": "2109",
+    "timestamp": "2024-07-05T12:48:13",
+    "place": "Jasper Street, Maple Creek, Division No. 4, Saskatchewan, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "jasper street",
+        "city": "maple creek",
+        "county": "division no. 4",
+        "state": "sk",
+        "postal": ""
+      }
+    },
+    "filename": "20240705_124812",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1273,
+    "type": "picture",
+    "type_id": "889",
+    "timestamp": "2024-07-05T12:54:02",
+    "place": "Farmer's Market, Pacific Avenue, Maple Creek, Division No. 4, Saskatchewan, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "farmer's market, pacific avenue",
+        "city": "maple creek",
+        "county": "division no. 4",
+        "state": "sk",
+        "postal": ""
+      }
+    },
+    "filename": "20240705_125401",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2443,
+    "type": "picture",
+    "type_id": "2059",
+    "timestamp": "2024-07-05T12:54:48",
+    "place": "Farmer's Market, Pacific Avenue, Maple Creek, Division No. 4, Saskatchewan, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "farmer's market, pacific avenue",
+        "city": "maple creek",
+        "county": "division no. 4",
+        "state": "sk",
+        "postal": ""
+      }
+    },
+    "filename": "20240705_125448",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1240,
+    "type": "picture",
+    "type_id": "856",
+    "timestamp": "2024-07-05T12:55:45",
+    "place": "Pacific Avenue, Maple Creek, Division No. 4, Saskatchewan, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "pacific avenue",
+        "city": "maple creek",
+        "county": "division no. 4",
+        "state": "sk",
+        "postal": ""
+      }
+    },
+    "filename": "20240705_125545",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 856,
+    "type": "picture",
+    "type_id": "472",
+    "timestamp": "2024-07-05T13:00:40",
+    "place": "Highway 21, Maple Creek, Division No. 4, Saskatchewan, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "highway 21",
+        "city": "maple creek",
+        "county": "division no. 4",
+        "state": "sk",
+        "postal": ""
+      }
+    },
+    "filename": "20240705_130039",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2263,
+    "type": "picture",
+    "type_id": "1879",
+    "timestamp": "2024-07-05T13:05:36",
+    "place": "Trans-Canada Highway, Eagle Valley, Division No. 4, Saskatchewan, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "trans-canada highway",
+        "city": "eagle valley",
+        "county": "division no. 4",
+        "state": "sk",
+        "postal": ""
+      }
+    },
+    "filename": "20240705_130535",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2580,
+    "type": "picture",
+    "type_id": "2196",
+    "timestamp": "2024-07-05T13:25:05",
+    "place": "Trans-Canada Highway, Division No. 4, Saskatchewan, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "trans-canada highway",
+        "city": "",
+        "county": "division no. 4",
+        "state": "sk",
+        "postal": ""
+      }
+    },
+    "filename": "20240705_132505",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1705,
+    "type": "picture",
+    "type_id": "1321",
+    "timestamp": "2024-07-05T13:28:52",
+    "place": "Trans-Canada Highway, Walsh, Division No. 1, Alberta, T0J 3L0, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "trans-canada highway",
+        "city": "walsh",
+        "county": "division no. 1",
+        "state": "ab",
+        "postal": "t0j 3l0"
+      }
+    },
+    "filename": "20240705_132851",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2258,
+    "type": "picture",
+    "type_id": "1874",
+    "timestamp": "2024-07-05T13:30:26",
+    "place": "Trans-Canada Highway, Walsh, Division No. 1, Alberta, T0J 3L0, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "trans-canada highway",
+        "city": "walsh",
+        "county": "division no. 1",
+        "state": "ab",
+        "postal": "t0j 3l0"
+      },
+      "sign": "welcome to alberta",
+      "note": "wild rose country"
+    },
+    "filename": "20240705_133026",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 761,
+    "type": "picture",
+    "type_id": "377",
+    "timestamp": "2024-07-05T14:12:33",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240705_141232",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1678,
+    "type": "picture",
+    "type_id": "1294",
+    "timestamp": "2024-07-05T14:17:15",
+    "place": "4th Avenue Southeast, Medicine Hat, Division No. 1, Alberta, T1A 8B5, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "4th avenue southeast",
+        "city": "medicine hat",
+        "county": "division no. 1",
+        "state": "ab",
+        "postal": "t1a 8b5"
+      }
+    },
+    "filename": "20240705_141714",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1032,
+    "type": "picture",
+    "type_id": "648",
+    "timestamp": "2024-07-05T14:17:21",
+    "place": "4th Avenue Southeast, Medicine Hat, Division No. 1, Alberta, T1A 8B5, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "4th avenue southeast",
+        "city": "medicine hat",
+        "county": "division no. 1",
+        "state": "ab",
+        "postal": "t1a 8b5"
+      }
+    },
+    "filename": "20240705_141720",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1188,
+    "type": "picture",
+    "type_id": "804",
+    "timestamp": "2024-07-05T14:18:45",
+    "place": "Ewart-Duggan Residence, 443, 1 Street Southeast, Medicine Hat, Division No. 1, Alberta, T1A 0A7, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "443 1 street southeast",
+        "city": "medicine hat",
+        "county": "division no. 1",
+        "state": "ab",
+        "postal": "t1a 0a7"
+      }
+    },
+    "filename": "20240705_141844",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2217,
+    "type": "picture",
+    "type_id": "1833",
+    "timestamp": "2024-07-05T14:19:14",
+    "place": "Court of King's Bench, 1 Street Southeast, Medicine Hat, Division No. 1, Alberta, T1A 0A7, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "court of king's bench, 1 street southeast",
+        "city": "medicine hat",
+        "county": "division no. 1",
+        "state": "ab",
+        "postal": "t1a 0a7"
+      }
+    },
+    "filename": "20240705_141913",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 790,
+    "type": "picture",
+    "type_id": "406",
+    "timestamp": "2024-07-05T14:20:58",
+    "place": "Esplanade Arts and Heritage Centre, 401, 1 Street Southeast, Medicine Hat, Division No. 1, Alberta, T1A 8W2, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "401 1 street southeast",
+        "city": "medicine hat",
+        "county": "division no. 1",
+        "state": "ab",
+        "postal": "t1a 8w2"
+      }
+    },
+    "filename": "20240705_142058",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 453,
+    "type": "picture",
+    "type_id": "69",
+    "timestamp": "2024-07-05T14:24:44",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240705_142444",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1956,
+    "type": "picture",
+    "type_id": "1572",
+    "timestamp": "2024-07-05T14:26:37",
+    "place": "Esplanade Arts and Heritage Centre, 401, 1 Street Southeast, Medicine Hat, Division No. 1, Alberta, T1A 8W2, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "401 1 street southeast",
+        "city": "medicine hat",
+        "county": "division no. 1",
+        "state": "ab",
+        "postal": "t1a 8w2"
+      }
+    },
+    "filename": "20240705_142637",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2249,
+    "type": "picture",
+    "type_id": "1865",
+    "timestamp": "2024-07-05T14:27:59",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240705_142759",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 994,
+    "type": "picture",
+    "type_id": "610",
+    "timestamp": "2024-07-05T14:30:25",
+    "place": "Esplanade Arts and Heritage Centre, 401, 1 Street Southeast, Medicine Hat, Division No. 1, Alberta, T1A 8W2, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "401 1 street southeast",
+        "city": "medicine hat",
+        "county": "division no. 1",
+        "state": "ab",
+        "postal": "t1a 8w2"
+      }
+    },
+    "filename": "20240705_143025",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1193,
+    "type": "picture",
+    "type_id": "809",
+    "timestamp": "2024-07-05T14:32:53",
+    "place": "Esplanade Arts and Heritage Centre, 401, 1 Street Southeast, Medicine Hat, Division No. 1, Alberta, T1A 8W2, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "401 1 street southeast",
+        "city": "medicine hat",
+        "county": "division no. 1",
+        "state": "ab",
+        "postal": "t1a 8w2"
+      }
+    },
+    "filename": "20240705_143253",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1448,
+    "type": "picture",
+    "type_id": "1064",
+    "timestamp": "2024-07-05T14:34:19",
+    "place": "Esplanade Arts and Heritage Centre, 401, 1 Street Southeast, Medicine Hat, Division No. 1, Alberta, T1A 8W2, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "401 1 street southeast",
+        "city": "medicine hat",
+        "county": "division no. 1",
+        "state": "ab",
+        "postal": "t1a 8w2"
+      }
+    },
+    "filename": "20240705_143419",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2104,
+    "type": "picture",
+    "type_id": "1720",
+    "timestamp": "2024-07-05T14:38:10",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240705_143810",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2119,
+    "type": "picture",
+    "type_id": "1735",
+    "timestamp": "2024-07-05T14:38:47",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240705_143847",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2709,
+    "type": "story",
+    "type_id": "277",
+    "timestamp": "2024-07-05T14:39",
+    "place": null,
+    "description": "attractions: medicine hat esplinade\n\ntime: 14:39",
+    "data": {
+      "category": "attractions",
+      "dada_rank": 3,
+      "sydney_rank": 12
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1226,
+    "type": "picture",
+    "type_id": "842",
+    "timestamp": "2024-07-05T14:40:41",
+    "place": "Esplanade Arts and Heritage Centre, 401, 1 Street Southeast, Medicine Hat, Division No. 1, Alberta, T1A 8W2, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "401 1 street southeast",
+        "city": "medicine hat",
+        "county": "division no. 1",
+        "state": "ab",
+        "postal": "t1a 8w2"
+      }
+    },
+    "filename": "20240705_144040",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 115,
+    "type": "map",
+    "type_id": "11",
+    "timestamp": "2024-07-05T14:42:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-05T14:42:00",
+      "end_timestamp": "2024-07-06T05:43:00",
+      "place": {
+        "address": "126 south railway street se"
+      },
+      "end_place": {
+        "address": "south campground",
+        "state": "ab"
+      },
+      "info": {
+        "duration": "13 hours, 0 minutes",
+        "distance": "74 mi",
+        "location": "126 South Railway Street SE, Alberta -> South Campground, Alberta",
+        "nearby": [
+          "Steveville",
+          "Patricia",
+          "Tilley",
+          "Jenner",
+          "Rolling Hills",
+          "Suffield",
+          "Bow Island",
+          "Medicine Hat",
+          "Desert Blume",
+          "Dunmore"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_213332_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1292,
+    "type": "picture",
+    "type_id": "908",
+    "timestamp": "2024-07-05T14:44:11",
+    "place": "666, 4 Street Southeast, Medicine Hat, Division No. 1, Alberta, T1A 0K9, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "666 4 street southeast",
+        "city": "medicine hat",
+        "county": "division no. 1",
+        "state": "ab",
+        "postal": "t1a 0k9"
+      }
+    },
+    "filename": "20240705_144411",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1501,
+    "type": "picture",
+    "type_id": "1117",
+    "timestamp": "2024-07-05T15:49:23",
+    "place": "Highway 544, Patricia, Division No. 2, Alberta, T0J 2K0, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "highway 544",
+        "city": "patricia",
+        "county": "division no. 2",
+        "state": "ab",
+        "postal": "t0j 2k0"
+      }
+    },
+    "filename": "20240705_154923",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2338,
+    "type": "picture",
+    "type_id": "1954",
+    "timestamp": "2024-07-05T15:49:26",
+    "place": "Highway 544, Patricia, Division No. 2, Alberta, T0J 2K0, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "highway 544",
+        "city": "patricia",
+        "county": "division no. 2",
+        "state": "ab",
+        "postal": "t0j 2k0"
+      }
+    },
+    "filename": "20240705_154926",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1459,
+    "type": "picture",
+    "type_id": "1075",
+    "timestamp": "2024-07-05T16:01:15",
+    "place": "120009, Dinosaur Provincial Park Campground Road, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "120009 dinosaur provincial park campground road",
+        "city": "division no. 2",
+        "county": "",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240705_160115",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 413,
+    "type": "picture",
+    "type_id": "29",
+    "timestamp": "2024-07-05T16:01:24",
+    "place": "120009, Dinosaur Provincial Park Campground Road, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "120009 dinosaur provincial park campground road",
+        "city": "division no. 2",
+        "county": "",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240705_160124",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2441,
+    "type": "picture",
+    "type_id": "2057",
+    "timestamp": "2024-07-05T16:16:46",
+    "place": "Dinosaur Provincial Park Campground Road, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "dinosaur provincial park campground road",
+        "city": "division no. 2",
+        "county": "",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240705_161645",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2710,
+    "type": "story",
+    "type_id": "79",
+    "timestamp": "2024-07-05T16:20",
+    "place": null,
+    "description": "accommodations: dinosaur provincial park\ntime: 16:20",
+    "data": {
+      "category": "accommodations",
+      "dada_rank": 2,
+      "sydney_rank": 3
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 312,
+    "type": "receipt",
+    "type_id": "60",
+    "timestamp": "2024-07-05T16:24",
+    "place": "220 4th Ave W, Brooks, AB T1R 0E9",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "220 4th ave w",
+        "city": "brooks",
+        "state": "ab",
+        "postal": "t1r 0e9"
+      },
+      "date": "2024-07-05",
+      "time": "16:24",
+      "address": "220 4th Ave W, Brooks, AB T1R 0E9",
+      "items": [
+        {
+          "description": "Dinosaur Prov Park entrance fee",
+          "price": "$4.00"
+        }
+      ],
+      "category": "parking",
+      "other_details": {
+        "receipt_number": "20296657",
+        "authorization_number": "004103",
+        "card_type": "Mastercard Debit",
+        "trace_number": "9257",
+        "invoice_number": "9326",
+        "RRN": "001001321"
+      }
+    },
+    "filename": "20240902_092807",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 578,
+    "type": "picture",
+    "type_id": "194",
+    "timestamp": "2024-07-05T16:28:01",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240705_162800",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2489,
+    "type": "picture",
+    "type_id": "2105",
+    "timestamp": "2024-07-05T16:30:26",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240705_163025",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1853,
+    "type": "picture",
+    "type_id": "1469",
+    "timestamp": "2024-07-05T16:30:35",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240705_163035",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2026,
+    "type": "picture",
+    "type_id": "1642",
+    "timestamp": "2024-07-05T16:38:05",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240705_163804",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 655,
+    "type": "picture",
+    "type_id": "271",
+    "timestamp": "2024-07-05T16:38:40",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240705_163840",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2327,
+    "type": "picture",
+    "type_id": "1943",
+    "timestamp": "2024-07-05T16:43:05",
+    "place": "Visitor Centre, Coulee Viewpoint Trail, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "visitor centre coulee viewpoint trail",
+        "city": "",
+        "county": "division no. 2",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240705_164305",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2711,
+    "type": "story",
+    "type_id": "14",
+    "timestamp": "2024-07-05T16:45",
+    "place": null,
+    "description": "attractions: dinosaur provincial park visitors center\ntime: 16:45",
+    "data": {
+      "category": "attractions",
+      "dada_rank": 13,
+      "sydney_rank": 5
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 313,
+    "type": "receipt",
+    "type_id": "52",
+    "timestamp": "2024-07-05T16:48",
+    "place": "220 4th Ave W, Brooks, AB",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "220 4th ave w",
+        "city": "brooks",
+        "state": "ab"
+      },
+      "date": "2024-07-05",
+      "time": "16:48",
+      "address": "220 4th Ave W, Brooks, AB",
+      "items": [
+        {
+          "description": "Dinosaur Provincial Park entrance fee",
+          "price": "$31.50"
+        }
+      ],
+      "category": "parking",
+      "account_number": "20296657",
+      "card_type": "Mastercard Debit",
+      "trace_number": "10845",
+      "invoice_number": "10942",
+      "authorization_number": "004104",
+      "RRN": "001001943"
+    },
+    "filename": "20240902_093735",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1432,
+    "type": "picture",
+    "type_id": "1048",
+    "timestamp": "2024-07-05T17:22:56",
+    "place": "South Campground, Dinosaur Provincial Park Campground Road, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south campground, dinosaur provincial park campground road",
+        "city": "",
+        "county": "division no. 2",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240705_172256",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2600,
+    "type": "picture",
+    "type_id": "2216",
+    "timestamp": "2024-07-05T17:33:20",
+    "place": "South Campground, Dinosaur Provincial Park Campground Road, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south campground, dinosaur provincial park campground road",
+        "city": "",
+        "county": "division no. 2",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240705_173320",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2089,
+    "type": "picture",
+    "type_id": "1705",
+    "timestamp": "2024-07-05T18:31:22",
+    "place": "South Campground, Dinosaur Provincial Park Campground Road, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south campground, dinosaur provincial park campground road",
+        "city": "",
+        "county": "division no. 2",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240705_183122",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1209,
+    "type": "picture",
+    "type_id": "825",
+    "timestamp": "2024-07-05T18:31:30",
+    "place": "South Campground, Dinosaur Provincial Park Campground Road, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south campground, dinosaur provincial park campground road",
+        "city": "",
+        "county": "division no. 2",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240705_183130",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 314,
+    "type": "receipt",
+    "type_id": "4",
+    "timestamp": "2024-07-05T18:51",
+    "place": "220 4th Ave W, Brooks, AB T1R 0G1",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "220 4th ave w",
+        "city": "brooks",
+        "state": "ab",
+        "postal": "t1r 0g1"
+      },
+      "date": "2024-07-05",
+      "time": "18:51",
+      "address": "220 4th Ave W, Brooks, AB T1R 0G1",
+      "items": [
+        {
+          "description": "Dinosaur Provincial Park entrance fee",
+          "price": "$22.00"
+        }
+      ],
+      "category": "parking",
+      "account_number": "************9725 C",
+      "card_type": "Mastercard Debit",
+      "trace_number": "715",
+      "invoice_number": "717",
+      "authorization_number": "004105",
+      "rrn": "001001719"
+    },
+    "filename": "20240902_091959",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2712,
+    "type": "story",
+    "type_id": "276",
+    "timestamp": "2024-07-05T20:30:00",
+    "place": null,
+    "description": "attractions: dinosaur provincial park amphitheater",
+    "data": {
+      "category": "attractions",
+      "dada_rank": 9,
+      "sydney_rank": 6
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 744,
+    "type": "picture",
+    "type_id": "360",
+    "timestamp": "2024-07-05T21:22:02",
+    "place": "Dinosaur Provincial Park Campground Road, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "dinosaur provincial park campground road",
+        "city": "division no. 2",
+        "county": "",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240705_212202",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1572,
+    "type": "picture",
+    "type_id": "1188",
+    "timestamp": "2024-07-05T21:24:18",
+    "place": "North Campground, Dinosaur Provincial Park Campground Road, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "north campground, dinosaur provincial park campground road",
+        "city": "",
+        "county": "division no. 2",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240705_212417",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1946,
+    "type": "picture",
+    "type_id": "1562",
+    "timestamp": "2024-07-05T21:31:14",
+    "place": "South Campground, Dinosaur Provincial Park Campground Road, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south campground, dinosaur provincial park campground road",
+        "city": "",
+        "county": "division no. 2",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240705_213114",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1816,
+    "type": "picture",
+    "type_id": "1432",
+    "timestamp": "2024-07-05T22:30:54",
+    "place": "South Campground, Dinosaur Provincial Park Campground Road, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south campground, dinosaur provincial park campground road",
+        "city": "",
+        "county": "division no. 2",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240705_223054",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  }
+]

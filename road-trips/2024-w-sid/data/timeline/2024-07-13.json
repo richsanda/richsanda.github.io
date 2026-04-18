@@ -1,0 +1,2503 @@
+[
+  {
+    "id": 366,
+    "type": "receipt",
+    "type_id": "98",
+    "timestamp": "2024-07-13T07:10",
+    "place": "1001 Utica Ridge P1, Bettendorf, IA 52722",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1001 utica ridge p1",
+        "city": "bettendorf",
+        "state": "ia",
+        "postal": "52722"
+      },
+      "date": "2024-07-13",
+      "time": "07:10",
+      "address": "1001 Utica Ridge P1, Bettendorf, IA 52722",
+      "items": [
+        {
+          "description": "HCI ICE SMALL BAG",
+          "quantity": 2,
+          "amount": 5.38
+        }
+      ],
+      "category": "convenience",
+      "other_details": {
+        "store_number": 929,
+        "register_number": 3,
+        "transaction_number": 5341554,
+        "cash": 20.0,
+        "change": 14.62,
+        "fuel_tax_included": true,
+        "take_home_meals_available": true,
+        "phone_number": "(563)355-7479",
+        "message": "Have a nice day, See you next time!"
+      }
+    },
+    "filename": "20240902_103050",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1475,
+    "type": "picture",
+    "type_id": "1091",
+    "timestamp": "2024-07-13T07:44:59",
+    "place": "Super 8 Bettendorf, Golden Valley Drive, Bettendorf, Pleasant Valley Township, Scott County, Iowa, 52722, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "super 8 bettendorf",
+        "city": "bettendorf",
+        "county": "scott county",
+        "state": "ia",
+        "postal": "52722"
+      }
+    },
+    "filename": "20240713_074458",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 209,
+    "type": "map",
+    "type_id": "341",
+    "timestamp": "2024-07-13T08:16:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-13T08:16:00",
+      "end_timestamp": "2024-07-13T08:39:00",
+      "place": {
+        "address": "golden valley drive",
+        "state": "ia"
+      },
+      "end_place": {
+        "address": "I-88",
+        "state": "il"
+      },
+      "info": {
+        "duration": "23 minutes",
+        "distance": "28 mi",
+        "location": "Golden Valley Drive, Iowa -> I-88, Illinois",
+        "nearby": [
+          "Grove",
+          "McCausland",
+          "Hampton",
+          "Princeton",
+          "Claire",
+          "Silvis",
+          "Cleveland",
+          "Moline",
+          "Colona",
+          "Milan",
+          "Coal Valley",
+          "Hillsdale"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_170646_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2409,
+    "type": "picture",
+    "type_id": "2025",
+    "timestamp": "2024-07-13T08:17:24",
+    "place": "I 74, Bettendorf, Pleasant Valley Township, Scott County, Iowa, 52807, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 74",
+        "city": "bettendorf",
+        "county": "scott county",
+        "state": "ia",
+        "postal": "52807"
+      },
+      "miles": "6199.6 miles",
+      "note": "the morning at the quad cities"
+    },
+    "filename": "20240713_081723",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 391,
+    "type": "picture",
+    "type_id": "7",
+    "timestamp": "2024-07-13T08:18:53",
+    "place": "I 74, Bettendorf, Pleasant Valley Township, Davenport, Scott County, Iowa, 52807, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 74",
+        "city": "bettendorf",
+        "county": "scott county",
+        "state": "ia",
+        "postal": "52807"
+      },
+      "signs": "i-80 chicago\ni-80 des moines"
+    },
+    "filename": "20240713_081852",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 693,
+    "type": "picture",
+    "type_id": "309",
+    "timestamp": "2024-07-13T08:26:19",
+    "place": "I 80, Pleasant Valley Township, Le Claire, Le Claire Township, Scott County, Iowa, 52753, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 80",
+        "city": "le claire",
+        "county": "scott county",
+        "state": "ia",
+        "postal": "52753"
+      },
+      "signs": "mississippi river"
+    },
+    "filename": "20240713_082619",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1903,
+    "type": "picture",
+    "type_id": "1519",
+    "timestamp": "2024-07-13T08:27:42",
+    "place": "I 80, East Moline, Rock Island County, Illinois, 61278, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 80",
+        "city": "east moline",
+        "county": "rock island county",
+        "state": "il",
+        "postal": "61278"
+      },
+      "sign": "welcome to illinois",
+      "note": "the land of lincoln"
+    },
+    "filename": "20240713_082742",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1347,
+    "type": "picture",
+    "type_id": "963",
+    "timestamp": "2024-07-13T08:32:03",
+    "place": "Ronald Reagan Memorial Highway, East Moline, Rock Island County, Illinois, 61257, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "ronald reagan memorial highway",
+        "city": "east moline",
+        "county": "rock island county",
+        "state": "il",
+        "postal": "61257"
+      },
+      "signs": "illinois 92 4\ndixon 55\nchicago 155"
+    },
+    "filename": "20240713_083203",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 210,
+    "type": "map",
+    "type_id": "85",
+    "timestamp": "2024-07-13T08:41:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-13T08:41:00",
+      "end_timestamp": "2024-07-13T10:03:00",
+      "place": {
+        "address": "I-88",
+        "state": "il"
+      },
+      "end_place": {
+        "address": "orchard road",
+        "state": "il"
+      },
+      "info": {
+        "duration": "1 hour, 22 minutes",
+        "distance": "102 mi",
+        "location": "I-88, Illinois -> Orchard Road, Illinois",
+        "nearby": [
+          "Rockford",
+          "Elgin",
+          "Joliet"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_170635_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 211,
+    "type": "map",
+    "type_id": "28",
+    "timestamp": "2024-07-13T10:07:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-13T10:07:00",
+      "end_timestamp": "2024-07-13T11:39:00",
+      "place": {},
+      "end_place": {
+        "address": "122w monroe st",
+        "state": "il"
+      },
+      "info": {
+        "duration": "1 hour, 31 minutes",
+        "distance": "44 mi",
+        "location": "Unknown address -> 122 W Monroe St, Illinois",
+        "nearby": [
+          "Elgin",
+          "Arlington Heights",
+          "Schaumburg",
+          "Des Plaines",
+          "St. Charles",
+          "Wheaton",
+          "Naperville",
+          "Evanston",
+          "Elmhurst",
+          "Aurora",
+          "Oak Lawn",
+          "Oswego",
+          "Bolingbrook",
+          "Orland Park",
+          "Plainfield",
+          "Tinley Park",
+          "Joliet",
+          "Frankfort"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_170621_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1648,
+    "type": "picture",
+    "type_id": "1264",
+    "timestamp": "2024-07-13T10:07:48",
+    "place": "Woodman's Markets, Orchard Road, North Aurora, Aurora Township, Kane County, Illinois, 60539, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "woodman's markets, orchard road",
+        "city": "north aurora",
+        "county": "kane county",
+        "state": "il",
+        "postal": "60539"
+      },
+      "caption": "could not believe how vast this place was inside"
+    },
+    "filename": "20240713_100747",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2388,
+    "type": "picture",
+    "type_id": "2004",
+    "timestamp": "2024-07-13T10:10:14",
+    "place": "Woodman's Markets, Orchard Road, North Aurora, Aurora Township, Kane County, Illinois, 60539, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "woodman's markets, orchard road",
+        "city": "north aurora",
+        "county": "kane county",
+        "state": "il",
+        "postal": "60539"
+      }
+    },
+    "filename": "20240713_101014",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1426,
+    "type": "picture",
+    "type_id": "1042",
+    "timestamp": "2024-07-13T10:35:43",
+    "place": "Ronald Reagan Memorial Tollway, Oak Brook, DuPage County, Illinois, 60523, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "ronald reagan memorial tollway",
+        "city": "oak brook",
+        "county": "dupage county",
+        "state": "il",
+        "postal": "60523"
+      },
+      "signs": "i-290 chicago, rockford\ni-294 o'hare, milwaukee\ni-294 indiana"
+    },
+    "filename": "20240713_103543",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1437,
+    "type": "picture",
+    "type_id": "1053",
+    "timestamp": "2024-07-13T10:35:56",
+    "place": "Ronald Reagan Memorial Tollway, Oak Brook, DuPage County, Illinois, 60523, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "ronald reagan memorial tollway",
+        "city": "oak brook",
+        "county": "dupage county",
+        "state": "il",
+        "postal": "60523"
+      },
+      "signs": "i-290 chicago\ni-294 milwaukee\ni-290 rockford"
+    },
+    "filename": "20240713_103555",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2035,
+    "type": "picture",
+    "type_id": "1651",
+    "timestamp": "2024-07-13T10:53:43",
+    "place": "Eisenhower Expressway, Oak Park, Cook County, Illinois, 60304, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "eisenhower expressway",
+        "city": "oak park",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60304"
+      }
+    },
+    "filename": "20240713_105342",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 841,
+    "type": "picture",
+    "type_id": "457",
+    "timestamp": "2024-07-13T10:55:37",
+    "place": "Eisenhower Expressway, Austin, Chicago, West Chicago Township, Cook County, Illinois, 60644, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "eisenhower expressway",
+        "city": "austin",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60644"
+      }
+    },
+    "filename": "20240713_105537",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 627,
+    "type": "picture",
+    "type_id": "243",
+    "timestamp": "2024-07-13T10:56:52",
+    "place": "Eisenhower Expressway, Austin, Chicago, West Chicago Township, Cook County, Illinois, 60624, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "eisenhower expressway",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60624"
+      }
+    },
+    "filename": "20240713_105652",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1326,
+    "type": "picture",
+    "type_id": "942",
+    "timestamp": "2024-07-13T10:58:58",
+    "place": "Eisenhower Expressway, East Garfield Park, Chicago, West Chicago Township, Cook County, Illinois, 60612, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "eisenhower expressway",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60612"
+      }
+    },
+    "filename": "20240713_105858",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2224,
+    "type": "picture",
+    "type_id": "1840",
+    "timestamp": "2024-07-13T11:00:14",
+    "place": "Eisenhower Expressway, Illinois Medical District, Chicago, West Chicago Township, Cook County, Illinois, 60612, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "eisenhower expressway",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60612"
+      },
+      "caption": "the skyline and the subway in the median"
+    },
+    "filename": "20240713_110014",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1152,
+    "type": "picture",
+    "type_id": "768",
+    "timestamp": "2024-07-13T11:00:30",
+    "place": "Eisenhower Expressway, Near West Side, Chicago, West Chicago Township, Cook County, Illinois, 60607, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "eisenhower expressway",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60607"
+      },
+      "signs": "i-90, i-94 wisconsin, indiana"
+    },
+    "filename": "20240713_110030",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 591,
+    "type": "picture",
+    "type_id": "207",
+    "timestamp": "2024-07-13T11:05:39",
+    "place": "Union Avenue, East Pilsen, Lower West Side, Chicago, West Chicago Township, Cook County, Illinois, 60607, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "union avenue",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60607"
+      }
+    },
+    "filename": "20240713_110539",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 895,
+    "type": "picture",
+    "type_id": "511",
+    "timestamp": "2024-07-13T11:10:20",
+    "place": "South Canal Street, East Pilsen, Chicago, West Chicago Township, Cook County, Illinois, 60605, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south canal street",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60605"
+      }
+    },
+    "filename": "20240713_111020",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2310,
+    "type": "picture",
+    "type_id": "1926",
+    "timestamp": "2024-07-13T11:18:46",
+    "place": "West Adams Street, Printer's Row, Loop, Chicago, Cook County, Illinois, 60606, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "west adams street",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60606"
+      }
+    },
+    "filename": "20240713_111845",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1509,
+    "type": "picture",
+    "type_id": "1125",
+    "timestamp": "2024-07-13T11:35:38",
+    "place": "West Monroe Street, Loop, Chicago, Cook County, Illinois, 60606, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "west monroe street",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60606"
+      }
+    },
+    "filename": "20240713_113538",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 212,
+    "type": "map",
+    "type_id": "87",
+    "timestamp": "2024-07-13T11:39:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-13T11:39:00",
+      "end_timestamp": "2024-07-13T11:55:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "15 minutes",
+        "distance": "0 mi",
+        "location": "Near 122 W Monroe St, Illinois",
+        "nearby": [
+          "W Calhoun Pl",
+          "S La Salle St",
+          "N La Salle St",
+          "W Arcade Pl",
+          "W Marble Pl",
+          "S Clark St",
+          "W Adams St",
+          "George W Dunne Cook County Office Building",
+          "N Clark St",
+          "W Madison St"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_184254_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 263,
+    "type": "shazam",
+    "type_id": "1",
+    "timestamp": "2024-07-13T11:40:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "title": "Videosphere",
+      "artist": "Lake Turner",
+      "link": "https://www.shazam.com/track/537849267/videosphere",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d6/b5/31/d6b531dd-81a3-db3a-6bfd-eb4bc8b631e0/4250101420429_cover.jpg/400x400cc.jpg"
+    },
+    "filename": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d6/b5/31/d6b531dd-81a3-db3a-6bfd-eb4bc8b631e0/4250101420429_cover.jpg/400x400cc.jpg",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 367,
+    "type": "receipt",
+    "type_id": "39",
+    "timestamp": "2024-07-13T11:47",
+    "place": "39 S. LaSalle Street, Chicago, IL",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "39 s lasalle street",
+        "city": "chicago",
+        "state": "il"
+      },
+      "date": "2024-07-13",
+      "time": "11:47",
+      "address": "39 S. LaSalle Street, Chicago, IL",
+      "items": [
+        {
+          "name": "T1 Pike Place",
+          "quantity": 1,
+          "category": "coffee",
+          "price": 3.45
+        },
+        {
+          "name": "2% Milk",
+          "quantity": "1/2\"",
+          "category": "dairy",
+          "price": 0.0
+        },
+        {
+          "name": "Sugar",
+          "quantity": "",
+          "category": "condiment",
+          "price": 0.0
+        }
+      ],
+      "category": "coffee shop",
+      "subtotal": 3.45,
+      "discounts": 0.0,
+      "tax": 0.41,
+      "gratuity": 1.0,
+      "total": 4.86,
+      "change_due": 0.0,
+      "payment_method": "Mastercard",
+      "card_number": "XXXXXXXXXXXX9725",
+      "card_entry": "CHIP",
+      "transaction_type": "SALE",
+      "app_label": "Mastercard Debit",
+      "authorization_code": "004169",
+      "AID": "A0000000041010",
+      "TVR": "8000008000",
+      "TSI": "6800"
+    },
+    "filename": "20240902_104621",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 213,
+    "type": "map",
+    "type_id": "42",
+    "timestamp": "2024-07-13T11:55:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-13T11:55:00",
+      "end_timestamp": "2024-07-13T12:01:00",
+      "place": {
+        "address": "122 w monroe st",
+        "state": "il"
+      },
+      "end_place": {
+        "address": "east monroe drive",
+        "state": "il"
+      },
+      "info": {
+        "duration": "6 minutes",
+        "distance": "0 mi",
+        "location": "122 W Monroe St, Illinois -> East Monroe Drive, Illinois",
+        "nearby": [
+          "La Salle St",
+          "Lake St",
+          "The Chicago Theatre",
+          "Daley Center",
+          "N Dearborn St",
+          "N Clark St",
+          "N State St",
+          "Millennium Park",
+          "E Washington St",
+          "Washington/Wabash",
+          "W Madison St",
+          "E Madison St",
+          "Monroe St",
+          "S Wabash Ave",
+          "S Michigan Ave",
+          "Adams/Wabash",
+          "S State St",
+          "CHICAGO LOOP",
+          "Chicago",
+          "S Federal St",
+          "S Dearborn St",
+          "Van Buren St"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_170610_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 214,
+    "type": "map",
+    "type_id": "64",
+    "timestamp": "2024-07-13T12:01:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-13T12:01:00",
+      "end_timestamp": "2024-07-13T12:18:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "17 minutes",
+        "distance": "0 mi",
+        "location": "Near East Monroe Drive, Illinois",
+        "nearby": [
+          "LE Washington St",
+          "N Garland Ct",
+          "E Madison St",
+          "55 East Monroe",
+          "S Michigan Ave",
+          "N Michigan Ave",
+          "Cloud Gate",
+          "Millennium Park",
+          "Crown Fountain",
+          "E Monroe St",
+          "Nichols",
+          "Ryerson & Burnham Library"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_184225_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1779,
+    "type": "picture",
+    "type_id": "1395",
+    "timestamp": "2024-07-13T12:03:12",
+    "place": "Grant Park North Garage, 25, North Michigan Avenue, Lakeshore East, Loop, Chicago, Cook County, Illinois, 60602, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "25 north michigan avenue",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60602"
+      },
+      "caption": "is the silver bean thing gone ? couldn't find it..."
+    },
+    "filename": "20240713_120312",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2300,
+    "type": "picture",
+    "type_id": "1916",
+    "timestamp": "2024-07-13T12:03:59",
+    "place": "25, North Michigan Avenue, Lakeshore East, Loop, Chicago, Cook County, Illinois, 60602, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "25 north michigan avenue",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60602"
+      }
+    },
+    "filename": "20240713_120359",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1902,
+    "type": "picture",
+    "type_id": "1518",
+    "timestamp": "2024-07-13T12:04:08",
+    "place": "25, North Michigan Avenue, Lakeshore East, Loop, Chicago, Cook County, Illinois, 60602, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "25 north michigan avenue",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60602"
+      }
+    },
+    "filename": "20240713_120407",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2747,
+    "type": "story",
+    "type_id": "278",
+    "timestamp": "2024-07-13T12:05",
+    "place": null,
+    "description": "attractions: grant park\ntime: 12:05",
+    "data": {
+      "category": "attractions",
+      "dada_rank": 5,
+      "sydney_rank": 10
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1714,
+    "type": "picture",
+    "type_id": "1330",
+    "timestamp": "2024-07-13T12:09:56",
+    "place": "South Michigan Avenue, Lakeshore East, Loop, Chicago, Cook County, Illinois, 60603, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south michigan avenue",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60603"
+      }
+    },
+    "filename": "20240713_120955",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2051,
+    "type": "picture",
+    "type_id": "1667",
+    "timestamp": "2024-07-13T12:09:58",
+    "place": "East Monroe Drive, Lakeshore East, Loop, Chicago, Cook County, Illinois, 60603, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "east monroe drive",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60603"
+      }
+    },
+    "filename": "20240713_120958",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2243,
+    "type": "picture",
+    "type_id": "1859",
+    "timestamp": "2024-07-13T12:10:30",
+    "place": "Food Trucks, East Monroe Drive, Lakeshore East, Loop, Chicago, Cook County, Illinois, 60606, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "food trucks east monroe drive",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60606"
+      }
+    },
+    "filename": "20240713_121030",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1596,
+    "type": "picture",
+    "type_id": "1212",
+    "timestamp": "2024-07-13T12:23:19",
+    "place": "McCormick Place Busway, Printer's Row, Loop, Chicago, Cook County, Illinois, 60604, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "mccormick place busway",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60604"
+      }
+    },
+    "filename": "20240713_122319",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2196,
+    "type": "picture",
+    "type_id": "1812",
+    "timestamp": "2024-07-13T12:23:30",
+    "place": "Pedway, Lakeshore East, Loop, Chicago, Cook County, Illinois, 60603, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "pedway lakeshore east",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60603"
+      }
+    },
+    "filename": "20240713_122329",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2748,
+    "type": "story",
+    "type_id": "183",
+    "timestamp": "2024-07-13T12:28",
+    "place": null,
+    "description": "treats: chocolate shake\n\ntime: 12:28",
+    "data": {
+      "category": "treats",
+      "dada_rank": 14,
+      "sydney_rank": 9
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1333,
+    "type": "picture",
+    "type_id": "949",
+    "timestamp": "2024-07-13T12:28:03",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240713_122802",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 215,
+    "type": "map",
+    "type_id": "30",
+    "timestamp": "2024-07-13T12:29:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-13T12:29:00",
+      "end_timestamp": "2024-07-13T12:35:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "5 minutes",
+        "distance": "0 mi",
+        "location": "Near 275 S Michigan Ave, Illinois",
+        "nearby": [
+          "55 East Monroe",
+          "E Adams St",
+          "Mindworks: The M",
+          "SWabash Ave",
+          "Chicago Pedway System",
+          "Michigan Ave S",
+          "E Monroe St",
+          "Fountain of the Great Lakes",
+          "E Jackson Dr",
+          "Roosevelt",
+          "Nichols B",
+          "McCormick Place Busway"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_184215_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2034,
+    "type": "picture",
+    "type_id": "1650",
+    "timestamp": "2024-07-13T12:29:32",
+    "place": "South Michigan Avenue, Printer's Row, Loop, Chicago, Cook County, Illinois, 60603, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south michigan avenue",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60603"
+      }
+    },
+    "filename": "20240713_122932",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1943,
+    "type": "picture",
+    "type_id": "1559",
+    "timestamp": "2024-07-13T12:30:07",
+    "place": "Grant Park South Garage, 325, South Michigan Avenue, Printer's Row, Loop, Chicago, Cook County, Illinois, 60604, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "325 south michigan avenue",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60604"
+      }
+    },
+    "filename": "20240713_123006",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2481,
+    "type": "picture",
+    "type_id": "2097",
+    "timestamp": "2024-07-13T12:33:26",
+    "place": "55, East Jackson Boulevard, Printer's Row, Loop, Chicago, Cook County, Illinois, 60604, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "55 east jackson boulevard",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60604"
+      }
+    },
+    "filename": "20240713_123325",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 216,
+    "type": "map",
+    "type_id": "318",
+    "timestamp": "2024-07-13T12:35:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-13T12:35:00",
+      "end_timestamp": "2024-07-13T12:41:00",
+      "place": {
+        "address": "275 s michigan ave",
+        "state": "il"
+      },
+      "end_place": {
+        "address": "pedway",
+        "state": "il"
+      },
+      "info": {
+        "duration": "6 minutes",
+        "distance": "0 mi",
+        "location": "275 S Michigan Ave, Illinois -> Pedway, Illinois",
+        "nearby": [
+          "Washington M",
+          "N Clark St",
+          "N State St",
+          "E Washington St",
+          "Washington/Wabash M",
+          "W Madison St",
+          "E Madison St",
+          "W Monroe St",
+          "Monroe M",
+          "W Adams St",
+          "S Dearborn St",
+          "Jackson M",
+          "W Van Buren St",
+          "S Wabash Ave",
+          "Adams/Wabash M",
+          "S State St",
+          "E Jackson Blvd",
+          "E Van Buren St",
+          "Michigan Ave"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_170558_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2608,
+    "type": "picture",
+    "type_id": "2224",
+    "timestamp": "2024-07-13T12:40:53",
+    "place": "South Dearborn Street, Loop, Chicago, Cook County, Illinois, 60603, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south dearborn street",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60603"
+      }
+    },
+    "filename": "20240713_124053",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1445,
+    "type": "picture",
+    "type_id": "1061",
+    "timestamp": "2024-07-13T12:45:58",
+    "place": "Harris Trust, 311, West Monroe Street, Loop, Chicago, Cook County, Illinois, 60606, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "311 west monroe street",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60606"
+      }
+    },
+    "filename": "20240713_124558",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 217,
+    "type": "map",
+    "type_id": "157",
+    "timestamp": "2024-07-13T12:48:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-13T12:48:00",
+      "end_timestamp": "2024-07-13T13:32:00",
+      "place": {
+        "address": "104 sla salle st",
+        "state": "il"
+      },
+      "end_place": {
+        "address": "south wells street",
+        "state": "il"
+      },
+      "info": {
+        "duration": "44 minutes",
+        "distance": "6 mi",
+        "location": "104 S La Salle St, Illinois -> South Wells Street, Illinois",
+        "nearby": [
+          "United Center",
+          "National Museum of Mexican Art",
+          "South Loop",
+          "Niley Park",
+          "Bridgeport",
+          "1-90 Express",
+          "31st Street Beach",
+          "Bronzeville",
+          "McCormick Place",
+          "Burnham (Daniel) Park"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_184147_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 735,
+    "type": "picture",
+    "type_id": "351",
+    "timestamp": "2024-07-13T12:53:35",
+    "place": "122 South Michigan, 122, South Michigan Avenue, Printer's Row, Loop, Chicago, Cook County, Illinois, 60603, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "122 south michigan",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60603"
+      }
+    },
+    "filename": "20240713_125334",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 368,
+    "type": "receipt",
+    "type_id": "62",
+    "timestamp": "2024-07-13T13:09",
+    "place": "333 W 35th St, Chicago, IL 60616",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "333 w 35th st",
+        "city": "chicago",
+        "state": "il",
+        "postal": "60616"
+      },
+      "date": "2024-07-13",
+      "time": "13:09",
+      "address": "333 W 35th St, Chicago, IL 60616",
+      "items": [
+        {
+          "description": "Event Parking at Guaranteed Rate Field",
+          "amount": "$30.00"
+        }
+      ],
+      "category": "parking",
+      "other_details": {
+        "transaction_number": "138533522",
+        "attendant": "Cleo C.",
+        "lot": "F Lot - White Sox",
+        "taxes_included": "Yes",
+        "business_name": "Chicago White Sox"
+      }
+    },
+    "filename": "20240902_104818",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1942,
+    "type": "picture",
+    "type_id": "1558",
+    "timestamp": "2024-07-13T13:22:48",
+    "place": "Guaranteed Rate Field, 333, West 35th Street, Bronzeville, Chicago, Cook County, Illinois, 60616, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "333 west 35th street",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60616"
+      }
+    },
+    "filename": "20240713_132247",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2575,
+    "type": "picture",
+    "type_id": "2191",
+    "timestamp": "2024-07-13T13:22:57",
+    "place": "Guaranteed Rate Field, 333, West 35th Street, Bronzeville, Chicago, Cook County, Illinois, 60616, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "333 west 35th street",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60616"
+      }
+    },
+    "filename": "20240713_132257",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1310,
+    "type": "picture",
+    "type_id": "926",
+    "timestamp": "2024-07-13T13:23:16",
+    "place": "Guaranteed Rate Field, 333, West 35th Street, Bronzeville, Chicago, Cook County, Illinois, 60616, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "333 west 35th street",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60616"
+      }
+    },
+    "filename": "20240713_132316",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 218,
+    "type": "map",
+    "type_id": "204",
+    "timestamp": "2024-07-13T13:32:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-13T13:32:00",
+      "end_timestamp": "2024-07-13T15:46:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "1 hour, 14 minutes",
+        "distance": "0 mi",
+        "location": "Near South Wells Street, Illinois",
+        "nearby": [
+          "W35th St",
+          "Guaranteed Rate Field",
+          "S Wells St",
+          "P Lot E",
+          "3601-3699 S Wells St"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_184135_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1211,
+    "type": "picture",
+    "type_id": "827",
+    "timestamp": "2024-07-13T13:32:28",
+    "place": "Leinenkugel's Craft Lodge, South Princeton Avenue, Bronzeville, Chicago, Cook County, Illinois, 60609, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "leinenkugel's craft lodge, south princeton avenue",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60609"
+      }
+    },
+    "filename": "20240713_133228",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2063,
+    "type": "picture",
+    "type_id": "1679",
+    "timestamp": "2024-07-13T13:32:32",
+    "place": "Leinenkugel's Craft Lodge, South Princeton Avenue, Bronzeville, Chicago, Cook County, Illinois, 60609, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "leinenkugel's craft lodge, south princeton avenue",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60609"
+      }
+    },
+    "filename": "20240713_133231",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 691,
+    "type": "picture",
+    "type_id": "307",
+    "timestamp": "2024-07-13T13:32:35",
+    "place": "Leinenkugel's Craft Lodge, South Princeton Avenue, Bronzeville, Chicago, Cook County, Illinois, 60609, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "leinenkugel's craft lodge, south princeton avenue",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60609"
+      }
+    },
+    "filename": "20240713_133235",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1427,
+    "type": "picture",
+    "type_id": "1043",
+    "timestamp": "2024-07-13T14:17:30",
+    "place": "333, West 35th Street, Bronzeville, Chicago, Cook County, Illinois, 60616, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "333 west 35th street",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60616"
+      }
+    },
+    "filename": "20240713_141730",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 501,
+    "type": "picture",
+    "type_id": "117",
+    "timestamp": "2024-07-13T14:18:04",
+    "place": "333, West 35th Street, Bronzeville, Chicago, Cook County, Illinois, 60616, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "333 west 35th street",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60616"
+      }
+    },
+    "filename": "20240713_141804",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2121,
+    "type": "picture",
+    "type_id": "1737",
+    "timestamp": "2024-07-13T14:18:06",
+    "place": "333, West 35th Street, Bronzeville, Chicago, Cook County, Illinois, 60616, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "333 west 35th street",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60616"
+      }
+    },
+    "filename": "20240713_141806",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2509,
+    "type": "picture",
+    "type_id": "2125",
+    "timestamp": "2024-07-13T14:26:17",
+    "place": "333, West 35th Street, Bronzeville, Chicago, Cook County, Illinois, 60616, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "333 west 35th street",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60616"
+      }
+    },
+    "filename": "20240713_142616",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 444,
+    "type": "picture",
+    "type_id": "60",
+    "timestamp": "2024-07-13T14:30:45",
+    "place": "333, West 35th Street, Bronzeville, Chicago, Cook County, Illinois, 60616, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "333 west 35th street",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60616"
+      }
+    },
+    "filename": "20240713_143045",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1376,
+    "type": "picture",
+    "type_id": "992",
+    "timestamp": "2024-07-13T14:31:46",
+    "place": "333, West 35th Street, Bronzeville, Chicago, Cook County, Illinois, 60616, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "333 west 35th street",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60616"
+      }
+    },
+    "filename": "20240713_143146",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2749,
+    "type": "story",
+    "type_id": "20",
+    "timestamp": "2024-07-13T14:45",
+    "place": null,
+    "description": "attractions: guaranteed rate field\ntime: 13:00\ntime: 14:45",
+    "data": {
+      "category": "attractions",
+      "dada_rank": 4,
+      "sydney_rank": 9
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 369,
+    "type": "receipt",
+    "type_id": "23",
+    "timestamp": "2024-07-13T14:56",
+    "place": "Chicago Skyway Toll Bridge, Chicago, IL",
+    "description": null,
+    "data": {
+      "place": {
+        "city": "chicago",
+        "state": "il",
+        "business": "chicago skyway toll bridge"
+      },
+      "date": "2024-07-13",
+      "time": "14:56",
+      "address": "Chicago Skyway Toll Bridge, Chicago, IL",
+      "items": [
+        {
+          "description": "2 Axles Toll",
+          "price": "$7.20"
+        }
+      ],
+      "category": "toll",
+      "payment_method": "cash",
+      "toll_operator": "300542",
+      "transit_id": "2609850",
+      "lane": "Lane 3",
+      "plaza": "Eastbound",
+      "receipt_number": "7391211638882280820",
+      "company_name": "Skyway Concession Company LLC",
+      "website": "www.chicagoskyway.org",
+      "phone_number": "773-356-5543"
+    },
+    "filename": "20240902_104112",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1698,
+    "type": "picture",
+    "type_id": "1314",
+    "timestamp": "2024-07-13T14:58:43",
+    "place": "Chicago Skyway Bridge, East 101st Street, East Side, Chicago, Hyde Park Township, Cook County, Illinois, 60617, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "chicago skyway bridge, east 101st street",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "60617"
+      },
+      "signs": "i-90, i-80, i-65, i-94\nus-12, us-20, us-41 indianapolis blvd, 104th street"
+    },
+    "filename": "20240713_145843",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 907,
+    "type": "picture",
+    "type_id": "523",
+    "timestamp": "2024-07-13T14:59:43",
+    "place": "Chicago Skyway, East Side, Chicago, Hyde Park Township, Cook County, Illinois, 46394, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "chicago skyway",
+        "city": "chicago",
+        "county": "cook county",
+        "state": "il",
+        "postal": "46394"
+      },
+      "sign": "welcome to indiana",
+      "note": ""
+    },
+    "filename": "20240713_145942",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1778,
+    "type": "picture",
+    "type_id": "1394",
+    "timestamp": "2024-07-13T15:00:10",
+    "place": "Indiana Toll Road, Hammond, North Township, Lake County, Indiana, 46394, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "indiana toll road",
+        "city": "hammond",
+        "county": "lake county",
+        "state": "in",
+        "postal": "46394"
+      }
+    },
+    "filename": "20240713_150010",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1097,
+    "type": "picture",
+    "type_id": "713",
+    "timestamp": "2024-07-13T15:22:22",
+    "place": "I 94, Lake Station, Hobart Township, Lake County, Indiana, 46403, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 94",
+        "city": "lake station",
+        "county": "lake county",
+        "state": "in",
+        "postal": "46403"
+      },
+      "signs": "i-94 detroit\ni-94, i-80, in-51"
+    },
+    "filename": "20240713_152222",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 405,
+    "type": "picture",
+    "type_id": "21",
+    "timestamp": "2024-07-13T15:26:15",
+    "place": "I 94, Portage, Porter County, Indiana, 46868, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 94",
+        "city": "portage",
+        "county": "porter county",
+        "state": "in",
+        "postal": "46868"
+      },
+      "signs": "porter 4\nmichigan city 19\ndetroit 256"
+    },
+    "filename": "20240713_152615",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 219,
+    "type": "map",
+    "type_id": "111",
+    "timestamp": "2024-07-13T15:46:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-13T15:46:00",
+      "end_timestamp": "2024-07-13T17:04:00",
+      "place": {
+        "address": "south wells street",
+        "state": "il"
+      },
+      "end_place": {
+        "address": "I-94",
+        "state": "mi"
+      },
+      "info": {
+        "duration": "1 hour, 17 minutes",
+        "distance": "75 mi",
+        "location": "South Wells Street, Illinois -> I-94, Michigan",
+        "nearby": [
+          "Evanston",
+          "Chicago",
+          "Valparaiso",
+          "Benton Harbor",
+          "Michigan"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_184124_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1808,
+    "type": "picture",
+    "type_id": "1424",
+    "timestamp": "2024-07-13T16:46:30",
+    "place": "I 94, New Buffalo Township, LaPorte County, Indiana, 49117, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 94",
+        "city": "new buffalo township",
+        "county": "laporte county",
+        "state": "in",
+        "postal": "49117"
+      },
+      "sign": "welcome to pure michigan",
+      "note": "(again)"
+    },
+    "filename": "20240713_164630",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 370,
+    "type": "receipt",
+    "type_id": "48",
+    "timestamp": "2024-07-13T16:59",
+    "place": "6100 Sawyer Road, Sawyer, MI, 49125",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "6100 sawyer road",
+        "city": "sawyer",
+        "state": "mi",
+        "postal": "49125"
+      },
+      "date": "2024-07-13",
+      "time": "16:59",
+      "address": "6100 Sawyer Road, Sawyer, MI, 49125",
+      "items": [
+        {
+          "description": "PREPAY CA #12",
+          "quantity": 1,
+          "amount": 50.0
+        }
+      ],
+      "category": "convenience",
+      "payment_method": "debit",
+      "card_number": "********9725",
+      "authorization_code": "657658",
+      "response_code": "000",
+      "stan": "031113733250",
+      "invoice_number": "996079",
+      "verified_by": "PIN",
+      "auth_net": "MAE DIR",
+      "mode": "Issuer",
+      "aid": "A0000000042203",
+      "bp_site_id": "8182727",
+      "customer_copy": true,
+      "approved": true,
+      "reward": true,
+      "feedback_link": "www.tafeedback.com",
+      "store_number": "116",
+      "cashier": "25",
+      "drawer": "1",
+      "transaction_number": "1010533"
+    },
+    "filename": "20240902_104401",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 371,
+    "type": "receipt",
+    "type_id": "84",
+    "timestamp": "2024-07-13T17:09",
+    "place": "6100 Sawyer Rd, Sawyer, MI 49125",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "6100 sawyer rd",
+        "city": "sawyer",
+        "state": "mi",
+        "postal": "49125"
+      },
+      "date": "2024-07-13",
+      "time": "17:09",
+      "address": "6100 Sawyer Rd, Sawyer, MI 49125",
+      "items": [
+        {
+          "service_level": "self",
+          "product": "unleaded",
+          "gallons": 13.301,
+          "price_per_gallon": 3.759,
+          "total_price": 50.0
+        }
+      ],
+      "category": "gas",
+      "payment_method": "debit",
+      "account_number": "********9725",
+      "auth_code": "657658",
+      "response_code": "000",
+      "stan": "031113733316",
+      "invoice_number": "996079",
+      "verified_by": "PIN",
+      "auth_net": "MAE DIR",
+      "mode": "issuer",
+      "aid": "A0000000042203",
+      "bp_site_id": "8182727",
+      "reward_account_number": "*****9725",
+      "print_table": "03"
+    },
+    "filename": "20240902_104747",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 220,
+    "type": "map",
+    "type_id": "135",
+    "timestamp": "2024-07-13T17:16:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-13T17:16:00",
+      "end_timestamp": "2024-07-13T19:37:00",
+      "place": {
+        "address": "4900 lake st",
+        "state": "mi"
+      },
+      "end_place": {
+        "address": "3163 boardwalk dr",
+        "state": "mi"
+      },
+      "info": {
+        "duration": "2 hours, 21 minutes",
+        "distance": "163 mi",
+        "location": "4900 Lake St, Michigan -> 3163 Boardwalk Dr, Michigan",
+        "nearby": [
+          "Muskegon",
+          "Grand Rapids",
+          "Holland",
+          "South Bend",
+          "Kalamazoo",
+          "Lansing",
+          "Fort Wayne",
+          "Toledo",
+          "Findlay"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_184107_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2101,
+    "type": "picture",
+    "type_id": "1717",
+    "timestamp": "2024-07-13T17:30:23",
+    "place": "I-94/US-31, Benton Heights, Benton Charter Township, Berrien County, Michigan, 49022, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i-94/us-31",
+        "city": "benton heights",
+        "county": "berrien county",
+        "state": "mi",
+        "postal": "49022"
+      },
+      "signs": "i-94 detroit\ni-196, us-31 holland, grand rapids"
+    },
+    "filename": "20240713_173023",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2750,
+    "type": "story",
+    "type_id": "319",
+    "timestamp": "2024-07-13T18:30",
+    "place": null,
+    "description": "songs: kitchen witch -- ariel pink\n\ntime: 18:30",
+    "data": {
+      "id": 40,
+      "artist_name": "Ariel Pink",
+      "song_name": "Kitchen Witch",
+      "image_link": "https://i.scdn.co/image/ab67616d0000b27332476b84d0fa60f0326653bb",
+      "song_link": "https://open.spotify.com/track/5XrFMPAXaxXewtKnGcTBaJ",
+      "ordinal": 40,
+      "spotify_id": "5XrFMPAXaxXewtKnGcTBaJ",
+      "added_at": "2024-06-11T00:10:36Z",
+      "playlist_id": "41vG11QGXrrIfdsE6cy6Sz",
+      "playlist_name": "jun-10-2024",
+      "playlist_owner": "Rich Sanda",
+      "category": "songs",
+      "dada_rank": 4,
+      "sydney_rank": 60
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 221,
+    "type": "map",
+    "type_id": "114",
+    "timestamp": "2024-07-13T19:37:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-13T19:37:00",
+      "end_timestamp": "2024-07-13T19:55:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "18 minutes",
+        "distance": "0 mi",
+        "location": "Near 3163 Boardwalk Dr, Michigan",
+        "nearby": [
+          "Parking Lot",
+          "Barr Engineering Co"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_184053_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 222,
+    "type": "map",
+    "type_id": "362",
+    "timestamp": "2024-07-13T19:55:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-13T19:55:00",
+      "end_timestamp": "2024-07-13T20:13:00",
+      "place": {
+        "address": "3163 boardwalk dr",
+        "state": "mi"
+      },
+      "end_place": {
+        "address": "3093 boardwalk dr",
+        "state": "mi"
+      },
+      "info": {
+        "duration": "17 minutes",
+        "distance": "0 mi",
+        "location": "3163 Boardwalk Dr, Michigan -> 3093 Boardwalk Dr, Michigan",
+        "nearby": [
+          "Parking Lot P",
+          "Victors Way",
+          "Boardwalk Dr",
+          "Habitat for Humanity"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_184039_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 223,
+    "type": "map",
+    "type_id": "134",
+    "timestamp": "2024-07-13T20:13:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-13T20:13:00",
+      "end_timestamp": "2024-07-13T21:08:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "54 minutes",
+        "distance": "0 mi",
+        "location": "Near 3093 Boardwalk Dr, Michigan",
+        "nearby": [
+          "Eisenhower Pkwy",
+          "University Of Michigan Work Connections",
+          "Boardwalk Dr"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_184025_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2333,
+    "type": "picture",
+    "type_id": "1949",
+    "timestamp": "2024-07-13T20:15:55",
+    "place": "Buffalo Wild Wings, 3150, Boardwalk Drive, Ann Arbor, Washtenaw County, Michigan, 48108, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "3150 boardwalk drive",
+        "city": "ann arbor",
+        "county": "washtenaw county",
+        "state": "mi",
+        "postal": "48108"
+      },
+      "caption": "somehow buffalo wild wings felt like the quintessential ann arbor experience"
+    },
+    "filename": "20240713_201555",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1552,
+    "type": "picture",
+    "type_id": "1168",
+    "timestamp": "2024-07-13T20:16:01",
+    "place": "Buffalo Wild Wings, 3150, Boardwalk Drive, Ann Arbor, Washtenaw County, Michigan, 48108, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "3150 boardwalk drive",
+        "city": "ann arbor",
+        "county": "washtenaw county",
+        "state": "mi",
+        "postal": "48108"
+      }
+    },
+    "filename": "20240713_201601",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 508,
+    "type": "picture",
+    "type_id": "124",
+    "timestamp": "2024-07-13T20:16:09",
+    "place": "Buffalo Wild Wings, 3150, Boardwalk Drive, Ann Arbor, Washtenaw County, Michigan, 48108, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "3150 boardwalk drive",
+        "city": "ann arbor",
+        "county": "washtenaw county",
+        "state": "mi",
+        "postal": "48108"
+      }
+    },
+    "filename": "20240713_201609",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2751,
+    "type": "story",
+    "type_id": "50",
+    "timestamp": "2024-07-13T20:30",
+    "place": null,
+    "description": "meals: buffalo wild wings\ntime: 20:30",
+    "data": {
+      "category": "meals",
+      "dada_rank": 12,
+      "sydney_rank": 8
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 372,
+    "type": "receipt",
+    "type_id": "78",
+    "timestamp": "2024-07-13T20:58",
+    "place": "3150 Boardwalk Dr.",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "3150 boardwalk dr"
+      },
+      "date": "2024-07-13",
+      "time": "20:58",
+      "address": "3150 Boardwalk Dr.",
+      "items": [
+        {
+          "description": "6 Wings",
+          "price": 10.49
+        },
+        {
+          "description": "Salt & Vinegar Fries",
+          "price": 4.49
+        },
+        {
+          "description": "6 Boneless Wings",
+          "price": 9.49
+        },
+        {
+          "description": "Reform Blazin' Wings",
+          "price": 6.99
+        },
+        {
+          "description": "Regular Cheese Curds",
+          "price": 6.99
+        },
+        {
+          "description": "20 oz Drink",
+          "price": 3.49
+        }
+      ],
+      "category": "restaurant",
+      "total": 37.05,
+      "tip": {
+        "18%": 6.29,
+        "20%": 6.99,
+        "22%": 7.69
+      },
+      "claim_number": "3699-240713-80044-3495"
+    },
+    "filename": "20240902_105100",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 373,
+    "type": "receipt",
+    "type_id": "86",
+    "timestamp": "2024-07-13T21:04",
+    "place": "3150 Boardwalk Dr.",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "3150 boardwalk dr"
+      },
+      "date": "2024-07-13",
+      "time": "21:04",
+      "address": "3150 Boardwalk Dr.",
+      "items": [
+        {
+          "description": "Buffalo Wild Wings",
+          "price": "$37.05"
+        }
+      ],
+      "category": "restaurant",
+      "server": "Julian",
+      "table": "134/1",
+      "payment": {
+        "method": "Mastercard",
+        "card_number": "************9725",
+        "entry_method": "CHIP",
+        "app_label": "",
+        "mode": "Sale",
+        "card_type": "Mastercard Debit",
+        "issuer": "a0000000041010",
+        "TVR": "8000008000",
+        "TSI": "6800",
+        "IRD": "0110601001220000000000000000000000ff",
+        "ARC": "00",
+        "approval": "004176"
+      },
+      "customer": {
+        "name": "Richard Sanda",
+        "Blazin Rewards #": ""
+      }
+    },
+    "filename": "20240902_105013",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 224,
+    "type": "map",
+    "type_id": "265",
+    "timestamp": "2024-07-13T21:08:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-13T21:08:00",
+      "end_timestamp": "2024-07-13T21:31:00",
+      "place": {
+        "address": "3093 boardwalk dr",
+        "state": "mi"
+      },
+      "end_place": {
+        "address": "3201 boardwalk dr",
+        "state": "mi"
+      },
+      "info": {
+        "duration": "22 minutes",
+        "distance": "short mi",
+        "location": "3093 Boardwalk Dr, Michigan -> 3201 Boardwalk Dr, Michigan",
+        "nearby": []
+      }
+    },
+    "filename": "Screenshot_20240723_184011_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 225,
+    "type": "map",
+    "type_id": "70",
+    "timestamp": "2024-07-13T21:31:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-13T21:31:00",
+      "end_timestamp": "2024-07-14T08:37:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "11 hours, 6 minutes",
+        "distance": "0 mi",
+        "location": "Near 3201 Boardwalk Dr, Michigan",
+        "nearby": []
+      }
+    },
+    "filename": "Screenshot_20240723_191916_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  }
+]

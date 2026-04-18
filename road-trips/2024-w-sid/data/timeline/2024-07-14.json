@@ -1,0 +1,1429 @@
+[
+  {
+    "id": 1221,
+    "type": "picture",
+    "type_id": "837",
+    "timestamp": "2024-07-14T08:30:17",
+    "place": "Eisenhower Place, Eisenhower Commerce Center, Ann Arbor, Washtenaw County, Michigan, 48108, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "eisenhower place",
+        "city": "ann arbor",
+        "county": "washtenaw county",
+        "state": "mi",
+        "postal": "48108"
+      },
+      "miles": "6617.1 miles",
+      "note": "ann arbor"
+    },
+    "filename": "20240714_083016",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 602,
+    "type": "picture",
+    "type_id": "218",
+    "timestamp": "2024-07-14T08:30:30",
+    "place": "Eisenhower Place, Eisenhower Commerce Center, Ann Arbor, Washtenaw County, Michigan, 48108, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "eisenhower place",
+        "city": "ann arbor",
+        "county": "washtenaw county",
+        "state": "mi",
+        "postal": "48108"
+      }
+    },
+    "filename": "20240714_083030",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 788,
+    "type": "picture",
+    "type_id": "404",
+    "timestamp": "2024-07-14T08:31:35",
+    "place": "Eisenhower Place, Eisenhower Commerce Center, Ann Arbor, Washtenaw County, Michigan, 48108, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "eisenhower place",
+        "city": "ann arbor",
+        "county": "washtenaw county",
+        "state": "mi",
+        "postal": "48108"
+      }
+    },
+    "filename": "20240714_083135",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2651,
+    "type": "story",
+    "type_id": "307",
+    "timestamp": "2024-07-14T08:35:19",
+    "place": null,
+    "description": "songs: swimming away -- great lake swimmers",
+    "data": {
+      "id": 28,
+      "artist_name": "Great Lake Swimmers",
+      "song_name": "Swimming Away",
+      "image_link": "https://i.scdn.co/image/ab67616d0000b273285939622bd070c22d2f3359",
+      "song_link": "https://open.spotify.com/track/48vwyJNYbkxmRomS1V53IK",
+      "ordinal": 28,
+      "spotify_id": "48vwyJNYbkxmRomS1V53IK",
+      "added_at": "2024-07-14T12:35:19Z",
+      "playlist_id": "05sTOluR8dsB7xaztqBafT",
+      "playlist_name": "My playlist #187",
+      "playlist_owner": "Rich Sanda",
+      "category": "songs",
+      "dada_rank": 6,
+      "sydney_rank": 48,
+      "spotify_add": true
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 226,
+    "type": "map",
+    "type_id": "119",
+    "timestamp": "2024-07-14T08:37:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-14T08:37:00",
+      "end_timestamp": "2024-07-14T09:35:00",
+      "place": {
+        "address": "3201 boardwalk dr",
+        "state": "mi"
+      },
+      "end_place": {},
+      "info": {
+        "duration": "58 minutes",
+        "distance": "51 mi",
+        "location": "3201 Boardwalk Dr, Michigan -> Unknown address",
+        "nearby": [
+          "West Bloomfield",
+          "Troy",
+          "Clinton Township",
+          "Sterling Heights",
+          "Brighton",
+          "Novi",
+          "Ann Arbor",
+          "Saline",
+          "Livonia",
+          "Dearborn",
+          "Detroit",
+          "Canton",
+          "Taylor",
+          "Monroe"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_183941_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 834,
+    "type": "picture",
+    "type_id": "450",
+    "timestamp": "2024-07-14T08:52:42",
+    "place": "Detroit Industrial Expressway, Van Buren Charter Township, Wayne County, Michigan, 48111, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "detroit industrial expressway",
+        "city": "van buren charter township",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48111"
+      },
+      "signs": "i-275 toledo, flint"
+    },
+    "filename": "20240714_085242",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1234,
+    "type": "picture",
+    "type_id": "850",
+    "timestamp": "2024-07-14T09:01:56",
+    "place": "Detroit Industrial Expressway, Allen Park, Wayne County, Michigan, 48101, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "detroit industrial expressway",
+        "city": "allen park",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48101"
+      }
+    },
+    "filename": "20240714_090155",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 437,
+    "type": "picture",
+    "type_id": "53",
+    "timestamp": "2024-07-14T09:06:48",
+    "place": "Edsel Ford Freeway, Claytown, Detroit, Wayne County, Michigan, 48210, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "edsel ford freeway",
+        "city": "detroit",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48210"
+      }
+    },
+    "filename": "20240714_090647",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1795,
+    "type": "picture",
+    "type_id": "1411",
+    "timestamp": "2024-07-14T09:07:47",
+    "place": "Edsel Ford Freeway, Detroit, Wayne County, Michigan, 48210, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "edsel ford freeway",
+        "city": "detroit",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48210"
+      },
+      "signs": "i-96 bridge to canada, lansing"
+    },
+    "filename": "20240714_090747",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2133,
+    "type": "picture",
+    "type_id": "1749",
+    "timestamp": "2024-07-14T09:08:45",
+    "place": "Edsel Ford Freeway, Detroit, Wayne County, Michigan, 48208, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "edsel ford freeway",
+        "city": "detroit",
+        "county": "wayne county",
+        "state": "mi",
+        "postal": "48208"
+      },
+      "signs": "i-96 lansing\ni-96 canada"
+    },
+    "filename": "20240714_090844",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1386,
+    "type": "picture",
+    "type_id": "1002",
+    "timestamp": "2024-07-14T09:28:46",
+    "place": "Rt. Hon. Herb Gray Parkway, Lasalle, Essex County, Ontario, N9G 1V6, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "rt. hon. herb gray parkway",
+        "city": "lasalle",
+        "county": "essex county",
+        "state": "on",
+        "postal": "n9g 1v6"
+      },
+      "signs": "on-401 london\non-3, 9 leamington, amherstburg"
+    },
+    "filename": "20240714_092846",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 374,
+    "type": "receipt",
+    "type_id": "111",
+    "timestamp": "2024-07-14T09:33",
+    "place": "HWY 401 & COUNTY RD X14, WINDSOR, ON N8X 3Y8",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "hwy 401 & county rd x14",
+        "city": "windsor",
+        "postal": "n8x 3y8",
+        "state": "on"
+      },
+      "date": "2024-07-14",
+      "time": "09:33",
+      "address": "HWY 401 & COUNTY RD X14, WINDSOR, ON N8X 3Y8",
+      "items": [
+        {
+          "description": "Fuel",
+          "quantity": "32.450 L",
+          "unit_price": "$1.849/L",
+          "total_price": "$60.00"
+        }
+      ],
+      "category": "gas",
+      "other_details": {
+        "store_number": "00323571",
+        "paypoint": "11C",
+        "transaction_number": "666003",
+        "cashier": "17",
+        "hst_number": "897470910",
+        "credit_amount": "$60.00",
+        "hst_included": "$6.90",
+        "payment_method": "Mastercard",
+        "reference_number": "****3766",
+        "invoice_number": "0305825",
+        "authorization_number": "004179",
+        "card_type": "Mastercard Debit",
+        "application_id": "A0000000041010",
+        "tvr": "8000008000",
+        "tsi": "6800",
+        "approval_message": "01/027 APPROVED - THANK YOU",
+        "reconciliation_id": "0392060",
+        "loyalty_program": "PC Optimum",
+        "loyalty_inquiries_number": "1-866-727-6468",
+        "imperial_inquiries_number": "1-800-567-3776"
+      }
+    },
+    "filename": "20240902_104833",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1052,
+    "type": "picture",
+    "type_id": "668",
+    "timestamp": "2024-07-14T09:35:23",
+    "place": "Provincial Road, Tecumseh, Essex County, Ontario, N8W 3T6, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "provincial road",
+        "city": "tecumseh",
+        "county": "essex county",
+        "state": "on",
+        "postal": "n8w 3t6"
+      }
+    },
+    "filename": "20240714_093523",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 375,
+    "type": "receipt",
+    "type_id": "16",
+    "timestamp": "2024-07-14T09:39",
+    "place": "HWY 401 & COUNTY RD X14, WINDSOR, ON NBX 3Y8",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "hwy 401 & county rd x14",
+        "city": "windsor",
+        "postal": "nbx 3y8"
+      },
+      "date": "2024-07-14",
+      "time": "09:39",
+      "address": "HWY 401 & COUNTY RD X14, WINDSOR, ON NBX 3Y8",
+      "items": [
+        {
+          "description": "TWIX KING 85G",
+          "quantity": 1,
+          "price": 2.89,
+          "amount": 2.89
+        },
+        {
+          "description": "GTRADE FRUITP 710M",
+          "quantity": 1,
+          "price": 3.49,
+          "amount": 3.49
+        },
+        {
+          "description": "ENVIRO LEVY <1L PL",
+          "quantity": 1,
+          "price": 0.0,
+          "amount": 0.0
+        },
+        {
+          "description": "DEPOSIT <1L PLASTI",
+          "quantity": 1,
+          "price": 0.1,
+          "amount": 0.1
+        }
+      ],
+      "category": "convenience",
+      "other_details": {
+        "store_number": "00323571",
+        "transaction_number": "666005",
+        "paypoint": "01K",
+        "cashier": "17",
+        "hst_number": "897470910",
+        "hst_percentage": "13.000%",
+        "total": 7.31,
+        "payment_method": "MASTERCARD",
+        "card_number": "************9725",
+        "reference_number": "****3105 0010015740 C",
+        "invoice_number": "0305827",
+        "authorization_number": "004180",
+        "card_type": "Mastercard Debit",
+        "application_id": "A0000000041010",
+        "tvr": "8000008000",
+        "tsi": "6800",
+        "approval_message": "01/027 APPROVED - THANK YOU",
+        "reconciliation_id": "0392062",
+        "loyalty_program": "PC Optimum",
+        "loyalty_inquiries_number": "1-866-727-6468",
+        "imperial_inquiries_number": "1-800-567-3776"
+      }
+    },
+    "filename": "20240902_104918",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 912,
+    "type": "picture",
+    "type_id": "528",
+    "timestamp": "2024-07-14T09:43:47",
+    "place": "Highway 401, Tecumseh, Essex County, Ontario, N0R 1K0, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "highway 401",
+        "city": "tecumseh",
+        "county": "essex county",
+        "state": "on",
+        "postal": "n0r 1k0"
+      }
+    },
+    "filename": "20240714_094347",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 227,
+    "type": "map",
+    "type_id": "312",
+    "timestamp": "2024-07-14T10:22:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-14T10:22:00",
+      "end_timestamp": "2024-07-14T13:34:00",
+      "place": {
+        "address": "highway 401",
+        "state": "on"
+      },
+      "end_place": {},
+      "info": {
+        "duration": "3 hours, 12 minutes",
+        "distance": "244 mi",
+        "location": "Highway 401, Ontario -> Unknown address",
+        "nearby": [
+          "Detroit",
+          "Lake Huron",
+          "Toronto",
+          "London",
+          "Hamilton",
+          "Buffalo",
+          "Lake Erie",
+          "Cleveland",
+          "Akron"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_170518_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1677,
+    "type": "picture",
+    "type_id": "1293",
+    "timestamp": "2024-07-14T10:29:23",
+    "place": "Highway 401, Chatham-Kent, Ontario, N0P 2C0, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "highway 401",
+        "city": "chatham-kent",
+        "county": "",
+        "state": "on",
+        "postal": "n0p 2c0"
+      },
+      "signs": "london 84\ntoronto 266"
+    },
+    "filename": "20240714_102923",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2057,
+    "type": "picture",
+    "type_id": "1673",
+    "timestamp": "2024-07-14T11:12:06",
+    "place": "882, Wellington Road, London, Ontario, N6E 1W4, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "882 wellington road",
+        "city": "london",
+        "county": "ontario",
+        "state": "on",
+        "postal": "n6e 1w4"
+      }
+    },
+    "filename": "20240714_111206",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 770,
+    "type": "picture",
+    "type_id": "386",
+    "timestamp": "2024-07-14T11:20:13",
+    "place": "380, Wellington Street, London, Ontario, N6A 3N7, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "380 wellington street",
+        "city": "london",
+        "county": "ontario",
+        "state": "on",
+        "postal": "n6a 3n7"
+      }
+    },
+    "filename": "20240714_112013",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1009,
+    "type": "picture",
+    "type_id": "625",
+    "timestamp": "2024-07-14T11:32:43",
+    "place": "238, Pall Mall Street, London, Ontario, N6B 2B3, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "238 pall mall street",
+        "city": "london",
+        "county": "",
+        "state": "on",
+        "postal": "n6b 2b3"
+      }
+    },
+    "filename": "20240714_113243",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1987,
+    "type": "picture",
+    "type_id": "1603",
+    "timestamp": "2024-07-14T11:33:13",
+    "place": "645, Richmond Street, London, Ontario, N6A 3G5, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "645 richmond street",
+        "city": "london",
+        "county": "ontario",
+        "state": "on",
+        "postal": "n6a 3g5"
+      }
+    },
+    "filename": "20240714_113313",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 978,
+    "type": "picture",
+    "type_id": "594",
+    "timestamp": "2024-07-14T11:34:23",
+    "place": "505, Richmond Street, London, Ontario, N6A 3E8, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "505 richmond street",
+        "city": "london",
+        "county": "ontario",
+        "state": "on",
+        "postal": "n6a 3e8"
+      }
+    },
+    "filename": "20240714_113423",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1699,
+    "type": "picture",
+    "type_id": "1315",
+    "timestamp": "2024-07-14T11:37:35",
+    "place": "334, York Street, London, Ontario, N6A 3N7, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "334 york street",
+        "city": "london",
+        "county": "ontario",
+        "state": "on",
+        "postal": "n6a 3n7"
+      },
+      "sign": "mathew jeffs",
+      "note": "real estate agent"
+    },
+    "filename": "20240714_113735",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1676,
+    "type": "picture",
+    "type_id": "1292",
+    "timestamp": "2024-07-14T12:48:11",
+    "place": "Alexander Graham Bell Parkway, Brantford, Brant County, Ontario, N3T 5M1, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "alexander graham bell parkway",
+        "city": "brantford",
+        "county": "brant county",
+        "state": "on",
+        "postal": "n3t 5m1"
+      },
+      "signs": "ancaster 20\nhamilton 30\ntoronto 100"
+    },
+    "filename": "20240714_124811",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2752,
+    "type": "story",
+    "type_id": "484",
+    "timestamp": "2024-07-14T13:00",
+    "place": null,
+    "description": "songs: psycho killer -- talking heads\n\ntime: 13:00",
+    "data": {
+      "id": 205,
+      "artist_name": "Talking Heads",
+      "song_name": "Psycho Killer",
+      "image_link": "https://i.scdn.co/image/ab67616d0000b273b74dc29f68a36438421a9f1d",
+      "song_link": "https://open.spotify.com/track/7dSCxR4LqkmxoBrq9MzVSD",
+      "ordinal": null,
+      "spotify_id": "7dSCxR4LqkmxoBrq9MzVSD",
+      "added_at": "2024-10-26T20:52:23Z",
+      "playlist_id": "3IObyYHljpzI9F9N1gIrHC",
+      "playlist_name": "sid's 10 songs",
+      "playlist_owner": "Rich Sanda",
+      "category": "songs",
+      "dada_rank": 205,
+      "sydney_rank": 11
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1580,
+    "type": "picture",
+    "type_id": "1196",
+    "timestamp": "2024-07-14T13:16:48",
+    "place": "Red Hill Valley Parkway, Hamilton, Golden Horseshoe, Ontario, L8H 7P5, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "red hill valley parkway",
+        "city": "hamilton",
+        "county": "golden horseshoe",
+        "state": "on",
+        "postal": "l8h 7p5"
+      },
+      "signs": "qew toronto\nqew niagra"
+    },
+    "filename": "20240714_131648",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1502,
+    "type": "picture",
+    "type_id": "1118",
+    "timestamp": "2024-07-14T13:29:09",
+    "place": "Queen Elizabeth Way, Grimsby-on-the-Lake, Grimsby, Niagara Region, Golden Horseshoe, Ontario, L8E 5G4, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "queen elizabeth way",
+        "city": "grimsby-on-the-lake",
+        "county": "niagara region",
+        "state": "on",
+        "postal": "l8e 5g4"
+      }
+    },
+    "filename": "20240714_132909",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 228,
+    "type": "map",
+    "type_id": "270",
+    "timestamp": "2024-07-14T13:35:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-14T13:35:00",
+      "end_timestamp": "2024-07-14T15:15:00",
+      "place": {
+        "address": "5560 south service road",
+        "state": "on"
+      },
+      "end_place": {
+        "address": "5875 falls avenue",
+        "state": "on"
+      },
+      "info": {
+        "duration": "1 hour, 40 minutes",
+        "distance": "27 mi",
+        "location": "5560 South Service Road, Ontario -> 5875 Falls Avenue, Ontario",
+        "nearby": [
+          "Niagara-on-the-Lake",
+          "Stella Niagara",
+          "Lewiston",
+          "St. Catharines",
+          "Lincoln",
+          "Thorold",
+          "Smithville",
+          "Tintern",
+          "Niagara Falls",
+          "Effingham",
+          "Wellandport",
+          "Pelham",
+          "Welland",
+          "Wainfleet",
+          "Port Colborne"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_170446_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 865,
+    "type": "picture",
+    "type_id": "481",
+    "timestamp": "2024-07-14T13:41:57",
+    "place": "Queen Elizabeth Way, Lincoln, Niagara Region, Golden Horseshoe, Ontario, L0R 1S0, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "queen elizabeth way",
+        "city": "lincoln",
+        "county": "niagara region",
+        "state": "on",
+        "postal": "l0r 1s0"
+      },
+      "signs": "st catharines 11\nniagra falls 26\nfort erie 54"
+    },
+    "filename": "20240714_134156",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2083,
+    "type": "picture",
+    "type_id": "1699",
+    "timestamp": "2024-07-14T13:47:23",
+    "place": "Queen Elizabeth Way, St. Catharines, Niagara Region, Golden Horseshoe, Ontario, L2N 1A4, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "queen elizabeth way",
+        "city": "st. catharines",
+        "county": "niagara region",
+        "state": "on",
+        "postal": "l2n 1a4"
+      },
+      "note": "border delay for cars\n\n45 min\nat niag. falls"
+    },
+    "filename": "20240714_134723",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 223,
+    "type": "picture",
+    "type_id": 1699,
+    "timestamp": "2024-07-14T13:47:23",
+    "place": null,
+    "description": "sign: border delay for cars\n\n45 min\nat niag. falls",
+    "data": null,
+    "filename": null,
+    "position": "below",
+    "keep": false,
+    "notes": null,
+    "is_note": true,
+    "ordinal": 3
+  },
+  {
+    "id": 469,
+    "type": "picture",
+    "type_id": "85",
+    "timestamp": "2024-07-14T14:25:05",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240714_142505",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1213,
+    "type": "picture",
+    "type_id": "829",
+    "timestamp": "2024-07-14T14:32:00",
+    "place": "Niagara Recreation Trail, Niagara Falls, Niagara Region, Golden Horseshoe, Ontario, L2G 2A3, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "niagara recreation trail",
+        "city": "niagara falls",
+        "county": "niagara region",
+        "state": "on",
+        "postal": "l2g 2a3"
+      }
+    },
+    "filename": "20240714_143200",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2009,
+    "type": "picture",
+    "type_id": "1625",
+    "timestamp": "2024-07-14T14:32:23",
+    "place": "Niagara Recreation Trail, Niagara Falls, Niagara Region, Golden Horseshoe, Ontario, L2G 2A3, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "niagara recreation trail",
+        "city": "niagara falls",
+        "county": "niagara region",
+        "state": "on",
+        "postal": "l2g 2a3"
+      }
+    },
+    "filename": "20240714_143223",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1655,
+    "type": "picture",
+    "type_id": "1271",
+    "timestamp": "2024-07-14T14:32:34",
+    "place": "Niagara Recreation Trail, Niagara Falls, Niagara Region, Golden Horseshoe, Ontario, L2G 2A3, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "niagara recreation trail",
+        "city": "niagara falls",
+        "county": "niagara region",
+        "state": "on",
+        "postal": "l2g 2a3"
+      }
+    },
+    "filename": "20240714_143234",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 724,
+    "type": "picture",
+    "type_id": "340",
+    "timestamp": "2024-07-14T14:33:20",
+    "place": "Niagara Recreation Trail, Niagara Falls, Niagara Region, Golden Horseshoe, Ontario, L2G 2A3, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "niagara recreation trail",
+        "city": "niagara falls",
+        "county": "niagara region",
+        "state": "on",
+        "postal": "l2g 2a3"
+      }
+    },
+    "filename": "20240714_143319",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2753,
+    "type": "story",
+    "type_id": "8",
+    "timestamp": "2024-07-14T14:36",
+    "place": null,
+    "description": "adventures/nature: niagra falls\ntime: 14:36",
+    "data": {
+      "category": "adventures/nature",
+      "dada_rank": 11,
+      "sydney_rank": 6
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 376,
+    "type": "receipt",
+    "type_id": "50",
+    "timestamp": "2024-07-14T14:38",
+    "place": "5875 Falls Ave, Niagara Falls, ON L2G 3K7",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "5875 falls ave",
+        "city": "niagara falls",
+        "state": "on",
+        "postal": "l2g 3k7"
+      },
+      "date": "2024-07-14",
+      "time": "14:38",
+      "address": "5875 Falls Ave, Niagara Falls, ON L2G 3K7",
+      "items": [
+        {
+          "description": "HM CHURRO BITES",
+          "price": 12.99
+        },
+        {
+          "description": "KD Bounty Killah",
+          "price": 7.49
+        },
+        {
+          "description": "WAFFLE CONE",
+          "price": 1.25
+        }
+      ],
+      "category": "restaurant",
+      "total": 29.68,
+      "tip": 3.18,
+      "tax": 3.05,
+      "payment_method": "Master Card",
+      "transaction_id": "8071A004181",
+      "room_number": null,
+      "name": null,
+      "signature": null
+    },
+    "filename": "20240902_104944",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2754,
+    "type": "story",
+    "type_id": "64",
+    "timestamp": "2024-07-14T14:40",
+    "place": null,
+    "description": "treats: dessert in niagra (sweet jesus) churro bites, bounty killah\ntime: 15:00\ntime: 14:40",
+    "data": {
+      "category": "treats",
+      "dada_rank": 7,
+      "sydney_rank": 7
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 377,
+    "type": "receipt",
+    "type_id": "7",
+    "timestamp": "2024-07-14T14:45",
+    "place": "5875 Falls Ave, Niagara Falls ON, L2G 3K7",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "5875 falls ave",
+        "city": "niagara falls",
+        "state": "on",
+        "postal": "l2g 3k7"
+      },
+      "date": "2024-07-14",
+      "time": "14:45",
+      "address": "5875 Falls Ave, Niagara Falls ON, L2G 3K7",
+      "items": [
+        {
+          "description": "Varsity Beaver Falls Merch",
+          "price": 44.99
+        }
+      ],
+      "category": "retail",
+      "tax": {
+        "HST": 3.55,
+        "total": 6.31
+      },
+      "payment": {
+        "method": "Master Card",
+        "total": 54.85
+      },
+      "receipt_number": "60017",
+      "room_number": "",
+      "name": "",
+      "signature": "",
+      "exchange_only": true
+    },
+    "filename": "20240902_104514",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2160,
+    "type": "picture",
+    "type_id": "1776",
+    "timestamp": "2024-07-14T15:02:39",
+    "place": "5007, Centre Street, Niagara Falls, Niagara Region, Golden Horseshoe, Ontario, L2G 3N7, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "5007 centre street",
+        "city": "niagara falls",
+        "county": "niagara region",
+        "state": "on",
+        "postal": "l2g 3n7"
+      }
+    },
+    "filename": "20240714_150238",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 526,
+    "type": "picture",
+    "type_id": "142",
+    "timestamp": "2024-07-14T15:02:58",
+    "place": "5930, Victoria Avenue, Niagara Falls, Niagara Region, Golden Horseshoe, Ontario, L2G 3N7, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "5930 victoria avenue",
+        "city": "niagara falls",
+        "county": "niagara region",
+        "state": "on",
+        "postal": "l2g 3n7"
+      }
+    },
+    "filename": "20240714_150257",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2522,
+    "type": "picture",
+    "type_id": "2138",
+    "timestamp": "2024-07-14T15:13:07",
+    "place": "5030, Centre Street, Niagara Falls, Niagara Region, Golden Horseshoe, Ontario, L2G 3N7, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "5030 centre street",
+        "city": "niagara falls",
+        "county": "niagara region",
+        "state": "on",
+        "postal": "l2g 3n7"
+      }
+    },
+    "filename": "20240714_151306",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1253,
+    "type": "picture",
+    "type_id": "869",
+    "timestamp": "2024-07-14T15:14:41",
+    "place": "4854, Clifton Hill, Niagara Falls, Niagara Region, Golden Horseshoe, Ontario, L2G 3N5, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "4854 clifton hill",
+        "city": "niagara falls",
+        "county": "niagara region",
+        "state": "on",
+        "postal": "l2g 3n5"
+      }
+    },
+    "filename": "20240714_151441",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 229,
+    "type": "map",
+    "type_id": "298",
+    "timestamp": "2024-07-14T15:16:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-14T15:16:00",
+      "end_timestamp": "2024-07-14T15:45:00",
+      "place": {
+        "address": "falls avenue",
+        "state": "on"
+      },
+      "end_place": {
+        "address": "219 cresthill avenue",
+        "state": "ny"
+      },
+      "info": {
+        "duration": "29 minutes",
+        "distance": "16 mi",
+        "location": "Falls Avenue, Ontario -> 219 Cresthill Avenue, New York",
+        "nearby": [
+          "Sanborn",
+          "Wheatfield",
+          "Grand Island",
+          "North Tonawanda"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_170430_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 388,
+    "type": "picture",
+    "type_id": "4",
+    "timestamp": "2024-07-14T15:16:51",
+    "place": "Falls Avenue, Niagara Falls, Niagara Region, Golden Horseshoe, Ontario, L2H 6T3, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "falls avenue",
+        "city": "niagara falls",
+        "county": "niagara region",
+        "state": "on",
+        "postal": "l2h 6t3"
+      }
+    },
+    "filename": "20240714_151651",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 874,
+    "type": "picture",
+    "type_id": "490",
+    "timestamp": "2024-07-14T15:40:38",
+    "place": "Niagara Thruway, Grandyle Village, Town of Grand Island, Erie County, New York, 14072, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "niagara thruway",
+        "city": "grandyle village",
+        "county": "erie county",
+        "state": "ny",
+        "postal": "14072"
+      }
+    },
+    "filename": "20240714_154038",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1038,
+    "type": "picture",
+    "type_id": "654",
+    "timestamp": "2024-07-14T15:42:24",
+    "place": "Niagara Thruway, Tonawanda Town, Erie County, New York, 14072, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "niagara thruway",
+        "city": "tonawanda town",
+        "county": "erie county",
+        "state": "ny",
+        "postal": "14072"
+      },
+      "signs": "i-190 buffalo\n i-290, i-90 tonawanda, rochester"
+    },
+    "filename": "20240714_154224",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2755,
+    "type": "story",
+    "type_id": "77",
+    "timestamp": "2024-07-14T16:30",
+    "place": null,
+    "description": "accommodations: rob+sue's\ntime: 16:30",
+    "data": {
+      "category": "accommodations",
+      "dada_rank": 6,
+      "sydney_rank": 7
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 570,
+    "type": "picture",
+    "type_id": "186",
+    "timestamp": "2024-07-14T17:01:57",
+    "place": "31, South Drive, Eggertsville, Buffalo, Erie County, New York, 14226, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "city": "buffalo",
+        "county": "erie county",
+        "state": "ny",
+        "postal": "14226"
+      }
+    },
+    "filename": "20240714_170157",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 551,
+    "type": "picture",
+    "type_id": "167",
+    "timestamp": "2024-07-14T18:50:14",
+    "place": "95, Cornell Avenue, Eggertsville, Buffalo, Erie County, New York, 14226, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "95 cornell avenue",
+        "city": "buffalo",
+        "county": "erie county",
+        "state": "ny",
+        "postal": "14226"
+      }
+    },
+    "filename": "20240714_185013",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1962,
+    "type": "picture",
+    "type_id": "1578",
+    "timestamp": "2024-07-14T18:50:16",
+    "place": "95, Cornell Avenue, Eggertsville, Buffalo, Erie County, New York, 14226, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "95 cornell avenue",
+        "city": "buffalo",
+        "county": "erie county",
+        "state": "ny",
+        "postal": "14226"
+      }
+    },
+    "filename": "20240714_185016",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2012,
+    "type": "picture",
+    "type_id": "1628",
+    "timestamp": "2024-07-14T18:54:50",
+    "place": "31, South Drive, Eggertsville, Buffalo, Erie County, New York, 14226, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "city": "buffalo",
+        "county": "erie county",
+        "state": "ny",
+        "postal": "14226"
+      }
+    },
+    "filename": "20240714_185450",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  }
+]

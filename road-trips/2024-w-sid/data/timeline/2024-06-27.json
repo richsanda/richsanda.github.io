@@ -1,0 +1,510 @@
+[
+  {
+    "id": 2127,
+    "type": "picture",
+    "type_id": "1743",
+    "timestamp": "2024-06-27T15:00:05",
+    "place": "20, Nottingham Drive, Kingston, Plymouth County, Massachusetts, 02364, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "20 nottingham drive",
+        "city": "kingston",
+        "county": "plymouth county",
+        "state": "ma",
+        "postal": "02364"
+      },
+      "miles": "0.0 miles",
+      "note": "\"i find i'm so excited, I can barely sit still or hold a thought in my head. i think it's the excitement only a free man can feel, a free man at the start of a long journey whose conclusion is uncertain.\"  - red"
+    },
+    "filename": "20240627_150005",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 5,
+    "type": "map",
+    "type_id": 338,
+    "timestamp": "2024-06-27T15:03:00",
+    "place": null,
+    "description": "14 trip \n\nduring the winter laura and i began talking about a family road trip. it had been six years since we made it all the way to santa monica -- sid and annie were 8 and 5 then. not nearly as ambitious this time, just 2 weeks instead of 5, and certainly less miles. this meant \"the rings.\"\n\nthe rings are in south dakota, at a place called evan's plunge. i discovered them on my first cross country road trip, half a lifetime ago. it's a series of olympic-style rings suspended over an olympic-style pool, built up around a hot spring, or at least a lukewarm spring, with water in the 80s filtering through the pebble floor. \n\nwatching the other kids i realized the goal was to swing over the pool -- ring to ring, platform to platform -- without falling in, american ninja warrior style. i couldn't do it. i made an immediate vow to return but that was 24 years ago.\n\naround march laura forwarded me an article that a psychologist had written about the concept of a 14 trip. the idea is that, when a kid reaches 14, the off parent, due to job, schedule, whatever, should go on a trip with them 1 on 1. apparently 14 is a good age to show them that a world beyond the middle school hallways exists, among other benefits. sid would turn 14 this summer. \n\nnot much time passed before we decided it would be just sid and i. the article said it was important to favor authentic experiences, avoiding disney worlds, and to let the kid help plan. \"i want to see mountains\" was sid's initial reaction. jim and sherry had said glacier national park was awesome, so we made that our turnaround point. \n\nglacier is in montana, which turns out is dinosaur country. \"every age is dinosaur age\" sid recently assured when i questioned whether she'd outgrown them. we made reservations for a few dino adventures.\n\nwe planned departure around a jon batiste concert in western mass that never materialized for us. our return would be sid's birthday. the initial plan was to do the rings on the way out, by way of fireworks over mount rushmore on the fourth of july, except there aren't any, so we went counterclockwise instead, across the north first, looking to find fireworks in any small eastern montana town.",
+    "data": null,
+    "filename": null,
+    "position": "above",
+    "keep": false,
+    "notes": null,
+    "is_note": true,
+    "ordinal": 1
+  },
+  {
+    "id": 1,
+    "type": "map",
+    "type_id": "338",
+    "timestamp": "2024-06-27T15:03:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-27T15:03:00",
+      "end_timestamp": "2024-06-27T17:34:00",
+      "place": {},
+      "end_place": {
+        "address": "I-90",
+        "state": "ma"
+      },
+      "info": {
+        "duration": "2 hours, 31 minutes",
+        "distance": "116 mi",
+        "location": "I-90, Massachusetts -> home",
+        "nearby": [
+          "Brattleboro",
+          "Greenfield",
+          "Amherst",
+          "Worcester",
+          "Nashua",
+          "Lowell",
+          "Gloucester",
+          "Boston",
+          "Framingham",
+          "Providence",
+          "Hartford",
+          "Warwick",
+          "New Bedford",
+          "Newport",
+          "Middletown",
+          "New London",
+          "Narragansett"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_205658_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2661,
+    "type": "story",
+    "type_id": "487",
+    "timestamp": "2024-06-27T15:30",
+    "place": null,
+    "description": "songs: the ballad of jane doe -- emily rohm\n\ntime: 15:30",
+    "data": {
+      "id": 208,
+      "artist_name": "Emily Rohm",
+      "song_name": "The Ballad of Jane Doe",
+      "image_link": "https://i.scdn.co/image/ab67616d0000b27343dc9cee9ed41afd182001ec",
+      "song_link": "https://open.spotify.com/track/49qujGctHLuEXF35sWwG2c",
+      "ordinal": null,
+      "spotify_id": "49qujGctHLuEXF35sWwG2c",
+      "added_at": "2024-06-24T16:17:29Z",
+      "playlist_id": "4cbtSLSi3GIDQI6s62Opjs",
+      "playlist_name": "roadtrip playlist",
+      "playlist_owner": "Sydney",
+      "category": "songs",
+      "dada_rank": 208,
+      "sydney_rank": 3
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 266,
+    "type": "receipt",
+    "type_id": "19",
+    "timestamp": "2024-06-27T17:38",
+    "place": "Papa Gino's #3506 Milepost Marker 60 Mass Pike Ludlow, MA 01056",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "milepost marker 60 mass pike",
+        "city": "ludlow",
+        "state": "ma",
+        "postal": "01056",
+        "business": "papa gino's #3506"
+      },
+      "date": "2024-06-27",
+      "time": "17:38",
+      "address": "Papa Gino's #3506 Milepost Marker 60 Mass Pike Ludlow, MA 01056",
+      "items": [
+        {
+          "description": "2 Slices of Pepperoni Pizza",
+          "price": "$9.99"
+        },
+        {
+          "description": "Bottled Drink",
+          "price": "$1.26"
+        }
+      ],
+      "category": "restaurant",
+      "server": "Patrick E",
+      "check_number": "165",
+      "input_type": "Mastercard Debit",
+      "transaction_type": "Authorization",
+      "approval_code": "004056",
+      "payment_id": "7XrYkrmTkNhW",
+      "application_id": "A0000000041010",
+      "application_label": "Mastercard Debit",
+      "terminal_id": "edb1b9bc1d509403",
+      "card_reader": "BBPOS"
+    },
+    "filename": "20240902_095700",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2,
+    "type": "map",
+    "type_id": "230",
+    "timestamp": "2024-06-27T17:41:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-27T17:41:00",
+      "end_timestamp": "2024-06-27T18:50:00",
+      "place": {
+        "address": "I-90",
+        "state": "ma"
+      },
+      "end_place": {
+        "address": "1877 columbia turnpike",
+        "state": "ny"
+      },
+      "info": {
+        "duration": "1 hour, 9 minutes",
+        "distance": "79 mi",
+        "location": "I-90, Massachusetts -> 1877 Columbia Tpke, New York",
+        "nearby": [
+          "Albany",
+          "Bennington",
+          "Brattleboro",
+          "Greenfield",
+          "Pittsfield",
+          "Amherst",
+          "Northampton",
+          "Springfield"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_205707_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 998,
+    "type": "picture",
+    "type_id": "614",
+    "timestamp": "2024-06-27T18:12:47",
+    "place": "Massachusetts Turnpike, Becket, Berkshire County, Massachusetts, 01253, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "massachusetts turnpike",
+        "city": "becket",
+        "county": "berkshire county",
+        "state": "ma",
+        "postal": "01253"
+      },
+      "sign": "highest elevation on i-90 east of south dakota",
+      "note": "means something different when you're actually going to south dakota"
+    },
+    "filename": "20240627_181247",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 495,
+    "type": "picture",
+    "type_id": "111",
+    "timestamp": "2024-06-27T18:30:27",
+    "place": "New York State Thruway Berkshire Connector, Town of Canaan, Columbia County, New York, 01266, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "new york state thruway berkshire connector",
+        "city": "canaan",
+        "county": "columbia county",
+        "state": "ny",
+        "postal": "01266"
+      }
+    },
+    "filename": "20240627_183026",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 3,
+    "type": "map",
+    "type_id": "183",
+    "timestamp": "2024-06-27T18:50:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-27T18:50:00",
+      "end_timestamp": "2024-06-27T19:04:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "13 minutes",
+        "distance": "0 mi",
+        "location": "Near 1877 Columbia Tpke, New York",
+        "nearby": [
+          "E Schodack Rd",
+          "Schodack Senior Center",
+          "Columbia Turnpike",
+          "Schodack Police Department",
+          "Ferndale Rd"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_205721_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 267,
+    "type": "receipt",
+    "type_id": "11",
+    "timestamp": "2024-06-27T18:52",
+    "place": "1811 Columbia Turnpike, Castleton, NY 12033",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1811 columbia turnpike",
+        "city": "castleton",
+        "state": "ny",
+        "postal": "12033"
+      },
+      "date": "2024-06-27",
+      "time": "18:52",
+      "address": "1811 Columbia Turnpike, Castleton, NY 12033",
+      "items": [
+        {
+          "description": "Unleaded Gas",
+          "quantity": 13.237,
+          "price": 3.659,
+          "total": 48.43
+        }
+      ],
+      "category": "gas",
+      "merchant": "Stewart's Shop #154",
+      "merchant_address": "1811 Columbia Turnpike, Castleton, NY 12033",
+      "merchant_phone": "518-581-1201",
+      "merchant_id": "542930525317103",
+      "terminal_number": "00999001",
+      "device_id": "F",
+      "transaction_sequence": "3169",
+      "authorization_number": "004057",
+      "account_number": "XXXXXXXXXXXX9725",
+      "retrieval_number": "000201500016004",
+      "batch_number": "20240626899",
+      "transaction_type": "sale",
+      "card_type": "debit",
+      "amount": 48.43,
+      "balance": 0.0,
+      "entry_mode": "EMV contact"
+    },
+    "filename": "20240902_100127",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2662,
+    "type": "story",
+    "type_id": "68",
+    "timestamp": "2024-06-27T19:00",
+    "place": null,
+    "description": "treats: vanilla malt at stewarts\n\nsid wanted a 20oz soda, i went all the way -- a vanilla malt shake from stewarts, a throwback to the college days. the young twenty something woman with dark hair and tattoos seemed kinda put out, forgivably i suppose -- they're a lot of work to make !\n\ntime: 19:00",
+    "data": {
+      "category": "treats",
+      "dada_rank": 10,
+      "sydney_rank": 12
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 4,
+    "type": "map",
+    "type_id": "128",
+    "timestamp": "2024-06-27T19:04:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-27T19:04:00",
+      "end_timestamp": "2024-06-27T20:00:00",
+      "place": {
+        "address": "1877 columbia tpke",
+        "state": "ny"
+      },
+      "end_place": {
+        "address": "214 daketown rd",
+        "state": "ny"
+      },
+      "info": {
+        "duration": "55 minutes",
+        "distance": "48 mi",
+        "location": "1877 Columbia Tpke, New York -> 214 Daketown Rd, New York",
+        "nearby": [
+          "Saratoga Springs",
+          "Amsterdam",
+          "Ballston Spa",
+          "Mechanicville",
+          "Clifton Park",
+          "Schenectady",
+          "Colonie"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_205732_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1599,
+    "type": "picture",
+    "type_id": "1215",
+    "timestamp": "2024-06-27T19:10:44",
+    "place": "Patroon Island Bridge, Mohawk-Hudson Bike-Hike Trail, Downtown, Village of Menands, City of Albany, Albany County, New York, 12201, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "patroon island bridge",
+        "city": "menands",
+        "county": "albany county",
+        "state": "ny",
+        "postal": "12201"
+      },
+      "signs": "i-90 buffalo\ni-787 albany, troy"
+    },
+    "filename": "20240627_191044",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2105,
+    "type": "picture",
+    "type_id": "1721",
+    "timestamp": "2024-06-27T19:18:49",
+    "place": "NY 7, Town of Colonie, Albany County, New York, 12189, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "ny 7",
+        "city": "colonie",
+        "county": "albany county",
+        "state": "ny",
+        "postal": "12189"
+      }
+    },
+    "filename": "20240627_191849",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2566,
+    "type": "picture",
+    "type_id": "2182",
+    "timestamp": "2024-06-27T19:40:21",
+    "place": "84, Northline Road, City of Saratoga Springs, Saratoga County, New York, 12020, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "84 northline road",
+        "city": "saratoga springs",
+        "county": "saratoga county",
+        "state": "ny",
+        "postal": "12020"
+      },
+      "caption": "took backroads to greg and laura's instead of going through saratoga like i normally do, that's what the map said to do, wanted to keep my eta"
+    },
+    "filename": "20240627_194021",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1849,
+    "type": "picture",
+    "type_id": "1465",
+    "timestamp": "2024-06-27T19:55:34",
+    "place": "2, Thalia Court, Town of Greenfield, Saratoga County, New York, 12833, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "city": "greenfield",
+        "county": "saratoga county",
+        "state": "ny",
+        "postal": "12833"
+      },
+      "miles": "242.5 miles",
+      "note": "at greg and laura's for the night"
+    },
+    "filename": "20240627_195533",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2663,
+    "type": "story",
+    "type_id": "78",
+    "timestamp": "2024-06-27T20:00",
+    "place": null,
+    "description": "accommodations: greg+laura's\ntime: 20:00\n\ntalked about ultimate\n\nwatch the debate",
+    "data": {
+      "category": "accommodations",
+      "dada_rank": 7,
+      "sydney_rank": 8
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  }
+]

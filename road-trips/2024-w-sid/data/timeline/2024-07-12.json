@@ -1,0 +1,2017 @@
+[
+  {
+    "id": 768,
+    "type": "picture",
+    "type_id": "384",
+    "timestamp": "2024-07-12T07:42:51",
+    "place": "Super 8 Pierre SD, 320, West Sioux Avenue, Pierre, Hughes County, South Dakota, 57532, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "320 west sioux avenue",
+        "city": "pierre",
+        "county": "hughes county",
+        "state": "sd",
+        "postal": "57532"
+      }
+    },
+    "filename": "20240712_074251",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 197,
+    "type": "map",
+    "type_id": "75",
+    "timestamp": "2024-07-12T07:59:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-12T07:59:00",
+      "end_timestamp": "2024-07-12T08:04:00",
+      "place": {
+        "address": "374 w sioux ave",
+        "state": "sd"
+      },
+      "end_place": {
+        "address": "9 east capitol avenue",
+        "state": "sd"
+      },
+      "info": {
+        "duration": "5 minutes",
+        "distance": "1 mi",
+        "location": "374 W Sioux Ave, South Dakota -> East Capitol Avenue, South Dakota",
+        "nearby": [
+          "N Oneida Ave",
+          "W Oak St",
+          "The Historic Farr House",
+          "Zesto",
+          "Lynn's Dakotamart",
+          "S Fort St",
+          "Pierre",
+          "Mad Mary's Steakhouse & Saloon",
+          "S Highland Ave",
+          "N Euclid Ave",
+          "N Highland Ave",
+          "N Nicollet Ave",
+          "E Capitol Ave",
+          "N Evans St",
+          "Scooter's"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_170826_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1894,
+    "type": "picture",
+    "type_id": "1510",
+    "timestamp": "2024-07-12T07:59:37",
+    "place": "299, North Euclid Avenue, Pierre, Hughes County, South Dakota, 57501, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "299 north euclid avenue",
+        "city": "pierre",
+        "county": "hughes county",
+        "state": "sd",
+        "postal": "57501"
+      }
+    },
+    "filename": "20240712_075937",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1078,
+    "type": "picture",
+    "type_id": "694",
+    "timestamp": "2024-07-12T08:01:28",
+    "place": "101, South Pierre Street, Pierre, Hughes County, South Dakota, 57501, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "101 south pierre street",
+        "city": "pierre",
+        "county": "hughes county",
+        "state": "sd",
+        "postal": "57501"
+      }
+    },
+    "filename": "20240712_080128",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1673,
+    "type": "picture",
+    "type_id": "1289",
+    "timestamp": "2024-07-12T08:01:30",
+    "place": "103, South Pierre Street, Pierre, Hughes County, South Dakota, 57501, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "103 south pierre street",
+        "city": "pierre",
+        "county": "hughes county",
+        "state": "sd",
+        "postal": "57501"
+      }
+    },
+    "filename": "20240712_080130",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2092,
+    "type": "picture",
+    "type_id": "1708",
+    "timestamp": "2024-07-12T08:01:36",
+    "place": "115, South Pierre Street, Pierre, Hughes County, South Dakota, 57501, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "115 south pierre street",
+        "city": "pierre",
+        "county": "hughes county",
+        "state": "sd",
+        "postal": "57501"
+      }
+    },
+    "filename": "20240712_080136",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2179,
+    "type": "picture",
+    "type_id": "1795",
+    "timestamp": "2024-07-12T08:04:19",
+    "place": "461, East Capitol Avenue, Pierre, Hughes County, South Dakota, 57501, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "461 east capitol avenue",
+        "city": "pierre",
+        "county": "hughes county",
+        "state": "sd",
+        "postal": "57501"
+      }
+    },
+    "filename": "20240712_080419",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 198,
+    "type": "map",
+    "type_id": "47",
+    "timestamp": "2024-07-12T08:05:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-12T08:05:00",
+      "end_timestamp": "2024-07-12T10:12:00",
+      "place": {
+        "address": "east capitol avenue",
+        "state": "sd"
+      },
+      "end_place": {
+        "address": "7735 main st",
+        "state": "sd"
+      },
+      "info": {
+        "duration": "2 hours, 7 minutes",
+        "distance": "131 mi",
+        "location": "East Capitol Avenue, South Dakota -> 773 S Main St, South Dakota",
+        "nearby": [
+          "Rosebud Off-Reservation Trust Land",
+          "Crow Creek Reservation",
+          "Chamberlain",
+          "Miller",
+          "Winner",
+          "Platte"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_170816_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2360,
+    "type": "picture",
+    "type_id": "1976",
+    "timestamp": "2024-07-12T08:05:11",
+    "place": "466, East Capitol Avenue, Pierre, Hughes County, South Dakota, 57501, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "466 east capitol avenue",
+        "city": "pierre",
+        "county": "hughes county",
+        "state": "sd",
+        "postal": "57501"
+      },
+      "caption": "second state capitol in three days (helena, montana, too)"
+    },
+    "filename": "20240712_080511",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 717,
+    "type": "picture",
+    "type_id": "333",
+    "timestamp": "2024-07-12T08:05:29",
+    "place": "466, East Capitol Avenue, Pierre, Hughes County, South Dakota, 57501, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "466 east capitol avenue",
+        "city": "pierre",
+        "county": "hughes county",
+        "state": "sd",
+        "postal": "57501"
+      }
+    },
+    "filename": "20240712_080528",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1783,
+    "type": "picture",
+    "type_id": "1399",
+    "timestamp": "2024-07-12T08:07:20",
+    "place": "665, East Capitol Avenue, Pierre, Hughes County, South Dakota, 57501, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "665 east capitol avenue",
+        "city": "pierre",
+        "county": "hughes county",
+        "state": "sd",
+        "postal": "57501"
+      }
+    },
+    "filename": "20240712_080720",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1371,
+    "type": "picture",
+    "type_id": "987",
+    "timestamp": "2024-07-12T08:07:23",
+    "place": "665, East Capitol Avenue, Pierre, Hughes County, South Dakota, 57501, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "665 east capitol avenue",
+        "city": "pierre",
+        "county": "hughes county",
+        "state": "sd",
+        "postal": "57501"
+      }
+    },
+    "filename": "20240712_080723",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1113,
+    "type": "picture",
+    "type_id": "729",
+    "timestamp": "2024-07-12T08:07:55",
+    "place": "665, East Capitol Avenue, Pierre, Hughes County, South Dakota, 57501, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "665 east capitol avenue",
+        "city": "pierre",
+        "county": "hughes county",
+        "state": "sd",
+        "postal": "57501"
+      }
+    },
+    "filename": "20240712_080755",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1534,
+    "type": "picture",
+    "type_id": "1150",
+    "timestamp": "2024-07-12T08:12:40",
+    "place": "298, South Pierre Street, Pierre, Hughes County, South Dakota, 57501, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "298 south pierre street",
+        "city": "pierre",
+        "county": "hughes county",
+        "state": "sd",
+        "postal": "57501"
+      }
+    },
+    "filename": "20240712_081240",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 257,
+    "type": "shazam",
+    "type_id": "7",
+    "timestamp": "2024-07-12T08:16:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "title": "It's Cool (We're Cool, Everything's Cool)",
+      "artist": "Lula Wiles",
+      "link": "https://www.shazam.com/track/499069310/its-cool-were-cool-everythings-cool",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/c0/51/6e/c0516e48-1c56-0464-b1f7-56c98170794d/ITSCOOL_FINAL_nologo.jpg/400x400cc.jpg"
+    },
+    "filename": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/c0/51/6e/c0516e48-1c56-0464-b1f7-56c98170794d/ITSCOOL_FINAL_nologo.jpg/400x400cc.jpg",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2225,
+    "type": "picture",
+    "type_id": "1841",
+    "timestamp": "2024-07-12T10:05:32",
+    "place": "Purple Heart Memorial Highway, Eureka Township, Aurora County, South Dakota, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "purple heart memorial highway",
+        "city": "eureka township",
+        "county": "aurora county",
+        "state": "sd",
+        "postal": ""
+      }
+    },
+    "filename": "20240712_100532",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1670,
+    "type": "picture",
+    "type_id": "1286",
+    "timestamp": "2024-07-12T10:11:32",
+    "place": "Sinclair/Roadside Service, 705, South Main Street, Plankinton, Aurora County, South Dakota, 57368, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "sinclair/roadside service, 705 south main street",
+        "city": "plankinton",
+        "county": "aurora county",
+        "state": "sd",
+        "postal": "57368"
+      }
+    },
+    "filename": "20240712_101132",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 360,
+    "type": "receipt",
+    "type_id": "32",
+    "timestamp": "2024-07-12T10:13",
+    "place": "705 S Main St, Plankinton, SD 57368",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "705 s main st",
+        "city": "plankinton",
+        "state": "sd",
+        "postal": "57368"
+      },
+      "date": "2024-07-12",
+      "time": "10:13",
+      "address": "705 S Main St, Plankinton, SD 57368",
+      "items": [
+        {
+          "description": "12 Pk Diet Pepsi",
+          "price": "$10.99"
+        },
+        {
+          "description": "12 Pk 1919 Root Beer",
+          "price": "$16.99"
+        },
+        {
+          "description": "Reeses Sticks King",
+          "price": "$3.09"
+        },
+        {
+          "description": "Food",
+          "price": "$1.99"
+        }
+      ],
+      "category": "convenience",
+      "other_details": {
+        "register": "2",
+        "transaction_number": "6289",
+        "operator_id": "91",
+        "cashier": "Area",
+        "subtotal": "$33.06",
+        "tax": "$2.05",
+        "total": "$35.11",
+        "change_due": "$0.00",
+        "payment_method": "Debit",
+        "card_number": "XXXX XXXX XXXX 9725",
+        "authorization_number": "257463",
+        "line": "091601",
+        "mode": "Issuer",
+        "AID": "A0000000042203",
+        "TVR": "8000048000",
+        "IAD": "0110600001220000000000000000000000FF",
+        "TSI": "6800",
+        "ARC": "00",
+        "approval_code": "257463",
+        "verified_by": "PIN"
+      }
+    },
+    "filename": "20240902_103252",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2743,
+    "type": "story",
+    "type_id": "75",
+    "timestamp": "2024-07-12T10:15",
+    "place": null,
+    "description": "treats: reeses stick kings\ntime: 10:15",
+    "data": {
+      "category": "treats",
+      "dada_rank": 18,
+      "sydney_rank": 3
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 199,
+    "type": "map",
+    "type_id": "343",
+    "timestamp": "2024-07-12T10:20:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-12T10:20:00",
+      "end_timestamp": "2024-07-12T11:36:00",
+      "place": {
+        "address": "purple heart memorial highway"
+      },
+      "end_place": {
+        "address": "5229n granite ln",
+        "state": "sd"
+      },
+      "info": {
+        "duration": "1 hour, 15 minutes",
+        "distance": "90 mi",
+        "location": "Purple Heart Memorial High School -> 5229 N Granite Ln, South Dakota",
+        "nearby": [
+          "Huron",
+          "De Smet",
+          "Brookings",
+          "Lake Preston",
+          "Wessington Springs",
+          "Woonsocket",
+          "Flandreau",
+          "Madison",
+          "Dell Rapids",
+          "Plankinton",
+          "Mitchell",
+          "Salem",
+          "Alexandria",
+          "Sioux Falls",
+          "Parkston",
+          "Parker",
+          "Freeman",
+          "Harrisburg",
+          "Canton",
+          "Yankton",
+          "Tyndall",
+          "Springfield",
+          "Yankton"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_170807_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1832,
+    "type": "picture",
+    "type_id": "1448",
+    "timestamp": "2024-07-12T11:30:10",
+    "place": "Purple Heart Memorial Highway, Sioux Falls, Benton Township, Minnehaha County, South Dakota, 57107, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "purple heart memorial highway",
+        "city": "sioux falls",
+        "county": "minnehaha county",
+        "state": "sd",
+        "postal": "57107"
+      },
+      "signs": "i-29 fargo\ni-29 sioux city"
+    },
+    "filename": "20240712_113010",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 200,
+    "type": "map",
+    "type_id": "27",
+    "timestamp": "2024-07-12T11:52:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-12T11:52:00",
+      "end_timestamp": "2024-07-12T13:21:00",
+      "place": {
+        "address": "w 54th st n",
+        "state": "sd"
+      },
+      "end_place": {
+        "address": "551 4th st",
+        "state": "ia"
+      },
+      "info": {
+        "duration": "1 hour, 28 minutes",
+        "distance": "82 mi",
+        "location": "54th St N, South Dakota -> 551 4th St, Iowa",
+        "nearby": [
+          "Sioux Falls",
+          "Rock Rapids",
+          "Parker",
+          "Freeman",
+          "Harrisburg",
+          "Canton",
+          "Rock Valley",
+          "Sioux Center",
+          "Sheldon",
+          "Hawarden",
+          "Orange City",
+          "Yankton",
+          "Le Mars",
+          "Vermillion",
+          "Hartington",
+          "Elk Point",
+          "Moville",
+          "Sergeant Bluff"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_170756_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1781,
+    "type": "picture",
+    "type_id": "1397",
+    "timestamp": "2024-07-12T11:56:54",
+    "place": "I 29, Sioux Falls, Wayne Township, Minnehaha County, South Dakota, 57106, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 29",
+        "city": "sioux falls",
+        "county": "minnehaha county",
+        "state": "sd",
+        "postal": "57106"
+      },
+      "signs": "i-29 sioux city"
+    },
+    "filename": "20240712_115653",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1178,
+    "type": "picture",
+    "type_id": "794",
+    "timestamp": "2024-07-12T12:17:49",
+    "place": "I 29, Pleasant Township, Lincoln County, South Dakota, 57014, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 29 pleasant township",
+        "city": "pleasant township",
+        "county": "lincoln county",
+        "state": "sd",
+        "postal": "57014"
+      }
+    },
+    "filename": "20240712_121748",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2418,
+    "type": "picture",
+    "type_id": "2034",
+    "timestamp": "2024-07-12T12:41:13",
+    "place": "I 29, Junction City, Elk Point West Township, Union County, South Dakota, 57010, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 29 junction city",
+        "city": "elk point",
+        "county": "union county",
+        "state": "sd",
+        "postal": "57010"
+      },
+      "caption": "the only two times sid really slept in the car were at roughly the same divide -- the minnesota -> north dakota line on the way out, the south dakota -> iowa line on the way back"
+    },
+    "filename": "20240712_124113",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 703,
+    "type": "picture",
+    "type_id": "319",
+    "timestamp": "2024-07-12T12:59:17",
+    "place": "Russell E. Christiansen Bridge, I 29, Sioux City, Woodbury County, Iowa, 51109, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "russell e. christiansen bridge, i 29",
+        "city": "sioux city",
+        "county": "woodbury county",
+        "state": "ia",
+        "postal": "51109"
+      },
+      "sign": "welcome to iowa",
+      "note": "freedom to flourish"
+    },
+    "filename": "20240712_125917",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 484,
+    "type": "picture",
+    "type_id": "100",
+    "timestamp": "2024-07-12T13:01:24",
+    "place": "I 29, Sioux City, Woodbury County, Iowa, 51103, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 29",
+        "city": "sioux city",
+        "county": "woodbury county",
+        "state": "ia",
+        "postal": "51103"
+      },
+      "caption": "that's nebraska across the river, which i purposefully avoided to retain its status as the only remaining state i last visited during the first big road trip laura and i ever took together in 2005, before we were married"
+    },
+    "filename": "20240712_130124",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1278,
+    "type": "picture",
+    "type_id": "894",
+    "timestamp": "2024-07-12T13:04:20",
+    "place": "South Floyd Boulevard, Sioux City, Woodbury County, Iowa, 51101, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south floyd boulevard",
+        "city": "sioux city",
+        "county": "woodbury county",
+        "state": "ia",
+        "postal": "51101"
+      }
+    },
+    "filename": "20240712_130420",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1973,
+    "type": "picture",
+    "type_id": "1589",
+    "timestamp": "2024-07-12T13:04:55",
+    "place": "Floyd Boulevard, Sioux City, Woodbury County, Iowa, 51101, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "floyd boulevard",
+        "city": "sioux city",
+        "county": "woodbury county",
+        "state": "ia",
+        "postal": "51101"
+      }
+    },
+    "filename": "20240712_130455",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2565,
+    "type": "picture",
+    "type_id": "2181",
+    "timestamp": "2024-07-12T13:05:20",
+    "place": "Urbane Apartments, 1220, 4th Street, Sioux City, Woodbury County, Iowa, 51103, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1220 urbane apartments, 4th street",
+        "city": "sioux city",
+        "county": "woodbury county",
+        "state": "ia",
+        "postal": "51103"
+      }
+    },
+    "filename": "20240712_130520",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 201,
+    "type": "map",
+    "type_id": "110",
+    "timestamp": "2024-07-12T13:21:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-12T13:21:00",
+      "end_timestamp": "2024-07-12T14:01:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "40 minutes",
+        "distance": "0 mi",
+        "location": "Near 551 4th St, Iowa",
+        "nearby": [
+          "Public Library",
+          "6th St",
+          "Pierce St",
+          "3rd St",
+          "5th St",
+          "Nebraska St",
+          "Sioux City",
+          "Sioux City Museum",
+          "Sioux City Art Center"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_184418_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 600,
+    "type": "picture",
+    "type_id": "216",
+    "timestamp": "2024-07-12T13:23:55",
+    "place": "4th Street, Sioux City, Woodbury County, Iowa, 51101, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "4th street",
+        "city": "sioux city",
+        "county": "woodbury county",
+        "state": "ia",
+        "postal": "51101"
+      }
+    },
+    "filename": "20240712_132355",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 462,
+    "type": "picture",
+    "type_id": "78",
+    "timestamp": "2024-07-12T13:23:59",
+    "place": "4th Street, Sioux City, Woodbury County, Iowa, 51101, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "4th street",
+        "city": "sioux city",
+        "county": "woodbury county",
+        "state": "ia",
+        "postal": "51101"
+      }
+    },
+    "filename": "20240712_132359",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1709,
+    "type": "picture",
+    "type_id": "1325",
+    "timestamp": "2024-07-12T13:24:08",
+    "place": "4th Street, Sioux City, Woodbury County, Iowa, 51101, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "4th street",
+        "city": "sioux city",
+        "county": "woodbury county",
+        "state": "ia",
+        "postal": "51101"
+      }
+    },
+    "filename": "20240712_132408",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2744,
+    "type": "story",
+    "type_id": "48",
+    "timestamp": "2024-07-12T13:30",
+    "place": null,
+    "description": "meals: trattoria fresco\ntime: 13:00\ntime: 13:30",
+    "data": {
+      "category": "meals",
+      "dada_rank": 10,
+      "sydney_rank": 11
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 361,
+    "type": "receipt",
+    "type_id": "26",
+    "timestamp": "2024-07-12T13:45",
+    "place": "511 4th Street, SIOUX CITY, IA 51101",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "511 4th street",
+        "city": "sioux city",
+        "state": "ia",
+        "postal": "51101"
+      },
+      "date": "2024-07-12",
+      "time": "13:45",
+      "address": "511 4th Street, SIOUX CITY, IA 51101",
+      "items": [
+        {
+          "description": "Penne pesto",
+          "price": "$10.50"
+        },
+        {
+          "description": "Pasta primavera",
+          "price": "$12.00"
+        }
+      ],
+      "category": "restaurant",
+      "total": "$28.58",
+      "payment_method": "Mastercard",
+      "card_number": "9725",
+      "card_type": "Chip",
+      "customer_name": "Richard Sanda",
+      "business_name": "Trattoria Fresco",
+      "business_address": "511 4th Street, SIOUX CITY, IA 51101",
+      "business_phone": "N/A",
+      "business_website": "N/A",
+      "business_email": "N/A",
+      "business_logo": "N/A"
+    },
+    "filename": "20240902_102245",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2181,
+    "type": "picture",
+    "type_id": "1797",
+    "timestamp": "2024-07-12T13:47:23",
+    "place": "Trattoria Fresco, 511, 4th Street, Sioux City, Woodbury County, Iowa, 51101, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "511 4th street",
+        "city": "sioux city",
+        "county": "woodbury county",
+        "state": "ia",
+        "postal": "51101"
+      }
+    },
+    "filename": "20240712_134722",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1352,
+    "type": "picture",
+    "type_id": "968",
+    "timestamp": "2024-07-12T13:47:27",
+    "place": "Trattoria Fresco, 511, 4th Street, Sioux City, Woodbury County, Iowa, 51101, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "511 4th street",
+        "city": "sioux city",
+        "county": "woodbury county",
+        "state": "ia",
+        "postal": "51101"
+      }
+    },
+    "filename": "20240712_134727",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1623,
+    "type": "picture",
+    "type_id": "1239",
+    "timestamp": "2024-07-12T13:49:53",
+    "place": "4th Street, Sioux City, Woodbury County, Iowa, 51101, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "4th street",
+        "city": "sioux city",
+        "county": "woodbury county",
+        "state": "ia",
+        "postal": "51101"
+      }
+    },
+    "filename": "20240712_134952",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1093,
+    "type": "picture",
+    "type_id": "709",
+    "timestamp": "2024-07-12T13:50:05",
+    "place": "Trattoria Fresco, 511, 4th Street, Sioux City, Woodbury County, Iowa, 51101, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "511 4th street",
+        "city": "sioux city",
+        "county": "woodbury county",
+        "state": "ia",
+        "postal": "51101"
+      }
+    },
+    "filename": "20240712_135005",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1105,
+    "type": "picture",
+    "type_id": "721",
+    "timestamp": "2024-07-12T13:50:13",
+    "place": "Trattoria Fresco, 511, 4th Street, Sioux City, Woodbury County, Iowa, 51101, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "511 4th street",
+        "city": "sioux city",
+        "county": "woodbury county",
+        "state": "ia",
+        "postal": "51101"
+      }
+    },
+    "filename": "20240712_135013",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2137,
+    "type": "picture",
+    "type_id": "1753",
+    "timestamp": "2024-07-12T13:53:24",
+    "place": "Frances Building, 505, 5th Street, Sioux City, Woodbury County, Iowa, 51101, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "505 5th street",
+        "city": "sioux city",
+        "county": "woodbury county",
+        "state": "ia",
+        "postal": "51101"
+      }
+    },
+    "filename": "20240712_135324",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1762,
+    "type": "picture",
+    "type_id": "1378",
+    "timestamp": "2024-07-12T13:54:20",
+    "place": "Frances Building, 505, 5th Street, Sioux City, Woodbury County, Iowa, 51101, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "505 5th street",
+        "city": "sioux city",
+        "county": "woodbury county",
+        "state": "ia",
+        "postal": "51101"
+      }
+    },
+    "filename": "20240712_135420",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2534,
+    "type": "picture",
+    "type_id": "2150",
+    "timestamp": "2024-07-12T13:54:27",
+    "place": "Frances Building, 505, 5th Street, Sioux City, Woodbury County, Iowa, 51101, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "505 5th street",
+        "city": "sioux city",
+        "county": "woodbury county",
+        "state": "ia",
+        "postal": "51101"
+      },
+      "caption": "the skywalk was a very cool microadventure"
+    },
+    "filename": "20240712_135427",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2112,
+    "type": "picture",
+    "type_id": "1728",
+    "timestamp": "2024-07-12T13:56:27",
+    "place": "Sioux City Public Museum, 607, 4th Street, Sioux City, Woodbury County, Iowa, 51101, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "607 4th street",
+        "city": "sioux city",
+        "county": "woodbury county",
+        "state": "ia",
+        "postal": "51101"
+      }
+    },
+    "filename": "20240712_135627",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 753,
+    "type": "picture",
+    "type_id": "369",
+    "timestamp": "2024-07-12T13:57:00",
+    "place": "Sioux City Public Museum, 607, 4th Street, Sioux City, Woodbury County, Iowa, 51101, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "607 4th street",
+        "city": "sioux city",
+        "county": "woodbury county",
+        "state": "ia",
+        "postal": "51101"
+      }
+    },
+    "filename": "20240712_135700",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 785,
+    "type": "picture",
+    "type_id": "401",
+    "timestamp": "2024-07-12T13:57:16",
+    "place": "Sioux City Community School District, 627, 4th Street, Sioux City, Woodbury County, Iowa, 51101, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "627 4th street",
+        "city": "sioux city",
+        "county": "woodbury county",
+        "state": "ia",
+        "postal": "51101"
+      }
+    },
+    "filename": "20240712_135716",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2607,
+    "type": "picture",
+    "type_id": "2223",
+    "timestamp": "2024-07-12T13:57:34",
+    "place": "Sioux City Community School District, 627, 4th Street, Sioux City, Woodbury County, Iowa, 51101, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "627 4th street",
+        "city": "sioux city",
+        "county": "woodbury county",
+        "state": "ia",
+        "postal": "51101"
+      }
+    },
+    "filename": "20240712_135734",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 202,
+    "type": "map",
+    "type_id": "81",
+    "timestamp": "2024-07-12T14:01:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-12T14:01:00",
+      "end_timestamp": "2024-07-12T17:00:00",
+      "place": {
+        "address": "551 4th st",
+        "state": "ia"
+      },
+      "end_place": {
+        "address": "16248 n ave",
+        "state": "ia"
+      },
+      "info": {
+        "duration": "2 hours, 58 minutes",
+        "distance": "191 mi",
+        "location": "551 4th St, Iowa -> 16248 N Ave, Iowa",
+        "nearby": [
+          "Sioux Falls",
+          "Sioux City",
+          "Omaha",
+          "Des Moines",
+          "Rochester"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_170742_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 362,
+    "type": "receipt",
+    "type_id": "3",
+    "timestamp": "2024-07-12T14:07",
+    "place": "1005 Gordon Dr, Sioux City, IA 51101",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1005 gordon dr",
+        "city": "sioux city",
+        "state": "ia",
+        "postal": "51101"
+      },
+      "date": "2024-07-12",
+      "time": "14:07",
+      "address": "1005 Gordon Dr, Sioux City, IA 51101",
+      "items": [
+        {
+          "description": "Super 87S",
+          "quantity": 14.524,
+          "unit_price": 3.299,
+          "total_price": 47.91
+        }
+      ],
+      "category": "gas",
+      "other_details": {
+        "store_name": "Kum & Go 251",
+        "store_phone": "712-258-0023",
+        "term": "002",
+        "approval_code": "004160",
+        "trace_number": "00999991",
+        "pump_number": "06",
+        "card_type": "Debit",
+        "card_number": "XXXXXXXXXXXX9725",
+        "chip_read": true,
+        "currency": "USD",
+        "aid": "A0000000042203",
+        "tvr": "8000048000",
+        "iad": "XXXXXX XXXXXXXXXXXX",
+        "tsi": "6800",
+        "arc": "00",
+        "arqc": "24255D9708D7308E",
+        "pin_verified": true,
+        "agreement": "I agree to pay the above Total Amount according to Card Issuer Agreement."
+      }
+    },
+    "filename": "20240902_102950",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2172,
+    "type": "picture",
+    "type_id": "1788",
+    "timestamp": "2024-07-12T14:10:50",
+    "place": "Sioux City Convention Center, 801, 4th Street, Sioux City, Woodbury County, Iowa, 51101, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "801 4th street",
+        "city": "sioux city",
+        "county": "woodbury county",
+        "state": "ia",
+        "postal": "51101"
+      }
+    },
+    "filename": "20240712_141049",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2551,
+    "type": "picture",
+    "type_id": "2167",
+    "timestamp": "2024-07-12T14:12:25",
+    "place": "1019, 4th Street, Sioux City, Woodbury County, Iowa, 51101, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1019 4th street",
+        "city": "sioux city",
+        "county": "woodbury county",
+        "state": "ia",
+        "postal": "51101"
+      }
+    },
+    "filename": "20240712_141224",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 574,
+    "type": "picture",
+    "type_id": "190",
+    "timestamp": "2024-07-12T14:39:38",
+    "place": "Highway 20, Woodbury County, Iowa, 51039, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "highway 20",
+        "city": "",
+        "county": "woodbury county",
+        "state": "ia",
+        "postal": "51039"
+      }
+    },
+    "filename": "20240712_143938",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 258,
+    "type": "shazam",
+    "type_id": "6",
+    "timestamp": "2024-07-12T14:55:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "title": "Bright Green Vibrant Gray",
+      "artist": "Helena Deland",
+      "link": "https://www.shazam.com/track/674007351/bright-green-vibrant-gray",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ad/fa/10/adfa104b-a249-35ed-d04c-2ff455474d55/cover.jpg/400x400cc.jpg"
+    },
+    "filename": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ad/fa/10/adfa104b-a249-35ed-d04c-2ff455474d55/cover.jpg/400x400cc.jpg",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1672,
+    "type": "picture",
+    "type_id": "1288",
+    "timestamp": "2024-07-12T15:25:27",
+    "place": "US 20, Sac County, Iowa, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 20",
+        "city": "",
+        "county": "sac county",
+        "state": "ia",
+        "postal": ""
+      },
+      "signs": "knierim 26\ndodge city 40"
+    },
+    "filename": "20240712_152527",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 259,
+    "type": "shazam",
+    "type_id": "5",
+    "timestamp": "2024-07-12T15:50:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "title": "The Roving (feat. Eric D. Johnson, Josh Kaufman, & Anais Mitchell)",
+      "artist": "Bonny Light Horseman",
+      "link": "https://www.shazam.com/track/497458306/the-roving-feat-eric-d-johnson-josh-kaufman-anais-mitchell",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/68/42/45/684245d4-4861-6e08-8405-601350d82207/656605347981.jpg/400x400cc.jpg"
+    },
+    "filename": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/68/42/45/684245d4-4861-6e08-8405-601350d82207/656605347981.jpg/400x400cc.jpg",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 260,
+    "type": "shazam",
+    "type_id": "4",
+    "timestamp": "2024-07-12T15:55:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "title": "Swimming Away",
+      "artist": "Great Lake Swimmers",
+      "link": "https://www.shazam.com/track/312735183/swimming-away",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b7/7c/4d/b77c4d39-529d-1f7c-1392-c3dceb4a3ba6/067003408554.png/400x400cc.jpg"
+    },
+    "filename": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/b7/7c/4d/b77c4d39-529d-1f7c-1392-c3dceb4a3ba6/067003408554.png/400x400cc.jpg",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 261,
+    "type": "shazam",
+    "type_id": "3",
+    "timestamp": "2024-07-12T16:11:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "title": "Everything Is Free",
+      "artist": "Flock of Dimes & Sylvan Esso",
+      "link": "https://www.shazam.com/track/328437010/everything-is-free",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/98/52/68/9852687a-f1d7-f4bb-89d4-f12a8066960b/23558.jpg/400x400cc.jpg"
+    },
+    "filename": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/98/52/68/9852687a-f1d7-f4bb-89d4-f12a8066960b/23558.jpg/400x400cc.jpg",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 417,
+    "type": "picture",
+    "type_id": "33",
+    "timestamp": "2024-07-12T16:21:56",
+    "place": "US 20, Hamilton County, Iowa, 50034, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 20",
+        "city": "",
+        "county": "hamilton county",
+        "state": "ia",
+        "postal": "50034"
+      },
+      "signs": "i-35 des moines"
+    },
+    "filename": "20240712_162156",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1195,
+    "type": "picture",
+    "type_id": "811",
+    "timestamp": "2024-07-12T16:33:50",
+    "place": "US 20, Hardin County, Iowa, 50043, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 20",
+        "city": "",
+        "county": "hardin county",
+        "state": "ia",
+        "postal": "50043"
+      },
+      "miles": "6008.4 miles",
+      "note": "missed it :(..."
+    },
+    "filename": "20240712_163350",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 203,
+    "type": "map",
+    "type_id": "389",
+    "timestamp": "2024-07-12T17:00:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-12T17:00:00",
+      "end_timestamp": "2024-07-12T17:19:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "19 minutes",
+        "distance": "0 mi",
+        "location": "Near 16248 N Ave, Iowa",
+        "nearby": []
+      }
+    },
+    "filename": "Screenshot_20240723_184404_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 204,
+    "type": "map",
+    "type_id": "261",
+    "timestamp": "2024-07-12T17:19:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-12T17:19:00",
+      "end_timestamp": "2024-07-12T19:51:00",
+      "place": {
+        "address": "16248 n ave",
+        "state": "ia"
+      },
+      "end_place": {
+        "address": "golden valley drive",
+        "state": "ia"
+      },
+      "info": {
+        "duration": "2 hours, 31 minutes",
+        "distance": "157 mi",
+        "location": "16248 N Ave, Iowa -> Golden Valley Drive, Iowa",
+        "nearby": [
+          "Marshalltown",
+          "Waterloo",
+          "Ottumwa",
+          "Cedar Rapids",
+          "Dubuque"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_170729_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1232,
+    "type": "picture",
+    "type_id": "848",
+    "timestamp": "2024-07-12T17:39:40",
+    "place": "Avenue of the Saints, Waterloo, Black Hawk County, Iowa, 50702, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "avenue of the saints",
+        "city": "waterloo",
+        "county": "black hawk county",
+        "state": "ia",
+        "postal": "50702"
+      },
+      "signs": "i-380, 20, us-20 cedar rapids, dubuque\nevansdale\ni-380, us-218 waterloo"
+    },
+    "filename": "20240712_173940",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1835,
+    "type": "picture",
+    "type_id": "1451",
+    "timestamp": "2024-07-12T17:44:38",
+    "place": "US 20, Black Hawk County, Iowa, 50667, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 20",
+        "city": "",
+        "county": "black hawk county",
+        "state": "ia",
+        "postal": "50667"
+      },
+      "signs": "us-20 dubuque\ni-380, 27 cedar rapids"
+    },
+    "filename": "20240712_174438",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2586,
+    "type": "picture",
+    "type_id": "2202",
+    "timestamp": "2024-07-12T18:19:56",
+    "place": "Avenue of the Saints, Cedar Rapids, Linn County, Iowa, 52401, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "avenue of the saints",
+        "city": "cedar rapids",
+        "county": "linn county",
+        "state": "ia",
+        "postal": "52401"
+      }
+    },
+    "filename": "20240712_181956",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2745,
+    "type": "story",
+    "type_id": "483",
+    "timestamp": "2024-07-12T18:40",
+    "place": null,
+    "description": "songs: ancient dreams in a modern land -- marina\n\ntime: 18:40",
+    "data": {
+      "id": 204,
+      "artist_name": "MARINA",
+      "song_name": "Ancient Dreams in a Modern Land",
+      "image_link": "https://i.scdn.co/image/ab67616d0000b27336c95d8631f465e6898bccc8",
+      "song_link": "https://open.spotify.com/track/1R1ihosU2CSEaSw8e5ZF6E",
+      "ordinal": null,
+      "spotify_id": "1R1ihosU2CSEaSw8e5ZF6E",
+      "added_at": "2024-06-24T16:25:48Z",
+      "playlist_id": "4cbtSLSi3GIDQI6s62Opjs",
+      "playlist_name": "roadtrip playlist",
+      "playlist_owner": "Sydney",
+      "category": "songs",
+      "dada_rank": 9,
+      "sydney_rank": 8
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 262,
+    "type": "shazam",
+    "type_id": "2",
+    "timestamp": "2024-07-12T18:44:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "title": "Ancient Dreams In A Modern Land",
+      "artist": "MARINA",
+      "link": "https://www.shazam.com/track/565965792/ancient-dreams-in-a-modern-land",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/a4/56/20a456c2-d983-d19a-fe6a-3b6407ac4a17/075679784681.jpg/400x400cc.jpg"
+    },
+    "filename": "https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/20/a4/56/20a456c2-d983-d19a-fe6a-3b6407ac4a17/075679784681.jpg/400x400cc.jpg",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 854,
+    "type": "picture",
+    "type_id": "470",
+    "timestamp": "2024-07-12T19:17:38",
+    "place": "I 80;US 6, Hickory Grove Township, Scott County, Iowa, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 80;us 6",
+        "city": "hickory grove township",
+        "county": "scott county",
+        "state": "ia",
+        "postal": ""
+      },
+      "signs": "i-80, us-61 chicago\ni-280, us-6, us-61 rock island, moline"
+    },
+    "filename": "20240712_191738",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 205,
+    "type": "map",
+    "type_id": "307",
+    "timestamp": "2024-07-12T19:51:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-12T19:51:00",
+      "end_timestamp": "2024-07-12T20:08:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "17 minutes",
+        "distance": "0 mi",
+        "location": "Near Golden Valley Drive, Iowa",
+        "nearby": [
+          "Golden Valley Dr",
+          "Tanglefoot Ln",
+          "Utica Rdg Pl"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_184350_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2746,
+    "type": "story",
+    "type_id": "87",
+    "timestamp": "2024-07-12T20:00",
+    "place": null,
+    "description": "accommodations: bettendorf, ia\ntime: 20:00",
+    "data": {
+      "category": "accommodations",
+      "dada_rank": 12,
+      "sydney_rank": 10
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 206,
+    "type": "map",
+    "type_id": "347",
+    "timestamp": "2024-07-12T20:08:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-12T20:08:00",
+      "end_timestamp": "2024-07-12T20:18:00",
+      "place": {
+        "address": "golden valley drive",
+        "state": "ia"
+      },
+      "end_place": {
+        "address": "spruce hills drive",
+        "state": "ia"
+      },
+      "info": {
+        "duration": "9 minutes",
+        "distance": "2 mi",
+        "location": "Golden Valley Drive, Iowa -> Spruce Hills Drive, Iowa",
+        "nearby": [
+          "Home2 Suites by Hilton Bettendorf Quad Cities",
+          "Kimberly Rd",
+          "Red Lobster",
+          "Utica Ridge Rd"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_170713_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 363,
+    "type": "receipt",
+    "type_id": "40",
+    "timestamp": "2024-07-12T20:15",
+    "place": "3200 E Kimberly Rd, Davenport, IA 52807",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "3200 e kimberly rd",
+        "city": "davenport",
+        "state": "ia",
+        "postal": "52807"
+      },
+      "date": "2024-07-12",
+      "time": "20:15",
+      "address": "3200 E Kimberly Rd, Davenport, IA 52807",
+      "items": [
+        {
+          "product": "UNLEADED F",
+          "amount": "$67.84"
+        }
+      ],
+      "category": "gas",
+      "other_details": {
+        "employee_owned": true,
+        "store_management_email": "StoreManagement@Hy-Vee.com",
+        "merchandise_id": "444504303",
+        "terminal_id": "00000053",
+        "chip_read": true,
+        "card_type": "MC",
+        "sequence_number": "2012",
+        "reference_number": "201201",
+        "approval_code": "GK7352",
+        "transaction_approved": true,
+        "online_pin_verified": true,
+        "mode": "Issuer",
+        "AID": "A0000000042203",
+        "TVR": "8000048000",
+        "IAD": "0110A0000122000",
+        "TSI": "6800",
+        "ARC": "00"
+      }
+    },
+    "filename": "20240902_103234",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 207,
+    "type": "map",
+    "type_id": "53",
+    "timestamp": "2024-07-12T20:21:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-12T20:21:00",
+      "end_timestamp": "2024-07-12T20:42:00",
+      "place": {
+        "address": "3971 elmore ave",
+        "state": "ia"
+      },
+      "end_place": {
+        "address": "golden valley drive",
+        "state": "ia"
+      },
+      "info": {
+        "duration": "21 minutes",
+        "distance": "3 mi",
+        "location": "3971 Elmore Ave, Iowa -> Golden Valley Drive, Iowa",
+        "nearby": [
+          "Staybridge Suites Davenport, an IHG",
+          "E 46th St",
+          "Elmore Marketplace",
+          "Lowe's Home Improvement",
+          "Sam's Club",
+          "Home2 Suites by Hilton Bettendorf Quad Cities",
+          "Utica Ridge Rd",
+          "Crow Creek Rd",
+          "Tanglefoot Ln",
+          "Spruce Dr"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_170657_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 208,
+    "type": "map",
+    "type_id": "379",
+    "timestamp": "2024-07-12T20:42:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-12T20:42:00",
+      "end_timestamp": "2024-07-13T08:16:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "11 hours, 33 minutes",
+        "distance": "0 mi",
+        "location": "Near Golden Valley Drive, Iowa",
+        "nearby": [
+          "Golden Valley Dr",
+          "Tanglefoot Ln",
+          "Utica Rdg Pl"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_184332_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  }
+]

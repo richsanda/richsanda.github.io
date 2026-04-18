@@ -1,0 +1,2958 @@
+[
+  {
+    "id": 160,
+    "type": "map",
+    "type_id": "68",
+    "timestamp": "2024-07-10T07:45:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-10T07:45:00",
+      "end_timestamp": "2024-07-10T08:04:00",
+      "place": {},
+      "end_place": {
+        "address": "12150 2e",
+        "city": "west glacier",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "18 minutes",
+        "distance": "0 mi",
+        "location": "Unknown address -> 12150 2 E, West Glacier, MT",
+        "nearby": []
+      }
+    },
+    "filename": "Screenshot_20240723_183453_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 161,
+    "type": "map",
+    "type_id": "286",
+    "timestamp": "2024-07-10T08:04:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-10T08:04:00",
+      "end_timestamp": "2024-07-10T08:54:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "50 minutes",
+        "distance": "0 mi",
+        "location": "Near 12150 2 E, West Glacier, MT 59936, USA",
+        "nearby": []
+      }
+    },
+    "filename": "Screenshot_20240723_192816_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 162,
+    "type": "map",
+    "type_id": "211",
+    "timestamp": "2024-07-10T08:54:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-10T08:54:00",
+      "end_timestamp": "2024-07-10T09:42:00",
+      "place": {},
+      "end_place": {
+        "address": "405 south main street",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "48 minutes",
+        "distance": "31 mi",
+        "location": "Unknown address -> 405 South Main Street, Montana",
+        "nearby": [
+          "West Glacier",
+          "Coram",
+          "Whitefish",
+          "Columbia Falls"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_183439_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2660,
+    "type": "story",
+    "type_id": "540",
+    "timestamp": "2024-07-10T08:54:03",
+    "place": null,
+    "description": "songs: dumb dumb -- mazie",
+    "data": {
+      "id": 261,
+      "artist_name": "mazie",
+      "song_name": "dumb dumb",
+      "image_link": "https://i.scdn.co/image/ab67616d0000b273bd22a6bab8658d9cd4daa5bd",
+      "song_link": "https://open.spotify.com/track/4qbEaaJ29p32GI8EWQmm6R",
+      "ordinal": null,
+      "spotify_id": "4qbEaaJ29p32GI8EWQmm6R",
+      "added_at": "2024-07-10T14:54:03Z",
+      "playlist_id": "4cbtSLSi3GIDQI6s62Opjs",
+      "playlist_name": "roadtrip playlist",
+      "playlist_owner": "Sydney",
+      "category": "songs",
+      "dada_rank": 261,
+      "sydney_rank": 261,
+      "spotify_add": true
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 500,
+    "type": "picture",
+    "type_id": "116",
+    "timestamp": "2024-07-10T09:16:58",
+    "place": "6101, US 2, Flathead County, Montana, 59912, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "6101 us 2",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": "59912"
+      },
+      "signs": "jct us 93\nwhitefish\nkalispell"
+    },
+    "filename": "20240710_091658",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 657,
+    "type": "picture",
+    "type_id": "273",
+    "timestamp": "2024-07-10T09:17:11",
+    "place": "US 2, Flathead County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2",
+        "city": "",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240710_091711",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 340,
+    "type": "receipt",
+    "type_id": "80",
+    "timestamp": "2024-07-10T09:23",
+    "place": "305 E Idaho, Kalispell, MT 59901",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "305 e idaho",
+        "city": "kalispell",
+        "state": "mt",
+        "postal": "59901"
+      },
+      "date": "2024-07-10",
+      "time": "09:23",
+      "address": "305 E Idaho, Kalispell, MT 59901",
+      "items": [
+        {
+          "description": "Unleaded Gas",
+          "quantity": 12.393,
+          "price": 3.559,
+          "total": 44.11
+        }
+      ],
+      "category": "gas",
+      "payment_method": {
+        "type": "debit",
+        "card_number": "********9725",
+        "card_holder": "Richard Sanda",
+        "transaction_type": "sale",
+        "authorization_mode": "issuer",
+        "authorization_id": "473890",
+        "response_code": "00",
+        "stan": "06491170950",
+        "trace_number": "292885",
+        "pin_used": true
+      }
+    },
+    "filename": "20240902_102407",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1412,
+    "type": "picture",
+    "type_id": "1028",
+    "timestamp": "2024-07-10T09:38:44",
+    "place": "40, East Idaho Street, Downtown, Kalispell, Flathead County, Montana, 59901, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "40 east idaho street",
+        "city": "kalispell",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": "59901"
+      },
+      "signs": "missoula\nwhitefish"
+    },
+    "filename": "20240710_093843",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 684,
+    "type": "picture",
+    "type_id": "300",
+    "timestamp": "2024-07-10T09:39:00",
+    "place": "179, North Main Street, Downtown, Kalispell, Flathead County, Montana, 59901, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "179 north main street",
+        "city": "kalispell",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": "59901"
+      },
+      "signs": "polson 51\nmissoula 120"
+    },
+    "filename": "20240710_093900",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2182,
+    "type": "picture",
+    "type_id": "1798",
+    "timestamp": "2024-07-10T09:39:35",
+    "place": "10, North Main Street, Downtown, Kalispell, Flathead County, Montana, 59901, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "10 north main street",
+        "city": "kalispell",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": "59901"
+      }
+    },
+    "filename": "20240710_093935",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 163,
+    "type": "map",
+    "type_id": "179",
+    "timestamp": "2024-07-10T09:42:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-10T09:42:00",
+      "end_timestamp": "2024-07-10T09:55:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "12 minutes",
+        "distance": "0 mi",
+        "location": "Near 405 South Main Street, Montana",
+        "nearby": [
+          "3rd St W",
+          "1st Ave W",
+          "3rd St E",
+          "S Main St",
+          "4th St E",
+          "U.S. 93 S",
+          "5th St W",
+          "ImagineIF Libraries",
+          "Johnson-Gloschat Funeral Home",
+          "Catholic Parish",
+          "5th St E",
+          "4th St W",
+          "1st Ave E"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_192755_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 563,
+    "type": "picture",
+    "type_id": "179",
+    "timestamp": "2024-07-10T09:42:11",
+    "place": "441, South Main Street, Downtown, Kalispell, Flathead County, Montana, 59901, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "441 south main street",
+        "city": "kalispell",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": "59901"
+      }
+    },
+    "filename": "20240710_094211",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1511,
+    "type": "picture",
+    "type_id": "1127",
+    "timestamp": "2024-07-10T09:42:16",
+    "place": "441, South Main Street, Downtown, Kalispell, Flathead County, Montana, 59901, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "441 south main street",
+        "city": "kalispell",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": "59901"
+      }
+    },
+    "filename": "20240710_094216",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 341,
+    "type": "receipt",
+    "type_id": "77",
+    "timestamp": "2024-07-10T09:45",
+    "place": "Wheat Montana Kalispell 405 Main Street, Kalispell, MT 59901",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "405 main street",
+        "city": "kalispell",
+        "state": "mt",
+        "postal": "59901",
+        "business": "wheat montana kalispell"
+      },
+      "date": "2024-07-10",
+      "time": "09:45",
+      "address": "Wheat Montana Kalispell 405 Main Street, Kalispell, MT 59901",
+      "items": [
+        {
+          "description": "Glazed Cinnamon Roll",
+          "price": "$4.75"
+        },
+        {
+          "description": "Peanut Butter Cookie (GF) (DF)",
+          "price": "$3.25"
+        }
+      ],
+      "category": "restaurant",
+      "other_details": {
+        "server": "Till 2",
+        "check_number": "#79",
+        "guest_count": 1,
+        "subtotal": "$8.00",
+        "total": "$8.00",
+        "cash_tendered": "$10.00",
+        "change": "$2.00",
+        "nomination_link": "https://dil-best-of-the-flathead.webflow.io/",
+        "powered_by": "Toast"
+      }
+    },
+    "filename": "20240902_102503",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2368,
+    "type": "picture",
+    "type_id": "1984",
+    "timestamp": "2024-07-10T09:46:15",
+    "place": "4th Street East, Downtown, Kalispell, Flathead County, Montana, 59901, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "4th street east",
+        "city": "kalispell",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": "59901"
+      }
+    },
+    "filename": "20240710_094615",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1283,
+    "type": "picture",
+    "type_id": "899",
+    "timestamp": "2024-07-10T09:46:27",
+    "place": "405, South Main Street, Downtown, Kalispell, Flathead County, Montana, 59901, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "405 south main street",
+        "city": "kalispell",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": "59901"
+      }
+    },
+    "filename": "20240710_094627",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2734,
+    "type": "story",
+    "type_id": "60",
+    "timestamp": "2024-07-10T09:50",
+    "place": null,
+    "description": "treats: pastries in kalispell (glazed cinnamon roll / peanut butter cookie)\ntime: 09:00\ntime: 09:50",
+    "data": {
+      "category": "treats",
+      "dada_rank": 2,
+      "sydney_rank": 11
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2407,
+    "type": "picture",
+    "type_id": "2023",
+    "timestamp": "2024-07-10T09:54:15",
+    "place": "The Yoga Room of Montana, 30, 4th Street East, Downtown, Kalispell, Flathead County, Montana, 59901, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "30 4th street east",
+        "city": "kalispell",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": "59901"
+      }
+    },
+    "filename": "20240710_095415",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 164,
+    "type": "map",
+    "type_id": "76",
+    "timestamp": "2024-07-10T09:55:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-10T09:55:00",
+      "end_timestamp": "2024-07-10T10:54:00",
+      "place": {
+        "address": "405 south main street",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "2nd avenue west",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "59 minutes",
+        "distance": "51 mi",
+        "location": "405 South Main Street, Montana -> 2nd Avenue West, Montana",
+        "nearby": [
+          "Kalispell",
+          "Marion",
+          "Kila",
+          "Bigfork",
+          "Pine Prairie",
+          "Lakeside",
+          "Flathead",
+          "Woods Bay",
+          "National",
+          "Lake Mary Ronan",
+          "Swan Lake",
+          "Rollins",
+          "Dayton",
+          "Big Arm",
+          "Flathead Lake",
+          "Hot Springs",
+          "Pablo",
+          "Salmon Prairie"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_183330_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 653,
+    "type": "picture",
+    "type_id": "269",
+    "timestamp": "2024-07-10T10:06:21",
+    "place": "5034, US 93, Somers, Flathead County, Montana, 59932, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "5034 us 93",
+        "city": "somers",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": "59932"
+      }
+    },
+    "filename": "20240710_100621",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1162,
+    "type": "picture",
+    "type_id": "778",
+    "timestamp": "2024-07-10T10:06:51",
+    "place": "1, Happy Hollow, Somers, Flathead County, Montana, 59932, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1 happy hollow",
+        "city": "somers",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": "59932"
+      }
+    },
+    "filename": "20240710_100650",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1348,
+    "type": "picture",
+    "type_id": "964",
+    "timestamp": "2024-07-10T10:29:45",
+    "place": "30320, US 93, Lake County, Montana, 59915, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "30320 us 93",
+        "city": "lake county",
+        "county": "lake county",
+        "state": "mt",
+        "postal": "59915"
+      }
+    },
+    "filename": "20240710_102945",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1044,
+    "type": "picture",
+    "type_id": "660",
+    "timestamp": "2024-07-10T10:34:36",
+    "place": "US 93, Fort Lazy Y Trailer Park, Lindisfarne, Elmo / sqʷʔeʔ / k̓upawi¢q̓nuk, Lake County, Montana, 59860, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 93 fort lazy y trailer park",
+        "city": "lindisfarne",
+        "county": "lake county",
+        "state": "mt",
+        "postal": "59860"
+      }
+    },
+    "filename": "20240710_103436",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1175,
+    "type": "picture",
+    "type_id": "791",
+    "timestamp": "2024-07-10T10:47:41",
+    "place": "US 93, Lake County, Montana, 59860, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 93",
+        "city": "",
+        "county": "lake county",
+        "state": "mt",
+        "postal": "59860"
+      }
+    },
+    "filename": "20240710_104740",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 681,
+    "type": "picture",
+    "type_id": "297",
+    "timestamp": "2024-07-10T10:55:30",
+    "place": "2nd Avenue West, Polson, Lake County, Montana, 59860, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "2nd avenue west",
+        "city": "polson",
+        "county": "lake county",
+        "state": "mt",
+        "postal": "59860"
+      }
+    },
+    "filename": "20240710_105530",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1132,
+    "type": "picture",
+    "type_id": "748",
+    "timestamp": "2024-07-10T10:55:37",
+    "place": "2nd Avenue West, Polson, Lake County, Montana, 59860, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "2nd avenue west",
+        "city": "polson",
+        "county": "lake county",
+        "state": "mt",
+        "postal": "59860"
+      }
+    },
+    "filename": "20240710_105537",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 165,
+    "type": "map",
+    "type_id": "181",
+    "timestamp": "2024-07-10T10:58:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-10T10:58:00",
+      "end_timestamp": "2024-07-10T12:31:00",
+      "place": {
+        "address": "130 main st",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "221 w front st",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "1 hour, 33 minutes",
+        "distance": "71 mi",
+        "location": "130 Main St, Montana -> 221 W Front St, Montana",
+        "nearby": [
+          "Polson",
+          "Condon",
+          "Plains",
+          "Flathead Reservation",
+          "Lolo National Forest",
+          "Seeley Lake",
+          "Clinton"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_183318_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2399,
+    "type": "picture",
+    "type_id": "2015",
+    "timestamp": "2024-07-10T10:59:08",
+    "place": "198, Kootenai Avenue, Polson, Lake County, Montana, 59860, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "198 kootenai avenue",
+        "city": "polson",
+        "county": "lake county",
+        "state": "mt",
+        "postal": "59860"
+      }
+    },
+    "filename": "20240710_105908",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1259,
+    "type": "picture",
+    "type_id": "875",
+    "timestamp": "2024-07-10T11:01:04",
+    "place": "50273, 2nd Avenue East, Polson, Lake County, Montana, 59860, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "50273 2nd avenue east",
+        "city": "polson",
+        "county": "lake county",
+        "state": "mt",
+        "postal": "59860"
+      }
+    },
+    "filename": "20240710_110104",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 547,
+    "type": "picture",
+    "type_id": "163",
+    "timestamp": "2024-07-10T11:16:20",
+    "place": "62901, US 93, Ronan, Lake County, Montana, 59864, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "62901 us 93",
+        "city": "ronan",
+        "county": "lake county",
+        "state": "mt",
+        "postal": "59864"
+      }
+    },
+    "filename": "20240710_111620",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 251,
+    "type": "shazam",
+    "type_id": "13",
+    "timestamp": "2024-07-10T11:30:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "title": "B61",
+      "artist": "Aoife O'Donovan",
+      "link": "https://www.shazam.com/track/579907469/b61",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fa/08/d6/fa08d692-7b68-9441-d43e-aa685c1b78c8/634457056961.png/400x400cc.jpg"
+    },
+    "filename": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/fa/08/d6/fa08d692-7b68-9441-d43e-aa685c1b78c8/634457056961.png/400x400cc.jpg",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 631,
+    "type": "picture",
+    "type_id": "247",
+    "timestamp": "2024-07-10T11:36:27",
+    "place": "US 93, Ravalli, Lake County, Montana, 59863, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 93",
+        "city": "ravalli",
+        "county": "lake county",
+        "state": "mt",
+        "postal": "59863"
+      }
+    },
+    "filename": "20240710_113627",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 839,
+    "type": "picture",
+    "type_id": "455",
+    "timestamp": "2024-07-10T12:02:22",
+    "place": "8465, US 93;MT 200, Missoula County, Montana, 59808, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "8465 us 93;mt 200",
+        "city": "",
+        "county": "missoula county",
+        "state": "mt",
+        "postal": "59808"
+      }
+    },
+    "filename": "20240710_120222",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 396,
+    "type": "picture",
+    "type_id": "12",
+    "timestamp": "2024-07-10T12:13:30",
+    "place": "North Orange Street, Heart of Missoula, Missoula, Missoula County, Montana, 59807, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "north orange street",
+        "city": "missoula",
+        "county": "missoula county",
+        "state": "mt",
+        "postal": "59807"
+      }
+    },
+    "filename": "20240710_121330",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 342,
+    "type": "receipt",
+    "type_id": "13",
+    "timestamp": "2024-07-10T12:19",
+    "place": "Short Term Mach Name: 37N1",
+    "description": null,
+    "data": {
+      "place": {
+        "business": "short term mach name: 37n1"
+      },
+      "date": "2024-07-10",
+      "time": "12:19",
+      "address": "Short Term Mach Name: 37N1",
+      "items": [
+        {
+          "description": "Parking fee",
+          "amount": "$1.00"
+        }
+      ],
+      "category": "parking",
+      "other_details": {
+        "license_plate_number": "9817MM",
+        "expiration_date": "2024-07-10 13:19",
+        "purchase_date": "2024-07-10 12:19",
+        "total_due": "$1.00",
+        "total_paid": "$1.00",
+        "ticket_number": "00012484",
+        "serial_number": "520015331353",
+        "rate": "Hourly",
+        "payment_type": "CC (Swipe)",
+        "card_number": "#****-9725",
+        "card_type": "MasterCard",
+        "authorization_number": "004139"
+      }
+    },
+    "filename": "20240902_101720",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 580,
+    "type": "picture",
+    "type_id": "196",
+    "timestamp": "2024-07-10T12:20:45",
+    "place": "Tamarack Brewing Co, 231, West Front Street, Heart of Missoula, Missoula, Missoula County, Montana, 59802, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "231 west front street",
+        "city": "missoula",
+        "county": "missoula county",
+        "state": "mt",
+        "postal": "59802"
+      }
+    },
+    "filename": "20240710_122044",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 677,
+    "type": "picture",
+    "type_id": "293",
+    "timestamp": "2024-07-10T12:22:14",
+    "place": "Tamarack Brewing Co, 231, West Front Street, Heart of Missoula, Missoula, Missoula County, Montana, 59802, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "231 west front street",
+        "city": "missoula",
+        "county": "missoula county",
+        "state": "mt",
+        "postal": "59802"
+      }
+    },
+    "filename": "20240710_122213",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2087,
+    "type": "picture",
+    "type_id": "1703",
+    "timestamp": "2024-07-10T12:27:02",
+    "place": "Ryman Street, Heart of Missoula, Missoula, Missoula County, Montana, 59807, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "ryman street",
+        "city": "missoula",
+        "county": "missoula county",
+        "state": "mt",
+        "postal": "59807"
+      }
+    },
+    "filename": "20240710_122702",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2234,
+    "type": "picture",
+    "type_id": "1850",
+    "timestamp": "2024-07-10T12:27:06",
+    "place": "The Rhino, 158, Ryman Street, Heart of Missoula, Missoula, Missoula County, Montana, 59807, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "158 ryman street",
+        "city": "missoula",
+        "county": "missoula county",
+        "state": "mt",
+        "postal": "59807"
+      }
+    },
+    "filename": "20240710_122705",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 620,
+    "type": "picture",
+    "type_id": "236",
+    "timestamp": "2024-07-10T12:27:12",
+    "place": "The Rhino, 158, Ryman Street, Heart of Missoula, Missoula, Missoula County, Montana, 59807, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "158 ryman street",
+        "city": "missoula",
+        "county": "missoula county",
+        "state": "mt",
+        "postal": "59807"
+      }
+    },
+    "filename": "20240710_122711",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1442,
+    "type": "picture",
+    "type_id": "1058",
+    "timestamp": "2024-07-10T12:27:16",
+    "place": "The Rhino, 158, Ryman Street, Heart of Missoula, Missoula, Missoula County, Montana, 59807, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "158 ryman street",
+        "city": "missoula",
+        "county": "missoula county",
+        "state": "mt",
+        "postal": "59807"
+      }
+    },
+    "filename": "20240710_122716",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1675,
+    "type": "picture",
+    "type_id": "1291",
+    "timestamp": "2024-07-10T12:28:30",
+    "place": "Tamarack Brewing Co, 231, West Front Street, Heart of Missoula, Missoula, Missoula County, Montana, 59802, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "231 west front street",
+        "city": "missoula",
+        "county": "missoula county",
+        "state": "mt",
+        "postal": "59802"
+      }
+    },
+    "filename": "20240710_122830",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1254,
+    "type": "picture",
+    "type_id": "870",
+    "timestamp": "2024-07-10T12:28:33",
+    "place": "Carousel Drive, Heart of Missoula, Missoula, Missoula County, Montana, 59807, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "carousel drive",
+        "city": "missoula",
+        "county": "missoula county",
+        "state": "mt",
+        "postal": "59807"
+      }
+    },
+    "filename": "20240710_122833",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 166,
+    "type": "map",
+    "type_id": "160",
+    "timestamp": "2024-07-10T12:31:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-10T12:31:00",
+      "end_timestamp": "2024-07-10T13:19:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "47 minutes",
+        "distance": "0 mi",
+        "location": "Near 221 W Front St, Montana",
+        "nearby": [
+          "Adway St",
+          "N Orange St",
+          "Riverfront Trail",
+          "Woody St",
+          "W Main St",
+          "W Front St",
+          "Ryman St",
+          "A Carousel for Missoula"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_192740_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 343,
+    "type": "receipt",
+    "type_id": "73",
+    "timestamp": "2024-07-10T12:32",
+    "place": "231 West Front Street Missoula, MT 59802",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "231 west front street",
+        "city": "missoula",
+        "state": "mt",
+        "postal": "59802"
+      },
+      "date": "2024-07-10",
+      "time": "12:32",
+      "address": "231 West Front Street Missoula, MT 59802",
+      "items": [
+        {
+          "name": "Coke",
+          "price": "$3.50"
+        },
+        {
+          "name": "Half BISON TACOS",
+          "price": "$11.00"
+        },
+        {
+          "name": "1/2 FISH AND CHIPS",
+          "price": "$11.00"
+        }
+      ],
+      "category": "restaurant",
+      "subtotal": "$25.50",
+      "total": "$25.50",
+      "suggested_tip": [
+        {
+          "percentage": "18%",
+          "tip": "$4.59",
+          "total": "$30.09"
+        },
+        {
+          "percentage": "20%",
+          "tip": "$5.10",
+          "total": "$30.60"
+        },
+        {
+          "percentage": "25%",
+          "tip": "$6.38",
+          "total": "$31.88"
+        }
+      ],
+      "tip_note": "Tip percentages are based on the check price before taxes.",
+      "powered_by": "Toast"
+    },
+    "filename": "20240902_102651",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 344,
+    "type": "receipt",
+    "type_id": "107",
+    "timestamp": "2024-07-10T12:32",
+    "place": "231 West Front Street, Missoula, MT 59802",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "231 west front street",
+        "city": "missoula",
+        "state": "mt",
+        "postal": "59802"
+      },
+      "date": "2024-07-10",
+      "time": "12:32",
+      "address": "231 West Front Street, Missoula, MT 59802",
+      "items": [
+        {
+          "description": "Cash Tendered",
+          "price": "$42.00"
+        },
+        {
+          "description": "Change",
+          "price": "$16.50"
+        }
+      ],
+      "category": "restaurant",
+      "other_details": {
+        "server": "UPSTAIRS BAR U",
+        "check_number": "26",
+        "table_number": "UP111",
+        "tip_suggestions": [
+          {
+            "percentage": "18%",
+            "tip_amount": "$4.59",
+            "total_amount": "$30.09"
+          },
+          {
+            "percentage": "20%",
+            "tip_amount": "$5.10",
+            "total_amount": "$30.60"
+          },
+          {
+            "percentage": "25%",
+            "tip_amount": "$6.38",
+            "total_amount": "$31.88"
+          }
+        ],
+        "tip_note": "Tip percentages are based on the check price before taxes.",
+        "powered_by": "Toast"
+      }
+    },
+    "filename": "20240902_102548",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1638,
+    "type": "picture",
+    "type_id": "1254",
+    "timestamp": "2024-07-10T12:43:01",
+    "place": "Tamarack Brewing Co, 231, West Front Street, Heart of Missoula, Missoula, Missoula County, Montana, 59802, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "231 west front street",
+        "city": "missoula",
+        "county": "missoula county",
+        "state": "mt",
+        "postal": "59802"
+      }
+    },
+    "filename": "20240710_124301",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2282,
+    "type": "picture",
+    "type_id": "1898",
+    "timestamp": "2024-07-10T13:12:17",
+    "place": "Tamarack Brewing Co, 231, West Front Street, Heart of Missoula, Missoula, Missoula County, Montana, 59802, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "231 west front street",
+        "city": "missoula",
+        "county": "missoula county",
+        "state": "mt",
+        "postal": "59802"
+      }
+    },
+    "filename": "20240710_131216",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2735,
+    "type": "story",
+    "type_id": "44",
+    "timestamp": "2024-07-10T13:15",
+    "place": null,
+    "description": "meals: tamarack\ntime: 13:15",
+    "data": {
+      "category": "meals",
+      "dada_rank": 6,
+      "sydney_rank": 9
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 167,
+    "type": "map",
+    "type_id": "332",
+    "timestamp": "2024-07-10T13:19:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-10T13:19:00",
+      "end_timestamp": "2024-07-10T14:30:00",
+      "place": {
+        "address": "221 w front st",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "us hwy 12",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "1 hour, 10 minutes",
+        "distance": "89 mi",
+        "location": "221 W Front St, Montana -> US Hwy 12, Montana",
+        "nearby": [
+          "Arlee",
+          "Seeley Lake",
+          "Missoula",
+          "Lolo",
+          "Florence",
+          "Stevensville",
+          "Victor",
+          "Lincoln",
+          "Deer Lodge",
+          "Philipsburg",
+          "Hamilton",
+          "Anaconda",
+          "Butte"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_183303_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1815,
+    "type": "picture",
+    "type_id": "1431",
+    "timestamp": "2024-07-10T13:25:20",
+    "place": "I 90;US 12;MT 200, Missoula County, Montana, 59702, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 90;us 12;mt 200",
+        "city": "missoula",
+        "county": "missoula county",
+        "state": "mt",
+        "postal": "59702"
+      },
+      "signs": "bonner 2\ndrummond 45\nbutte 115"
+    },
+    "filename": "20240710_132519",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 927,
+    "type": "picture",
+    "type_id": "543",
+    "timestamp": "2024-07-10T14:16:20",
+    "place": "2, US 12, Garrison, Powell County, Montana, 59731, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "2 us 12",
+        "city": "garrison",
+        "county": "powell county",
+        "state": "mt",
+        "postal": "59731"
+      }
+    },
+    "filename": "20240710_141619",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2309,
+    "type": "picture",
+    "type_id": "1925",
+    "timestamp": "2024-07-10T14:17:04",
+    "place": "57, US 12, Powell County, Montana, 59731, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "57 us 12",
+        "city": "powell",
+        "county": "powell county",
+        "state": "mt",
+        "postal": "59731"
+      }
+    },
+    "filename": "20240710_141704",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 168,
+    "type": "map",
+    "type_id": "26",
+    "timestamp": "2024-07-10T14:32:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-10T14:32:00",
+      "end_timestamp": "2024-07-10T14:43:00",
+      "place": {
+        "address": "us hwy 12",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "9149 us hwy 12w",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "11 minutes",
+        "distance": "9 mi",
+        "location": "US Hwy 12, Montana -> 9149 US Hwy 12 W, Montana",
+        "nearby": [
+          "Elliston",
+          "BLOSSBURG",
+          "Frontier Town"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_183253_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 169,
+    "type": "map",
+    "type_id": "55",
+    "timestamp": "2024-07-10T14:43:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-10T14:43:00",
+      "end_timestamp": "2024-07-10T14:52:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "8 minutes",
+        "distance": "0 mi",
+        "location": "Near 9149 US Hwy 12 W, Montana",
+        "nearby": []
+      }
+    },
+    "filename": "Screenshot_20240723_192301_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1834,
+    "type": "picture",
+    "type_id": "1450",
+    "timestamp": "2024-07-10T14:43:27",
+    "place": "US 12, Forest Heights, Lewis and Clark County, Montana, 59601, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 12 forest heights",
+        "city": "lewis and clark",
+        "county": "lewis and clark county",
+        "state": "mt",
+        "postal": "59601"
+      }
+    },
+    "filename": "20240710_144327",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1346,
+    "type": "picture",
+    "type_id": "962",
+    "timestamp": "2024-07-10T14:43:34",
+    "place": "US 12, Forest Heights, Lewis and Clark County, Montana, 59601, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 12 forest heights",
+        "city": "lewis and clark",
+        "county": "lewis and clark county",
+        "state": "mt",
+        "postal": "59601"
+      }
+    },
+    "filename": "20240710_144333",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 715,
+    "type": "picture",
+    "type_id": "331",
+    "timestamp": "2024-07-10T14:43:43",
+    "place": "US 12, Forest Heights, Lewis and Clark County, Montana, 59601, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 12 forest heights",
+        "city": "lewis and clark",
+        "county": "lewis and clark county",
+        "state": "mt",
+        "postal": "59601"
+      }
+    },
+    "filename": "20240710_144342",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1294,
+    "type": "picture",
+    "type_id": "910",
+    "timestamp": "2024-07-10T14:43:48",
+    "place": "US 12, Forest Heights, Lewis and Clark County, Montana, 59601, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 12 forest heights",
+        "city": "lewis and clark",
+        "county": "lewis and clark county",
+        "state": "mt",
+        "postal": "59601"
+      }
+    },
+    "filename": "20240710_144348",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1320,
+    "type": "picture",
+    "type_id": "936",
+    "timestamp": "2024-07-10T14:45:24",
+    "place": "US 12, Forest Heights, Lewis and Clark County, Montana, 59601, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 12 forest heights",
+        "city": "lewis and clark",
+        "county": "lewis and clark county",
+        "state": "mt",
+        "postal": "59601"
+      }
+    },
+    "filename": "20240710_144523",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 170,
+    "type": "map",
+    "type_id": "301",
+    "timestamp": "2024-07-10T14:52:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-10T14:52:00",
+      "end_timestamp": "2024-07-10T15:08:00",
+      "place": {
+        "address": "9149 us hwy 12 w",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "west 6th avenue",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "16 minutes",
+        "distance": "13 mi",
+        "location": "9149 US Hwy 12 W, Montana -> West 6th Avenue, Montana",
+        "nearby": [
+          "Helena Valley Northwest",
+          "Austin",
+          "Birdseye",
+          "Helena Valley West Central",
+          "Helena",
+          "Unionville",
+          "Rimini"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_192251_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 345,
+    "type": "receipt",
+    "type_id": "96",
+    "timestamp": "2024-07-10T15:08",
+    "place": "City of Helena",
+    "description": null,
+    "data": {
+      "place": {
+        "city": "helena"
+      },
+      "date": "2024-07-10",
+      "time": "15:08",
+      "address": "City of Helena",
+      "items": [
+        {
+          "description": "Street Parking",
+          "amount": "$0.50"
+        }
+      ],
+      "category": "parking",
+      "other_details": {
+        "valid_until": "2024-07-10 15:38",
+        "transaction_number": "13298",
+        "plate_number": "9817MM",
+        "meter_id": "Fuller-02"
+      }
+    },
+    "filename": "20240902_102719",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 171,
+    "type": "map",
+    "type_id": "80",
+    "timestamp": "2024-07-10T15:08:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-10T15:08:00",
+      "end_timestamp": "2024-07-10T15:24:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "16 minutes",
+        "distance": "0 mi",
+        "location": "Near West 6th Avenue, Montana",
+        "nearby": [
+          "W Lawrence St",
+          "Clarke St",
+          "W 6th Ave",
+          "Fuller Ave",
+          "Last Chance Gulch",
+          "7th Ave",
+          "6th Ave",
+          "E 6th Ave",
+          "Park Ave"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_184629_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2455,
+    "type": "picture",
+    "type_id": "2071",
+    "timestamp": "2024-07-10T15:10:07",
+    "place": "120, West 6th Avenue, Last Chance Gulch, Helena, Lewis and Clark County, Montana, 59601, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "120 west 6th avenue",
+        "city": "helena",
+        "county": "lewis and clark county",
+        "state": "mt",
+        "postal": "59601"
+      }
+    },
+    "filename": "20240710_151007",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 746,
+    "type": "picture",
+    "type_id": "362",
+    "timestamp": "2024-07-10T15:10:29",
+    "place": "120, West 6th Avenue, Last Chance Gulch, Helena, Lewis and Clark County, Montana, 59601, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "120 west 6th avenue",
+        "city": "helena",
+        "county": "lewis and clark county",
+        "state": "mt",
+        "postal": "59601"
+      }
+    },
+    "filename": "20240710_151029",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2445,
+    "type": "picture",
+    "type_id": "2061",
+    "timestamp": "2024-07-10T15:10:50",
+    "place": "120, West 6th Avenue, Last Chance Gulch, Helena, Lewis and Clark County, Montana, 59601, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "120 west 6th avenue",
+        "city": "helena",
+        "county": "lewis and clark county",
+        "state": "mt",
+        "postal": "59601"
+      }
+    },
+    "filename": "20240710_151050",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 346,
+    "type": "receipt",
+    "type_id": "2",
+    "timestamp": "2024-07-10T15:13",
+    "place": "58 N. Last Chance Gulch, Helena, MT 59601",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "58 n last chance gulch",
+        "city": "helena",
+        "state": "mt",
+        "postal": "59601"
+      },
+      "date": "2024-07-10",
+      "time": "15:13",
+      "address": "58 N. Last Chance Gulch, Helena, MT 59601",
+      "items": [
+        {
+          "description": "Double Malt",
+          "price": "$7.25"
+        }
+      ],
+      "category": "restaurant",
+      "other_details": {
+        "business_name": "Big Dipper Helena",
+        "phone_number": "(406) 513-1051",
+        "website": "www.bigdipperhelena.com",
+        "receipt_number": "VqgQ",
+        "total": "$15.25",
+        "cash": "$20.00",
+        "change": "$4.75",
+        "message": "Have a Helena Day!"
+      }
+    },
+    "filename": "20240902_101106",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1797,
+    "type": "picture",
+    "type_id": "1413",
+    "timestamp": "2024-07-10T15:15:23",
+    "place": "South Last Chance Gulch Street, Last Chance Gulch, Helena, Lewis and Clark County, Montana, 59601, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south last chance gulch street",
+        "city": "helena",
+        "county": "lewis and clark county",
+        "state": "mt",
+        "postal": "59601"
+      }
+    },
+    "filename": "20240710_151523",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2169,
+    "type": "picture",
+    "type_id": "1785",
+    "timestamp": "2024-07-10T15:15:33",
+    "place": "South Last Chance Gulch Street, Last Chance Gulch, Helena, Lewis and Clark County, Montana, 59601, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south last chance gulch street",
+        "city": "helena",
+        "county": "lewis and clark county",
+        "state": "mt",
+        "postal": "59601"
+      }
+    },
+    "filename": "20240710_151533",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2163,
+    "type": "picture",
+    "type_id": "1779",
+    "timestamp": "2024-07-10T15:19:25",
+    "place": "The Parrot, 42, South Last Chance Gulch Street, Last Chance Gulch, Helena, Lewis and Clark County, Montana, 59601, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "42 south last chance gulch street",
+        "city": "helena",
+        "county": "lewis and clark county",
+        "state": "mt",
+        "postal": "59601"
+      }
+    },
+    "filename": "20240710_151925",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1665,
+    "type": "picture",
+    "type_id": "1281",
+    "timestamp": "2024-07-10T15:19:39",
+    "place": "The Parrot, 42, South Last Chance Gulch Street, Last Chance Gulch, Helena, Lewis and Clark County, Montana, 59601, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "42 south last chance gulch street",
+        "city": "helena",
+        "county": "lewis and clark county",
+        "state": "mt",
+        "postal": "59601"
+      }
+    },
+    "filename": "20240710_151939",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2736,
+    "type": "story",
+    "type_id": "65",
+    "timestamp": "2024-07-10T15:20",
+    "place": null,
+    "description": "treats: ice cream in the gulch (big dipper)\ntime: 13:00\ntime: 15:20",
+    "data": {
+      "category": "treats",
+      "dada_rank": 4,
+      "sydney_rank": 14
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1999,
+    "type": "picture",
+    "type_id": "1615",
+    "timestamp": "2024-07-10T15:23:15",
+    "place": "The Hopper, South Last Chance Gulch Street, Last Chance Gulch, Helena, Lewis and Clark County, Montana, 59601, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "the hopper, south last chance gulch street",
+        "city": "helena",
+        "county": "lewis and clark county",
+        "state": "mt",
+        "postal": "59601"
+      }
+    },
+    "filename": "20240710_152314",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1054,
+    "type": "picture",
+    "type_id": "670",
+    "timestamp": "2024-07-10T15:23:18",
+    "place": "The Parrot, 42, South Last Chance Gulch Street, Last Chance Gulch, Helena, Lewis and Clark County, Montana, 59601, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "42 south last chance gulch street",
+        "city": "helena",
+        "county": "lewis and clark county",
+        "state": "mt",
+        "postal": "59601"
+      }
+    },
+    "filename": "20240710_152317",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2042,
+    "type": "picture",
+    "type_id": "1658",
+    "timestamp": "2024-07-10T15:23:38",
+    "place": "The Parrot, 42, South Last Chance Gulch Street, Last Chance Gulch, Helena, Lewis and Clark County, Montana, 59601, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "42 south last chance gulch street",
+        "city": "helena",
+        "county": "lewis and clark county",
+        "state": "mt",
+        "postal": "59601"
+      }
+    },
+    "filename": "20240710_152338",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2389,
+    "type": "picture",
+    "type_id": "2005",
+    "timestamp": "2024-07-10T15:23:53",
+    "place": "The Parrot, 42, South Last Chance Gulch Street, Last Chance Gulch, Helena, Lewis and Clark County, Montana, 59601, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "42 south last chance gulch street",
+        "city": "helena",
+        "county": "lewis and clark county",
+        "state": "mt",
+        "postal": "59601"
+      }
+    },
+    "filename": "20240710_152353",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 172,
+    "type": "map",
+    "type_id": "165",
+    "timestamp": "2024-07-10T15:24:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-10T15:24:00",
+      "end_timestamp": "2024-07-10T15:49:00",
+      "place": {
+        "address": "west 6th avenue",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "1863 i-15 bus",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "24 minutes",
+        "distance": "2 mi",
+        "location": "West 6th Avenue, Montana -> 1863 I-15 Bus, Montana",
+        "nearby": [
+          "Shellie's Country Cafe",
+          "Western Premier",
+          "Great Northern",
+          "N Benton Ave",
+          "Mount Ascension Park"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_192712_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 480,
+    "type": "picture",
+    "type_id": "96",
+    "timestamp": "2024-07-10T15:24:48",
+    "place": "Taco del Sol, 103, South Last Chance Gulch Street, Last Chance Gulch, Helena, Lewis and Clark County, Montana, 59601, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "103 south last chance gulch street",
+        "city": "helena",
+        "county": "lewis and clark county",
+        "state": "mt",
+        "postal": "59601"
+      }
+    },
+    "filename": "20240710_152448",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1110,
+    "type": "picture",
+    "type_id": "726",
+    "timestamp": "2024-07-10T15:24:54",
+    "place": "Taco del Sol, 103, South Last Chance Gulch Street, Last Chance Gulch, Helena, Lewis and Clark County, Montana, 59601, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "103 south last chance gulch street",
+        "city": "helena",
+        "county": "lewis and clark county",
+        "state": "mt",
+        "postal": "59601"
+      }
+    },
+    "filename": "20240710_152454",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2429,
+    "type": "picture",
+    "type_id": "2045",
+    "timestamp": "2024-07-10T15:29:39",
+    "place": "The Montana Land Reliance, 327, Fuller Avenue, Last Chance Gulch, Helena, Lewis and Clark County, Montana, 59624, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "327 fuller avenue",
+        "city": "helena",
+        "county": "lewis and clark county",
+        "state": "mt",
+        "postal": "59624"
+      },
+      "temp": "97° f",
+      "note": ""
+    },
+    "filename": "20240710_152938",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 564,
+    "type": "picture",
+    "type_id": "180",
+    "timestamp": "2024-07-10T15:39:57",
+    "place": "1183, East Broadway Street, Last Chance Gulch, Helena, Lewis and Clark County, Montana, 59601, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1183 east broadway street",
+        "city": "helena",
+        "county": "lewis and clark county",
+        "state": "mt",
+        "postal": "59601"
+      }
+    },
+    "filename": "20240710_153957",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2306,
+    "type": "picture",
+    "type_id": "1922",
+    "timestamp": "2024-07-10T15:44:44",
+    "place": "1249, East 6th Avenue, Capitol Hill, Helena, Lewis and Clark County, Montana, 59601, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1249 east 6th avenue",
+        "city": "helena",
+        "county": "lewis and clark county",
+        "state": "mt",
+        "postal": "59601"
+      }
+    },
+    "filename": "20240710_154443",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1497,
+    "type": "picture",
+    "type_id": "1113",
+    "timestamp": "2024-07-10T15:44:50",
+    "place": "1249, East 6th Avenue, Capitol Hill, Helena, Lewis and Clark County, Montana, 59601, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1249 east 6th avenue",
+        "city": "helena",
+        "county": "lewis and clark county",
+        "state": "mt",
+        "postal": "59601"
+      }
+    },
+    "filename": "20240710_154450",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 549,
+    "type": "picture",
+    "type_id": "165",
+    "timestamp": "2024-07-10T15:45:45",
+    "place": "1299, East 6th Avenue, Capitol Hill, Helena, Lewis and Clark County, Montana, 59601, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1299 east 6th avenue",
+        "city": "helena",
+        "county": "lewis and clark county",
+        "state": "mt",
+        "postal": "59601"
+      }
+    },
+    "filename": "20240710_154545",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1958,
+    "type": "picture",
+    "type_id": "1574",
+    "timestamp": "2024-07-10T15:48:13",
+    "place": "1754, 11th Avenue, Prospect, Helena, Lewis and Clark County, Montana, 59601, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1754 11th avenue",
+        "city": "helena",
+        "county": "lewis and clark county",
+        "state": "mt",
+        "postal": "59601"
+      }
+    },
+    "filename": "20240710_154813",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 347,
+    "type": "receipt",
+    "type_id": "1",
+    "timestamp": "2024-07-10T15:50",
+    "place": "1831 11th Ave, Helena, MT 59601",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1831 11th ave",
+        "city": "helena",
+        "state": "mt",
+        "postal": "59601"
+      },
+      "date": "2024-07-10",
+      "time": "15:50",
+      "address": "1831 11th Ave, Helena, MT 59601",
+      "items": [
+        {
+          "description": "Regular gas",
+          "quantity": "10.315 gallons",
+          "price": "$3.439 per gallon",
+          "total": "$35.47"
+        }
+      ],
+      "category": "gas",
+      "other_details": {
+        "store_name": "Friendly's",
+        "invoice_number": "015735",
+        "authorization_number": "375120",
+        "pump_number": "3",
+        "payment_method": "debit",
+        "sequence_number": "89645",
+        "chip_read": true,
+        "mode": "issuer",
+        "AID": "ABBBBBBBB42283",
+        "TVR": "8888848888",
+        "IAD": "081186818812288888",
+        "TSI": "6888",
+        "ARC": "88",
+        "TC": "23898FF5E8B6021F",
+        "approval_number": "375128",
+        "verified_by_PIN": true,
+        "thank_you_message": "THANKS FOR SHOPPING AT FRIENDLY'S"
+      }
+    },
+    "filename": "20240902_101413",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 348,
+    "type": "receipt",
+    "type_id": "119",
+    "timestamp": "2024-07-10T15:55",
+    "place": "Friendly's, 11831 11th Ave, Helena, MT 59601",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "11831 11th ave",
+        "city": "helena",
+        "state": "mt",
+        "postal": "59601",
+        "business": "friendly's"
+      },
+      "date": "2024-07-10",
+      "time": "15:55",
+      "address": "Friendly's, 11831 11th Ave, Helena, MT 59601",
+      "items": [
+        {
+          "description": "Diet Pepsi 12 pack",
+          "price": "$8.49"
+        }
+      ],
+      "category": "groceries",
+      "total": "$8.49",
+      "change_due": "$-11.51",
+      "payment_method": "cash",
+      "cashier": "Anita",
+      "phone_number": "406-442-4865"
+    },
+    "filename": "20240902_103913",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 173,
+    "type": "map",
+    "type_id": "54",
+    "timestamp": "2024-07-10T16:11:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-10T16:11:00",
+      "end_timestamp": "2024-07-10T16:38:00",
+      "place": {
+        "address": "4703 us hwy 12",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "US 287",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "27 minutes",
+        "distance": "29 mi",
+        "location": "4703 US Hwy 12, Montana -> US 287, Montana",
+        "nearby": [
+          "Whites City",
+          "Spokane Creek",
+          "Missouri River",
+          "Winston",
+          "McMullan",
+          "Bedford",
+          "Diamond",
+          "Noble",
+          "Canton",
+          "Townsend",
+          "Hassel",
+          "Radersburg"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_183222_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 514,
+    "type": "picture",
+    "type_id": "130",
+    "timestamp": "2024-07-10T16:11:53",
+    "place": "4865, US 12;US 287, Lewis and Clark County, Montana, 59635, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "4865 us 12;us 287",
+        "city": "",
+        "county": "lewis and clark county",
+        "state": "mt",
+        "postal": "59635"
+      },
+      "caption": "forest fire"
+    },
+    "filename": "20240710_161152",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2515,
+    "type": "picture",
+    "type_id": "2131",
+    "timestamp": "2024-07-10T16:13:50",
+    "place": "US 12;US 287, Clasoil, Jefferson County, Montana, 59635, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 12;us 287",
+        "city": "clasoil",
+        "county": "jefferson county",
+        "state": "mt",
+        "postal": "59635"
+      },
+      "signs": "winston 9\ntownsend 22\nthree forks 57"
+    },
+    "filename": "20240710_161350",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 174,
+    "type": "map",
+    "type_id": "309",
+    "timestamp": "2024-07-10T16:40:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-10T16:40:00",
+      "end_timestamp": "2024-07-10T17:39:00",
+      "place": {
+        "address": "8575 us hwy 287",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "63 jackrabbit ln",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "58 minutes",
+        "distance": "54 mi",
+        "location": "8575 US Hwy 287, Montana -> 63 Jackrabbit Ln, Montana",
+        "nearby": [
+          "Radersburg",
+          "Toston",
+          "Maudlow",
+          "Clarkston",
+          "Willow Creek",
+          "Harrison",
+          "Bozeman",
+          "Gallatin"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_192648_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1004,
+    "type": "picture",
+    "type_id": "620",
+    "timestamp": "2024-07-10T16:46:35",
+    "place": "Highway 287, Toston, Broadwater County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "highway 287",
+        "city": "toston",
+        "county": "broadwater county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240710_164634",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1360,
+    "type": "picture",
+    "type_id": "976",
+    "timestamp": "2024-07-10T16:48:56",
+    "place": "Highway 287, Toston, Broadwater County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "highway 287",
+        "city": "toston",
+        "county": "broadwater county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240710_164855",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1700,
+    "type": "picture",
+    "type_id": "1316",
+    "timestamp": "2024-07-10T16:54:16",
+    "place": "10202, Highway 287, Toston, Broadwater County, Montana, 59752, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "10202 highway 287",
+        "city": "toston",
+        "county": "broadwater county",
+        "state": "mt",
+        "postal": "59752"
+      }
+    },
+    "filename": "20240710_165416",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 820,
+    "type": "picture",
+    "type_id": "436",
+    "timestamp": "2024-07-10T16:55:17",
+    "place": "Highway 287, Toston, Broadwater County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "highway 287",
+        "city": "toston",
+        "county": "broadwater county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240710_165517",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1758,
+    "type": "picture",
+    "type_id": "1374",
+    "timestamp": "2024-07-10T17:11:32",
+    "place": "I 90, Gallatin County, Montana, 59741, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 90",
+        "city": "",
+        "county": "gallatin county",
+        "state": "mt",
+        "postal": "59741"
+      }
+    },
+    "filename": "20240710_171131(0)",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1717,
+    "type": "picture",
+    "type_id": "1333",
+    "timestamp": "2024-07-10T17:25:00",
+    "place": "4855, Jackrabbit Lane, Cowan, Gallatin County, Montana, 59718, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "4855 jackrabbit lane",
+        "city": "cowan",
+        "county": "gallatin county",
+        "state": "mt",
+        "postal": "59718"
+      }
+    },
+    "filename": "20240710_172500",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2737,
+    "type": "story",
+    "type_id": "306",
+    "timestamp": "2024-07-10T17:40",
+    "place": null,
+    "description": "songs: dirty work -- steely dan\n\ntime: 17:40",
+    "data": {
+      "id": 27,
+      "artist_name": "Steely Dan",
+      "song_name": "Dirty Work",
+      "image_link": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
+      "song_link": "https://open.spotify.com/track/3IvTwPCCjfZczCN2k4qPiH",
+      "ordinal": 27,
+      "spotify_id": "3IvTwPCCjfZczCN2k4qPiH",
+      "added_at": "2024-06-21T17:08:19Z",
+      "playlist_id": "41vG11QGXrrIfdsE6cy6Sz",
+      "playlist_name": "jun-10-2024",
+      "playlist_owner": "Rich Sanda",
+      "category": "songs",
+      "dada_rank": 3,
+      "sydney_rank": 47
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 349,
+    "type": "receipt",
+    "type_id": "29",
+    "timestamp": "2024-07-10T17:45",
+    "place": "7715 Shedhorn Dr. Bozeman, MT 59718",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "7715 shedhorn dr",
+        "city": "bozeman",
+        "state": "mt",
+        "postal": "59718"
+      },
+      "date": "2024-07-10",
+      "time": "17:45",
+      "address": "7715 Shedhorn Dr. Bozeman, MT 59718",
+      "items": [
+        {
+          "description": "Blood Orange Double",
+          "price": 12.5
+        },
+        {
+          "description": "Forklift Rodeo Easy",
+          "price": 10.4
+        }
+      ],
+      "category": "restaurant",
+      "total": 22.9,
+      "tip": 5.73,
+      "payment_method": "MASTERCARD",
+      "card_number": "XXXX-XXXX-XXXX-9725",
+      "customer_name": "Richard Sanda"
+    },
+    "filename": "20240902_103854",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 175,
+    "type": "map",
+    "type_id": "304",
+    "timestamp": "2024-07-10T17:57:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-10T17:57:00",
+      "end_timestamp": "2024-07-10T20:22:00",
+      "place": {
+        "address": "huffine lane",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "843 parkway lane",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "2 hours, 24 minutes",
+        "distance": "147 mi",
+        "location": "Huffine Lane, Montana -> 843 Parkway Lane, Montana",
+        "nearby": [
+          "Roundup",
+          "Big Timber",
+          "Bozeman",
+          "Laurel",
+          "Custer Gallatin National Forest",
+          "Red Lodge",
+          "Custer National Forest",
+          "Gardiner",
+          "Powell",
+          "West Yellowstone",
+          "Cody",
+          "Yellowstone National Park"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_183202_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 946,
+    "type": "picture",
+    "type_id": "562",
+    "timestamp": "2024-07-10T18:12:39",
+    "place": "The Lark, 122, West Main Street, Downtown, Bozeman, Gallatin County, Montana, 59715, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "122 west main street",
+        "city": "bozeman",
+        "county": "gallatin county",
+        "state": "mt",
+        "postal": "59715"
+      }
+    },
+    "filename": "20240710_181239",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1703,
+    "type": "picture",
+    "type_id": "1319",
+    "timestamp": "2024-07-10T18:12:51",
+    "place": "The Baxter, 105, West Main Street, Downtown, Bozeman, Gallatin County, Montana, 59715, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "105 west main street",
+        "city": "bozeman",
+        "county": "gallatin county",
+        "state": "mt",
+        "postal": "59715"
+      }
+    },
+    "filename": "20240710_181251",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1824,
+    "type": "picture",
+    "type_id": "1440",
+    "timestamp": "2024-07-10T18:18:17",
+    "place": "East Main Street, Eastedge Meadows, Bozeman, Gallatin County, Montana, 59717, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "east main street",
+        "city": "bozeman",
+        "county": "gallatin county",
+        "state": "mt",
+        "postal": "59717"
+      },
+      "signs": "butte, frontage rd\nbillings, livingston"
+    },
+    "filename": "20240710_181817",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1910,
+    "type": "picture",
+    "type_id": "1526",
+    "timestamp": "2024-07-10T18:22:56",
+    "place": "I 90;US 191, Bear Canyon, Chestnut, Gallatin County, Montana, 69718, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 90;us 191",
+        "city": "chestnut",
+        "county": "gallatin county",
+        "state": "mt",
+        "postal": "69718"
+      }
+    },
+    "filename": "20240710_182256",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2543,
+    "type": "picture",
+    "type_id": "2159",
+    "timestamp": "2024-07-10T19:06:07",
+    "place": "I 90, Sweet Grass County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 90",
+        "city": "",
+        "county": "sweet grass county",
+        "state": "mt",
+        "postal": ""
+      },
+      "signs": "greycliff 6\ncolumbus 37\nbillings 77"
+    },
+    "filename": "20240710_190607",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 176,
+    "type": "map",
+    "type_id": "169",
+    "timestamp": "2024-07-10T20:22:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-10T20:22:00",
+      "end_timestamp": "2024-07-11T06:29:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "10 hours, 6 minutes",
+        "distance": "0 mi",
+        "location": "Near 843 Parkway Lane, Montana",
+        "nearby": [
+          "EnergiSystems",
+          "Parkway Ln",
+          "Southgate Dr"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_184613_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2219,
+    "type": "picture",
+    "type_id": "1835",
+    "timestamp": "2024-07-10T21:43:01",
+    "place": "Days Inn by Wyndham Billings, 843, Parkway Lane, Billings, Yellowstone County, Montana, 59101, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "843 parkway lane",
+        "city": "billings",
+        "county": "yellowstone county",
+        "state": "mt",
+        "postal": "59101"
+      }
+    },
+    "filename": "20240710_214300",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  }
+]

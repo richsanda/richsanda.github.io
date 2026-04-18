@@ -1,0 +1,2606 @@
+[
+  {
+    "id": 2681,
+    "type": "story",
+    "type_id": "188",
+    "timestamp": "2024-07-01T00:01",
+    "place": null,
+    "description": "days: day 5, jul 1 (upper peninsula -> duluth, mn)\ntime: 00:01\ndate: 2024-07-01",
+    "data": {
+      "category": "days",
+      "dada_rank": 2,
+      "sydney_rank": 2
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1458,
+    "type": "picture",
+    "type_id": "1074",
+    "timestamp": "2024-07-01T07:26:45",
+    "place": "Garden Congregational Church, State Street, Garden, Garden Township, Delta County, Michigan, 49835, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "garden congregational church, state street",
+        "city": "garden",
+        "county": "delta county",
+        "state": "mi",
+        "postal": "49835"
+      }
+    },
+    "filename": "20240701_072645",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1127,
+    "type": "picture",
+    "type_id": "743",
+    "timestamp": "2024-07-01T07:26:52",
+    "place": "Garden Congregational Church, State Street, Garden, Garden Township, Delta County, Michigan, 49835, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "garden congregational church, state street",
+        "city": "garden",
+        "county": "delta county",
+        "state": "mi",
+        "postal": "49835"
+      }
+    },
+    "filename": "20240701_072652",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1754,
+    "type": "picture",
+    "type_id": "1370",
+    "timestamp": "2024-07-01T07:27:23",
+    "place": "Garden Congregational Church, State Street, Garden, Garden Township, Delta County, Michigan, 49835, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "garden congregational church",
+        "city": "garden",
+        "county": "delta county",
+        "state": "mi",
+        "postal": "49835"
+      }
+    },
+    "filename": "20240701_072723",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2039,
+    "type": "picture",
+    "type_id": "1655",
+    "timestamp": "2024-07-01T07:30:01",
+    "place": "Garden Congregational Church, State Street, Garden, Garden Township, Delta County, Michigan, 49835, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "garden congregational church, state street",
+        "city": "garden",
+        "county": "delta county",
+        "state": "mi",
+        "postal": "49835"
+      }
+    },
+    "filename": "20240701_073001",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1147,
+    "type": "picture",
+    "type_id": "763",
+    "timestamp": "2024-07-01T07:30:34",
+    "place": "Garden Congregational Church, State Street, Garden, Garden Township, Delta County, Michigan, 49835, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "garden congregational church, state street",
+        "city": "garden",
+        "county": "delta county",
+        "state": "mi",
+        "postal": "49835"
+      }
+    },
+    "filename": "20240701_073034",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 740,
+    "type": "picture",
+    "type_id": "356",
+    "timestamp": "2024-07-01T07:33:01",
+    "place": "Garden Congregational Church, State Street, Garden, Garden Township, Delta County, Michigan, 49835, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "garden congregational church, state street",
+        "city": "garden",
+        "county": "delta county",
+        "state": "mi",
+        "postal": "49835"
+      }
+    },
+    "filename": "20240701_073300",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2495,
+    "type": "picture",
+    "type_id": "2111",
+    "timestamp": "2024-07-01T07:35:24",
+    "place": "Mill Street, Garden, Garden Township, Delta County, Michigan, 49835, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "mill street",
+        "city": "garden",
+        "county": "delta county",
+        "state": "mi",
+        "postal": "49835"
+      }
+    },
+    "filename": "20240701_073524",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 55,
+    "type": "map",
+    "type_id": "199",
+    "timestamp": "2024-07-01T08:41:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-01T08:41:00",
+      "end_timestamp": "2024-07-01T10:07:00",
+      "place": {
+        "address": "state street"
+      },
+      "end_place": {
+        "address": "unnamed road"
+      },
+      "info": {
+        "duration": "1 hour, 25 minutes",
+        "distance": "63 mi",
+        "location": "State Street -> Unnamed Road",
+        "nearby": [
+          "Au Train",
+          "Munising",
+          "Seney",
+          "Trenary",
+          "Hiawatha National Forest",
+          "Shingleton",
+          "Germfask",
+          "Curt",
+          "Rapid River",
+          "Gladstone",
+          "Manistique",
+          "Escanaba"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_194241_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2357,
+    "type": "picture",
+    "type_id": "1973",
+    "timestamp": "2024-07-01T08:49:54",
+    "place": "OO.25 Road, Garden Corners, Garden Township, Delta County, Michigan, 49835, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "oo.25 road",
+        "city": "garden corners",
+        "county": "delta county",
+        "state": "mi",
+        "postal": "49835"
+      }
+    },
+    "filename": "20240701_084954",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 846,
+    "type": "picture",
+    "type_id": "462",
+    "timestamp": "2024-07-01T09:00:37",
+    "place": "11, Thunder Lake Road, Inwood Township, Schoolcraft County, Michigan, 49817, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "11 thunder lake road",
+        "city": "inwood township",
+        "county": "schoolcraft county",
+        "state": "mi",
+        "postal": "49817"
+      },
+      "signs": "thunder lake 11\nsteuben 19"
+    },
+    "filename": "20240701_090037",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 791,
+    "type": "picture",
+    "type_id": "407",
+    "timestamp": "2024-07-01T09:00:40",
+    "place": "11, Thunder Lake Road, Inwood Township, Schoolcraft County, Michigan, 49817, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "11 thunder lake road",
+        "city": "inwood township",
+        "county": "schoolcraft county",
+        "state": "mi",
+        "postal": "49817"
+      }
+    },
+    "filename": "20240701_090040",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2593,
+    "type": "picture",
+    "type_id": "2209",
+    "timestamp": "2024-07-01T09:06:10",
+    "place": "Thunder Lake Road, Inwood Township, Schoolcraft County, Michigan, 49817, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "thunder lake road",
+        "city": "inwood township",
+        "county": "schoolcraft county",
+        "state": "mi",
+        "postal": "49817"
+      }
+    },
+    "filename": "20240701_090609",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2547,
+    "type": "picture",
+    "type_id": "2163",
+    "timestamp": "2024-07-01T09:10:23",
+    "place": "County Highway 449, Inwood Township, Schoolcraft County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "county highway 449",
+        "city": "inwood township",
+        "county": "schoolcraft county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_091022",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 588,
+    "type": "picture",
+    "type_id": "204",
+    "timestamp": "2024-07-01T09:22:06",
+    "place": "8 Mile Road, Thompson Township, Schoolcraft County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "8 mile road",
+        "city": "thompson township",
+        "county": "schoolcraft county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_092206",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2476,
+    "type": "picture",
+    "type_id": "2092",
+    "timestamp": "2024-07-01T09:25:46",
+    "place": "M 94, Thompson Township, Schoolcraft County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "m 94",
+        "city": "thompson township",
+        "county": "schoolcraft county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_092546",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2143,
+    "type": "picture",
+    "type_id": "1759",
+    "timestamp": "2024-07-01T09:45:24",
+    "place": "Shingleton-Van Meer Road, Van Meer, Shingleton, Munising Township, Alger County, Michigan, 49884, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "shingleton-van meer road",
+        "city": "van meer",
+        "county": "alger county",
+        "state": "mi",
+        "postal": "49884"
+      }
+    },
+    "filename": "20240701_094523",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 56,
+    "type": "map",
+    "type_id": "372",
+    "timestamp": "2024-07-01T10:07:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-01T10:07:00",
+      "end_timestamp": "2024-07-01T14:24:00",
+      "place": {
+        "address": "chapel rock trail",
+        "state": "mi"
+      },
+      "end_place": {
+        "address": "chapel rd",
+        "state": "mi"
+      },
+      "info": {
+        "duration": "4 hours, 16 minutes",
+        "distance": "6 mi",
+        "location": "Chapel Rock Trail, Michigan -> Chapel Rd, Michigan",
+        "nearby": [
+          "Falls Trailhead",
+          "Chapel Falls",
+          "Chapel Beach"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_211709_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1822,
+    "type": "picture",
+    "type_id": "1438",
+    "timestamp": "2024-07-01T10:25:38",
+    "place": "Chapel Rock Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "chapel rock trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_102538",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1912,
+    "type": "picture",
+    "type_id": "1528",
+    "timestamp": "2024-07-01T10:25:44",
+    "place": "Chapel Rock Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "chapel rock trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_102543",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1814,
+    "type": "picture",
+    "type_id": "1430",
+    "timestamp": "2024-07-01T10:27:03",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240701_102703",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2501,
+    "type": "picture",
+    "type_id": "2117",
+    "timestamp": "2024-07-01T10:27:05",
+    "place": "Chapel Rock Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "chapel rock trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_102705",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2325,
+    "type": "picture",
+    "type_id": "1941",
+    "timestamp": "2024-07-01T10:29:25",
+    "place": "Chapel Rock Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "chapel rock trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_102925",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2532,
+    "type": "picture",
+    "type_id": "2148",
+    "timestamp": "2024-07-01T10:38:56",
+    "place": "Chapel Rock Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "chapel rock trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_103856",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1084,
+    "type": "picture",
+    "type_id": "700",
+    "timestamp": "2024-07-01T10:52:27",
+    "place": "Chapel Rock Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "chapel rock trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_105227",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1804,
+    "type": "picture",
+    "type_id": "1420",
+    "timestamp": "2024-07-01T10:52:45",
+    "place": "Chapel Rock Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "chapel rock trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_105244",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 403,
+    "type": "picture",
+    "type_id": "19",
+    "timestamp": "2024-07-01T11:04:45",
+    "place": "Chapel Falls, Chapel Rock Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "chapel falls, chapel rock trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_110445",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1361,
+    "type": "picture",
+    "type_id": "977",
+    "timestamp": "2024-07-01T11:05:11",
+    "place": "Chapel Falls, Chapel Rock Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "chapel falls, chapel rock trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_110511",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2415,
+    "type": "picture",
+    "type_id": "2031",
+    "timestamp": "2024-07-01T11:05:19",
+    "place": "Chapel Falls, Chapel Rock Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "chapel falls, chapel rock trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_110519",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1535,
+    "type": "picture",
+    "type_id": "1151",
+    "timestamp": "2024-07-01T11:07:30",
+    "place": "Chapel Rock Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "chapel rock trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_110730",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 960,
+    "type": "picture",
+    "type_id": "576",
+    "timestamp": "2024-07-01T11:09:17",
+    "place": "Chapel Rock Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "chapel rock trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_110917",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1449,
+    "type": "picture",
+    "type_id": "1065",
+    "timestamp": "2024-07-01T11:09:28",
+    "place": "Chapel Rock Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "chapel rock trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_110927",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 872,
+    "type": "picture",
+    "type_id": "488",
+    "timestamp": "2024-07-01T11:10:54",
+    "place": "Chapel Rock Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "chapel rock trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_111054",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 996,
+    "type": "picture",
+    "type_id": "612",
+    "timestamp": "2024-07-01T11:12:09",
+    "place": "Chapel Rock Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "chapel rock trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_111209",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2344,
+    "type": "picture",
+    "type_id": "1960",
+    "timestamp": "2024-07-01T11:13:48",
+    "place": "Chapel Rock Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "chapel rock trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_111348",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2091,
+    "type": "picture",
+    "type_id": "1707",
+    "timestamp": "2024-07-01T11:19:16",
+    "place": "Chapel Rock Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "chapel rock trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_111915",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 914,
+    "type": "picture",
+    "type_id": "530",
+    "timestamp": "2024-07-01T11:27:11",
+    "place": "Chapel Rock Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "chapel rock trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_112711",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1304,
+    "type": "picture",
+    "type_id": "920",
+    "timestamp": "2024-07-01T11:29:41",
+    "place": "Chapel Rock Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "chapel rock trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_112941",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2682,
+    "type": "story",
+    "type_id": "125",
+    "timestamp": "2024-07-01T11:30",
+    "place": null,
+    "description": "wildlife: chipmunk\ntime: 11:30",
+    "data": {
+      "category": "wildlife",
+      "dada_rank": 14,
+      "sydney_rank": 8
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 633,
+    "type": "picture",
+    "type_id": "249",
+    "timestamp": "2024-07-01T12:07:04",
+    "place": "North Country Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "north country trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_120704",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2255,
+    "type": "picture",
+    "type_id": "1871",
+    "timestamp": "2024-07-01T12:07:10",
+    "place": "North Country Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "north country trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_120710",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2176,
+    "type": "picture",
+    "type_id": "1792",
+    "timestamp": "2024-07-01T12:08:19",
+    "place": "North Country Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "north country trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_120819",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 552,
+    "type": "picture",
+    "type_id": "168",
+    "timestamp": "2024-07-01T12:09:44",
+    "place": "North Country Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "north country trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_120944",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1464,
+    "type": "picture",
+    "type_id": "1080",
+    "timestamp": "2024-07-01T12:09:55",
+    "place": "North Country Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "north country trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_120955",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2683,
+    "type": "story",
+    "type_id": "119",
+    "timestamp": "2024-07-01T12:10",
+    "place": null,
+    "description": "wildlife: bald eagle\ntime: 12:10",
+    "data": {
+      "category": "wildlife",
+      "dada_rank": 6,
+      "sydney_rank": 11
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1092,
+    "type": "picture",
+    "type_id": "708",
+    "timestamp": "2024-07-01T12:11:14",
+    "place": "North Country Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "north country trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_121113",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2328,
+    "type": "picture",
+    "type_id": "1944",
+    "timestamp": "2024-07-01T12:13:17",
+    "place": "North Country Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "north country trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_121316",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1318,
+    "type": "picture",
+    "type_id": "934",
+    "timestamp": "2024-07-01T12:13:25",
+    "place": "North Country Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "north country trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_121325",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 685,
+    "type": "picture",
+    "type_id": "301",
+    "timestamp": "2024-07-01T12:14:41",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240701_121440",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1117,
+    "type": "picture",
+    "type_id": "733",
+    "timestamp": "2024-07-01T12:14:48",
+    "place": "North Country Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "north country trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_121447",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2283,
+    "type": "picture",
+    "type_id": "1899",
+    "timestamp": "2024-07-01T12:18:44",
+    "place": "North Country Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "north country trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_121843",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1407,
+    "type": "picture",
+    "type_id": "1023",
+    "timestamp": "2024-07-01T12:18:50",
+    "place": "North Country Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "north country trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_121850",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 818,
+    "type": "picture",
+    "type_id": "434",
+    "timestamp": "2024-07-01T12:34:06",
+    "place": "North Country Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "north country trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_123406",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 399,
+    "type": "picture",
+    "type_id": "15",
+    "timestamp": "2024-07-01T12:39:59",
+    "place": "Chapel Beach Falls, North Country Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "chapel beach falls",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_123958",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1524,
+    "type": "picture",
+    "type_id": "1140",
+    "timestamp": "2024-07-01T12:40:03",
+    "place": "Chapel Beach Falls, North Country Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "chapel beach falls",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_124003",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 877,
+    "type": "picture",
+    "type_id": "493",
+    "timestamp": "2024-07-01T12:40:34",
+    "place": "Chapel Beach Falls, North Country Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "chapel beach falls",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_124033",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2684,
+    "type": "story",
+    "type_id": "2",
+    "timestamp": "2024-07-01T13:00",
+    "place": null,
+    "description": "adventures/nature: pictured rocks / chapel rock / chapel falls\ntime: 13:00",
+    "data": {
+      "category": "adventures/nature",
+      "dada_rank": 2,
+      "sydney_rank": 5
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2459,
+    "type": "picture",
+    "type_id": "2075",
+    "timestamp": "2024-07-01T13:37:17",
+    "place": "Chapel Beach Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "chapel beach trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_133717",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2491,
+    "type": "picture",
+    "type_id": "2107",
+    "timestamp": "2024-07-01T13:37:21",
+    "place": "Chapel Beach Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "chapel beach trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_133721",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2405,
+    "type": "picture",
+    "type_id": "2021",
+    "timestamp": "2024-07-01T13:39:16",
+    "place": "Chapel Beach Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "chapel beach trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_133916",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1218,
+    "type": "picture",
+    "type_id": "834",
+    "timestamp": "2024-07-01T13:45:21",
+    "place": "Chapel Beach Trail, Munising Township, Alger County, Michigan, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "chapel beach trail",
+        "city": "munising township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": ""
+      }
+    },
+    "filename": "20240701_134521",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 57,
+    "type": "map",
+    "type_id": "233",
+    "timestamp": "2024-07-01T14:24:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-01T14:24:00",
+      "end_timestamp": "2024-07-01T15:18:00",
+      "place": {
+        "address": "chapel rd",
+        "state": "mi"
+      },
+      "end_place": {
+        "address": "state hwy m 28",
+        "state": "mi"
+      },
+      "info": {
+        "duration": "53 minutes",
+        "distance": "47 mi",
+        "location": "Chapel Rd, Michigan -> State Hwy M 28, Michigan",
+        "nearby": [
+          "Grand Island",
+          "Pictured Rocks National Lakeshore",
+          "Eben Junction",
+          "Shingleton",
+          "Trenary",
+          "Au Train"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_211720_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1168,
+    "type": "picture",
+    "type_id": "784",
+    "timestamp": "2024-07-01T15:05:24",
+    "place": "West State Highway M 28, Au Train Township, Alger County, Michigan, 49806, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "west state highway m 28",
+        "city": "au train township",
+        "county": "alger county",
+        "state": "mi",
+        "postal": "49806"
+      }
+    },
+    "filename": "20240701_150524",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 58,
+    "type": "map",
+    "type_id": "153",
+    "timestamp": "2024-07-01T15:18:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-01T15:18:00",
+      "end_timestamp": "2024-07-01T15:43:00",
+      "place": {
+        "address": "state highway 28",
+        "state": "mi"
+      },
+      "end_place": {
+        "address": "west washington street"
+      },
+      "info": {
+        "duration": "25 minutes",
+        "distance": "20 mi",
+        "location": "State Highway 28, Michigan -> West Washington Street, Michigan",
+        "nearby": [
+          "Marquette",
+          "Sands",
+          "Harvey",
+          "Sand River",
+          "Deerton",
+          "Yalmar",
+          "Skandia",
+          "KI Sawyer AFB",
+          "Dukes",
+          "Sundell",
+          "Carlshend",
+          "Gwinn",
+          "Little Lake"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_211736_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1538,
+    "type": "picture",
+    "type_id": "1154",
+    "timestamp": "2024-07-01T15:39:00",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240701_153900",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1786,
+    "type": "picture",
+    "type_id": "1402",
+    "timestamp": "2024-07-01T15:39:20",
+    "place": "300, South Front Street, Marquette, Marquette County, Michigan, 49855, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "300 south front street",
+        "city": "marquette",
+        "county": "marquette county",
+        "state": "mi",
+        "postal": "49855"
+      }
+    },
+    "filename": "20240701_153920",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 394,
+    "type": "picture",
+    "type_id": "10",
+    "timestamp": "2024-07-01T15:40:24",
+    "place": "256, South Front Street, Marquette, Marquette County, Michigan, 49855, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "256 south front street",
+        "city": "marquette",
+        "county": "marquette county",
+        "state": "mi",
+        "postal": "49855"
+      }
+    },
+    "filename": "20240701_154023",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 59,
+    "type": "map",
+    "type_id": "126",
+    "timestamp": "2024-07-01T15:43:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-01T15:43:00",
+      "end_timestamp": "2024-07-01T16:02:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "18 minutes",
+        "distance": "0 mi",
+        "location": "Near West Washington Street, Michigan",
+        "nearby": [
+          "W Ridge St",
+          "N 5th St",
+          "W Bluff St",
+          "W Webington St",
+          "Iron Ore Heritage Trail",
+          "N 4th St"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_211747_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 285,
+    "type": "receipt",
+    "type_id": "51",
+    "timestamp": "2024-07-01T15:44",
+    "place": "Marquette, MI",
+    "description": null,
+    "data": {
+      "place": {
+        "city": "marquette",
+        "state": "mi"
+      },
+      "date": "2024-07-01",
+      "time": "15:44",
+      "address": "Marquette, MI",
+      "items": [
+        {
+          "description": "Custom Round - Whole: Old World Pepperoni",
+          "price": 11.99
+        },
+        {
+          "description": "Pepperoni Crazy PuffsTM",
+          "price": 3.99
+        }
+      ],
+      "category": "restaurant",
+      "total": 16.94,
+      "payment_method": "credit card",
+      "card_number": "************9725",
+      "card_holder": "Richard Sanda",
+      "authorization_code": "4079",
+      "chip_read": true,
+      "chip_indicator": "contact",
+      "application_label": "debit",
+      "cvm": "none",
+      "tsi": "6800",
+      "aid": "A0000000042203",
+      "iad": "0110A00001220000000000000000000000FF",
+      "arc": "0",
+      "tvr": "8000008000",
+      "mode": "issuer",
+      "summer_sweeps": true,
+      "summer_sweeps_url": "summersweeps.littlecaesars.com",
+      "no_purchase_entry": true,
+      "no_purchase_entry_url": "summersweeps.littlecaesars.com"
+    },
+    "filename": "20240902_094859",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1040,
+    "type": "picture",
+    "type_id": "656",
+    "timestamp": "2024-07-01T15:46:55",
+    "place": "325, West Washington Street, Marquette, Marquette County, Michigan, 49855, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "325 west washington street",
+        "city": "marquette",
+        "county": "marquette county",
+        "state": "mi",
+        "postal": "49855"
+      }
+    },
+    "filename": "20240701_154654",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 286,
+    "type": "receipt",
+    "type_id": "47",
+    "timestamp": "2024-07-01T15:47",
+    "place": "338 W Washington St, Marquette, MI 49855",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "338 w washington st",
+        "city": "marquette",
+        "state": "mi",
+        "postal": "49855"
+      },
+      "date": "2024-07-01",
+      "time": "15:47",
+      "address": "338 W Washington St, Marquette, MI 49855",
+      "items": [
+        {
+          "description": "1 RPL SPTMN R 40PR",
+          "price": 10.79
+        }
+      ],
+      "category": "convenience",
+      "payment_method": "debit",
+      "points_used": true,
+      "points_account": "PRIMARY",
+      "stan": "124053",
+      "entry": "Contact EMV",
+      "tid": "PC2048900006501",
+      "total": 11.44,
+      "tax": 0.65,
+      "thank_you_message": "Thank you for using Debit!"
+    },
+    "filename": "20240902_094726",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1993,
+    "type": "picture",
+    "type_id": "1609",
+    "timestamp": "2024-07-01T15:50:46",
+    "place": "Krist, 338, West Washington Street, Marquette, Marquette County, Michigan, 49855, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "338 west washington street",
+        "city": "marquette",
+        "county": "marquette county",
+        "state": "mi",
+        "postal": "49855"
+      }
+    },
+    "filename": "20240701_155046",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 401,
+    "type": "picture",
+    "type_id": "17",
+    "timestamp": "2024-07-01T15:51:00",
+    "place": "325, West Washington Street, Marquette, Marquette County, Michigan, 49855, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "325 west washington street",
+        "city": "marquette",
+        "county": "marquette county",
+        "state": "mi",
+        "postal": "49855"
+      }
+    },
+    "filename": "20240701_155059",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1329,
+    "type": "picture",
+    "type_id": "945",
+    "timestamp": "2024-07-01T15:53:36",
+    "place": "313, West Washington Street, Marquette, Marquette County, Michigan, 49855, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "313 west washington street",
+        "city": "marquette",
+        "county": "marquette county",
+        "state": "mi",
+        "postal": "49855"
+      }
+    },
+    "filename": "20240701_155336",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2685,
+    "type": "story",
+    "type_id": "52",
+    "timestamp": "2024-07-01T15:55",
+    "place": null,
+    "description": "meals: little caesars\ntime: 15:55",
+    "data": {
+      "category": "meals",
+      "dada_rank": 14,
+      "sydney_rank": 4
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2617,
+    "type": "picture",
+    "type_id": "2233",
+    "timestamp": "2024-07-01T16:01:55",
+    "place": "South Lakeshore Boulevard, Marquette, Marquette County, Michigan, 49855, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south lakeshore boulevard",
+        "city": "marquette",
+        "county": "marquette county",
+        "state": "mi",
+        "postal": "49855"
+      }
+    },
+    "filename": "20240701_160154",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 60,
+    "type": "map",
+    "type_id": "215",
+    "timestamp": "2024-07-01T16:17:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-01T16:17:00",
+      "end_timestamp": "2024-07-01T20:46:00",
+      "place": {
+        "address": "299 s mc clellan ave",
+        "state": "mi"
+      },
+      "end_place": {
+        "address": "80s 40th ave w",
+        "state": "mn"
+      },
+      "info": {
+        "duration": "5 hours, 28 minutes",
+        "distance": "256 mi",
+        "location": "299 S Mc Clellan Ave, Michigan -> 80 S 40th Ave W, Minnesota",
+        "nearby": [
+          "Superior National Forest",
+          "Thunder Bay",
+          "Chequamegon-Nicolet National Forest",
+          "Lake Superior",
+          "Houghton",
+          "Marquette",
+          "Eau Claire",
+          "Green Bay"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_211756_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 244,
+    "type": "shazam",
+    "type_id": "20",
+    "timestamp": "2024-07-01T16:39:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "title": "Mouth",
+      "artist": "Rosali",
+      "link": "https://www.shazam.com/track/559139630/mouth",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/08/ee/72/08ee7200-7d09-fab5-0f1a-4f6b4d66c31a/733102720193.png/400x400cc.jpg"
+    },
+    "filename": "https://is1-ssl.mzstatic.com/image/thumb/Music112/v4/08/ee/72/08ee7200-7d09-fab5-0f1a-4f6b4d66c31a/733102720193.png/400x400cc.jpg",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 813,
+    "type": "picture",
+    "type_id": "429",
+    "timestamp": "2024-07-01T16:49:24",
+    "place": "US 41;M 28, Wobic, Champion Township, Marquette County, Michigan, 49814, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 41; m 28",
+        "city": "wobic",
+        "county": "marquette county",
+        "state": "mi",
+        "postal": "49814"
+      }
+    },
+    "filename": "20240701_164924",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2686,
+    "type": "story",
+    "type_id": "490",
+    "timestamp": "2024-07-01T17:00",
+    "place": null,
+    "description": "songs: army dreamers -- kate bush\n\ntime: 17:00",
+    "data": {
+      "id": 211,
+      "artist_name": "Kate Bush",
+      "song_name": "Army Dreamers",
+      "image_link": "https://i.scdn.co/image/ab67616d0000b2738135bea532f6949921a41d42",
+      "song_link": "https://open.spotify.com/track/2LTCVKCcbKQBoqofOkI0fB",
+      "ordinal": null,
+      "spotify_id": "2LTCVKCcbKQBoqofOkI0fB",
+      "added_at": "2024-06-24T16:18:41Z",
+      "playlist_id": "4cbtSLSi3GIDQI6s62Opjs",
+      "playlist_name": "roadtrip playlist",
+      "playlist_owner": "Sydney",
+      "category": "songs",
+      "dada_rank": 211,
+      "sydney_rank": 2
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 287,
+    "type": "receipt",
+    "type_id": "70",
+    "timestamp": "2024-07-01T17:47",
+    "place": "14043 US-45, Bruce Crossing, MI 49912",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "14043 us-45",
+        "city": "bruce crossing",
+        "state": "mi",
+        "postal": "49912"
+      },
+      "date": "2024-07-01",
+      "time": "17:47",
+      "address": "14043 US-45, Bruce Crossing, MI 49912",
+      "items": [
+        {
+          "description": "Fuel Sale",
+          "price": "$51.78"
+        }
+      ],
+      "category": "gas",
+      "other_details": {
+        "transaction_number": "9058030",
+        "pump_number": "05",
+        "service_level": "self",
+        "product": "UNL",
+        "gallons": "14.388",
+        "price_per_gallon": "$3.599",
+        "debit_amount": "$51.78",
+        "debit_auth_time": "174517",
+        "account_number": "9725",
+        "auth": "00",
+        "ref_number": "99000940579",
+        "app_name": "Debit",
+        "aid": "A0000000042203",
+        "app_cryptogram": "AR QC 8ABD4FB76217CFC4",
+        "approval_number": "004080",
+        "entry": "Insert",
+        "emv_stan": "042664635",
+        "account_type": "DDA",
+        "network_name": "MASTER",
+        "terminal_seq_num": "91",
+        "pin_used": true
+      }
+    },
+    "filename": "20240902_094753",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2590,
+    "type": "picture",
+    "type_id": "2206",
+    "timestamp": "2024-07-01T17:49:10",
+    "place": "C & M Oil Co., 605, East Lead Street, Bessemer, Gogebic County, Michigan, 49911, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "605 east lead street",
+        "city": "bessemer",
+        "county": "gogebic county",
+        "state": "mi",
+        "postal": "49911"
+      }
+    },
+    "filename": "20240701_174910",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2530,
+    "type": "picture",
+    "type_id": "2146",
+    "timestamp": "2024-07-01T17:52:30",
+    "place": "DQ Grill & Chill, 201, East Lead Street, Bessemer, Gogebic County, Michigan, 49911, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "201 east lead street",
+        "city": "bessemer",
+        "county": "gogebic county",
+        "state": "mi",
+        "postal": "49911"
+      }
+    },
+    "filename": "20240701_175229",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2687,
+    "type": "story",
+    "type_id": "66",
+    "timestamp": "2024-07-01T17:55",
+    "place": null,
+    "description": "treats: dq in mi\ntime: 16:00\ntime: 17:55",
+    "data": {
+      "category": "treats",
+      "dada_rank": 8,
+      "sydney_rank": 6
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 288,
+    "type": "receipt",
+    "type_id": "108",
+    "timestamp": "2024-07-01T17:57",
+    "place": "Dairy Queen, 201 E Lead St, Bessemer, MI 49911",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "201 e lead st",
+        "city": "bessemer",
+        "state": "mi",
+        "postal": "49911",
+        "business": "dairy queen"
+      },
+      "date": "2024-07-01",
+      "time": "17:57",
+      "address": "Dairy Queen, 201 E Lead St, Bessemer, MI 49911",
+      "items": [
+        {
+          "description": "1 Small Blizzard",
+          "price": "$4.79"
+        },
+        {
+          "description": "PB Cookie Dough Party",
+          "price": "$0.00"
+        },
+        {
+          "description": "1 Medium Blizzard",
+          "price": "$5.59"
+        },
+        {
+          "description": "PB Cookie Dough Party",
+          "price": "$0.00"
+        }
+      ],
+      "category": "restaurant",
+      "subtotal": "$10.38",
+      "tax": "$0.62",
+      "total": "$11.00",
+      "payment": {
+        "method": "cash",
+        "amount": "$15.00",
+        "change": "$4.00"
+      },
+      "order_id": "AAA8AMB2AGEW",
+      "loyalty_summary": {
+        "phone_number": "906-663-6061",
+        "validation_code": "___________",
+        "offer_validity": "30 days from visit"
+      },
+      "PLU": "25352"
+    },
+    "filename": "20240902_094647",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1336,
+    "type": "picture",
+    "type_id": "952",
+    "timestamp": "2024-07-01T18:05:55",
+    "place": "15007, M 28, Bruce Crossing, Stannard Township, Ontonagon County, Michigan, 49912, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "15007 m 28",
+        "city": "bruce crossing",
+        "county": "ontonagon county",
+        "state": "mi",
+        "postal": "49912"
+      }
+    },
+    "filename": "20240701_180555",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2139,
+    "type": "picture",
+    "type_id": "1755",
+    "timestamp": "2024-07-01T18:07:48",
+    "place": "5251, Major Richard I. Bong Memorial Highway, Town of Kimball, Iron County, Wisconsin, 54534, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "5251 major richard i. bong memorial highway",
+        "city": "kimball",
+        "county": "iron county",
+        "state": "wi",
+        "postal": "54534"
+      },
+      "sign": "wisconsin welcomes you",
+      "note": ""
+    },
+    "filename": "20240701_180747",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 828,
+    "type": "picture",
+    "type_id": "444",
+    "timestamp": "2024-07-01T18:18:40",
+    "place": "Major Richard I. Bong Memorial Highway, Saxon, Town of Saxon, Iron County, Wisconsin, 54559, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "major richard i. bong memorial highway",
+        "city": "saxon",
+        "county": "iron county",
+        "state": "wi",
+        "postal": "54559"
+      }
+    },
+    "filename": "20240701_181840",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 245,
+    "type": "shazam",
+    "type_id": "19",
+    "timestamp": "2024-07-01T18:22:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "title": "New Colossus",
+      "artist": "Kaia Kater",
+      "link": "https://www.shazam.com/track/437631583/new-colossus",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/7f/d6/00/7fd600a6-ad89-de00-2996-bafca8594674/SFWCD40234_Cover_3000.jpg/400x400cc.jpg"
+    },
+    "filename": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/7f/d6/00/7fd600a6-ad89-de00-2996-bafca8594674/SFWCD40234_Cover_3000.jpg/400x400cc.jpg",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1317,
+    "type": "picture",
+    "type_id": "933",
+    "timestamp": "2024-07-01T18:37:52",
+    "place": "Major Richard I. Bong Memorial Highway, New Odanah / Oshki-Oodena, Town of Sanborn, Ashland County, Wisconsin, 54861, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "major richard i. bong memorial highway",
+        "city": "sanborn",
+        "county": "ashland county",
+        "state": "wi",
+        "postal": "54861"
+      }
+    },
+    "filename": "20240701_183752",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1264,
+    "type": "picture",
+    "type_id": "880",
+    "timestamp": "2024-07-01T18:48:28",
+    "place": "343, Lake Shore Drive East, Ellis Park, Ashland, Ashland County, Wisconsin, 54806, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "343 lake shore drive east",
+        "city": "ashland",
+        "county": "ashland county",
+        "state": "wi",
+        "postal": "54806"
+      }
+    },
+    "filename": "20240701_184828",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2490,
+    "type": "picture",
+    "type_id": "2106",
+    "timestamp": "2024-07-01T18:48:58",
+    "place": "100, Lake Shore Drive East, Downtown, Ashland, Ashland County, Wisconsin, 54806, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "100 lake shore drive east",
+        "city": "ashland",
+        "county": "ashland county",
+        "state": "wi",
+        "postal": "54806"
+      }
+    },
+    "filename": "20240701_184857",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 479,
+    "type": "picture",
+    "type_id": "95",
+    "timestamp": "2024-07-01T18:51:17",
+    "place": "Presbyterian-Congregational Church, 214, Vaughn Avenue, Downtown, Ashland, Ashland County, Wisconsin, 54806, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "214 vaughn avenue",
+        "city": "ashland",
+        "county": "ashland county",
+        "state": "wi",
+        "postal": "54806"
+      }
+    },
+    "filename": "20240701_185117",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1584,
+    "type": "picture",
+    "type_id": "1200",
+    "timestamp": "2024-07-01T18:51:49",
+    "place": "Vaughn Public Library, 502, Main Street West, Downtown, Ashland, Ashland County, Wisconsin, 54806, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "502 main street west",
+        "city": "ashland",
+        "county": "ashland county",
+        "state": "wi",
+        "postal": "54806"
+      }
+    },
+    "filename": "20240701_185148",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1160,
+    "type": "picture",
+    "type_id": "776",
+    "timestamp": "2024-07-01T18:56:52",
+    "place": "Major Richard I. Bong Memorial Highway, Town of Barksdale, Bayfield County, Wisconsin, 54806, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "major richard i. bong memorial highway",
+        "city": "barksdale",
+        "county": "bayfield county",
+        "state": "wi",
+        "postal": "54806"
+      },
+      "signs": "us-2 superior, duluth\n13 washburn, bayfield"
+    },
+    "filename": "20240701_185652",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1338,
+    "type": "picture",
+    "type_id": "954",
+    "timestamp": "2024-07-01T19:16:51",
+    "place": "Major Richard I. Bong Memorial Highway, Town of Iron River, Bayfield County, Wisconsin, 54847, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "major richard i. bong memorial highway",
+        "city": "iron river",
+        "county": "bayfield county",
+        "state": "wi",
+        "postal": "54847"
+      }
+    },
+    "filename": "20240701_191651",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 246,
+    "type": "shazam",
+    "type_id": "18",
+    "timestamp": "2024-07-01T19:42:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "title": "As the Birds Are",
+      "artist": "Jess Williamson",
+      "link": "https://www.shazam.com/track/507292172/as-the-birds-are",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d1/db/2b/d1db2b67-941f-5e16-d7fe-b0798857954b/184923128062.jpg/400x400cc.jpg"
+    },
+    "filename": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/d1/db/2b/d1db2b67-941f-5e16-d7fe-b0798857954b/184923128062.jpg/400x400cc.jpg",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 980,
+    "type": "picture",
+    "type_id": "596",
+    "timestamp": "2024-07-01T19:44:44",
+    "place": "US 2;US 53, Cutter, Parkland, Town of Amnicon, Douglas County, Wisconsin, 54874, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 2;us 53",
+        "city": "parkland",
+        "county": "douglas county",
+        "state": "wi",
+        "postal": "54874"
+      },
+      "signs": "superior 5\nduluth 15"
+    },
+    "filename": "20240701_194443",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 464,
+    "type": "picture",
+    "type_id": "80",
+    "timestamp": "2024-07-01T19:50:29",
+    "place": "5079, East 2nd Street, Lakeside Terrace, Itasca, Superior, Douglas County, Wisconsin, 54880, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "5079 east 2nd street",
+        "city": "itasca",
+        "county": "douglas county",
+        "state": "wi",
+        "postal": "54880"
+      }
+    },
+    "filename": "20240701_195029",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1940,
+    "type": "picture",
+    "type_id": "1556",
+    "timestamp": "2024-07-01T19:50:41",
+    "place": "Super 8, 4901, East 2nd Street, Lakeside Terrace, Itasca, Superior, Douglas County, Wisconsin, 54880-4303, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "super 8 4901 east 2nd street",
+        "city": "itasca",
+        "county": "douglas county",
+        "state": "wi",
+        "postal": "54880-4303"
+      },
+      "caption": "gronk's !"
+    },
+    "filename": "20240701_195041",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1540,
+    "type": "picture",
+    "type_id": "1156",
+    "timestamp": "2024-07-01T20:01:21",
+    "place": "Blatnik Bridge, Garfield Avenue, Lincoln Park, Duluth, Saint Louis County, Minnesota, 55802, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "blatnik bridge, garfield avenue",
+        "city": "lincoln park",
+        "county": "saint louis county",
+        "state": "mn",
+        "postal": "55802"
+      }
+    },
+    "filename": "20240701_200121",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2174,
+    "type": "picture",
+    "type_id": "1790",
+    "timestamp": "2024-07-01T20:01:46",
+    "place": "Blatnik Bridge, Garfield Avenue, Lincoln Park, Duluth, Saint Louis County, Minnesota, 55802, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "blatnik bridge, garfield avenue",
+        "city": "lincoln park",
+        "county": "saint louis county",
+        "state": "mn",
+        "postal": "55802"
+      }
+    },
+    "filename": "20240701_200146",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2088,
+    "type": "picture",
+    "type_id": "1704",
+    "timestamp": "2024-07-01T20:02:03",
+    "place": "I 535;US 53, Lincoln Park, Duluth, Saint Louis County, Minnesota, 55802, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 535;us 53",
+        "city": "duluth",
+        "county": "saint louis county",
+        "state": "mn",
+        "postal": "55802"
+      },
+      "signs": "duluth"
+    },
+    "filename": "20240701_200202",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2688,
+    "type": "story",
+    "type_id": "83",
+    "timestamp": "2024-07-01T20:30",
+    "place": null,
+    "description": "accommodations: duluth, mn\ntime: 20:30",
+    "data": {
+      "category": "accommodations",
+      "dada_rank": 9,
+      "sydney_rank": 5
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 61,
+    "type": "map",
+    "type_id": "191",
+    "timestamp": "2024-07-01T20:46:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-01T20:46:00",
+      "end_timestamp": "2024-07-02T08:26:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "11 hours, 40 minutes",
+        "distance": "0 mi",
+        "location": "Near 80 S 40th Ave W, Minnesota",
+        "nearby": [
+          "N 40th Ave W",
+          "N 39th Ave W",
+          "W Superior St",
+          "S 40th Ave W",
+          "S 39th Ave W",
+          "Blue Star Memorial Highway",
+          "Evergreen Memorial Drive",
+          "W Michigan St",
+          "Monarch Hwy",
+          "Oneota St"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_211806_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  }
+]

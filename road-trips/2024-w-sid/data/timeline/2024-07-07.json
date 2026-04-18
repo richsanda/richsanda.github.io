@@ -1,0 +1,1905 @@
+[
+  {
+    "id": 2719,
+    "type": "story",
+    "type_id": "194",
+    "timestamp": "2024-07-07T00:01",
+    "place": null,
+    "description": "days: day 11, jul 7 (dinosaur pp, ab -> west glacier, mt)\ntime: 00:01\ndate: 2024-07-07\nwoke up at our campsite in dinosaur provincial park. drove impossibly straight and flat roads up to closer to 52 than 51 north latitude before rotating 90 degrees at hanna on the way to drumheller. from there we went to calgary, one of those canadian island metropolises with nothing around it but a mountain backdrop in this case. stopped downtown for lunch at a pretty fancy restaurant with open walls and then left for montana. drove the deerhoof trail -- intermittently a highway, at times the main thoroughfare of small towns -- back to the border, eagerly anticipating the ride across glacier national park along going to the sun highway. it was better than anticipated. steep walls, incredible vistas, waterfalls dressing the inner wall.",
+    "data": {
+      "category": "days",
+      "dada_rank": 3,
+      "sydney_rank": 1
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 118,
+    "type": "map",
+    "type_id": "121",
+    "timestamp": "2024-07-07T06:29:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-07T06:29:00",
+      "end_timestamp": "2024-07-07T11:00:00",
+      "place": {
+        "address": "south campground",
+        "state": "ab"
+      },
+      "end_place": {
+        "address": "901 north dinosaur trail",
+        "state": "ab"
+      },
+      "info": {
+        "duration": "6 hours, 30 minutes",
+        "distance": "131 mi",
+        "location": "South Campground, Alberta -> 901 North Dinosaur Trail, Alberta",
+        "nearby": [
+          "Craigmyle",
+          "Druneller",
+          "Delia",
+          "Bassano",
+          "Hanna",
+          "Sunnynook",
+          "Pollockville",
+          "Cessford",
+          "Gem",
+          "Steveville",
+          "Duchess",
+          "Patricia",
+          "Brooks",
+          "Tilley"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_202917_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 422,
+    "type": "picture",
+    "type_id": "38",
+    "timestamp": "2024-07-07T08:07:04",
+    "place": "Dinosaur Provincial Park Campground Road, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "dinosaur provincial park campground road",
+        "city": "division no. 2",
+        "county": "",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240707_080704",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 319,
+    "type": "receipt",
+    "type_id": "99",
+    "timestamp": "2024-07-07T08:56",
+    "place": "109 Railway Ave, Duchess, AB TOJ OZO, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "109 railway ave",
+        "city": "duchess",
+        "state": "ab",
+        "postal": "toj ozo"
+      },
+      "date": "2024-07-07",
+      "time": "08:56",
+      "address": "109 Railway Ave, Duchess, AB TOJ OZO, Canada",
+      "items": [
+        {
+          "description": "Gasoline",
+          "quantity": "50.710 L",
+          "price": "$1.479",
+          "total": "$75.00"
+        }
+      ],
+      "category": "gas",
+      "other_details": {
+        "station": "Duchess Station",
+        "transaction_record": "9135995",
+        "card_type": "Mastercard Debit",
+        "pump_number": "2-Regular",
+        "reprint_time": "09:00 AM"
+      }
+    },
+    "filename": "20240902_104042",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 320,
+    "type": "receipt",
+    "type_id": "57",
+    "timestamp": "2024-07-07T09:04",
+    "place": "109 Railway Ave, Duchess, AB TOJ OZO",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "109 railway ave",
+        "city": "duchess",
+        "state": "ab",
+        "postal": "toj ozo"
+      },
+      "date": "2024-07-07",
+      "time": "09:04",
+      "address": "109 Railway Ave, Duchess, AB TOJ OZO",
+      "items": [
+        {
+          "description": "Kingsford MatchLgt Brique",
+          "quantity": 1,
+          "price": 15.5
+        },
+        {
+          "description": "Pepsi Diet 591ml",
+          "quantity": 1,
+          "price": 3.19
+        },
+        {
+          "description": "Arctic Glacier Ice 2.3kg",
+          "quantity": 2,
+          "price": 3.5
+        }
+      ],
+      "category": "convenience",
+      "total": 26.76,
+      "payment_method": "cash",
+      "cashier": "Donna",
+      "receipt_number": "826239",
+      "store_number": "109",
+      "tax": 0.93,
+      "bottle_deposit": 0.1,
+      "enviro_levy_fee": 0.04
+    },
+    "filename": "20240902_103809",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 908,
+    "type": "picture",
+    "type_id": "524",
+    "timestamp": "2024-07-07T09:09:45",
+    "place": "Veterans Memorial Highway, Division No. 2, Alberta, T0J 0A1, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "veterans memorial highway",
+        "city": "division no. 2",
+        "county": "",
+        "state": "ab",
+        "postal": "t0j 0a1"
+      }
+    },
+    "filename": "20240707_090945",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1871,
+    "type": "picture",
+    "type_id": "1487",
+    "timestamp": "2024-07-07T09:19:17",
+    "place": "Veterans Memorial Highway, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "veterans memorial highway",
+        "city": "division no. 2",
+        "county": "",
+        "state": "ab",
+        "postal": ""
+      },
+      "signs": "hanna 98 km"
+    },
+    "filename": "20240707_091917",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1821,
+    "type": "picture",
+    "type_id": "1437",
+    "timestamp": "2024-07-07T09:33:41",
+    "place": "Veterans Memorial Highway, Sheerness Generating Station, Division No. 4, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "veterans memorial highway, sheerness generating station",
+        "city": "division no. 4",
+        "county": "",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240707_093341",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 321,
+    "type": "receipt",
+    "type_id": "100",
+    "timestamp": "2024-07-07T10:09",
+    "place": "Hwy 9 & Hwy 36 South, Hanna, AB TOJ 1PO",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "hwy 9 & hwy 36 south",
+        "city": "hanna",
+        "state": "ab",
+        "postal": "toj 1po"
+      },
+      "date": "2024-07-07",
+      "time": "10:09",
+      "address": "Hwy 9 & Hwy 36 South, Hanna, AB TOJ 1PO",
+      "items": [
+        {
+          "name": "Kettle Chips Airfrie",
+          "quantity": 1,
+          "price": 5.49
+        },
+        {
+          "name": "Gummy Cola Bottles",
+          "quantity": 1,
+          "price": 2.49
+        }
+      ],
+      "category": "convenience",
+      "total": 8.1,
+      "payment_method": "Mastercard",
+      "card_number": "**** ***9725",
+      "transaction_number": "1121865",
+      "terminal_number": "00846T01",
+      "transaction_id": "186143",
+      "authorization_number": "004115",
+      "reference_number": "61110958 0010018760 C",
+      "receipt_number": "084601121865",
+      "clerk": "140",
+      "tax": {
+        "GST": 0.12,
+        "GST_number": "855506127"
+      },
+      "notes": "5% GST is included in the posted price per litre. This diesel fuel contains no visible evidence of dye. Exposure to heat or direct sunlight can affect receipt quality."
+    },
+    "filename": "20240902_102155",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 909,
+    "type": "picture",
+    "type_id": "525",
+    "timestamp": "2024-07-07T10:10:34",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_101033",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1621,
+    "type": "picture",
+    "type_id": "1237",
+    "timestamp": "2024-07-07T10:18:50",
+    "place": "Highway 9, Hanna, Special Area No. 2, Alberta, T0J 1P0, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "highway 9",
+        "city": "hanna",
+        "county": "special area no. 2",
+        "state": "ab",
+        "postal": "t0j 1p0"
+      },
+      "sign": "hanna, proud to be the home of nickelback",
+      "note": "i knew there was some reason we felt compelled to go out of our way for this town"
+    },
+    "filename": "20240707_101850",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1710,
+    "type": "picture",
+    "type_id": "1326",
+    "timestamp": "2024-07-07T10:46:33",
+    "place": "Range Road 201, Division No. 5, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "range road 201",
+        "city": "division no. 5",
+        "county": "",
+        "state": "ab",
+        "postal": ""
+      },
+      "signs": "munson 10 km\ndrumheller 23 km\ncalgary 169 km"
+    },
+    "filename": "20240707_104633",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1316,
+    "type": "picture",
+    "type_id": "932",
+    "timestamp": "2024-07-07T10:58:30",
+    "place": "9;56, North Drumheller, Drumheller, Division No. 5, Alberta, T0J 0Y1, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "9 56 north drumheller",
+        "city": "drumheller",
+        "county": "division no. 5",
+        "state": "ab",
+        "postal": "t0j 0y1"
+      }
+    },
+    "filename": "20240707_105830",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2392,
+    "type": "picture",
+    "type_id": "2008",
+    "timestamp": "2024-07-07T11:07:53",
+    "place": "Fire Lane, Nacmine, Division No. 5, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "fire lane",
+        "city": "nacmine",
+        "county": "division no. 5",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240707_110753",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 851,
+    "type": "picture",
+    "type_id": "467",
+    "timestamp": "2024-07-07T11:11:37",
+    "place": "Fire Lane, Nacmine, Division No. 5, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "fire lane",
+        "city": "nacmine",
+        "county": "division no. 5",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240707_111137",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 322,
+    "type": "receipt",
+    "type_id": "34",
+    "timestamp": "2024-07-07T11:12",
+    "place": "Royal Tyrrell Museum-D Highway 838, Drumheller, AB",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "d highway 838",
+        "city": "drumheller",
+        "state": "ab",
+        "business": "royal tyrrell museum"
+      },
+      "date": "2024-07-07",
+      "time": "11:12",
+      "address": "Royal Tyrrell Museum-D Highway 838, Drumheller, AB",
+      "items": [
+        {
+          "description": "Purchase",
+          "price": "$31.00"
+        }
+      ],
+      "category": "museum",
+      "other_details": {
+        "account_number": "************9725 C",
+        "card_type": "Mastercard Debit",
+        "trace_number": "38191",
+        "invoice_number": "2845629",
+        "authorization_number": "004116",
+        "RRN": "001003422",
+        "message": "APPROVED-THANK YOU",
+        "copy": "customer"
+      }
+    },
+    "filename": "20240902_102331",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 920,
+    "type": "picture",
+    "type_id": "536",
+    "timestamp": "2024-07-07T11:14:18",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_111418",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1114,
+    "type": "picture",
+    "type_id": "730",
+    "timestamp": "2024-07-07T11:14:30",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_111429",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 787,
+    "type": "picture",
+    "type_id": "403",
+    "timestamp": "2024-07-07T11:16:39",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_111639",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1588,
+    "type": "picture",
+    "type_id": "1204",
+    "timestamp": "2024-07-07T11:19:39",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_111939",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2373,
+    "type": "picture",
+    "type_id": "1989",
+    "timestamp": "2024-07-07T11:20:40",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_112040",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1749,
+    "type": "picture",
+    "type_id": "1365",
+    "timestamp": "2024-07-07T11:22:31",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_112231",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2478,
+    "type": "picture",
+    "type_id": "2094",
+    "timestamp": "2024-07-07T11:22:58",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_112257",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1865,
+    "type": "picture",
+    "type_id": "1481",
+    "timestamp": "2024-07-07T11:25:49",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_112549",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 644,
+    "type": "picture",
+    "type_id": "260",
+    "timestamp": "2024-07-07T11:28:29",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_112829",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2448,
+    "type": "picture",
+    "type_id": "2064",
+    "timestamp": "2024-07-07T11:34:50",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_113450",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1146,
+    "type": "picture",
+    "type_id": "762",
+    "timestamp": "2024-07-07T11:36:58",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_113658",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2237,
+    "type": "picture",
+    "type_id": "1853",
+    "timestamp": "2024-07-07T11:38:51",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_113851",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1567,
+    "type": "picture",
+    "type_id": "1183",
+    "timestamp": "2024-07-07T11:41:50",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_114150",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1164,
+    "type": "picture",
+    "type_id": "780",
+    "timestamp": "2024-07-07T11:44:31",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_114430",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1429,
+    "type": "picture",
+    "type_id": "1045",
+    "timestamp": "2024-07-07T11:44:46",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_114446",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 635,
+    "type": "picture",
+    "type_id": "251",
+    "timestamp": "2024-07-07T11:44:57",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_114457",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 738,
+    "type": "picture",
+    "type_id": "354",
+    "timestamp": "2024-07-07T11:46:19",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_114616",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 749,
+    "type": "picture",
+    "type_id": "365",
+    "timestamp": "2024-07-07T11:46:44",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_114641",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2006,
+    "type": "picture",
+    "type_id": "1622",
+    "timestamp": "2024-07-07T11:47:57",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_114757",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 696,
+    "type": "picture",
+    "type_id": "312",
+    "timestamp": "2024-07-07T11:48:56",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_114856",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1126,
+    "type": "picture",
+    "type_id": "742",
+    "timestamp": "2024-07-07T11:49:43",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_114943",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2345,
+    "type": "picture",
+    "type_id": "1961",
+    "timestamp": "2024-07-07T11:50:13",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_115012",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 687,
+    "type": "picture",
+    "type_id": "303",
+    "timestamp": "2024-07-07T11:52:06",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_115206",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1287,
+    "type": "picture",
+    "type_id": "903",
+    "timestamp": "2024-07-07T11:53:09",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_115308",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 515,
+    "type": "picture",
+    "type_id": "131",
+    "timestamp": "2024-07-07T11:53:19",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_115319",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2277,
+    "type": "picture",
+    "type_id": "1893",
+    "timestamp": "2024-07-07T11:58:39",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_115839",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1516,
+    "type": "picture",
+    "type_id": "1132",
+    "timestamp": "2024-07-07T11:59:15",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_115914",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2469,
+    "type": "picture",
+    "type_id": "2085",
+    "timestamp": "2024-07-07T12:00:58",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_120058",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1674,
+    "type": "picture",
+    "type_id": "1290",
+    "timestamp": "2024-07-07T12:01:41",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_120141",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2720,
+    "type": "story",
+    "type_id": "15",
+    "timestamp": "2024-07-07T12:05",
+    "place": null,
+    "description": "attractions: royal tyrell museum\ntime: 12:05",
+    "data": {
+      "category": "attractions",
+      "dada_rank": 2,
+      "sydney_rank": 1
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 323,
+    "type": "receipt",
+    "type_id": "20",
+    "timestamp": "2024-07-07T12:09",
+    "place": "Box 2994, Drumheller, AB TOJOYO",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "box 2994",
+        "city": "drumheller",
+        "state": "ab"
+      },
+      "date": "2024-07-07",
+      "time": "12:09",
+      "address": "Box 2994, Drumheller, AB TOJOYO",
+      "items": [
+        {
+          "description": "ADT RTM ALBERTOSAURUS CHARCOAL, SM",
+          "quantity": 1,
+          "price": 24.99,
+          "total": 24.99
+        },
+        {
+          "description": "REPLICA VELOCIRAPTOR CLAW",
+          "quantity": 1,
+          "price": 4.95,
+          "total": 4.95
+        }
+      ],
+      "category": "gift shop",
+      "other_details": {
+        "ticket_number": "T-527841",
+        "user": "ALEAV",
+        "station": 2,
+        "sales_rep": "ALEAV",
+        "tender": "MC",
+        "number_of_items": 2,
+        "barcode": "102389506213",
+        "subtotal": 29.94,
+        "tax": 1.5,
+        "total": 31.44
+      }
+    },
+    "filename": "20240902_103730",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 324,
+    "type": "receipt",
+    "type_id": "102",
+    "timestamp": "2024-07-07T12:09",
+    "place": "Hwy 838 Midland, Drumheller, AB",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "hwy 838",
+        "city": "drumheller",
+        "state": "ab"
+      },
+      "date": "2024-07-07",
+      "time": "12:09",
+      "address": "Hwy 838 Midland, Drumheller, AB",
+      "items": [
+        {
+          "description": "Mastercard Debit",
+          "amount": "$31.44"
+        }
+      ],
+      "category": "convenience",
+      "other_details": {
+        "card_type": "Mastercard",
+        "card_number": "********9725",
+        "receipt_number": "C84023605-001-149-013-0",
+        "approval_number": "004117",
+        "authorization_code": "01-027"
+      }
+    },
+    "filename": "20240902_103752",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 119,
+    "type": "map",
+    "type_id": "216",
+    "timestamp": "2024-07-07T12:18:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-07T12:18:00",
+      "end_timestamp": "2024-07-07T14:35:00",
+      "place": {
+        "address": "14 street northwest",
+        "state": "ab"
+      },
+      "end_place": {
+        "address": "4street sw",
+        "state": "ab"
+      },
+      "info": {
+        "duration": "2 hours, 16 minutes",
+        "distance": "70 mi",
+        "location": "14 Street Northwest, Alberta -> 4 Street SW, Alberta",
+        "nearby": [
+          "Bowden",
+          "Olds",
+          "Didsbury",
+          "Carstairs",
+          "Trochu",
+          "Three Hills",
+          "Carbon",
+          "Drumheller",
+          "Crossfield",
+          "Beiseker",
+          "Airdrie",
+          "Irricana",
+          "Rosebud",
+          "Rockyford",
+          "Calgary",
+          "Langdon",
+          "Standard",
+          "Strathmore",
+          "De Winton",
+          "Okotoks",
+          "Valley",
+          "High River",
+          "Blackie",
+          "Gleichen",
+          "Siksika Indian Reserve #146"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_202906_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2195,
+    "type": "picture",
+    "type_id": "1811",
+    "timestamp": "2024-07-07T12:25:07",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_122506",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 971,
+    "type": "picture",
+    "type_id": "587",
+    "timestamp": "2024-07-07T12:29:45",
+    "place": "9, Kneehill County, Alberta, T0J 0Y0, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "9",
+        "city": "kneehill county",
+        "county": "kneehill county",
+        "state": "ab",
+        "postal": "t0j 0y0"
+      },
+      "signs": "beiseker 64 km\nirricana 69 km\ncalgary 122 km"
+    },
+    "filename": "20240707_122944",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 325,
+    "type": "receipt",
+    "type_id": "56",
+    "timestamp": "2024-07-07T13:07",
+    "place": "211 - 6th Street, Beiseker, AB",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "211 - 6th street",
+        "city": "beiseker",
+        "state": "ab"
+      },
+      "date": "2024-07-07",
+      "time": "13:07",
+      "address": "211 - 6th Street, Beiseker, AB",
+      "items": [
+        {
+          "description": "Schweppes Ginger Ale 12",
+          "price": "$9.99",
+          "quantity": 2,
+          "deposit": "$2.40",
+          "environment_fee": "$0.24"
+        }
+      ],
+      "category": "groceries",
+      "total": "$23.63",
+      "payment_method": "Mastercard",
+      "card_number": "************9725",
+      "invoice_number": "114480",
+      "transaction_id": "66352617",
+      "sequence_number": "022",
+      "entry": "Chip (C)",
+      "batch_number": "739",
+      "authorization_number": "004118",
+      "response_code": "01-027",
+      "uid": "OSGSP4H5148GUTO"
+    },
+    "filename": "20240902_103700",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1261,
+    "type": "picture",
+    "type_id": "877",
+    "timestamp": "2024-07-07T13:34:47",
+    "place": "Township Road 262, Rocky View County, Alberta, T4A 3H6, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "township road 262",
+        "city": "",
+        "county": "rocky view county",
+        "state": "ab",
+        "postal": "t4a 3h6"
+      },
+      "caption": "first joni song heard in canada, coinciding with our first view of the rockies"
+    },
+    "filename": "20240707_133447",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1539,
+    "type": "picture",
+    "type_id": "1155",
+    "timestamp": "2024-07-07T13:47:32",
+    "place": "Queen Elizabeth II Highway, CrossIron, Rocky View County, Alberta, T4A 0M9, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "queen elizabeth ii highway",
+        "city": "crossiron",
+        "county": "rocky view county",
+        "state": "ab",
+        "postal": "t4a 0m9"
+      },
+      "signs": "2 deerfoot trail\n201 stoney trail"
+    },
+    "filename": "20240707_134732",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1384,
+    "type": "picture",
+    "type_id": "1000",
+    "timestamp": "2024-07-07T14:04:07",
+    "place": "Holly Point, 320, Meredith Road NE, Downtown East Village, Calgary, Alberta, T2E 5A6, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "320 meredith road ne",
+        "city": "calgary",
+        "county": "downtown east village",
+        "state": "ab",
+        "postal": "t2e 5a6"
+      }
+    },
+    "filename": "20240707_140407",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1959,
+    "type": "picture",
+    "type_id": "1575",
+    "timestamp": "2024-07-07T14:04:09",
+    "place": "Holly Point, 320, Meredith Road NE, Downtown East Village, Calgary, Alberta, T2E 5A6, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "320 meredith road ne",
+        "city": "calgary",
+        "county": "downtown east village",
+        "state": "ab",
+        "postal": "t2e 5a6"
+      }
+    },
+    "filename": "20240707_140409",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1998,
+    "type": "picture",
+    "type_id": "1614",
+    "timestamp": "2024-07-07T14:12:59",
+    "place": "North-West Travellers Building, 515, 1 Street SE, Chinatown, Calgary, Alberta, T2G 2G6, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "north-west travellers building, 515, 1 street se",
+        "city": "calgary",
+        "county": "",
+        "state": "ab",
+        "postal": "t2g 2g6"
+      }
+    },
+    "filename": "20240707_141259",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1663,
+    "type": "picture",
+    "type_id": "1279",
+    "timestamp": "2024-07-07T15:04:08",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_150408",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2721,
+    "type": "story",
+    "type_id": "41",
+    "timestamp": "2024-07-07T15:10",
+    "place": null,
+    "description": "meals: calgary (cactus club)\ntime: 14:30\ntime: 15:10",
+    "data": {
+      "category": "meals",
+      "dada_rank": 3,
+      "sydney_rank": 6
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 326,
+    "type": "receipt",
+    "type_id": "8",
+    "timestamp": "2024-07-07T15:15",
+    "place": "178-317 7 AVE SW, CALGARY, AB T2P 2Y9",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "178-317 7 ave sw",
+        "city": "calgary",
+        "state": "ab",
+        "postal": "t2p 2y9"
+      },
+      "date": "2024-07-07",
+      "time": "15:15",
+      "address": "178-317 7 AVE SW, CALGARY, AB T2P 2Y9",
+      "items": [
+        {
+          "description": "SPAGHETTI PORTOFINO",
+          "amount": 28.25
+        },
+        {
+          "description": "PRAWN RAV ENTREE",
+          "amount": 32.25
+        },
+        {
+          "description": "POP",
+          "amount": 4.75
+        }
+      ],
+      "category": "restaurant",
+      "subtotal": 65.25,
+      "GST": 3.26,
+      "total_due": 68.51,
+      "gratuity_options": [
+        {
+          "percentage": 18,
+          "amount": 12.33
+        },
+        {
+          "percentage": 20,
+          "amount": 13.7
+        },
+        {
+          "percentage": 22,
+          "amount": 15.07
+        }
+      ],
+      "business_name": "WORLD FAMOUS CACTUS CLUB CAFE",
+      "phone_number": "403-454-9399",
+      "GST_number": "34214 9979 RT0001",
+      "thank_you_message": "THANK YOU FOR YOUR CONTINUED SUPPORT! CALL IN OR BOOK A RESERVATION ONLINE FOR TAKE OUT ORDER ONLINE OR DOORDASH FOR DELIVERY!"
+    },
+    "filename": "20240902_103510",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1377,
+    "type": "picture",
+    "type_id": "993",
+    "timestamp": "2024-07-07T15:25:29",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240707_152528",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 120,
+    "type": "map",
+    "type_id": "9",
+    "timestamp": "2024-07-07T15:33:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-07T15:33:00",
+      "end_timestamp": "2024-07-07T22:27:00",
+      "place": {
+        "address": "30212 avenue sw",
+        "state": "ab"
+      },
+      "end_place": {
+        "city": "cedar",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "6 hours, 53 minutes",
+        "distance": "205 mi",
+        "location": "302 12 Avenue SW, Alberta -> Cedar, Montana",
+        "nearby": [
+          "Cochrane",
+          "Calgary",
+          "Strathmore",
+          "Okotoks",
+          "Siksika Indian Reserve #146",
+          "High River",
+          "Claresholm",
+          "Taber",
+          "Sparwood",
+          "Lethbridge",
+          "Fort Macleod",
+          "Fernie",
+          "Pincher Creek",
+          "Kalispell",
+          "Blackfeet Indian Reservation"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_213416_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1748,
+    "type": "picture",
+    "type_id": "1364",
+    "timestamp": "2024-07-07T16:32:38",
+    "place": "21 Avenue, Town of Nanton, Alberta, T0L 1R0, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "21 avenue",
+        "city": "nanton",
+        "county": "",
+        "state": "ab",
+        "postal": "t0l 1r0"
+      }
+    },
+    "filename": "20240707_163237",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 327,
+    "type": "receipt",
+    "type_id": "74",
+    "timestamp": "2024-07-07T16:35",
+    "place": "2204 19 St, Nanton, AB T0L 1R0",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "2204 19 st",
+        "city": "nanton",
+        "state": "ab",
+        "postal": "t0l 1r0"
+      },
+      "date": "2024-07-07",
+      "time": "16:35",
+      "address": "2204 19 St, Nanton, AB T0L 1R0",
+      "items": [
+        {
+          "description": "Gasoline",
+          "quantity": "39.241L",
+          "unit_price": "$1.529",
+          "total_price": "$60.00"
+        }
+      ],
+      "category": "gas",
+      "other_details": {
+        "transaction_number": "537255",
+        "station_number": "00325756",
+        "GST_number": "R104855408",
+        "pump_number": "1",
+        "payment_method": "Mastercard",
+        "card_number": "******9725",
+        "reference_number": "****4466 0010013908C",
+        "invoice_number": "145711",
+        "authorization_number": "004120",
+        "loyalty_program": "NO",
+        "reconciliation_ID": "0155615"
+      }
+    },
+    "filename": "20240902_103447",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2241,
+    "type": "picture",
+    "type_id": "1857",
+    "timestamp": "2024-07-07T17:10:02",
+    "place": "2, Municipal District of Willow Creek No. 26, Alberta, T0L 1A0, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "2",
+        "city": "municipal district of willow creek no. 26",
+        "county": "",
+        "state": "ab",
+        "postal": "t0l 1a0"
+      },
+      "signs": "fort macleod 24 km\nlethbridge 74 km"
+    },
+    "filename": "20240707_171001",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2585,
+    "type": "picture",
+    "type_id": "2201",
+    "timestamp": "2024-07-07T17:11:08",
+    "place": "2, Municipal District of Willow Creek No. 26, Alberta, T0L 1A0, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "2",
+        "city": "municipal district of willow creek no. 26",
+        "county": "",
+        "state": "ab",
+        "postal": "t0l 1a0"
+      }
+    },
+    "filename": "20240707_171108",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1560,
+    "type": "picture",
+    "type_id": "1176",
+    "timestamp": "2024-07-07T17:11:16",
+    "place": "2, Municipal District of Willow Creek No. 26, Alberta, T0L 1A0, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "2",
+        "city": "municipal district of willow creek no. 26",
+        "county": "",
+        "state": "ab",
+        "postal": "t0l 1a0"
+      }
+    },
+    "filename": "20240707_171115",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1186,
+    "type": "picture",
+    "type_id": "802",
+    "timestamp": "2024-07-07T17:21:31",
+    "place": "Crowsnest Highway, Fort Macleod, Town of Fort Macleod, Alberta, T0L 0Z0, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "crowsnest highway",
+        "city": "fort macleod",
+        "county": "town of fort macleod",
+        "state": "ab",
+        "postal": "t0l 0z0"
+      }
+    },
+    "filename": "20240707_172131",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1622,
+    "type": "picture",
+    "type_id": "1238",
+    "timestamp": "2024-07-07T17:56:42",
+    "place": "Fas Gas, 192, Main Street, Town of Cardston, Alberta, T0K 0K0, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "192 main street",
+        "city": "cardston",
+        "county": "",
+        "state": "ab",
+        "postal": "t0k 0k0"
+      }
+    },
+    "filename": "20240707_175642",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1001,
+    "type": "picture",
+    "type_id": "617",
+    "timestamp": "2024-07-07T18:06:57",
+    "place": "Highway 2, Carway, Cardston County, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "highway 2",
+        "city": "carway",
+        "county": "cardston county",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240707_180657",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 972,
+    "type": "picture",
+    "type_id": "588",
+    "timestamp": "2024-07-07T18:07:19",
+    "place": "Highway 2, Carway, Cardston County, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "highway 2",
+        "city": "carway",
+        "county": "cardston county",
+        "state": "ab",
+        "postal": ""
+      },
+      "caption": "the lavender crops to complement the yellow green ones we'd wondered about earlier in the trip"
+    },
+    "filename": "20240707_180719",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2499,
+    "type": "picture",
+    "type_id": "2115",
+    "timestamp": "2024-07-07T18:12:24",
+    "place": "Highway 2, Carway, Cardston County, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "highway 2",
+        "city": "carway",
+        "county": "cardston county",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240707_181223",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 943,
+    "type": "picture",
+    "type_id": "559",
+    "timestamp": "2024-07-07T19:30:31",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {},
+      "caption": "the road was a bit too treacherous to be taking photos, and perhaps too beautiful as well"
+    },
+    "filename": "20240707_193031",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2722,
+    "type": "story",
+    "type_id": "80",
+    "timestamp": "2024-07-07T20:30",
+    "place": null,
+    "description": "accommodations: glacier campground\ntime: 20:30",
+    "data": {
+      "category": "accommodations",
+      "dada_rank": 3,
+      "sydney_rank": 2
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2281,
+    "type": "picture",
+    "type_id": "1897",
+    "timestamp": "2024-07-07T22:21:36",
+    "place": "Glacier Campground, Aspen, West Glacier, Flathead County, Montana, 59936, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "glacier campground",
+        "city": "west glacier",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": "59936"
+      },
+      "miles": "3829.6 miles",
+      "note": "arriving at glacier campground"
+    },
+    "filename": "20240707_222135",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 742,
+    "type": "picture",
+    "type_id": "358",
+    "timestamp": "2024-07-07T22:26:36",
+    "place": "Glacier Campground, Aspen, West Glacier, Flathead County, Montana, 59936, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "glacier campground",
+        "city": "west glacier",
+        "county": "flathead county",
+        "state": "mt",
+        "postal": "59936"
+      },
+      "caption": "really late sunsets"
+    },
+    "filename": "20240707_222634",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 121,
+    "type": "map",
+    "type_id": "189",
+    "timestamp": "2024-07-07T22:27:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-07T22:27:00",
+      "end_timestamp": "2024-07-07T22:46:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "19 minutes",
+        "distance": "0 mi",
+        "location": "Near Cedar, Montana",
+        "nearby": []
+      }
+    },
+    "filename": "Screenshot_20240723_202842_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 122,
+    "type": "map",
+    "type_id": "123",
+    "timestamp": "2024-07-07T22:46:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-07T22:46:00",
+      "end_timestamp": "2024-07-08T00:43:00",
+      "place": {
+        "state": "mt"
+      },
+      "end_place": {
+        "state": "mt"
+      },
+      "info": {
+        "duration": "1 hour, 57 minutes",
+        "distance": "0 mi",
+        "location": "Cedar, Montana -> Cedar, Montana",
+        "nearby": []
+      }
+    },
+    "filename": "Screenshot_20240723_202832_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  }
+]

@@ -1,0 +1,2131 @@
+[
+  {
+    "id": 2664,
+    "type": "story",
+    "type_id": "185",
+    "timestamp": "2024-06-28T00:01",
+    "place": null,
+    "description": "days: day 2, jun 28 (greg+laura's -> cleveland)\n\ndate: 2024-06-28\ntime: 00:01",
+    "data": {
+      "category": "days",
+      "dada_rank": 17,
+      "sydney_rank": 8
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1668,
+    "type": "picture",
+    "type_id": "1284",
+    "timestamp": "2024-06-28T06:13:19",
+    "place": "2, Thalia Court, Town of Greenfield, Saratoga County, New York, 12833, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "city": "greenfield",
+        "county": "saratoga county",
+        "state": "ny",
+        "postal": "12833"
+      },
+      "caption": "sid didn't sleep very well on that couch"
+    },
+    "filename": "20240628_061318",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1926,
+    "type": "picture",
+    "type_id": "1542",
+    "timestamp": "2024-06-28T06:18:01",
+    "place": "2, Thalia Court, Town of Greenfield, Saratoga County, New York, 12833, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "city": "greenfield",
+        "county": "saratoga county",
+        "state": "ny",
+        "postal": "12833"
+      },
+      "caption": "made plans to take sid to south troy diner after some discussion with greg, was embarrassed to have forgotten that it wasn't the most obvious choice after all the love we'd given that place during college"
+    },
+    "filename": "20240628_061801",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 5,
+    "type": "map",
+    "type_id": "162",
+    "timestamp": "2024-06-28T06:40:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-28T06:40:00",
+      "end_timestamp": "2024-06-28T07:36:00",
+      "place": {
+        "address": "46 lake desolation rd",
+        "state": "ny"
+      },
+      "end_place": {
+        "address": "579 1st street",
+        "state": "ny"
+      },
+      "info": {
+        "duration": "55 minutes",
+        "distance": "40 mi",
+        "location": "46 Lake Desolation Rd, New York -> 579 1st Street, New York",
+        "nearby": [
+          "Saratoga Springs",
+          "Ballston Spa",
+          "Schenectady",
+          "Mechanicville",
+          "Clift Park",
+          "Latham",
+          "Colonie",
+          "Albany"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_205850_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2553,
+    "type": "picture",
+    "type_id": "2169",
+    "timestamp": "2024-06-28T06:53:46",
+    "place": "68-74, Washington Street, City of Saratoga Springs, Saratoga County, New York, 12866, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "68-74 washington street",
+        "city": "saratoga springs",
+        "county": "saratoga county",
+        "state": "ny",
+        "postal": "12866"
+      },
+      "caption": "went through saratoga on the way out, didn't need the map to get to south troy"
+    },
+    "filename": "20240628_065346",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1069,
+    "type": "picture",
+    "type_id": "685",
+    "timestamp": "2024-06-28T06:54:37",
+    "place": "5, Washington Street, City of Saratoga Springs, Saratoga County, New York, 12866, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "5 washington street",
+        "city": "saratoga springs",
+        "county": "saratoga county",
+        "state": "ny",
+        "postal": "12866"
+      }
+    },
+    "filename": "20240628_065436",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1765,
+    "type": "picture",
+    "type_id": "1381",
+    "timestamp": "2024-06-28T07:30:41",
+    "place": "113, Jefferson Street, South Central, City of Troy, Rensselaer County, New York, 12180, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "113 jefferson street",
+        "city": "troy",
+        "county": "rensselaer county",
+        "state": "ny",
+        "postal": "12180"
+      }
+    },
+    "filename": "20240628_073041",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 6,
+    "type": "map",
+    "type_id": "207",
+    "timestamp": "2024-06-28T07:36:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-28T07:36:00",
+      "end_timestamp": "2024-06-28T08:15:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "39 minutes",
+        "distance": "0 mi",
+        "location": "Near 579 1st Street, New York",
+        "nearby": [
+          "Iron Museum",
+          "Polk St",
+          "Main St",
+          "Essentials Towing & Recovery",
+          "S River St",
+          "Dukes St",
+          "Burden Ave",
+          "Winslow Ave",
+          "Thompson St",
+          "2nd St",
+          "1st St",
+          "4th St",
+          "Franklin St"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_205925_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1220,
+    "type": "picture",
+    "type_id": "836",
+    "timestamp": "2024-06-28T07:36:04",
+    "place": "660, 4th Street, South Troy, City of Troy, Rensselaer County, New York, 12180, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "660 4th street",
+        "city": "troy",
+        "county": "rensselaer county",
+        "state": "ny",
+        "postal": "12180"
+      }
+    },
+    "filename": "20240628_073604",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2267,
+    "type": "picture",
+    "type_id": "1883",
+    "timestamp": "2024-06-28T07:39:33",
+    "place": "South Troy Diner, Main Street, City of Troy, Rensselaer County, New York, 12180, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south troy diner, main street",
+        "city": "troy",
+        "county": "rensselaer county",
+        "state": "ny",
+        "postal": "12180"
+      }
+    },
+    "filename": "20240628_073933",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2354,
+    "type": "picture",
+    "type_id": "1970",
+    "timestamp": "2024-06-28T07:44:09",
+    "place": "South Troy Diner, Main Street, City of Troy, Rensselaer County, New York, 12180, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south troy diner, main street",
+        "city": "troy",
+        "county": "rensselaer county",
+        "state": "ny",
+        "postal": "12180"
+      }
+    },
+    "filename": "20240628_074409",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1907,
+    "type": "picture",
+    "type_id": "1523",
+    "timestamp": "2024-06-28T07:44:38",
+    "place": "South Troy Diner, Main Street, City of Troy, Rensselaer County, New York, 12180, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south troy diner, main street",
+        "city": "troy",
+        "county": "rensselaer county",
+        "state": "ny",
+        "postal": "12180"
+      },
+      "caption": "alternative waitress complimented sid on her shoes, just the first of many compliments she received for her style throughout the trip"
+    },
+    "filename": "20240628_074438",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1755,
+    "type": "picture",
+    "type_id": "1371",
+    "timestamp": "2024-06-28T07:44:42",
+    "place": "South Troy Diner, Main Street, City of Troy, Rensselaer County, New York, 12180, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south troy diner, main street",
+        "city": "troy",
+        "county": "rensselaer county",
+        "state": "ny",
+        "postal": "12180"
+      }
+    },
+    "filename": "20240628_074442",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1775,
+    "type": "picture",
+    "type_id": "1391",
+    "timestamp": "2024-06-28T07:49:07",
+    "place": "579, 1st Street, City of Troy, Rensselaer County, New York, 12180, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "579 1st street",
+        "city": "troy",
+        "county": "rensselaer county",
+        "state": "ny",
+        "postal": "12180"
+      }
+    },
+    "filename": "20240628_074907",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2665,
+    "type": "story",
+    "type_id": "47",
+    "timestamp": "2024-06-28T08:00",
+    "place": null,
+    "description": "meals: south troy diner\ntime: 08:00",
+    "data": {
+      "category": "meals",
+      "dada_rank": 9,
+      "sydney_rank": 1
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1351,
+    "type": "picture",
+    "type_id": "967",
+    "timestamp": "2024-06-28T08:06:56",
+    "place": "South Troy Diner, Main Street, City of Troy, Rensselaer County, New York, 12180, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south troy diner, main street",
+        "city": "troy",
+        "county": "rensselaer county",
+        "state": "ny",
+        "postal": "12180"
+      },
+      "caption": "was intrigued to see molé in multiple specials, not the south troy i remember, branching out i guess ? waitress said i prob made the right choice to go with the hash."
+    },
+    "filename": "20240628_080656",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 880,
+    "type": "picture",
+    "type_id": "496",
+    "timestamp": "2024-06-28T08:08:51",
+    "place": "579, 1st Street, City of Troy, Rensselaer County, New York, 12180, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "579 1st street",
+        "city": "troy",
+        "county": "rensselaer county",
+        "state": "ny",
+        "postal": "12180"
+      }
+    },
+    "filename": "20240628_080851",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 7,
+    "type": "map",
+    "type_id": "145",
+    "timestamp": "2024-06-28T08:15:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-28T08:15:00",
+      "end_timestamp": "2024-06-28T09:06:00",
+      "place": {
+        "address": "579 ist street",
+        "state": "ny"
+      },
+      "end_place": {
+        "address": "479 front st",
+        "state": "ny"
+      },
+      "info": {
+        "duration": "51 minutes",
+        "distance": "27 mi",
+        "location": "579 1st Street, New York -> 479 Front St, New York",
+        "nearby": [
+          "Schermerhorn",
+          "Colonie",
+          "Guilderland",
+          "Clifton Park",
+          "Halfmoon",
+          "Latham",
+          "Cohoes",
+          "Troy"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_205950_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 848,
+    "type": "picture",
+    "type_id": "464",
+    "timestamp": "2024-06-28T08:16:11",
+    "place": "814, Burden Avenue, City of Troy, Rensselaer County, New York, 12180, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "814 burden avenue",
+        "city": "troy",
+        "county": "rensselaer county",
+        "state": "ny",
+        "postal": "12180"
+      }
+    },
+    "filename": "20240628_081610",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1939,
+    "type": "picture",
+    "type_id": "1555",
+    "timestamp": "2024-06-28T08:34:12",
+    "place": "28, Pine Ridge II, Town of Clifton Park, Saratoga County, New York, 12065, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "28 pine ridge ii",
+        "city": "clifton park",
+        "county": "saratoga county",
+        "state": "ny",
+        "postal": "12065"
+      }
+    },
+    "filename": "20240628_083412",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1150,
+    "type": "picture",
+    "type_id": "766",
+    "timestamp": "2024-06-28T08:39:39",
+    "place": "28, Pine Ridge II, Town of Clifton Park, Saratoga County, New York, 12065, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "28 pine ridge ii",
+        "city": "clifton park",
+        "county": "saratoga county",
+        "state": "ny",
+        "postal": "12065"
+      },
+      "caption": "greg in the wild ! had to meet him at work to pick up stuff we'd forgotten"
+    },
+    "filename": "20240628_083939",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 990,
+    "type": "picture",
+    "type_id": "606",
+    "timestamp": "2024-06-28T08:46:59",
+    "place": "Clifton Park Boulevard, Town of Clifton Park, Saratoga County, New York, 12065, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "clifton park boulevard",
+        "city": "clifton park",
+        "county": "saratoga county",
+        "state": "ny",
+        "postal": "12065"
+      },
+      "signs": "i-87 albany\ni-87 montreal"
+    },
+    "filename": "20240628_084659",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 8,
+    "type": "map",
+    "type_id": "306",
+    "timestamp": "2024-06-28T09:06:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-28T09:06:00",
+      "end_timestamp": "2024-06-28T09:11:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "5 minutes",
+        "distance": "0 mi",
+        "location": "Near 479 Front St, New York",
+        "nearby": [
+          "Harborside Dr",
+          "Rush St",
+          "Nott St",
+          "Colonial Car Wash",
+          "Erie Blvd",
+          "College Bardz",
+          "Maxon Rd"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210026_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 9,
+    "type": "map",
+    "type_id": "380",
+    "timestamp": "2024-06-28T09:11:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-28T09:11:00",
+      "end_timestamp": "2024-06-28T10:12:00",
+      "place": {
+        "address": "479 front st",
+        "state": "ny"
+      },
+      "end_place": {
+        "address": "new york state thruway",
+        "state": "ny"
+      },
+      "info": {
+        "duration": "1 hour, 0 minutes",
+        "distance": "70 mi",
+        "location": "479 Front St, New York -> New York State Thruway, New York",
+        "nearby": [
+          "Ferris Lake",
+          "Wild Forest",
+          "Gloversville",
+          "Utica",
+          "Little Falls",
+          "Herkimer",
+          "Cooperstown",
+          "Saratoga Springs",
+          "Ballston Spa",
+          "Amsterdam",
+          "Schenectady",
+          "Oneonta"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210044_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 34,
+    "type": "map",
+    "type_id": 380,
+    "timestamp": "2024-06-28T09:11:00",
+    "place": null,
+    "description": "sydney + rich spotify blend\n\nfigured out how to set up a spotify blend at greg's kitchen table the prev night, recalling shawn and i had set one up some months before. it mostly alternated between our songs, was surprised to discover everybody wants to rule the world by tears for fears was hers",
+    "data": null,
+    "filename": null,
+    "position": "below",
+    "keep": false,
+    "notes": null,
+    "is_note": true,
+    "ordinal": 3
+  },
+  {
+    "id": 930,
+    "type": "picture",
+    "type_id": "546",
+    "timestamp": "2024-06-28T09:11:05",
+    "place": "Erie Boulevard, Little Italy, City of Schenectady, Schenectady County, New York, 12305, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "erie boulevard",
+        "city": "schenectady",
+        "county": "schenectady county",
+        "state": "ny",
+        "postal": "12305"
+      }
+    },
+    "filename": "20240628_091104",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 268,
+    "type": "receipt",
+    "type_id": "117",
+    "timestamp": "2024-06-28T10:09",
+    "place": "Mile 227 Franfort NY 13340",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "mile 227",
+        "city": "franfort",
+        "state": "ny",
+        "postal": "13340"
+      },
+      "date": "2024-06-28",
+      "time": "10:09",
+      "address": "Mile 227 Franfort NY 13340",
+      "items": [
+        {
+          "description": "PEPSI DIET 20OZ",
+          "quantity": 1,
+          "amount": 3.49
+        }
+      ],
+      "category": "convenience",
+      "payment_method": "debit",
+      "total": 3.72,
+      "store_number": "36021",
+      "register_number": "303",
+      "transaction_number": "3039134",
+      "auth_number": "987112",
+      "response_code": "000",
+      "stan": "0271173617",
+      "invoice_number": "116307",
+      "shift_number": "1",
+      "store_name": "Applegreen",
+      "verified_by": "PIN",
+      "signature_required": false
+    },
+    "filename": "20240902_100325",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 457,
+    "type": "picture",
+    "type_id": "73",
+    "timestamp": "2024-06-28T10:12:23",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {}
+    },
+    "filename": "20240628_101223",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 10,
+    "type": "map",
+    "type_id": "59",
+    "timestamp": "2024-06-28T10:19:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-28T10:19:00",
+      "end_timestamp": "2024-06-28T11:59:00",
+      "place": {
+        "address": "schuyler service area",
+        "state": "ny"
+      },
+      "end_place": {
+        "address": "new york state thruway",
+        "state": "ny"
+      },
+      "info": {
+        "duration": "1 hour, 39 minutes",
+        "distance": "122 mi",
+        "location": "Schuyler Service Area, New York -> New York State Thruway, New York",
+        "nearby": [
+          "Watertown",
+          "Lake Ontario",
+          "Oswego",
+          "Rochester",
+          "Rome",
+          "Ithaca",
+          "Elmira",
+          "Binghamton"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210101_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 241,
+    "type": "shazam",
+    "type_id": "23",
+    "timestamp": "2024-06-28T10:30:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "title": "Kim Waitress",
+      "artist": "Material Issue",
+      "link": "https://www.shazam.com/track/55302308/kim-the-waitress",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/f8/1d/82/f81d8205-3d5d-1bee-f7a5-6531ceeb322c/00731451889424.rgb.jpg/400x400cc.jpg"
+    },
+    "filename": "https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/f8/1d/82/f81d8205-3d5d-1bee-f7a5-6531ceeb322c/00731451889424.rgb.jpg/400x400cc.jpg",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1027,
+    "type": "picture",
+    "type_id": "643",
+    "timestamp": "2024-06-28T10:57:28",
+    "place": "New York State Thruway, Town of Manlius, Onondaga County, New York, 13116, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "new york state thruway",
+        "city": "manlius",
+        "county": "onondaga county",
+        "state": "ny",
+        "postal": "13116"
+      },
+      "signs": "i-481 syracuse, oswego"
+    },
+    "filename": "20240628_105728",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2386,
+    "type": "picture",
+    "type_id": "2002",
+    "timestamp": "2024-06-28T11:37:45",
+    "place": "New York State Thruway, Town of Phelps, Town of Junius, Seneca County, New York, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "new york state thruway",
+        "city": "phelps",
+        "county": "seneca county",
+        "state": "ny",
+        "postal": ""
+      },
+      "signs": "rochester 40\nbuffalo 100"
+    },
+    "filename": "20240628_113745",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2666,
+    "type": "story",
+    "type_id": "481",
+    "timestamp": "2024-06-28T12:00",
+    "place": null,
+    "description": "songs: everybody wants to rule the world -- tears for fears\n\ntime: 12:00",
+    "data": {
+      "id": 202,
+      "artist_name": "Tears For Fears",
+      "song_name": "Everybody Wants To Rule The World",
+      "image_link": "https://i.scdn.co/image/ab67616d0000b27322463d6939fec9e17b2a6235",
+      "song_link": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE",
+      "ordinal": null,
+      "spotify_id": "4RvWPyQ5RL0ao9LPZeSouE",
+      "added_at": "2024-10-27T03:40:12Z",
+      "playlist_id": "5tsTWtzNU7OO2wEG2GbTmO",
+      "playlist_name": "rich's 10 songs",
+      "playlist_owner": "Rich Sanda",
+      "category": "songs",
+      "dada_rank": 204,
+      "sydney_rank": 9
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 270,
+    "type": "receipt",
+    "type_id": "66",
+    "timestamp": "2024-06-28T12:09",
+    "place": "7029 Aldridge Rd, Victor, NY 14564",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "7029 aldridge rd",
+        "city": "victor",
+        "state": "ny",
+        "postal": "14564"
+      },
+      "date": "2024-06-28",
+      "time": "12:09",
+      "address": "7029 Aldridge Rd, Victor, NY 14564",
+      "items": [
+        {
+          "description": "Regular Gasoline",
+          "quantity": 13.758,
+          "price": 3.719,
+          "total": 51.17
+        }
+      ],
+      "category": "gas",
+      "payment_method": "debit",
+      "card_number": "************9725",
+      "auth_code": "266602",
+      "response_code": "000",
+      "invoice_number": "658662",
+      "store_number": "9736000",
+      "pin_verified": true
+    },
+    "filename": "20240902_100709",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 11,
+    "type": "map",
+    "type_id": "321",
+    "timestamp": "2024-06-28T12:10:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-28T12:10:00",
+      "end_timestamp": "2024-06-28T13:04:00",
+      "place": {
+        "address": "I-90",
+        "state": "ny"
+      },
+      "end_place": {
+        "address": "new york state thruway",
+        "state": "ny"
+      },
+      "info": {
+        "duration": "54 minutes",
+        "distance": "62 mi",
+        "location": "I-90, New York -> New York State Thruway, New York",
+        "nearby": [
+          "Lockport",
+          "Brockport",
+          "Rochester",
+          "Fairport",
+          "Canandaigua",
+          "Geneseo"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210144_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1225,
+    "type": "picture",
+    "type_id": "841",
+    "timestamp": "2024-06-28T12:37:28",
+    "place": "New York State Thruway, Town of LeRoy, Genesee County, New York, 14557, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "new york state thruway",
+        "city": "leroy",
+        "county": "genesee county",
+        "state": "ny",
+        "postal": "14557"
+      }
+    },
+    "filename": "20240628_123728",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 12,
+    "type": "map",
+    "type_id": "313",
+    "timestamp": "2024-06-28T13:12:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-28T13:12:00",
+      "end_timestamp": "2024-06-28T15:18:00",
+      "place": {
+        "address": "I-90",
+        "state": "ny"
+      },
+      "end_place": {
+        "address": "2246 state route 45",
+        "state": "oh"
+      },
+      "info": {
+        "duration": "2 hours, 6 minutes",
+        "distance": "151 mi",
+        "location": "I-90, New York -> 2246 State Route 45, Ohio",
+        "nearby": [
+          "Lake Erie",
+          "Hamilton",
+          "Erie",
+          "Allegheny National Forest"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210156_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1595,
+    "type": "picture",
+    "type_id": "1211",
+    "timestamp": "2024-06-28T13:12:59",
+    "place": "New York State Thruway, Town of Lancaster, Erie County, New York, 14031, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "new york state thruway",
+        "city": "lancaster",
+        "county": "erie county",
+        "state": "ny",
+        "postal": "14031"
+      }
+    },
+    "filename": "20240628_131259",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2492,
+    "type": "picture",
+    "type_id": "2108",
+    "timestamp": "2024-06-28T13:19:50",
+    "place": "New York State Thruway, Town of Cheektowaga, Erie County, New York, 14225, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "new york state thruway",
+        "city": "cheektowaga",
+        "county": "erie county",
+        "state": "ny",
+        "postal": "14225"
+      }
+    },
+    "filename": "20240628_131950",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2667,
+    "type": "story",
+    "type_id": "482",
+    "timestamp": "2024-06-28T14:00",
+    "place": null,
+    "description": "songs: finale -- erika henningsen\n\ntime: 14:00",
+    "data": {
+      "id": 203,
+      "artist_name": "Erika Henningsen",
+      "song_name": "Finale",
+      "image_link": "https://i.scdn.co/image/ab67616d0000b273058d85d25752a6701564ba06",
+      "song_link": "https://open.spotify.com/track/6dss2WRbaDVKw4vpZlNxSv",
+      "ordinal": null,
+      "spotify_id": "6dss2WRbaDVKw4vpZlNxSv",
+      "added_at": "2024-10-26T21:18:39Z",
+      "playlist_id": "3IObyYHljpzI9F9N1gIrHC",
+      "playlist_name": "sid's 10 songs",
+      "playlist_owner": "Rich Sanda",
+      "category": "songs",
+      "dada_rank": 10,
+      "sydney_rank": 12
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 443,
+    "type": "picture",
+    "type_id": "59",
+    "timestamp": "2024-06-28T14:21:38",
+    "place": "AMVETS Memorial Highway, Northville, North East Township, Erie County, Pennsylvania, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "amvets memorial highway",
+        "city": "northville",
+        "county": "erie county",
+        "state": "pa",
+        "postal": ""
+      },
+      "sign": "welcome to pennsylvania",
+      "note": "pursue your happiness"
+    },
+    "filename": "20240628_142138",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1403,
+    "type": "picture",
+    "type_id": "1019",
+    "timestamp": "2024-06-28T14:41:20",
+    "place": "AMVETS Memorial Highway, South Kearsarge, Summit Township, Erie County, Pennsylvania, 16565, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "amvets memorial highway",
+        "city": "south kearsarge",
+        "county": "erie county",
+        "state": "pa",
+        "postal": "16565"
+      },
+      "signs": "i-90 cleveland\ni-79 erie, pittsburgh"
+    },
+    "filename": "20240628_144120",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2621,
+    "type": "picture",
+    "type_id": "2237",
+    "timestamp": "2024-06-28T15:06:12",
+    "place": "",
+    "description": null,
+    "data": {
+      "place": {},
+      "sign": "ohio",
+      "note": "(somewhere near the border, missed the sign, apparently)"
+    },
+    "filename": "20240628_150612",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 13,
+    "type": "map",
+    "type_id": "285",
+    "timestamp": "2024-06-28T15:18:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-28T15:18:00",
+      "end_timestamp": "2024-06-28T15:35:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "16 minutes",
+        "distance": "0 mi",
+        "location": "Near 2246 State Route 45, Ohio",
+        "nearby": [
+          "Center Rd",
+          "Sidley Ct"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210221_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 14,
+    "type": "map",
+    "type_id": "223",
+    "timestamp": "2024-06-28T15:35:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-28T15:35:00",
+      "end_timestamp": "2024-06-28T16:30:00",
+      "place": {
+        "address": "2246 state route 45",
+        "state": "oh"
+      },
+      "end_place": {
+        "address": "777 saint clair avenue north",
+        "state": "oh"
+      },
+      "info": {
+        "duration": "55 minutes",
+        "distance": "50 mi",
+        "location": "2246 State Route 45, Ohio -> 777 Saint Clair Avenue North",
+        "nearby": [
+          "Cleveland",
+          "Mentor",
+          "Ashtabula",
+          "Geneva",
+          "Jefferson",
+          "Parma",
+          "Cuyahoga Valley",
+          "Solon"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210235_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1772,
+    "type": "picture",
+    "type_id": "1388",
+    "timestamp": "2024-06-28T16:03:25",
+    "place": "I 90, Willoughby Hills, Lake County, Ohio, 44092, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 90",
+        "city": "willoughby hills",
+        "county": "lake county",
+        "state": "oh",
+        "postal": "44092"
+      }
+    },
+    "filename": "20240628_160325",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1793,
+    "type": "picture",
+    "type_id": "1409",
+    "timestamp": "2024-06-28T16:07:23",
+    "place": "Lakeland Freeway, Euclid, Cuyahoga County, Ohio, 44123, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "lakeland freeway",
+        "city": "euclid",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44123"
+      }
+    },
+    "filename": "20240628_160722",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 271,
+    "type": "receipt",
+    "type_id": "110",
+    "timestamp": "2024-06-28T16:23",
+    "place": "777 Saint Clair Ave NE, Cleveland, Ohio 44114",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "777 saint clair ave ne",
+        "city": "cleveland",
+        "state": "oh",
+        "postal": "44114"
+      },
+      "date": "2024-06-28",
+      "time": "16:23",
+      "address": "777 Saint Clair Ave NE, Cleveland, Ohio 44114",
+      "items": [
+        {
+          "description": "Parking Fee",
+          "price": "$75.60"
+        }
+      ],
+      "category": "parking",
+      "payment_method": "MC 9725",
+      "powered_by": "FLASH"
+    },
+    "filename": "20240902_094216",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 40,
+    "type": "receipt",
+    "type_id": 110,
+    "timestamp": "2024-06-28T16:23",
+    "place": null,
+    "description": "our parking spot\n\nour hotel was a tall building in downtown cleveland. we got a special parking spot right by the entrance on the ramp up to the garage because our thule scraped the cement block suspended from the chains on the way in. made it real easy to move stuff between the room and the car.",
+    "data": null,
+    "filename": null,
+    "position": "below",
+    "keep": false,
+    "notes": null,
+    "is_note": true,
+    "ordinal": 3
+  },
+  {
+    "id": 15,
+    "type": "map",
+    "type_id": "251",
+    "timestamp": "2024-06-28T16:30:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-28T16:30:00",
+      "end_timestamp": "2024-06-28T17:40:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "1 hour, 9 minutes",
+        "distance": "0 mi",
+        "location": "Near 777 Saint Clair Avenue, Northeast, Ohio",
+        "nearby": [
+          "Park with iconic rubber stamp sculpture",
+          "Anthony J. Celebrezze Federal Building",
+          "E 6th St",
+          "Mall Dr",
+          "St Clair Ave NE",
+          "Lakeside",
+          "Theresa Ct",
+          "Well Ave",
+          "Bethel Ct",
+          "Erieview Plz",
+          "E 9th St",
+          "E 10th St"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210250_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1607,
+    "type": "picture",
+    "type_id": "1223",
+    "timestamp": "2024-06-28T16:40:02",
+    "place": "Westin, 777, Saint Clair Avenue Northeast, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "777 saint clair avenue northeast",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      }
+    },
+    "filename": "20240628_164002",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 796,
+    "type": "picture",
+    "type_id": "412",
+    "timestamp": "2024-06-28T16:40:11",
+    "place": "Westin, 777, Saint Clair Avenue Northeast, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "777 westin saint clair avenue northeast",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      }
+    },
+    "filename": "20240628_164011",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2668,
+    "type": "story",
+    "type_id": "81",
+    "timestamp": "2024-06-28T16:45",
+    "place": null,
+    "description": "accommodations: 21st floor\ntime: 16:45",
+    "data": {
+      "category": "accommodations",
+      "dada_rank": 4,
+      "sydney_rank": 1
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 688,
+    "type": "picture",
+    "type_id": "304",
+    "timestamp": "2024-06-28T17:30:40",
+    "place": "Saint Clair Avenue Northeast, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "saint clair avenue northeast",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      },
+      "caption": "my dinner date by the elevator on the way out"
+    },
+    "filename": "20240628_173039",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 673,
+    "type": "picture",
+    "type_id": "289",
+    "timestamp": "2024-06-28T17:36:05",
+    "place": "Huntington Convention Center of Cleveland, 300, Lakeside Avenue East, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "300 lakeside avenue east",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240628_173604",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2449,
+    "type": "picture",
+    "type_id": "2065",
+    "timestamp": "2024-06-28T17:36:11",
+    "place": "Huntington Convention Center of Cleveland, 300, Lakeside Avenue East, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "300 lakeside avenue east",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240628_173611",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2031,
+    "type": "picture",
+    "type_id": "1647",
+    "timestamp": "2024-06-28T17:36:17",
+    "place": "Huntington Convention Center of Cleveland, 300, Lakeside Avenue East, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "300 lakeside avenue east",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      },
+      "caption": "walking in those shoes"
+    },
+    "filename": "20240628_173617",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1173,
+    "type": "picture",
+    "type_id": "789",
+    "timestamp": "2024-06-28T17:36:34",
+    "place": "Huntington Convention Center of Cleveland, 300, Lakeside Avenue East, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "300 lakeside avenue east",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240628_173634",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 16,
+    "type": "map",
+    "type_id": "231",
+    "timestamp": "2024-06-28T17:40:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-28T17:40:00",
+      "end_timestamp": "2024-06-28T18:02:00",
+      "place": {
+        "address": "777 saint clair avenue north"
+      },
+      "end_place": {
+        "address": "1875 merwin ave",
+        "state": "oh"
+      },
+      "info": {
+        "duration": "22 minutes",
+        "distance": "1 mi",
+        "location": "777 Saint Clair Avenue North, Ohio -> 1875 Merwin Ave, Ohio",
+        "nearby": [
+          "Hilton Cleveland Downtown",
+          "Blue Point Grille",
+          "W 9th St",
+          "Superior Ave",
+          "Detroit Ave",
+          "Irishtown Bend",
+          "W 3rd St",
+          "St Clair Ave NE",
+          "Ontario St",
+          "E 9th St",
+          "322 Euclid Ave"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210305_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1198,
+    "type": "picture",
+    "type_id": "814",
+    "timestamp": "2024-06-28T17:41:32",
+    "place": "395, West Saint Clair Avenue, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "395 west saint clair avenue",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240628_174132",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 622,
+    "type": "picture",
+    "type_id": "238",
+    "timestamp": "2024-06-28T17:41:38",
+    "place": "407, West Saint Clair Avenue, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "407 west saint clair avenue",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240628_174138",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1068,
+    "type": "picture",
+    "type_id": "684",
+    "timestamp": "2024-06-28T17:41:45",
+    "place": "417, West Saint Clair Avenue, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "417 west saint clair avenue",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240628_174145",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1342,
+    "type": "picture",
+    "type_id": "958",
+    "timestamp": "2024-06-28T17:41:48",
+    "place": "429, West Saint Clair Avenue, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "429 west saint clair avenue",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240628_174148",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1364,
+    "type": "picture",
+    "type_id": "980",
+    "timestamp": "2024-06-28T17:47:36",
+    "place": "Robert Lockwood Drive, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "robert lockwood drive",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240628_174735",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2045,
+    "type": "picture",
+    "type_id": "1661",
+    "timestamp": "2024-06-28T17:51:47",
+    "place": "Canal Road, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "canal road",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240628_175147",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1375,
+    "type": "picture",
+    "type_id": "991",
+    "timestamp": "2024-06-28T17:53:49",
+    "place": "1559, Columbus Road, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1559 columbus road",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240628_175348",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1997,
+    "type": "picture",
+    "type_id": "1613",
+    "timestamp": "2024-06-28T17:56:46",
+    "place": "Columbus Road, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "columbus road",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240628_175645",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 17,
+    "type": "map",
+    "type_id": "221",
+    "timestamp": "2024-06-28T18:02:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-28T18:02:00",
+      "end_timestamp": "2024-06-28T18:39:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "37 minutes",
+        "distance": "0 mi",
+        "location": "Near 1875 Merwin Ave, Ohio",
+        "nearby": [
+          "British St",
+          "Ergate Park",
+          "Cuyahoga River",
+          "The Foundry",
+          "Columbus Rd",
+          "Red Line Greenway",
+          "Moore Ave"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210317_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 272,
+    "type": "receipt",
+    "type_id": "91",
+    "timestamp": "2024-06-28T18:06",
+    "place": "1852 Columbus Rd, Cleveland, OH 44113",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1852 columbus rd",
+        "city": "cleveland",
+        "state": "oh",
+        "postal": "44113"
+      },
+      "date": "2024-06-28",
+      "time": "18:06",
+      "address": "1852 Columbus Rd, Cleveland, OH 44113",
+      "items": [
+        {
+          "description": "Fountain Drink",
+          "price": "$5.98"
+        },
+        {
+          "description": "Penne",
+          "price": "$14.00"
+        },
+        {
+          "description": "Chicken Parm Entrée",
+          "price": "$20.00"
+        }
+      ],
+      "category": "restaurant",
+      "subtotal": "$39.98",
+      "tax": "$3.20",
+      "total": "$43.18",
+      "gratuity": "20%",
+      "clover_id": "M6HADDWKZGX94",
+      "clover_privacy_policy": "https://clover.com/privacy"
+    },
+    "filename": "20240902_100505",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2571,
+    "type": "picture",
+    "type_id": "2187",
+    "timestamp": "2024-06-28T18:20:35",
+    "place": "Sainato's Restaurant, Merwin Avenue, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "sainato's restaurant, merwin avenue",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240628_182034",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2669,
+    "type": "story",
+    "type_id": "54",
+    "timestamp": "2024-06-28T18:30",
+    "place": null,
+    "description": "meals: sainato's\ntime: 18:30",
+    "data": {
+      "category": "meals",
+      "dada_rank": 15,
+      "sydney_rank": 7
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 18,
+    "type": "map",
+    "type_id": "112",
+    "timestamp": "2024-06-28T18:54:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-28T18:54:00",
+      "end_timestamp": "2024-06-28T19:00:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "5 minutes",
+        "distance": "0 mi",
+        "location": "Near 1815 Columbus Rd, Ohio",
+        "nearby": [
+          "Conard St",
+          "Fall St",
+          "Irish Town Bend",
+          "British St",
+          "French St",
+          "Flats Industrial Railroad Bridge",
+          "Cuyahoga River",
+          "The Foundry",
+          "Cleveland",
+          "Merwin Ave"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210325_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 607,
+    "type": "picture",
+    "type_id": "223",
+    "timestamp": "2024-06-28T18:54:44",
+    "place": "Ohio City Bicycle Co-op, 1840, Columbus Road, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1840 columbus road",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240628_185443",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 19,
+    "type": "map",
+    "type_id": "294",
+    "timestamp": "2024-06-28T19:00:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-28T19:00:00",
+      "end_timestamp": "2024-06-28T19:23:00",
+      "place": {
+        "address": "1815 columbus rd",
+        "state": "oh"
+      },
+      "end_place": {
+        "address": "777 saint clair avenue northeast",
+        "state": "oh"
+      },
+      "info": {
+        "duration": "23 minutes",
+        "distance": "1 mi",
+        "location": "1815 Columbus Rd, Ohio -> 777 Saint Clair Avenue Northeast",
+        "nearby": [
+          "Hilton Cleveland",
+          "Downtown",
+          "Blue Point Grille",
+          "W 9th St",
+          "Superior Ave",
+          "Detroit Ave",
+          "Irishtown Bend",
+          "W 3rd St",
+          "St Clair Ave NE",
+          "Ontario St",
+          "E 9th St",
+          "Euclid Ave"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210344_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1937,
+    "type": "picture",
+    "type_id": "1553",
+    "timestamp": "2024-06-28T19:04:49",
+    "place": "Columbus Road, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "columbus road",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240628_190449",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1242,
+    "type": "picture",
+    "type_id": "858",
+    "timestamp": "2024-06-28T19:15:23",
+    "place": "West Roadway, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44113, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "west roadway",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44113"
+      }
+    },
+    "filename": "20240628_191522",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 699,
+    "type": "picture",
+    "type_id": "315",
+    "timestamp": "2024-06-28T19:17:12",
+    "place": "Flannery's Pub, 323, East 4th Street, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44115, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "323 east 4th street",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44115"
+      }
+    },
+    "filename": "20240628_191712",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 756,
+    "type": "picture",
+    "type_id": "372",
+    "timestamp": "2024-06-28T19:18:40",
+    "place": "201, Rockwell Avenue, Downtown Cleveland, Cleveland, Cuyahoga County, Ohio, 44114, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "201 rockwell avenue",
+        "city": "cleveland",
+        "county": "cuyahoga county",
+        "state": "oh",
+        "postal": "44114"
+      }
+    },
+    "filename": "20240628_191840",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 20,
+    "type": "map",
+    "type_id": "137",
+    "timestamp": "2024-06-28T19:23:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-06-28T19:23:00",
+      "end_timestamp": "2024-06-29T09:52:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "14 hours, 28 minutes",
+        "distance": "0 mi",
+        "location": "Near 777 Saint Clair Avenue Northeast, Ohio",
+        "nearby": [
+          "Willard Park",
+          "hony J. Celebrezze Federal Building",
+          "E Mall Dr",
+          "2000 E 6th St",
+          "Lakeside Ave E",
+          "St Clair Ave NE",
+          "Theresa Ct",
+          "E 10th St",
+          "Bethel Ct",
+          "Erieview Plz",
+          "E 9th St"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240726_210353_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  }
+]

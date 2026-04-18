@@ -1,0 +1,2773 @@
+[
+  {
+    "id": 177,
+    "type": "map",
+    "type_id": "279",
+    "timestamp": "2024-07-11T06:29:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-11T06:29:00",
+      "end_timestamp": "2024-07-11T06:39:00",
+      "place": {
+        "address": "843 parkway lane",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "old hardin road",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "9 minutes",
+        "distance": "9 mi",
+        "location": "843 Parkway Lane, Montana -> Old Hardin Road, Montana",
+        "nearby": [
+          "Billings",
+          "Billings Heights",
+          "Lockwood",
+          "CENTRAL - TERRY",
+          "SOUTHWEST CO"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_183143_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2577,
+    "type": "picture",
+    "type_id": "2193",
+    "timestamp": "2024-07-11T06:30:48",
+    "place": "4880, King Avenue East, Billings, Yellowstone County, Montana, 59101, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "4880 king avenue east",
+        "city": "billings",
+        "county": "yellowstone county",
+        "state": "mt",
+        "postal": "59101"
+      },
+      "miles": "4847.8 miles",
+      "note": "the morning after staying in billings"
+    },
+    "filename": "20240711_063047",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1081,
+    "type": "picture",
+    "type_id": "697",
+    "timestamp": "2024-07-11T06:34:49",
+    "place": "I 90;US 212, Billings, Yellowstone County, Montana, 59101, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 90;us 212",
+        "city": "billings",
+        "county": "yellowstone county",
+        "state": "mt",
+        "postal": "59101"
+      }
+    },
+    "filename": "20240711_063449",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2206,
+    "type": "picture",
+    "type_id": "1822",
+    "timestamp": "2024-07-11T06:37:05",
+    "place": "I 90;US 212, Lockwood, Billings, Yellowstone County, Montana, 59101, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 90;us 212",
+        "city": "lockwood",
+        "county": "yellowstone county",
+        "state": "mt",
+        "postal": "59101"
+      },
+      "signs": "i-90 sheridan\nus-87 lockwood, roundup"
+    },
+    "filename": "20240711_063705",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1039,
+    "type": "picture",
+    "type_id": "655",
+    "timestamp": "2024-07-11T06:39:36",
+    "place": "I 90;US 87;US 212, Lockwood, Yellowstone County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 90;us 87;us 212",
+        "city": "lockwood",
+        "county": "yellowstone county",
+        "state": "mt",
+        "postal": ""
+      },
+      "signs": "i-94 bismarck\ni-90 sheridan"
+    },
+    "filename": "20240711_063936",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 178,
+    "type": "map",
+    "type_id": "243",
+    "timestamp": "2024-07-11T06:40:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-11T06:40:00",
+      "end_timestamp": "2024-07-11T07:22:00",
+      "place": {
+        "address": "I-90, US 87, US 212",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "state hwy 47",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "41 minutes",
+        "distance": "39 mi",
+        "location": "190; US 87; US 212, Montana -> State Hwy 47, Montana",
+        "nearby": [
+          "Custer",
+          "Waco",
+          "Worden",
+          "Pompeys Pillar",
+          "Shepherd",
+          "Foster",
+          "Huntley",
+          "St Xavier",
+          "Soda Springs"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_183126_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 649,
+    "type": "picture",
+    "type_id": "265",
+    "timestamp": "2024-07-11T06:47:31",
+    "place": "I 90;US 87;US 212, Yellowstone County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 90;us 87;us 212",
+        "city": "",
+        "county": "yellowstone county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240711_064730(0)",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 351,
+    "type": "receipt",
+    "type_id": "25",
+    "timestamp": "2024-07-11T07:17",
+    "place": "Loves#679",
+    "description": null,
+    "data": {
+      "place": {
+        "business": "loves"
+      },
+      "date": "2024-07-11",
+      "time": "07:17",
+      "address": "Loves#679",
+      "items": [
+        {
+          "description": "Unleaded",
+          "quantity": 13.228,
+          "price": 3.449,
+          "total": 45.62
+        }
+      ],
+      "category": "gas",
+      "other_details": {
+        "card_type": "MC",
+        "approval_code": "004146",
+        "ticket_number": "38068",
+        "AID": "A0000000042203",
+        "APP": "Debit",
+        "verified_by": "PIN",
+        "survey_link": "Loves.com/survey"
+      }
+    },
+    "filename": "20240902_103638",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 352,
+    "type": "receipt",
+    "type_id": "28",
+    "timestamp": "2024-07-11T07:23",
+    "place": "1270 N State Highway 47, Hardin, MT 59034",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1270 n state highway 47",
+        "city": "hardin",
+        "state": "mt",
+        "postal": "59034"
+      },
+      "date": "2024-07-11",
+      "time": "07:23",
+      "address": "1270 N State Highway 47, Hardin, MT 59034",
+      "items": [
+        {
+          "name": "Bag Ice",
+          "quantity": 1,
+          "price": 2.99
+        }
+      ],
+      "category": "convenience",
+      "total": 2.99,
+      "payment": {
+        "method": "cash",
+        "received": 3.0,
+        "change": -0.01
+      },
+      "promotions": [
+        "Download the Love's Connect app & get deals on drinks, snacks, and more."
+      ],
+      "job_opportunities": {
+        "hiring": true,
+        "details": "Flexible hours, competitive pay, benefits & opportunity! Apply now at jobs.loves.com or text TEAMLOVES to 76129."
+      },
+      "survey": {
+        "link": "Loves.com/survey",
+        "prompt": "Did you love it? Please take a short survey about your Love's experience today."
+      },
+      "register": 4,
+      "clerk": "Valerie"
+    },
+    "filename": "20240902_102746",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 179,
+    "type": "map",
+    "type_id": "280",
+    "timestamp": "2024-07-11T07:25:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-11T07:25:00",
+      "end_timestamp": "2024-07-11T08:19:00",
+      "place": {
+        "address": "I-90 bus",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "us highway 212",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "54 minutes",
+        "distance": "60 mi",
+        "location": "I-90 Bus, Montana -> US Highway 212, Montana",
+        "nearby": [
+          "Colstrip",
+          "Crow Agency",
+          "Northern Cheyenne",
+          "Garryowen",
+          "Lodge Grass",
+          "Birney"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_183116_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1659,
+    "type": "picture",
+    "type_id": "1275",
+    "timestamp": "2024-07-11T07:38:30",
+    "place": "Crow Agency, Big Horn County, Montana, 59022, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "crow agency",
+        "city": "",
+        "county": "big horn county",
+        "state": "mt",
+        "postal": "59022"
+      }
+    },
+    "filename": "20240711_073830",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1906,
+    "type": "picture",
+    "type_id": "1522",
+    "timestamp": "2024-07-11T07:44:42",
+    "place": "US Highway 212, Busby, Busby District / Vóhpoométanéno, Big Horn County, Montana, 59022, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us highway 212",
+        "city": "busby",
+        "county": "big horn county",
+        "state": "mt",
+        "postal": "59022"
+      }
+    },
+    "filename": "20240711_074442",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1362,
+    "type": "picture",
+    "type_id": "978",
+    "timestamp": "2024-07-11T08:13:14",
+    "place": "US Highway 212, Lame Deer, Lame Deer District / Meaveʼhoʼeno, Rosebud County, Montana, 59043, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us highway 212",
+        "city": "lame deer",
+        "county": "rosebud county",
+        "state": "mt",
+        "postal": "59043"
+      }
+    },
+    "filename": "20240711_081314",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 180,
+    "type": "map",
+    "type_id": "63",
+    "timestamp": "2024-07-11T08:19:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-11T08:19:00",
+      "end_timestamp": "2024-07-11T08:33:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "13 minutes",
+        "distance": "0 mi",
+        "location": "Near US Highway 212, Montana",
+        "nearby": [
+          "U.S. Hwy 212"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_184554_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 181,
+    "type": "map",
+    "type_id": "173",
+    "timestamp": "2024-07-11T08:33:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-11T08:33:00",
+      "end_timestamp": "2024-07-11T09:35:00",
+      "place": {
+        "address": "us highway 212",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "101 park ave",
+        "state": "mt"
+      },
+      "info": {
+        "duration": "1 hour, 2 minutes",
+        "distance": "60 mi",
+        "location": "US Highway 212, Montana -> 101 Park Ave, Montana",
+        "nearby": [
+          "Colstrip",
+          "Volborg",
+          "Ashland",
+          "Olive",
+          "Birney",
+          "Cheyenne Indian Reservation"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_183100_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1270,
+    "type": "picture",
+    "type_id": "886",
+    "timestamp": "2024-07-11T08:51:56",
+    "place": "US Highway 212, Ashland, Ashland District / Totoemanȧhéno, Rosebud County, Montana, 59003, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us highway 212",
+        "city": "ashland",
+        "county": "rosebud county",
+        "state": "mt",
+        "postal": "59003"
+      }
+    },
+    "filename": "20240711_085156",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2245,
+    "type": "picture",
+    "type_id": "1861",
+    "timestamp": "2024-07-11T09:20:49",
+    "place": "US 212, Powder River County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 212",
+        "city": "",
+        "county": "powder river county",
+        "state": "mt",
+        "postal": ""
+      },
+      "miles": "5000.0 miles",
+      "note": ""
+    },
+    "filename": "20240711_092049",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 353,
+    "type": "receipt",
+    "type_id": "42",
+    "timestamp": "2024-07-11T09:35",
+    "place": "106 W Holt St, Broadus, MT 59317",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "106 w holt st",
+        "city": "broadus",
+        "state": "mt",
+        "postal": "59317"
+      },
+      "date": "2024-07-11",
+      "time": "09:35",
+      "address": "106 W Holt St, Broadus, MT 59317",
+      "items": [
+        {
+          "description": "TROLLI Pouch SR BRT",
+          "quantity": 1,
+          "amount": 4.79
+        },
+        {
+          "description": "Tshirt Montana",
+          "quantity": 1,
+          "amount": 26.0
+        }
+      ],
+      "category": "convenience",
+      "other_details": {
+        "subtotal": 30.79,
+        "total": 30.79,
+        "cash": 31.0,
+        "change": -0.21,
+        "store_number": "AB123",
+        "transaction_number": "1012861"
+      }
+    },
+    "filename": "20240902_103306",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 988,
+    "type": "picture",
+    "type_id": "604",
+    "timestamp": "2024-07-11T09:35:59",
+    "place": "Holt Street, Town and Country Trailer Park, Broadus, Powder River County, Montana, 59317, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "holt street, town and country trailer park",
+        "city": "broadus",
+        "county": "powder river county",
+        "state": "mt",
+        "postal": "59317"
+      }
+    },
+    "filename": "20240711_093559",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 646,
+    "type": "picture",
+    "type_id": "262",
+    "timestamp": "2024-07-11T09:38:20",
+    "place": "Holt Street, Town and Country Trailer Park, Broadus, Powder River County, Montana, 59317, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "holt street",
+        "city": "broadus",
+        "county": "powder river county",
+        "state": "mt",
+        "postal": "59317"
+      }
+    },
+    "filename": "20240711_093820",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1366,
+    "type": "picture",
+    "type_id": "982",
+    "timestamp": "2024-07-11T09:38:51",
+    "place": "Holt Street, Town and Country Trailer Park, Broadus, Powder River County, Montana, 59317, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "holt street",
+        "city": "broadus",
+        "county": "powder river county",
+        "state": "mt",
+        "postal": "59317"
+      }
+    },
+    "filename": "20240711_093850",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2332,
+    "type": "picture",
+    "type_id": "1948",
+    "timestamp": "2024-07-11T09:38:59",
+    "place": "Holt Street, Town and Country Trailer Park, Broadus, Powder River County, Montana, 59317, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "holt street, town and country trailer park",
+        "city": "broadus",
+        "county": "powder river county",
+        "state": "mt",
+        "postal": "59317"
+      }
+    },
+    "filename": "20240711_093859",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2128,
+    "type": "picture",
+    "type_id": "1744",
+    "timestamp": "2024-07-11T09:43:04",
+    "place": "Holt Street, Town and Country Trailer Park, Broadus, Powder River County, Montana, 59317, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "holt street, town and country trailer park",
+        "city": "broadus",
+        "county": "powder river county",
+        "state": "mt",
+        "postal": "59317"
+      }
+    },
+    "filename": "20240711_094304",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1691,
+    "type": "picture",
+    "type_id": "1307",
+    "timestamp": "2024-07-11T09:43:14",
+    "place": "100, Park Avenue, Town and Country Trailer Park, Broadus, Powder River County, Montana, 59317, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "100 park avenue",
+        "city": "broadus",
+        "county": "powder river county",
+        "state": "mt",
+        "postal": "59317"
+      }
+    },
+    "filename": "20240711_094314",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1061,
+    "type": "picture",
+    "type_id": "677",
+    "timestamp": "2024-07-11T09:43:20",
+    "place": "100, Park Avenue, Town and Country Trailer Park, Broadus, Powder River County, Montana, 59317, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "100 park avenue",
+        "city": "broadus",
+        "county": "powder river county",
+        "state": "mt",
+        "postal": "59317"
+      }
+    },
+    "filename": "20240711_094320",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 991,
+    "type": "picture",
+    "type_id": "607",
+    "timestamp": "2024-07-11T09:43:36",
+    "place": "Holt Street, Town and Country Trailer Park, Broadus, Powder River County, Montana, 59317, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "holt street, town and country trailer park",
+        "city": "broadus",
+        "county": "powder river county",
+        "state": "mt",
+        "postal": "59317"
+      }
+    },
+    "filename": "20240711_094336",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 182,
+    "type": "map",
+    "type_id": "149",
+    "timestamp": "2024-07-11T09:44:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-11T09:44:00",
+      "end_timestamp": "2024-07-11T11:36:00",
+      "place": {
+        "address": "park ave",
+        "state": "mt"
+      },
+      "end_place": {
+        "address": "hwy 10",
+        "state": "wy"
+      },
+      "info": {
+        "duration": "1 hour, 51 minutes",
+        "distance": "102 mi",
+        "location": "Park Ave, Montana -> Hwy 110, Wyoming",
+        "nearby": [
+          "Ulive",
+          "Broadus",
+          "Hammond",
+          "Albion",
+          "Biddle",
+          "Belle Creek",
+          "Weston",
+          "Sundance"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_183047_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 869,
+    "type": "picture",
+    "type_id": "485",
+    "timestamp": "2024-07-11T09:50:03",
+    "place": "US 212, Powder River County, Montana, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "us 212",
+        "city": "",
+        "county": "powder river county",
+        "state": "mt",
+        "postal": ""
+      }
+    },
+    "filename": "20240711_095003",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 354,
+    "type": "receipt",
+    "type_id": "103",
+    "timestamp": "2024-07-11T10:35",
+    "place": "13707 US Hwy 212 B & JC Store, Alzada, MT 59311",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "13707 us hwy 212 b",
+        "city": "alzada",
+        "state": "mt",
+        "postal": "59311",
+        "business": "jc store"
+      },
+      "date": "2024-07-11",
+      "time": "10:35",
+      "address": "13707 US Hwy 212 B & JC Store, Alzada, MT 59311",
+      "items": [
+        {
+          "description": "Regular Gas",
+          "price": "$3.699",
+          "quantity": "8.000G",
+          "total": "$29.59"
+        }
+      ],
+      "category": "gas",
+      "other_details": {
+        "card_type": "MasterCard",
+        "invoice_number": "06440088",
+        "authorization_code": "004147",
+        "pump_number": "1",
+        "transaction_type": "sale",
+        "mode": "Issuer",
+        "AID": "A0000000042203",
+        "TVR": "8000008000",
+        "TSI": "6800",
+        "IAD": "0110430091220000000000000000000000.",
+        "ARC": "3030",
+        "insert_method": "insert"
+      }
+    },
+    "filename": "20240902_102817",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1030,
+    "type": "picture",
+    "type_id": "646",
+    "timestamp": "2024-07-11T10:40:07",
+    "place": "13701, US 212, Alzada, Carter County, Montana, 59311, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "13701 us 212",
+        "city": "alzada",
+        "county": "carter county",
+        "state": "mt",
+        "postal": "59311"
+      }
+    },
+    "filename": "20240711_104006",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1723,
+    "type": "picture",
+    "type_id": "1339",
+    "timestamp": "2024-07-11T10:40:24",
+    "place": "1, S-326, Alzada, Carter County, Montana, 59311, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1 s-326",
+        "city": "alzada",
+        "county": "carter county",
+        "state": "mt",
+        "postal": "59311"
+      },
+      "signs": "hulett 31\ndevils tower 44"
+    },
+    "filename": "20240711_104024",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1491,
+    "type": "picture",
+    "type_id": "1107",
+    "timestamp": "2024-07-11T10:42:14",
+    "place": "99, S-326, Alzada, Carter County, Montana, 59311, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "99 s-326",
+        "city": "alzada",
+        "county": "carter county",
+        "state": "mt",
+        "postal": "59311"
+      },
+      "sign": "welcome to wyoming",
+      "note": ""
+    },
+    "filename": "20240711_104213(0)",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1328,
+    "type": "picture",
+    "type_id": "944",
+    "timestamp": "2024-07-11T11:09:00",
+    "place": "State Highway 112, Hulett, Crook County, Wyoming, 18272, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "state highway 112",
+        "city": "hulett",
+        "county": "crook county",
+        "state": "wy",
+        "postal": "18272"
+      },
+      "signs": "aladdin\nsundance, moorcroft\ndevils tower"
+    },
+    "filename": "20240711_110859",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 430,
+    "type": "picture",
+    "type_id": "46",
+    "timestamp": "2024-07-11T11:18:24",
+    "place": "27, State Highway 110, Devils Tower, Crook County, Wyoming, 82720, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "27 state highway 110",
+        "city": "devils tower",
+        "county": "crook county",
+        "state": "wy",
+        "postal": "82720"
+      }
+    },
+    "filename": "20240711_111824",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2519,
+    "type": "picture",
+    "type_id": "2135",
+    "timestamp": "2024-07-11T11:18:27",
+    "place": "31, State Highway 110, Devils Tower, Crook County, Wyoming, 82720, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "31 state highway 110",
+        "city": "devils tower",
+        "county": "crook county",
+        "state": "wy",
+        "postal": "82720"
+      }
+    },
+    "filename": "20240711_111827",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 573,
+    "type": "picture",
+    "type_id": "189",
+    "timestamp": "2024-07-11T11:38:03",
+    "place": "222, Devils Tower National Monument Road, Devils Tower, Crook County, Wyoming, 82721, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "222 devils tower national monument road",
+        "city": "devils tower",
+        "county": "crook county",
+        "state": "wy",
+        "postal": "82721"
+      }
+    },
+    "filename": "20240711_113803",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2305,
+    "type": "picture",
+    "type_id": "1921",
+    "timestamp": "2024-07-11T11:38:17",
+    "place": "222, Devils Tower National Monument Road, Devils Tower, Crook County, Wyoming, 82721, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "222 devils tower national monument road",
+        "city": "devils tower",
+        "county": "crook county",
+        "state": "wy",
+        "postal": "82721"
+      }
+    },
+    "filename": "20240711_113817",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 837,
+    "type": "picture",
+    "type_id": "453",
+    "timestamp": "2024-07-11T11:38:22",
+    "place": "222, Devils Tower National Monument Road, Devils Tower, Crook County, Wyoming, 82721, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "222 devils tower national monument road",
+        "city": "devils tower",
+        "county": "crook county",
+        "state": "wy",
+        "postal": "82721"
+      }
+    },
+    "filename": "20240711_113822",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 800,
+    "type": "picture",
+    "type_id": "416",
+    "timestamp": "2024-07-11T11:38:55",
+    "place": "222, Devils Tower National Monument Road, Devils Tower, Crook County, Wyoming, 82721, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "222 devils tower national monument road",
+        "city": "devils tower",
+        "county": "crook county",
+        "state": "wy",
+        "postal": "82721"
+      }
+    },
+    "filename": "20240711_113855",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2738,
+    "type": "story",
+    "type_id": "10",
+    "timestamp": "2024-07-11T11:39",
+    "place": null,
+    "description": "adventures/nature: devil's tower\ntime: 12:00\ntime: 11:39",
+    "data": {
+      "category": "adventures/nature",
+      "dada_rank": 10,
+      "sydney_rank": 11
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 183,
+    "type": "map",
+    "type_id": "164",
+    "timestamp": "2024-07-11T11:40:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-11T11:40:00",
+      "end_timestamp": "2024-07-11T12:49:00",
+      "place": {
+        "address": "175 hwy 110",
+        "state": "wy"
+      },
+      "end_place": {
+        "address": "us hwy 85",
+        "state": "sd"
+      },
+      "info": {
+        "duration": "1 hour, 9 minutes",
+        "distance": "66 mi",
+        "location": "175 Hwy 110, Wyoming -> US Hwy 85, South Dakota",
+        "nearby": [
+          "Hulett",
+          "Belle Fourche",
+          "Devils Tower",
+          "New Haven",
+          "Upton",
+          "Deadwood"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_183037_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 355,
+    "type": "receipt",
+    "type_id": "94",
+    "timestamp": "2024-07-11T11:45",
+    "place": "PO BOX 10, Devils Tower, WY 82714",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "po box 10",
+        "city": "devils tower",
+        "state": "wy",
+        "postal": "82714"
+      },
+      "date": "2024-07-11",
+      "time": "11:45",
+      "address": "PO BOX 10, Devils Tower, WY 82714",
+      "items": [
+        {
+          "name": "7 Day Vehicle Entrance",
+          "quantity": 1,
+          "price": "$25.00",
+          "total": "$25.00"
+        }
+      ],
+      "category": "parking",
+      "total_amount": "$25.00",
+      "credit_card": {
+        "card_type": "MASTERCARD",
+        "card_number": "************9725",
+        "auth_code": "004148",
+        "valid_through": "2024-07-17"
+      },
+      "pass_details": {
+        "pass_type": "Non-Transferable and Non-Refundable",
+        "support": "Your Fees Support Your Park"
+      },
+      "terminal": "DETOES01",
+      "shift": "DETORE01:1642",
+      "cashier": "omcbr",
+      "receipt_number": "DETOTOES0100376309"
+    },
+    "filename": "20240902_102918",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2298,
+    "type": "picture",
+    "type_id": "1914",
+    "timestamp": "2024-07-11T11:54:28",
+    "place": "WY 24, Devils Tower Junction, Crook County, Wyoming, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "wy 24",
+        "city": "devils tower junction",
+        "county": "crook county",
+        "state": "wy",
+        "postal": ""
+      },
+      "signs": "us-14 sundance\nus-14 moorcroft"
+    },
+    "filename": "20240711_115428",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1711,
+    "type": "picture",
+    "type_id": "1327",
+    "timestamp": "2024-07-11T12:15:01",
+    "place": "I 90, Sundance, Crook County, Wyoming, 82709, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 90 sundance",
+        "city": "sundance",
+        "county": "crook county",
+        "state": "wy",
+        "postal": "82709"
+      }
+    },
+    "filename": "20240711_121501",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1819,
+    "type": "picture",
+    "type_id": "1435",
+    "timestamp": "2024-07-11T12:17:56",
+    "place": "I 90;US 14, Sundance, Crook County, Wyoming, 82729, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "i 90;us 14",
+        "city": "sundance",
+        "county": "crook county",
+        "state": "wy",
+        "postal": "82729"
+      },
+      "signs": "beulah 16\nspearfish 31\nrapid city 76"
+    },
+    "filename": "20240711_121756",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1244,
+    "type": "picture",
+    "type_id": "860",
+    "timestamp": "2024-07-11T12:32:06",
+    "place": "Purple Heart Memorial Highway, Lawrence County, South Dakota, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "purple heart memorial highway",
+        "city": "",
+        "county": "lawrence county",
+        "state": "sd",
+        "postal": ""
+      },
+      "signs": "spearfish 10\nsturgis 30\nrapid city 59"
+    },
+    "filename": "20240711_123206",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2331,
+    "type": "picture",
+    "type_id": "1947",
+    "timestamp": "2024-07-11T12:32:22",
+    "place": "Purple Heart Memorial Highway, Lawrence County, South Dakota, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "purple heart memorial highway",
+        "city": "",
+        "county": "lawrence county",
+        "state": "sd",
+        "postal": ""
+      }
+    },
+    "filename": "20240711_123222",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1515,
+    "type": "picture",
+    "type_id": "1131",
+    "timestamp": "2024-07-11T12:51:28",
+    "place": "Cenex, Colorado Loop, Ward 3, Spearfish, Lawrence County, South Dakota, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "cenex, colorado loop",
+        "city": "spearfish",
+        "county": "lawrence county",
+        "state": "sd",
+        "postal": ""
+      }
+    },
+    "filename": "20240711_125127",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 184,
+    "type": "map",
+    "type_id": "258",
+    "timestamp": "2024-07-11T12:53:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-11T12:53:00",
+      "end_timestamp": "2024-07-11T13:35:00",
+      "place": {
+        "address": "us hwy 85",
+        "state": "sd"
+      },
+      "end_place": {
+        "address": "983 lazelle st",
+        "state": "sd"
+      },
+      "info": {
+        "duration": "42 minutes",
+        "distance": "22 mi",
+        "location": "US Hwy 85, South Dakota -> 983 Lazelle St, South Dakota",
+        "nearby": [
+          "Deauwood",
+          "Whitewood",
+          "Crook City",
+          "Lead",
+          "Galena",
+          "Sturgis"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_183026_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1281,
+    "type": "picture",
+    "type_id": "897",
+    "timestamp": "2024-07-11T13:03:06",
+    "place": "315, Main Street, Chinatown, Deadwood, Lawrence County, South Dakota, 57732, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "315 main street",
+        "city": "deadwood",
+        "county": "lawrence county",
+        "state": "sd",
+        "postal": "57732"
+      },
+      "sign": "deadwood",
+      "note": "historic main street"
+    },
+    "filename": "20240711_130305",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2576,
+    "type": "picture",
+    "type_id": "2192",
+    "timestamp": "2024-07-11T13:04:39",
+    "place": "Four Points, 575, Main Street, Chinatown, Deadwood, Lawrence County, South Dakota, 57732, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "575 main street",
+        "city": "deadwood",
+        "county": "lawrence county",
+        "state": "sd",
+        "postal": "57732"
+      }
+    },
+    "filename": "20240711_130439",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1488,
+    "type": "picture",
+    "type_id": "1104",
+    "timestamp": "2024-07-11T13:05:58",
+    "place": "Miss Kitty's Cantina & Casino, 647, Main Street, Chinatown, Deadwood, Lawrence County, South Dakota, 57732, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "647 main street",
+        "city": "deadwood",
+        "county": "lawrence county",
+        "state": "sd",
+        "postal": "57732"
+      }
+    },
+    "filename": "20240711_130558",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 686,
+    "type": "picture",
+    "type_id": "302",
+    "timestamp": "2024-07-11T13:08:37",
+    "place": "Armory Street, Deadwood, Lawrence County, South Dakota, 57732, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "armory street",
+        "city": "deadwood",
+        "county": "lawrence county",
+        "state": "sd",
+        "postal": "57732"
+      },
+      "signs": "central city 1\nlead 3"
+    },
+    "filename": "20240711_130837",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 967,
+    "type": "picture",
+    "type_id": "583",
+    "timestamp": "2024-07-11T13:09:05",
+    "place": "Pioneer Way, Deadwood, Lawrence County, South Dakota, 57732, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "pioneer way",
+        "city": "deadwood",
+        "county": "lawrence county",
+        "state": "sd",
+        "postal": "57732"
+      }
+    },
+    "filename": "20240711_130905",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 711,
+    "type": "picture",
+    "type_id": "327",
+    "timestamp": "2024-07-11T13:09:34",
+    "place": "Pioneer Way, Deadwood, Lawrence County, South Dakota, 57732, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "pioneer way",
+        "city": "deadwood",
+        "county": "lawrence county",
+        "state": "sd",
+        "postal": "57732"
+      },
+      "sign": "deadwood",
+      "note": "welcome\nhistoric main street"
+    },
+    "filename": "20240711_130933",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 968,
+    "type": "picture",
+    "type_id": "584",
+    "timestamp": "2024-07-11T13:29:38",
+    "place": "Meade County Times-Tribune, 1022, Main Street, Sturgis, Meade County, South Dakota, 57785, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1022 main street",
+        "city": "sturgis",
+        "county": "meade county",
+        "state": "sd",
+        "postal": "57785"
+      },
+      "sign": "sturgis",
+      "note": "the ride. the roar. the rally."
+    },
+    "filename": "20240711_132938",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1115,
+    "type": "picture",
+    "type_id": "731",
+    "timestamp": "2024-07-11T13:29:48",
+    "place": "Meade County Times-Tribune, 1022, Main Street, Sturgis, Meade County, South Dakota, 57785, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1022 main street",
+        "city": "sturgis",
+        "county": "meade county",
+        "state": "sd",
+        "postal": "57785"
+      }
+    },
+    "filename": "20240711_132948",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 185,
+    "type": "map",
+    "type_id": "5",
+    "timestamp": "2024-07-11T13:35:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-11T13:35:00",
+      "end_timestamp": "2024-07-11T14:34:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "58 minutes",
+        "distance": "0 mi",
+        "location": "Near 983 Lazelle St, South Dakota",
+        "nearby": [
+          "Sturgis Bike Path",
+          "Woodland Dr",
+          "Bear Butte Creek",
+          "Public Works Office",
+          "1-90BL",
+          "Junction Ave",
+          "Dudley St",
+          "Lazelle St",
+          "Sturgis Motorcycle Museum & Hall of Fame"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_184540_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 356,
+    "type": "receipt",
+    "type_id": "46",
+    "timestamp": "2024-07-11T13:44",
+    "place": "Iron Horse Saloon, 888 Junction Avenue, Sturgis, SD 57785",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "888 junction avenue",
+        "city": "sturgis",
+        "state": "sd",
+        "postal": "57785",
+        "business": "iron horse saloon"
+      },
+      "date": "2024-07-11",
+      "time": "13:44",
+      "address": "Iron Horse Saloon, 888 Junction Avenue, Sturgis, SD 57785",
+      "items": [
+        {
+          "description": "2 Soda",
+          "price": "$4.00"
+        },
+        {
+          "description": "1 Brisket Sandwich with Pepjack and Side of Beans",
+          "price": "$16.50"
+        },
+        {
+          "description": "1 Quesadilla",
+          "price": "$15.00"
+        }
+      ],
+      "category": "restaurant",
+      "total": "$37.77",
+      "tax": "$2.27",
+      "amount_due": "$37.77",
+      "server": "Annie"
+    },
+    "filename": "20240902_100951",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2497,
+    "type": "picture",
+    "type_id": "2113",
+    "timestamp": "2024-07-11T14:18:44",
+    "place": "Junction Avenue, Sturgis, Meade County, South Dakota, 57785, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "junction avenue",
+        "city": "sturgis",
+        "county": "meade county",
+        "state": "sd",
+        "postal": "57785"
+      }
+    },
+    "filename": "20240711_141844",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2739,
+    "type": "story",
+    "type_id": "39",
+    "timestamp": "2024-07-11T14:20",
+    "place": null,
+    "description": "meals: iron horse saloon\ntime: 13:00\ntime: 14:20",
+    "data": {
+      "category": "meals",
+      "dada_rank": 1,
+      "sydney_rank": 12
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1006,
+    "type": "picture",
+    "type_id": "622",
+    "timestamp": "2024-07-11T14:22:21",
+    "place": "Iron Horse Saloon & Steakhouse, Lazelle Street, Sturgis, South Dakota, 57785, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "iron horse saloon & steakhouse, lazelle street",
+        "city": "sturgis",
+        "county": "meade county",
+        "state": "sd",
+        "postal": "57785"
+      }
+    },
+    "filename": "20240711_142220",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1485,
+    "type": "picture",
+    "type_id": "1101",
+    "timestamp": "2024-07-11T14:22:37",
+    "place": "Meade County Times-Tribune, 1022, Main Street, Sturgis, Meade County, South Dakota, 57785, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1022 main street",
+        "city": "sturgis",
+        "county": "meade county",
+        "state": "sd",
+        "postal": "57785"
+      }
+    },
+    "filename": "20240711_142237",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 186,
+    "type": "map",
+    "type_id": "148",
+    "timestamp": "2024-07-11T14:34:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-11T14:34:00",
+      "end_timestamp": "2024-07-11T15:35:00",
+      "place": {
+        "address": "983 lazelle st",
+        "state": "sd"
+      },
+      "end_place": {
+        "address": "highway 79",
+        "state": "sd"
+      },
+      "info": {
+        "duration": "1 hour, 1 minute",
+        "distance": "70 mi",
+        "location": "983 Lazelle St, South Dakota -> SD Highway 79, South Dakota",
+        "nearby": [
+          "Sturgis",
+          "Deadwood",
+          "Piedmont",
+          "Hereford",
+          "Black Hawk",
+          "Rochford",
+          "Rapid City",
+          "New Underwood",
+          "Hisega",
+          "Rapid Valley",
+          "Hill City",
+          "Keystone",
+          "Hermosa",
+          "Crazy Horse",
+          "Custer",
+          "Custer State Park",
+          "Fairburn",
+          "Red Shirt",
+          "Wind Cave National Park",
+          "Hot Springs"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_183012_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1297,
+    "type": "picture",
+    "type_id": "913",
+    "timestamp": "2024-07-11T14:57:06",
+    "place": "Purple Heart Memorial Highway, Rapid City, Pennington County, South Dakota, 57703, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "purple heart memorial highway",
+        "city": "rapid city",
+        "county": "pennington county",
+        "state": "sd",
+        "postal": "57703"
+      },
+      "signs": "us-16, sd-79 mount rushmore, crazy horse"
+    },
+    "filename": "20240711_145706",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 187,
+    "type": "map",
+    "type_id": "227",
+    "timestamp": "2024-07-11T15:37:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-11T15:37:00",
+      "end_timestamp": "2024-07-11T16:00:00",
+      "place": {
+        "address": "sd highway 79",
+        "state": "sd"
+      },
+      "end_place": {
+        "address": "1701 summit rd",
+        "state": "sd"
+      },
+      "info": {
+        "duration": "23 minutes",
+        "distance": "17 mi",
+        "location": "SD Highway 79, South Dakota -> 1701 Summit Rd, South Dakota",
+        "nearby": [
+          "Hot Springs",
+          "Buffalo Gap",
+          "Maick Junction"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_171014_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1163,
+    "type": "picture",
+    "type_id": "779",
+    "timestamp": "2024-07-11T15:42:52",
+    "place": "SD Highway 79, Fall River County, South Dakota, 57722, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "sd highway 79",
+        "city": "",
+        "county": "fall river county",
+        "state": "sd",
+        "postal": "57722"
+      },
+      "temp": "102° f",
+      "note": "highest temp of the trip"
+    },
+    "filename": "20240711_154252",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 188,
+    "type": "map",
+    "type_id": "335",
+    "timestamp": "2024-07-11T16:00:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-11T16:00:00",
+      "end_timestamp": "2024-07-11T17:57:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "56 minutes",
+        "distance": "0 mi",
+        "location": "Near 1701 Summit Rd, South Dakota",
+        "nearby": [
+          "Hot Brook",
+          "Evans Plunge Mineral Springs",
+          "Battle Mountain Ave",
+          "N River St"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_184527_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1356,
+    "type": "picture",
+    "type_id": "972",
+    "timestamp": "2024-07-11T16:01:26",
+    "place": "North River Street, Hot Springs, Fall River County, South Dakota, 57747, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "north river street",
+        "city": "hot springs",
+        "county": "fall river county",
+        "state": "sd",
+        "postal": "57747"
+      }
+    },
+    "filename": "20240711_160126",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1787,
+    "type": "picture",
+    "type_id": "1403",
+    "timestamp": "2024-07-11T16:01:33",
+    "place": "North River Street, Hot Springs, Fall River County, South Dakota, 57747, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "north river street",
+        "city": "hot springs",
+        "county": "fall river county",
+        "state": "sd",
+        "postal": "57747"
+      },
+      "caption": "the rings. 24 years later. still couldn't do it :("
+    },
+    "filename": "20240711_160133",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2203,
+    "type": "picture",
+    "type_id": "1819",
+    "timestamp": "2024-07-11T16:01:35",
+    "place": "North River Street, Hot Springs, Fall River County, South Dakota, 57747, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "north river street",
+        "city": "hot springs",
+        "county": "fall river county",
+        "state": "sd",
+        "postal": "57747"
+      }
+    },
+    "filename": "20240711_160135",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2740,
+    "type": "story",
+    "type_id": "19",
+    "timestamp": "2024-07-11T16:30",
+    "place": null,
+    "description": "attractions: evan's plunge\ntime: 16:00\ntime: 16:30",
+    "data": {
+      "category": "attractions",
+      "dada_rank": 10,
+      "sydney_rank": 15
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1968,
+    "type": "picture",
+    "type_id": "1584",
+    "timestamp": "2024-07-11T16:58:54",
+    "place": "307, North River Street, Hot Springs, Fall River County, South Dakota, 57747, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "307 north river street",
+        "city": "hot springs",
+        "county": "fall river county",
+        "state": "sd",
+        "postal": "57747"
+      }
+    },
+    "filename": "20240711_165853",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1965,
+    "type": "picture",
+    "type_id": "1581",
+    "timestamp": "2024-07-11T16:59:16",
+    "place": "Hot Springs Police Department, 201, North River Street, Hot Springs, Fall River County, South Dakota, 57747, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "201 north river street",
+        "city": "hot springs",
+        "county": "fall river county",
+        "state": "sd",
+        "postal": "57747"
+      }
+    },
+    "filename": "20240711_165916",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1035,
+    "type": "picture",
+    "type_id": "651",
+    "timestamp": "2024-07-11T17:42:41",
+    "place": "South Highway 79, Pennington County, South Dakota, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south highway 79",
+        "city": "",
+        "county": "pennington county",
+        "state": "sd",
+        "postal": ""
+      }
+    },
+    "filename": "20240711_174241",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 704,
+    "type": "picture",
+    "type_id": "320",
+    "timestamp": "2024-07-11T17:44:01",
+    "place": "8482, South Highway 79, Pennington County, South Dakota, 57702, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "8482 south highway 79",
+        "city": "",
+        "county": "pennington county",
+        "state": "sd",
+        "postal": "57702"
+      }
+    },
+    "filename": "20240711_174401",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 189,
+    "type": "map",
+    "type_id": "238",
+    "timestamp": "2024-07-11T17:57:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-11T17:57:00",
+      "end_timestamp": "2024-07-11T18:55:00",
+      "place": {
+        "address": "1701 summit rd",
+        "state": "sd"
+      },
+      "end_place": {
+        "address": "brennan avenue",
+        "state": "sd"
+      },
+      "info": {
+        "duration": "57 minutes",
+        "distance": "56 mi",
+        "location": "1701 Summit Rd, South Dakota -> Brennan Avenue, South Dakota",
+        "nearby": [
+          "Rapid City",
+          "Black Hills National Forest",
+          "Keystone",
+          "Custer",
+          "Hot Springs",
+          "Pine Ridge"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_170958_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2081,
+    "type": "picture",
+    "type_id": "1697",
+    "timestamp": "2024-07-11T18:06:53",
+    "place": "Super Lube Pluss, 509, East Omaha Street, Rapid City, Pennington County, South Dakota, 57701, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "509 east omaha street",
+        "city": "rapid city",
+        "county": "pennington county",
+        "state": "sd",
+        "postal": "57701"
+      }
+    },
+    "filename": "20240711_180653",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 357,
+    "type": "receipt",
+    "type_id": "55",
+    "timestamp": "2024-07-11T18:28",
+    "place": "Holiday St 2746449 1846 Eglin Street Rapid City, SD 57701",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1846 eglin street",
+        "city": "rapid city",
+        "state": "sd",
+        "postal": "57701"
+      },
+      "date": "2024-07-11",
+      "time": "18:28",
+      "address": "Holiday St 2746449 1846 Eglin Street Rapid City, SD 57701",
+      "items": [
+        {
+          "description": "UNL-REG",
+          "quantity": 13.11,
+          "price": 3.449,
+          "total": 45.22
+        }
+      ],
+      "category": "gas",
+      "other_details": {
+        "order_number": "744487",
+        "pump_number": "01",
+        "payment_method": "MasterCard",
+        "card_number": "XXXXXXXXXXXX9725",
+        "chip_read": true,
+        "debit_mode": "Issuer",
+        "AID": "A0000000042203",
+        "TVR": "8000048000",
+        "IAD": "XXXXXXXXXXXXXXXXXXXX",
+        "TSI": "6800",
+        "ARC": "00",
+        "ARQC": "A8E89E897AEDCAEF",
+        "verification_method": "PIN"
+      }
+    },
+    "filename": "20240902_102845",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 358,
+    "type": "receipt",
+    "type_id": "82",
+    "timestamp": "2024-07-11T18:30",
+    "place": "1846 Eglin Street, Rapid City, SD 57701",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1846 eglin street",
+        "city": "rapid city",
+        "state": "sd",
+        "postal": "57701"
+      },
+      "date": "2024-07-11",
+      "time": "18:30",
+      "address": "1846 Eglin Street, Rapid City, SD 57701",
+      "items": [
+        {
+          "description": "Sontavio T ICE SBT ARCTCGLAC 16LB",
+          "price": "$5.99"
+        }
+      ],
+      "category": "convenience",
+      "total": "$6.36",
+      "payment": {
+        "method": "MasterCard",
+        "card_number": "XXXXXXXXXXXX9725",
+        "approval_code": "004152",
+        "sequence_number": "026345",
+        "amount": "$6.36",
+        "mode": "Issuer",
+        "AID": "A0000000041010",
+        "TVR": "8000008000",
+        "IAD": "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
+        "TSI": "6800",
+        "ARC": "00",
+        "ARQC": "9E27775A875E1AEA"
+      },
+      "thank_you_message": "Thank You Come Again"
+    },
+    "filename": "20240902_102902",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2741,
+    "type": "story",
+    "type_id": "57",
+    "timestamp": "2024-07-11T18:45",
+    "place": null,
+    "description": "meals: panera in rapid city\ntime: 18:45",
+    "data": {
+      "category": "meals",
+      "dada_rank": 19,
+      "sydney_rank": 10
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 359,
+    "type": "receipt",
+    "type_id": "14",
+    "timestamp": "2024-07-11T18:48",
+    "place": "1830 Eglin Street, Rapid City, SD 57701",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "1830 eglin street",
+        "city": "rapid city",
+        "state": "sd",
+        "postal": "57701"
+      },
+      "date": "2024-07-11",
+      "time": "18:48",
+      "address": "1830 Eglin Street, Rapid City, SD 57701",
+      "items": [
+        {
+          "description": "Grilled Cheese",
+          "quantity": 1,
+          "price": 7.69
+        },
+        {
+          "description": "No Drink",
+          "quantity": 1,
+          "price": 0
+        },
+        {
+          "description": "Chips",
+          "quantity": 1,
+          "price": 0
+        }
+      ],
+      "category": "restaurant",
+      "total": 10.24,
+      "payment_method": "Mastercard",
+      "card_number": "************9725",
+      "authorization_code": "004153",
+      "transaction_number": "00000053",
+      "APL": "Mastercard Debit",
+      "AID": "A0000000041010",
+      "MyPanera_code": "9321-2211-1207-1620-7115-83",
+      "customer_name": "Sydney",
+      "customer_copy": true
+    },
+    "filename": "20240902_102225",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 190,
+    "type": "map",
+    "type_id": "322",
+    "timestamp": "2024-07-11T18:55:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-11T18:55:00",
+      "end_timestamp": "2024-07-11T19:25:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "29 minutes",
+        "distance": "0 mi",
+        "location": "Near Brennan Avenue, South Dakota",
+        "nearby": [
+          "Lowa Ditch",
+          "The Radiant",
+          "Racine St",
+          "Love INC of the Black Hills",
+          "STAR Collision",
+          "Rapid City",
+          "N Lacrosse St",
+          "E Omaha St",
+          "Super Lube Plus"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_184516_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2742,
+    "type": "story",
+    "type_id": "300",
+    "timestamp": "2024-07-11T19:00",
+    "place": null,
+    "description": "songs: oscar winning tears. - live at the royal albert hall -- raye\n\ntime: 19:00",
+    "data": {
+      "id": 21,
+      "artist_name": "RAYE",
+      "song_name": "Oscar Winning Tears. - Live at the Royal Albert Hall",
+      "image_link": "https://i.scdn.co/image/ab67616d0000b273a69cbb1d340870a56b42aed8",
+      "song_link": "https://open.spotify.com/track/29lljQQOZikL3BwRX2ekDC",
+      "ordinal": 21,
+      "spotify_id": "29lljQQOZikL3BwRX2ekDC",
+      "added_at": "2024-06-25T01:39:38Z",
+      "playlist_id": "41vG11QGXrrIfdsE6cy6Sz",
+      "playlist_name": "jun-10-2024",
+      "playlist_owner": "Rich Sanda",
+      "category": "songs",
+      "dada_rank": 8,
+      "sydney_rank": 7
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 191,
+    "type": "map",
+    "type_id": "367",
+    "timestamp": "2024-07-11T19:25:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-11T19:25:00",
+      "end_timestamp": "2024-07-11T19:28:00",
+      "place": {
+        "address": "brennan avenue",
+        "state": "sd"
+      },
+      "end_place": {
+        "address": "1846 eglin street",
+        "state": "sd"
+      },
+      "info": {
+        "duration": "3 minutes",
+        "distance": "2 mi",
+        "location": "Brennan Avenue, South Dakota -> 1846 Eglin Street, South Dakota",
+        "nearby": [
+          "Sam's Club",
+          "Meadowlark Hill Mobile Estates",
+          "E North St",
+          "Beaus Campbell Street Diner",
+          "Heartland Expy",
+          "E Anamosa St",
+          "E Mall Dr",
+          "Scheels",
+          "US Hwy 14",
+          "Menards",
+          "Omaha St",
+          "Brookdale Estates",
+          "Central States Fair, Inc"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_170947_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 192,
+    "type": "map",
+    "type_id": "308",
+    "timestamp": "2024-07-11T19:28:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-11T19:28:00",
+      "end_timestamp": "2024-07-11T20:00:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "32 minutes",
+        "distance": "0 mi",
+        "location": "Near 1846 Eglin Street, South Dakota",
+        "nearby": [
+          "US Hwy 14",
+          "Eglin St",
+          "North St"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_184504_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 566,
+    "type": "picture",
+    "type_id": "182",
+    "timestamp": "2024-07-11T19:52:45",
+    "place": "Purple Heart Memorial Highway, Cactus Flat, Jackson County, South Dakota, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "purple heart memorial highway",
+        "city": "cactus flat",
+        "county": "jackson county",
+        "state": "sd",
+        "postal": ""
+      },
+      "caption": "beautiful night to begin the race home"
+    },
+    "filename": "20240711_195244",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 193,
+    "type": "map",
+    "type_id": "344",
+    "timestamp": "2024-07-11T20:00:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-11T20:00:00",
+      "end_timestamp": "2024-07-11T21:10:00",
+      "place": {
+        "address": "1846 eglin street",
+        "state": "sd"
+      },
+      "end_place": {
+        "address": "ch4",
+        "state": "sd"
+      },
+      "info": {
+        "duration": "1 hour, 9 minutes",
+        "distance": "71 mi",
+        "location": "1846 Eglin Street, South Dakota -> Ch 4, South Dakota",
+        "nearby": [
+          "Badlands National Park",
+          "Wall",
+          "Kyle",
+          "Philip",
+          "Kadoka",
+          "Interior",
+          "Wanblee"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_170852_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1629,
+    "type": "picture",
+    "type_id": "1245",
+    "timestamp": "2024-07-11T20:09:12",
+    "place": "Fresh Start, 24475, Ch 4, Jackson County, South Dakota, 57543, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "fresh start 24475 ch 4",
+        "city": "jackson",
+        "county": "jackson county",
+        "state": "sd",
+        "postal": "57543"
+      }
+    },
+    "filename": "20240711_200911",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1600,
+    "type": "picture",
+    "type_id": "1216",
+    "timestamp": "2024-07-11T20:28:45",
+    "place": "Purple Heart Memorial Highway, Jackson County, South Dakota, 57552, United States",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "purple heart memorial highway",
+        "city": "",
+        "county": "jackson county",
+        "state": "sd",
+        "postal": "57552"
+      },
+      "signs": "murdo 11\nmitchell 159\nsioux falls 229"
+    },
+    "filename": "20240711_202845",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 252,
+    "type": "shazam",
+    "type_id": "12",
+    "timestamp": "2024-07-11T20:55:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "title": "Ophelia",
+      "artist": "Marina Allen",
+      "link": "https://www.shazam.com/track/555292290/ophelia",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c0/ca/0e/c0ca0e18-0f99-2e8d-cef3-8d76ec9f80f9/809236163301_cover.jpg/400x400cc.jpg"
+    },
+    "filename": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/c0/ca/0e/c0ca0e18-0f99-2e8d-cef3-8d76ec9f80f9/809236163301_cover.jpg/400x400cc.jpg",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 253,
+    "type": "shazam",
+    "type_id": "11",
+    "timestamp": "2024-07-11T21:03:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "title": "Just To Feel Alive",
+      "artist": "Nadia Reid",
+      "link": "https://www.shazam.com/track/234130526/just-to-feel-alive",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/26/a2/1d/26a21d72-7c72-e442-9384-0da05c3484f9/URA475.jpg/400x400cc.jpg"
+    },
+    "filename": "https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/26/a2/1d/26a21d72-7c72-e442-9384-0da05c3484f9/URA475.jpg/400x400cc.jpg",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 194,
+    "type": "map",
+    "type_id": "50",
+    "timestamp": "2024-07-11T21:10:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-11T21:10:00",
+      "end_timestamp": "2024-07-11T21:20:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "10 minutes",
+        "distance": "0 mi",
+        "location": "Near Ch 4, South Dakota",
+        "nearby": []
+      }
+    },
+    "filename": "Screenshot_20240723_184453_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 195,
+    "type": "map",
+    "type_id": "150",
+    "timestamp": "2024-07-11T21:20:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-11T21:20:00",
+      "end_timestamp": "2024-07-11T22:49:00",
+      "place": {
+        "address": "ch 4",
+        "state": "sd"
+      },
+      "end_place": {
+        "address": "374 w sioux ave",
+        "state": "sd"
+      },
+      "info": {
+        "duration": "1 hour, 29 minutes",
+        "distance": "87 mi",
+        "location": "Ch 4, South Dakota -> 374 W Sioux Ave, South Dakota",
+        "nearby": [
+          "Midland",
+          "Belvidere",
+          "Okaton",
+          "Murdock",
+          "Rosebud Off-Reservation"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_170839_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 254,
+    "type": "shazam",
+    "type_id": "10",
+    "timestamp": "2024-07-11T21:52:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "title": "Coming Down For You",
+      "artist": "Joan Shelley",
+      "link": "https://www.shazam.com/track/467120643/coming-down-for-you",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/23/aa/1b/23aa1bf1-ca99-6c6f-0ad7-3461017448c2/656605346083.jpg/400x400cc.jpg"
+    },
+    "filename": "https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/23/aa/1b/23aa1bf1-ca99-6c6f-0ad7-3461017448c2/656605346083.jpg/400x400cc.jpg",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 255,
+    "type": "shazam",
+    "type_id": "9",
+    "timestamp": "2024-07-11T21:57:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "title": "You Can Have It All",
+      "artist": "Charlotte Cornfield",
+      "link": "https://www.shazam.com/track/507238536/you-can-have-it-all",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/da/5d/56/da5d5657-3b51-5f2e-5ddb-8464e553b864/623339913607.jpg/400x400cc.jpg"
+    },
+    "filename": "https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/da/5d/56/da5d5657-3b51-5f2e-5ddb-8464e553b864/623339913607.jpg/400x400cc.jpg",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 256,
+    "type": "shazam",
+    "type_id": "8",
+    "timestamp": "2024-07-11T22:19:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "title": "Truth is the Freshest Fruit",
+      "artist": "Jennifer Castle",
+      "link": "https://www.shazam.com/track/139029856/truth-is-the-freshest-fruit",
+      "image_url": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1c/98/aa/1c98aa4e-a384-4861-7dcb-955c45e41633/4120.jpg/400x400cc.jpg"
+    },
+    "filename": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/1c/98/aa/1c98aa4e-a384-4861-7dcb-955c45e41633/4120.jpg/400x400cc.jpg",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 196,
+    "type": "map",
+    "type_id": "1",
+    "timestamp": "2024-07-11T22:49:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-11T22:49:00",
+      "end_timestamp": "2024-07-12T07:59:00",
+      "place": null,
+      "end_place": null,
+      "info": {
+        "duration": "9 hours, 9 minutes",
+        "distance": "0 mi",
+        "location": "Near 374 W Sioux Ave, South Dakota",
+        "nearby": [
+          "Pierre Senior Center",
+          "W Sioux Ave",
+          "S Henry St",
+          "Yankton Ave",
+          "W Pleasant Dr",
+          "Pierre Housing & Redevelopment",
+          "Central Ave",
+          "US Hwy 14"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_192058_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  }
+]

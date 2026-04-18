@@ -1,0 +1,1523 @@
+[
+  {
+    "id": 2713,
+    "type": "story",
+    "type_id": "193",
+    "timestamp": "2024-07-06T00:01",
+    "place": null,
+    "description": "days: day 10, jul 6 (dinosaur pp, ab)\ntime: 00:01\ndate: 2024-07-06",
+    "data": {
+      "category": "days",
+      "dada_rank": 4,
+      "sydney_rank": 3
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 875,
+    "type": "picture",
+    "type_id": "491",
+    "timestamp": "2024-07-06T05:27:57",
+    "place": "South Campground, Dinosaur Provincial Park Campground Road, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south campground, dinosaur provincial park campground road",
+        "city": "",
+        "county": "division no. 2",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_052757",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 560,
+    "type": "picture",
+    "type_id": "176",
+    "timestamp": "2024-07-06T05:28:08",
+    "place": "South Campground, Dinosaur Provincial Park Campground Road, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south campground, dinosaur provincial park campground road",
+        "city": "",
+        "county": "division no. 2",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_052808",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1925,
+    "type": "picture",
+    "type_id": "1541",
+    "timestamp": "2024-07-06T05:34:16",
+    "place": "South Campground, Dinosaur Provincial Park Campground Road, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south campground, dinosaur provincial park campground road",
+        "city": "",
+        "county": "division no. 2",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_053416",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1145,
+    "type": "picture",
+    "type_id": "761",
+    "timestamp": "2024-07-06T05:36:02",
+    "place": "South Campground, Dinosaur Provincial Park Campground Road, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south campground, dinosaur provincial park campground road",
+        "city": "",
+        "county": "division no. 2",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_053602",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 737,
+    "type": "picture",
+    "type_id": "353",
+    "timestamp": "2024-07-06T05:39:21",
+    "place": "South Campground, Dinosaur Provincial Park Campground Road, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south campground, dinosaur provincial park campground road",
+        "city": "",
+        "county": "division no. 2",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_053920",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1889,
+    "type": "picture",
+    "type_id": "1505",
+    "timestamp": "2024-07-06T05:40:04",
+    "place": "South Campground, Dinosaur Provincial Park Campground Road, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south campground, dinosaur provincial park campground road",
+        "city": "",
+        "county": "division no. 2",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_054003",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1248,
+    "type": "picture",
+    "type_id": "864",
+    "timestamp": "2024-07-06T05:44:46",
+    "place": "South Campground, Dinosaur Provincial Park Campground Road, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south campground, dinosaur provincial park campground road",
+        "city": "",
+        "county": "division no. 2",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_054446",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 116,
+    "type": "map",
+    "type_id": "132",
+    "timestamp": "2024-07-06T06:04:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-06T06:04:00",
+      "end_timestamp": "2024-07-07T05:28:00",
+      "place": {
+        "address": "south campground",
+        "state": "ab"
+      },
+      "end_place": {
+        "address": "south campground",
+        "state": "ab"
+      },
+      "info": {
+        "duration": "23 hours, 23 minutes",
+        "distance": "8 mi",
+        "location": "South Campground, Alberta -> South Campground, Alberta",
+        "nearby": [
+          "Provincial Centre",
+          "Badlands Trail"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_202926_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 586,
+    "type": "picture",
+    "type_id": "202",
+    "timestamp": "2024-07-06T07:43:06",
+    "place": "South Campground, Dinosaur Provincial Park Campground Road, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south campground, dinosaur provincial park campground road",
+        "city": "",
+        "county": "division no. 2",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_074306",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 759,
+    "type": "picture",
+    "type_id": "375",
+    "timestamp": "2024-07-06T07:46:12",
+    "place": "South Campground, Dinosaur Provincial Park Campground Road, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south campground, dinosaur provincial park campground road",
+        "city": "",
+        "county": "division no. 2",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_074612",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2126,
+    "type": "picture",
+    "type_id": "1742",
+    "timestamp": "2024-07-06T08:58:09",
+    "place": "Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "division no. 2",
+        "city": "",
+        "county": "",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_085809",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2714,
+    "type": "story",
+    "type_id": "116",
+    "timestamp": "2024-07-06T09:00",
+    "place": null,
+    "description": "wildlife: magpie\ntime: 09:00",
+    "data": {
+      "category": "wildlife",
+      "dada_rank": 3,
+      "sydney_rank": 1
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2400,
+    "type": "picture",
+    "type_id": "2016",
+    "timestamp": "2024-07-06T09:08:08",
+    "place": "Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "division no. 2",
+        "city": "",
+        "county": "",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_090807",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1282,
+    "type": "picture",
+    "type_id": "898",
+    "timestamp": "2024-07-06T09:10:09",
+    "place": "Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "division no. 2",
+        "city": "",
+        "county": "",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_091009",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2184,
+    "type": "picture",
+    "type_id": "1800",
+    "timestamp": "2024-07-06T09:11:32",
+    "place": "Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "division no. 2",
+        "city": "",
+        "county": "",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_091132",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2544,
+    "type": "picture",
+    "type_id": "2160",
+    "timestamp": "2024-07-06T09:13:08",
+    "place": "Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "division no. 2",
+        "city": "",
+        "county": "",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_091308",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 701,
+    "type": "picture",
+    "type_id": "317",
+    "timestamp": "2024-07-06T09:15:01",
+    "place": "Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "division no. 2",
+        "city": "",
+        "county": "",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_091500",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1915,
+    "type": "picture",
+    "type_id": "1531",
+    "timestamp": "2024-07-06T09:15:08",
+    "place": "Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "division no. 2",
+        "city": "",
+        "county": "",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_091508",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1603,
+    "type": "picture",
+    "type_id": "1219",
+    "timestamp": "2024-07-06T09:16:16",
+    "place": "Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "division no. 2",
+        "city": "",
+        "county": "",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_091616",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1136,
+    "type": "picture",
+    "type_id": "752",
+    "timestamp": "2024-07-06T09:33:52",
+    "place": "Fossil Station 1, Trail of the Fossil Hunters, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "fossil station 1",
+        "city": "trail of the fossil hunters",
+        "county": "division no. 2",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_093351",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 432,
+    "type": "picture",
+    "type_id": "48",
+    "timestamp": "2024-07-06T09:49:18",
+    "place": "Trail of the Fossil Hunters, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "trail of the fossil hunters",
+        "city": "division no. 2",
+        "county": "",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_094918",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 835,
+    "type": "picture",
+    "type_id": "451",
+    "timestamp": "2024-07-06T09:49:23",
+    "place": "Trail of the Fossil Hunters, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "trail of the fossil hunters",
+        "city": "division no. 2",
+        "county": "",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_094923",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2587,
+    "type": "picture",
+    "type_id": "2203",
+    "timestamp": "2024-07-06T09:58:09",
+    "place": "Trail of the Fossil Hunters, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "trail of the fossil hunters",
+        "city": "division no. 2",
+        "county": "",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_095808",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2715,
+    "type": "story",
+    "type_id": "5",
+    "timestamp": "2024-07-06T10:00",
+    "place": null,
+    "description": "adventures/nature: alberta badlands hike\ntime: 10:00",
+    "data": {
+      "category": "adventures/nature",
+      "dada_rank": 3,
+      "sydney_rank": 8
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 433,
+    "type": "picture",
+    "type_id": "49",
+    "timestamp": "2024-07-06T10:13:04",
+    "place": "Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "division no. 2",
+        "city": "",
+        "county": "",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_101304",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2513,
+    "type": "picture",
+    "type_id": "2129",
+    "timestamp": "2024-07-06T10:13:12",
+    "place": "Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "division no. 2",
+        "city": "",
+        "county": "",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_101311",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2275,
+    "type": "picture",
+    "type_id": "1891",
+    "timestamp": "2024-07-06T10:18:49",
+    "place": "Badlands Trail, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "badlands trail",
+        "city": "division no. 2",
+        "county": "",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_101849",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 315,
+    "type": "receipt",
+    "type_id": "104",
+    "timestamp": "2024-07-06T10:45",
+    "place": "220 4th Ave W, Brooks, AB",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "220 4th ave w",
+        "city": "brooks",
+        "state": "ab"
+      },
+      "date": "2024-07-06",
+      "time": "10:45",
+      "address": "220 4th Ave W, Brooks, AB",
+      "items": [
+        {
+          "description": "Dinosaur Provincial Park entrance fee",
+          "price": "$4.50"
+        }
+      ],
+      "category": "parking",
+      "account_number": "************9725 C",
+      "card_type": "Mastercard Debit",
+      "trace_number": "722",
+      "invoice_number": "724",
+      "authorization_number": "004108",
+      "rrn": "001001726"
+    },
+    "filename": "20240902_160749",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2591,
+    "type": "picture",
+    "type_id": "2207",
+    "timestamp": "2024-07-06T13:19:50",
+    "place": "South Campground, Dinosaur Provincial Park Campground Road, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south campground, dinosaur provincial park campground road",
+        "city": "",
+        "county": "division no. 2",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_131949",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 599,
+    "type": "picture",
+    "type_id": "215",
+    "timestamp": "2024-07-06T13:53:15",
+    "place": "Coulee Viewpoint Trail, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "coulee viewpoint trail",
+        "city": "division no. 2",
+        "county": "",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_135315",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2716,
+    "type": "story",
+    "type_id": "3",
+    "timestamp": "2024-07-06T14:00",
+    "place": null,
+    "description": "adventures/nature: guided tour of dinosaurs\ntime: 16:00\ntime: 14:00",
+    "data": {
+      "category": "adventures/nature",
+      "dada_rank": 4,
+      "sydney_rank": 7
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2171,
+    "type": "picture",
+    "type_id": "1787",
+    "timestamp": "2024-07-06T14:40:34",
+    "place": "County of Newell, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "",
+        "city": "county of newell",
+        "county": "county of newell",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_144034",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 925,
+    "type": "picture",
+    "type_id": "541",
+    "timestamp": "2024-07-06T14:40:37",
+    "place": "County of Newell, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "",
+        "city": "county of newell",
+        "county": "county of newell",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_144037",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1266,
+    "type": "picture",
+    "type_id": "882",
+    "timestamp": "2024-07-06T14:41:19",
+    "place": "County of Newell, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "",
+        "city": "county of newell",
+        "county": "county of newell",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_144119",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 512,
+    "type": "picture",
+    "type_id": "128",
+    "timestamp": "2024-07-06T14:59:22",
+    "place": "County of Newell, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "",
+        "city": "county of newell",
+        "county": "county of newell",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_145922",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1590,
+    "type": "picture",
+    "type_id": "1206",
+    "timestamp": "2024-07-06T15:00:06",
+    "place": "County of Newell, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "",
+        "city": "county of newell",
+        "county": "county of newell",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_150006",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 725,
+    "type": "picture",
+    "type_id": "341",
+    "timestamp": "2024-07-06T15:01:46",
+    "place": "County of Newell, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "",
+        "city": "county of newell",
+        "county": "county of newell",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_150146",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 582,
+    "type": "picture",
+    "type_id": "198",
+    "timestamp": "2024-07-06T15:02:42",
+    "place": "County of Newell, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "",
+        "city": "county of newell",
+        "county": "county of newell",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_150242",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1555,
+    "type": "picture",
+    "type_id": "1171",
+    "timestamp": "2024-07-06T15:04:17",
+    "place": "County of Newell, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "",
+        "city": "county of newell",
+        "county": "county of newell",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_150417",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2230,
+    "type": "picture",
+    "type_id": "1846",
+    "timestamp": "2024-07-06T15:05:03",
+    "place": "County of Newell, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "",
+        "city": "county of newell",
+        "county": "county of newell",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_150503",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1059,
+    "type": "picture",
+    "type_id": "675",
+    "timestamp": "2024-07-06T15:06:44",
+    "place": "County of Newell, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "",
+        "city": "county of newell",
+        "county": "county of newell",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_150643",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1098,
+    "type": "picture",
+    "type_id": "714",
+    "timestamp": "2024-07-06T15:08:15",
+    "place": "County of Newell, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "",
+        "city": "county of newell",
+        "county": "county of newell",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_150815",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2542,
+    "type": "picture",
+    "type_id": "2158",
+    "timestamp": "2024-07-06T15:08:31",
+    "place": "County of Newell, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "",
+        "city": "county of newell",
+        "county": "county of newell",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_150830",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2334,
+    "type": "picture",
+    "type_id": "1950",
+    "timestamp": "2024-07-06T15:10:17",
+    "place": "County of Newell, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "",
+        "city": "county of newell",
+        "county": "county of newell",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_151017",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1298,
+    "type": "picture",
+    "type_id": "914",
+    "timestamp": "2024-07-06T15:24:33",
+    "place": "County of Newell, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "",
+        "city": "county of newell",
+        "county": "county of newell",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_152433",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1878,
+    "type": "picture",
+    "type_id": "1494",
+    "timestamp": "2024-07-06T15:25:24",
+    "place": "County of Newell, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "",
+        "city": "county of newell",
+        "county": "county of newell",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_152523",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2531,
+    "type": "picture",
+    "type_id": "2147",
+    "timestamp": "2024-07-06T15:30:32",
+    "place": "County of Newell, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "",
+        "city": "county of newell",
+        "county": "county of newell",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_153031",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1034,
+    "type": "picture",
+    "type_id": "650",
+    "timestamp": "2024-07-06T15:30:38",
+    "place": "County of Newell, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "",
+        "city": "county of newell",
+        "county": "county of newell",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_153038",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 567,
+    "type": "picture",
+    "type_id": "183",
+    "timestamp": "2024-07-06T15:37:52",
+    "place": "County of Newell, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "",
+        "city": "county of newell",
+        "county": "county of newell",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_153751",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2274,
+    "type": "picture",
+    "type_id": "1890",
+    "timestamp": "2024-07-06T15:39:44",
+    "place": "County of Newell, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "",
+        "city": "county of newell",
+        "county": "county of newell",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_153944",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 316,
+    "type": "receipt",
+    "type_id": "63",
+    "timestamp": "2024-07-06T16:15",
+    "place": "144071 Silver Sage Road, Brooks, AB T1R1B5",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "144071 silver sage road",
+        "city": "brooks",
+        "state": "ab",
+        "postal": "t1r1b5"
+      },
+      "date": "2024-07-06",
+      "time": "16:15",
+      "address": "144071 Silver Sage Road, Brooks, AB T1R1B5",
+      "items": [
+        {
+          "description": "Purchase",
+          "amount": "$24.00"
+        }
+      ],
+      "category": "restaurant",
+      "username": "Dino",
+      "card_type": "Mastercard",
+      "entry": "Chip (C)",
+      "card_number": "************9725",
+      "reference_number": "717-0SG83679P1GBEK6",
+      "authorization_number": "004110",
+      "response_code": "01-027",
+      "order_number": "MG01720304142325",
+      "TVR": "8000008000",
+      "TSI": "6800",
+      "approval_status": "Approved"
+    },
+    "filename": "20240902_093540",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2717,
+    "type": "story",
+    "type_id": "43",
+    "timestamp": "2024-07-06T16:15",
+    "place": null,
+    "description": "meals: cretacious cafe\ntime: 15:30\ntime: 16:15",
+    "data": {
+      "category": "meals",
+      "dada_rank": 5,
+      "sydney_rank": 3
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 317,
+    "type": "receipt",
+    "type_id": "36",
+    "timestamp": "2024-07-06T16:39",
+    "place": "144071 Silver Sage Road, Brooks, AB T1R1B5",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "144071 silver sage road",
+        "city": "brooks",
+        "state": "ab",
+        "postal": "t1r1b5"
+      },
+      "date": "2024-07-06",
+      "time": "16:39",
+      "address": "144071 Silver Sage Road, Brooks, AB T1R1B5",
+      "items": [
+        {
+          "description": "Purchase",
+          "amount": "$3.50"
+        }
+      ],
+      "category": "restaurant",
+      "username": "Dino",
+      "card_type": "Mastercard",
+      "entry_method": "Chip (C)",
+      "card_number": "************9725",
+      "reference_number": "726-OSG84AK95XG25ZM",
+      "authorization_number": "004111",
+      "response_code": "01-027",
+      "order_number": "MG01720305595235",
+      "transaction_details": "A0000000041010 Mastercard Debit TVR 8000008000 TSI 6800",
+      "approval_status": "Approved"
+    },
+    "filename": "20240902_093807",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 318,
+    "type": "receipt",
+    "type_id": "120",
+    "timestamp": "2024-07-06T17:31",
+    "place": "144071 Silver Sage Road, Brooks, AB T1R1B5",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "144071 silver sage road",
+        "city": "brooks",
+        "state": "ab",
+        "postal": "t1r1b5"
+      },
+      "date": "2024-07-06",
+      "time": "17:31",
+      "address": "144071 Silver Sage Road, Brooks, AB T1R1B5",
+      "items": [
+        {
+          "description": "Purchase",
+          "amount": "$11.00"
+        }
+      ],
+      "category": "restaurant",
+      "username": "Dino",
+      "card_type": "Mastercard",
+      "entry": "Chip (C)",
+      "card_number": "************9725",
+      "reference_number": "734-OSG86P54XOJUGW4",
+      "authorization_number": "004112",
+      "response_code": "01-027",
+      "order_number": "MG01720308711917",
+      "TVR": "8000008000",
+      "TSI": "6800",
+      "status": "Approved"
+    },
+    "filename": "20240902_104014",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 674,
+    "type": "picture",
+    "type_id": "290",
+    "timestamp": "2024-07-06T17:33:25",
+    "place": "Dinosaur Provincial Park Campground Road, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "dinosaur provincial park campground road",
+        "city": "division no. 2",
+        "county": "",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_173325",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 522,
+    "type": "picture",
+    "type_id": "138",
+    "timestamp": "2024-07-06T17:33:28",
+    "place": "Dinosaur Provincial Park Campground Road, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "dinosaur provincial park campground road",
+        "city": "division no. 2",
+        "county": "",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_173328",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2718,
+    "type": "story",
+    "type_id": "63",
+    "timestamp": "2024-07-06T17:35",
+    "place": null,
+    "description": "treats: dino sized ice cream\ntime: 19:00\ntime: 17:35",
+    "data": {
+      "category": "treats",
+      "dada_rank": 6,
+      "sydney_rank": 5
+    },
+    "filename": null,
+    "position": null,
+    "keep": false,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1830,
+    "type": "picture",
+    "type_id": "1446",
+    "timestamp": "2024-07-06T17:51:13",
+    "place": "Dinosaur Provincial Park Campground Road, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "dinosaur provincial park campground road",
+        "city": "division no. 2",
+        "county": "",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_175113",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 117,
+    "type": "map",
+    "type_id": "208",
+    "timestamp": "2024-07-06T20:17:00",
+    "place": null,
+    "description": null,
+    "data": {
+      "timestamp": "2024-07-06T20:17:00",
+      "end_timestamp": "2024-07-07T05:43:00",
+      "place": {
+        "business": "mpinossur ara campground"
+      },
+      "end_place": {
+        "address": "south campground",
+        "state": "ab"
+      },
+      "info": {
+        "duration": "9 hours, 26 minutes",
+        "distance": "1 mi",
+        "location": "South Campground, Alberta -> South Campground, Alberta",
+        "nearby": [
+          "Vare Cabin",
+          "Dinosaur Park Campground"
+        ]
+      }
+    },
+    "filename": "Screenshot_20240723_202941_Life360",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2010,
+    "type": "picture",
+    "type_id": "1626",
+    "timestamp": "2024-07-06T21:42:24",
+    "place": "South Campground, Dinosaur Provincial Park Campground Road, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south campground, dinosaur provincial park campground road",
+        "city": "",
+        "county": "division no. 2",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_214224",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 2247,
+    "type": "picture",
+    "type_id": "1863",
+    "timestamp": "2024-07-06T21:54:08",
+    "place": "South Campground, Dinosaur Provincial Park Campground Road, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south campground, dinosaur provincial park campground road",
+        "city": "",
+        "county": "division no. 2",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_215408",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  },
+  {
+    "id": 1901,
+    "type": "picture",
+    "type_id": "1517",
+    "timestamp": "2024-07-06T21:54:15",
+    "place": "South Campground, Dinosaur Provincial Park Campground Road, Division No. 2, Alberta, Canada",
+    "description": null,
+    "data": {
+      "place": {
+        "address": "south campground, dinosaur provincial park campground road",
+        "city": "",
+        "county": "division no. 2",
+        "state": "ab",
+        "postal": ""
+      }
+    },
+    "filename": "20240706_215415",
+    "position": null,
+    "keep": true,
+    "notes": null,
+    "is_note": false,
+    "ordinal": 2
+  }
+]
