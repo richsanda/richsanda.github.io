@@ -1362,11 +1362,11 @@
     "type": "picture",
     "type_id": "167",
     "timestamp": "2024-07-14T18:50:14",
-    "place": "Buffalo, NY",
+    "place": "95, Cornell Avenue, Eggertsville, Buffalo, Erie County, New York, 14226, United States",
     "description": null,
     "data": {
       "place": {
-        "address": "",
+        "address": "95 cornell avenue",
         "city": "buffalo",
         "county": "erie county",
         "state": "ny",
@@ -1385,11 +1385,11 @@
     "type": "picture",
     "type_id": "1578",
     "timestamp": "2024-07-14T18:50:16",
-    "place": "Buffalo, New York",
+    "place": "95, Cornell Avenue, Eggertsville, Buffalo, Erie County, New York, 14226, United States",
     "description": null,
     "data": {
       "place": {
-        "address": "",
+        "address": "95 cornell avenue",
         "city": "buffalo",
         "county": "erie county",
         "state": "ny",
