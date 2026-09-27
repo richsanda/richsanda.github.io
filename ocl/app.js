@@ -482,7 +482,7 @@ function renderGames(games) {
     const container = document.getElementById("games-results");
     container.innerHTML = "";
 
-    games.forEach((g) => {
+    games.forEach((g, index) => {
         const details = document.createElement("details");
         details.className = "game-entry";
 
@@ -490,6 +490,10 @@ function renderGames(games) {
 
         const matchupCol = document.createElement("div");
         matchupCol.className = "game-summary-col game-summary-matchup";
+        const rank = document.createElement("span");
+        rank.className = "game-summary-rank";
+        rank.textContent = (index + 1) + ". ";
+        matchupCol.appendChild(rank);
         matchupCol.appendChild(ownerChip(g.teamNumber, g.season));
         matchupCol.appendChild(document.createTextNode(" vs "));
         matchupCol.appendChild(ownerChip(g.opponentTeamNumber, g.season));

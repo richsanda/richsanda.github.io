@@ -226,13 +226,18 @@ div.player-header {
     margin-bottom: 10px;
 }
 
+.grid-scroll {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
 .grid {
     display: grid;
     grid-auto-flow: row;
-    grid-template-columns: repeat(18, minmax(40px, 1fr));
+    grid-template-columns: repeat(18, 44px);
     grid-auto-rows: 40px;
     text-align: center;
-    width: 100%;
+    width: max-content;
 }
 
 .grid-item {
@@ -266,6 +271,52 @@ div.game-row-title {
     font-size: 1.3em;
     padding-bottom: 10px;
     font-weight: bold;
+}
+
+@media (max-width: 640px) {
+    div.teams {
+        grid-template-columns: 1fr;
+        grid-template-rows: none;
+        grid-auto-flow: row;
+    }
+
+    div.criteria {
+        font-size: 1em;
+    }
+
+    div.clickable {
+        padding: 8px;
+    }
+
+    button.mode-btn {
+        padding: 10px 16px;
+    }
+
+    details.game-entry summary {
+        grid-template-columns: 1fr;
+        row-gap: 4px;
+    }
+
+    div.game-summary-col {
+        white-space: normal;
+        overflow: visible;
+        text-overflow: clip;
+    }
+
+    #feature, #game {
+        margin: 10px auto;
+        padding: 15px;
+        max-width: 100%;
+        max-height: 92%;
+        box-sizing: border-box;
+    }
+
+    div.game-team {
+        float: none;
+        width: 100%;
+        margin: 10px 0;
+        box-sizing: border-box;
+    }
 }
 
 div.game-col-points {
