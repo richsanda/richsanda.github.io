@@ -237,7 +237,7 @@ function buildTeamButtons() {
 
     for (const group of META.groups) {
         const groupDiv = document.createElement("div");
-        groupDiv.className = "clickable";
+        groupDiv.className = "clickable group-header";
         groupDiv.textContent = group.name;
         groupDiv.onclick = () => selectTeams(group.teamNumbers, group.name);
         container.appendChild(groupDiv);

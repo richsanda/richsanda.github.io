@@ -7,12 +7,12 @@ html, body {
 }
 
 div.teams {
-    -webkit-column-count: 3;
-    -moz-column-count: 3;
-    column-count: 3;
-    -webkit-column-gap: 20px;
-    -moz-column-gap: 20px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(5, auto);
+    grid-auto-flow: column;
     column-gap: 20px;
+    row-gap: 10px;
     margin: 20px 20px 10px 20px;
     text-align: center;
 }
@@ -22,11 +22,7 @@ div.clickable {
     background-color: rgba(100, 100, 100, 0.5);
     text-align: center;
     padding: 2px;
-    margin-bottom: 10px;
     color: #fff;
-    break-inside: avoid;
-    -webkit-column-break-inside: avoid;
-    page-break-inside: avoid;
 }
 
 div.clickable:hover, div.stat-row:hover, div.game-summary:hover, div.game-col-player:hover {
