@@ -220,11 +220,20 @@ function queryGamesList({ teamNumbers, startSeason, endSeason, startWeek = 1, en
         });
     }
 
+    // both margin sorts use the ABSOLUTE margin (most = biggest blowouts, least = closest
+    // games/ties, either direction) so a game's two team-perspective rows land right next to
+    // each other -- then a tertiary win-before-loss key puts the winner's row on top of the
+    // pair (ties keep either order, there's no winner). Secondary: total points descending --
+    // how high were the highest ties, then the highest 1-pt wins, etc.
+    const totalDesc = (a, b) => (b.teamPoints + b.opponentPoints) - (a.teamPoints + a.opponentPoints);
+    const winFirst = (a, b) => (a.win ? 0 : 1) - (b.win ? 0 : 1);
     const sortKeys = {
         points_desc: (a, b) => b.teamPoints - a.teamPoints,
         points_asc: (a, b) => a.teamPoints - b.teamPoints,
-        margin_desc: (a, b) => (b.teamPoints - b.opponentPoints) - (a.teamPoints - a.opponentPoints),
-        total_desc: (a, b) => (b.teamPoints + b.opponentPoints) - (a.teamPoints + a.opponentPoints),
+        margin_desc: (a, b) => (Math.abs(b.teamPoints - b.opponentPoints) - Math.abs(a.teamPoints - a.opponentPoints)) || totalDesc(a, b) || winFirst(a, b),
+        margin_asc: (a, b) => (Math.abs(a.teamPoints - a.opponentPoints) - Math.abs(b.teamPoints - b.opponentPoints)) || totalDesc(a, b) || winFirst(a, b),
+        total_desc: (a, b) => totalDesc(a, b) || winFirst(a, b),
+        total_asc: (a, b) => ((a.teamPoints + a.opponentPoints) - (b.teamPoints + b.opponentPoints)) || winFirst(a, b),
     };
     results.sort(sortKeys[sort] || sortKeys.points_desc);
     return results.slice(0, RESULT_SIZE);
