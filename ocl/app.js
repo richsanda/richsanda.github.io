@@ -319,10 +319,12 @@ function queryPositions({ teamNumbers, positions, startSeason, endSeason, sort }
         }
     }
 
+    // points totals below are also scoped to the regular season, same as the record above
     const buckets = new Map(); // "teamNumber:season:position" -> Map(playerId -> {name, points})
     for (const pw of PLAYER_WEEKS) {
         if (!teams.has(pw.teamNumber)) continue;
         if (pw.season < lo || pw.season > hi) continue;
+        if (pw.week > (pw.season === 2005 ? 13 : 14)) continue;
         const key = pw.teamNumber + ":" + pw.season + ":" + pw.position;
         if (!buckets.has(key)) buckets.set(key, new Map());
         const bucket = buckets.get(key);
@@ -407,10 +409,12 @@ function queryTeamSeasons({ teamNumbers, startSeason, endSeason, sort }) {
         }
     }
 
+    // points totals below are also scoped to the regular season, same as the record above
     const buckets = new Map(); // "teamNumber:season" -> Map(playerId -> {name, points})
     for (const pw of PLAYER_WEEKS) {
         if (!teams.has(pw.teamNumber)) continue;
         if (pw.season < lo || pw.season > hi) continue;
+        if (pw.week > (pw.season === 2005 ? 13 : 14)) continue;
         const key = pw.teamNumber + ":" + pw.season;
         if (!buckets.has(key)) buckets.set(key, new Map());
         const bucket = buckets.get(key);
