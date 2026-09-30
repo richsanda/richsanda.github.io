@@ -298,9 +298,13 @@ function queryPositions({ teamNumbers, positions, startSeason, endSeason, sort }
     const lo = startSeason == null ? META.minSeason : startSeason;
     const hi = endSeason == null ? META.maxSeason : endSeason;
 
+    // win-loss "record" means the REGULAR season record -- there's no playoff flag in the
+    // schema, so this is a heuristic: 2005 had a 13-period regular season, every other
+    // season's regular season is periods 1-14 (later periods are playoff rounds).
     const records = new Map(); // "teamNumber:season" -> {wins, losses, ties}
     for (const g of GAMES) {
         if (g.season < lo || g.season > hi) continue;
+        if (g.week > (g.season === 2005 ? 13 : 14)) continue;
         for (const side of [
             { teamNumber: g.home, points: g.homePoints, opp: g.awayPoints },
             { teamNumber: g.away, points: g.awayPoints, opp: g.homePoints },
@@ -382,9 +386,13 @@ function queryTeamSeasons({ teamNumbers, startSeason, endSeason, sort }) {
     const lo = startSeason == null ? META.minSeason : startSeason;
     const hi = endSeason == null ? META.maxSeason : endSeason;
 
+    // win-loss "record" means the REGULAR season record -- there's no playoff flag in the
+    // schema, so this is a heuristic: 2005 had a 13-period regular season, every other
+    // season's regular season is periods 1-14 (later periods are playoff rounds).
     const records = new Map(); // "teamNumber:season" -> {wins, losses, ties}
     for (const g of GAMES) {
         if (g.season < lo || g.season > hi) continue;
+        if (g.week > (g.season === 2005 ? 13 : 14)) continue;
         for (const side of [
             { teamNumber: g.home, points: g.homePoints, opp: g.awayPoints },
             { teamNumber: g.away, points: g.awayPoints, opp: g.homePoints },
