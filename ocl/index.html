@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>OCL</title>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+</head>
+<body>
+
+<div class="teams" id="teams"></div>
+
+<div class="clickable" id="all-teams">all</div>
+
+<div class="mode-toggle">
+    <button type="button" class="mode-btn active" id="mode-players">players</button>
+    <button type="button" class="mode-btn" id="mode-positions">positions</button>
+    <button type="button" class="mode-btn" id="mode-teams">teams</button>
+    <button type="button" class="mode-btn" id="mode-games">games</button>
+</div>
+
+<div class="criteria">
+    between <select id="start-season"></select>
+    and <select id="end-season"></select>
+    for <span id="team-name">all</span>
+
+    <span id="position-filter-wrap">
+        considering
+        <span id="positions"></span>
+    </span>
+
+    <span id="players-filters" style="display:none">
+        sort by
+        <select id="players-sort-filter">
+            <option value="points_desc">points (most)</option>
+            <option value="games_desc">games (most)</option>
+            <option value="average_desc">average (most)</option>
+            <option value="average_asc">average (least)</option>
+        </select>
+        <label><input type="checkbox" id="min-games-filter-enabled"> min games <select id="min-games-filter"></select></label>
+    </span>
+
+    <span id="games-filters" style="display:none">
+        outcome
+        <select id="outcome-filter">
+            <option value="">any</option>
+            <option value="win">win</option>
+            <option value="loss">loss</option>
+            <option value="tie">tie</option>
+        </select>
+        ruxbee <select id="ruxbee-filter"></select>
+        bugton <select id="bugton-filter"></select>
+        <label><input type="checkbox" id="multi-week-filter"> 2wk incl</label>
+        sort by
+        <select id="sort-filter">
+            <option value="points_desc">points (most)</option>
+            <option value="points_asc">points (least)</option>
+            <option value="margin_desc">margin (most)</option>
+            <option value="margin_asc">margin (least)</option>
+            <option value="total_desc">total (most)</option>
+            <option value="total_asc">total (least)</option>
+            <option value="chrono_asc">date (oldest)</option>
+            <option value="chrono_desc">date (newest)</option>
+        </select>
+    </span>
+
+    <span id="positions-filters" style="display:none">
+        sort by
+        <select id="positions-sort-filter">
+            <option value="points_desc">points (most)</option>
+            <option value="points_asc">points (least)</option>
+            <option value="year_desc">year (newest)</option>
+            <option value="year_asc">year (oldest)</option>
+            <option value="lead_pct_desc">lead % (most)</option>
+            <option value="lead_pct_asc">lead % (least)</option>
+        </select>
+    </span>
+
+    <span id="teams-filters" style="display:none">
+        sort by
+        <select id="teams-sort-filter">
+            <option value="points_desc">points (most)</option>
+            <option value="points_asc">points (least)</option>
+            <option value="year_desc">year (newest)</option>
+            <option value="year_asc">year (oldest)</option>
+            <option value="lead_pct_desc">lead % (most)</option>
+            <option value="lead_pct_asc">lead % (least)</option>
+        </select>
+    </span>
+</div>
+
+<div id="results" class="stat-table"></div>
+<div id="games-results"></div>
+<div id="positions-results"></div>
+<div id="team-seasons-results"></div>
+
+<div id="feature-background">
+    <div id="feature">
+        <div class="player-header" id="player-header"></div>
+        <div class="grid-scroll">
+            <div class="grid" id="player-grid"></div>
+        </div>
+    </div>
+</div>
+
+<div id="game-background">
+    <div id="game">
+        <div class="game-header" id="game-header"></div>
+        <div class="game-table game-home game-team" id="game-home"></div>
+        <div class="game-table game-away game-team" id="game-away"></div>
+    </div>
+</div>
+
+<div id="position-detail-background">
+    <div id="position-detail">
+        <div class="player-header" id="position-detail-header"></div>
+        <div class="grid-scroll">
+            <div class="grid grid-wide-label" id="position-detail-grid"></div>
+        </div>
+    </div>
+</div>
+
+<div id="schedule-background">
+    <div id="schedule">
+        <div class="player-header" id="schedule-header"></div>
+        <div id="schedule-results"></div>
+    </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

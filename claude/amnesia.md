@@ -1,0 +1,23 @@
+2026-03-22 ~4p
+
+_claude.ai:_
+
+> ### On Memory, Technology, and the Fragility of Peace
+>
+>The 80-year peace in Europe after WWII wasn't accidental — it was engineered through American security guarantees, nuclear deterrence, economic integration, and shared institutions. The current U.S. retreat from global leadership is genuinely destabilizing, though with one ironic upside: being forced to stand alone may finally push Europe toward the unified defense capability it never bothered building while comfortable under American protection. The next 5–10 years look like the most dangerous window — not a peaceful one.
+>
+>A recurring argument for optimism is that today's conflicts are so thoroughly documented — 4K video, drone footage, real-time social media — that future generations can't possibly forget what modern war looks like the way post-WWII generations forgot WWI. The archive is vast and essentially indestructible.
+>
+>But recording isn't the same as remembering, and remembering isn't the same as feeling. Kissinger's worry about "amnesia" was never really about whether future generations would know about catastrophic wars — by 2000 you could watch Saving Private Ryan. It was about whether they'd feel it as a lived constraint on political behavior, the way men like Adenauer and de Gaulle — who had personally smelled the trenches — did. There's a meaningful difference between intellectually knowing war is catastrophic and being constituted by that knowledge in a way that shapes your instincts. No amount of footage fully replicates that.
+>
+>The sheer volume of documented suffering may actually work against deep remembrance through what psychologists call "psychic numbing" — the more suffering you're exposed to, the less any individual instance registers emotionally. The person scrolling past drone footage between memes is having a genuinely different cognitive experience than someone who received a telegram saying their brother wasn't coming home.
+>
+>There's also a new wildcard: if AI-generated deepfakes make the historical record itself epistemically contested, then in 80 years the archive of today's conflicts may be dismissed as unverifiable. "How do we know that's real?" becomes a political weapon in a way it simply wasn't for WWII footage.
+>
+>But perhaps the most underappreciated problem is that the internet doesn't create uniform shallow engagement — it creates wildly uneven engagement. Some people are genuinely traumatized by what they consume online (researchers call this vicarious trauma or secondary traumatic stress — it's well-documented and real). Others process the same footage and emerge essentially unmoved. This asymmetry may be worse for collective political memory than uniform forgetting would be.
+>
+>If everyone forgot equally, you'd have a kind of social equilibrium to build from. What you actually get is a population polarized not just in opinion but in felt reality — people inhabiting almost entirely different emotional and moral worlds after witnessing the same events. The 1945 generation largely agreed, across political lines, that what had happened was catastrophic. That shared feeling was the foundation for shared institutions. We are accumulating wounds today, but increasingly separately, sorted by tribe.
+>
+>Political identity has become the most powerful filter on empathy — people feel viscerally for in-group suffering and are increasingly able to not register, or actively dismiss, out-group suffering. Social media is sharpening something ancient and tribal, rather than creating something new. And the cruelest irony is that the people most morally sensitized — those most likely to feel genuine distress at injustice — are often the ones most harmed by the firehose, and most in need of rationing their consumption just to stay functional.
+>
+>The upshot: the internet probably prevents total amnesia, which is something. But it may be producing a world where different communities emerge from the same historical moment not just with different interpretations, but with different felt experiences of what actually happened. That's a significantly harder starting point for building the kind of consensus that durable peace requires. Shared institutions — the EU, international courts, treaties — may ultimately be more reliable carriers of historical lessons than human memory in any form. Which is, when you think about it, exactly why those institutions were built in the first place, and exactly why their current erosion is so alarming.
