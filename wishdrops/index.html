@@ -155,6 +155,37 @@ h1 {
   font-variant-numeric: tabular-nums;
 }
 
+/* ---------- discussion after the ratio cards ---------- */
+.prose.after { margin-top: 4rem; }
+.prose h2.section {
+  font-family: var(--display); font-weight: 500; font-size: 1.45rem; line-height: 1.25;
+  margin: 3rem 0 1rem; text-wrap: balance;
+}
+.card.inline { margin: 1.5rem 0 2rem; }
+.card.inline .equation { padding-block: 1.3rem; }
+
+.recurring {
+  list-style: none; margin: 0 0 1.15em; padding: 0;
+  display: flex; flex-wrap: wrap; gap: 0.5rem 1.6rem;
+}
+.recurring li { position: relative; padding-left: 0.9rem; }
+.recurring li::before {
+  content: ""; position: absolute; left: 0; top: 0.72em;
+  width: 0.3rem; height: 0.3rem; border-radius: 50%; background: var(--muted);
+}
+
+.spectrum-fig { margin: 1.5rem 0 2rem; }
+.spectrum-scroll { overflow-x: auto; }
+.spectrum-fig svg { display: block; width: 100%; min-width: 34rem; height: auto; }
+.spectrum-fig .lab { font-family: var(--body); font-size: 13px; font-weight: 400; fill: var(--ink); }
+.spectrum-fig .num { font-family: var(--mono); font-size: 11px; fill: var(--muted); }
+.spectrum-fig .axis { font-family: var(--mono); font-size: 11px; fill: var(--muted); }
+.spectrum-fig .brk { font-family: var(--mono); font-size: 14px; fill: var(--muted); }
+.spectrum-fig .tick { stroke: var(--ink); stroke-width: 1.5; }
+.spectrum-fig .lead { stroke: var(--muted); stroke-width: 1; }
+.spectrum-fig .bracket { fill: none; stroke: var(--muted); stroke-width: 1; }
+.spectrum-fig .offband { fill: var(--rule); stroke: var(--card-edge); stroke-width: 1; }
+
 mjx-container[display="true"] { margin: 0 !important; }
 
 @media (max-width: 520px) {
@@ -173,7 +204,7 @@ mjx-container[display="true"] { margin: 0 !important; }
   </header>
 
   <div class="prose">
-    <p><em>That were the universe but one spinning sphere</em>. A belief and a lament simultaneously. The belief is that a single sphere of infinite dimension, spinning forever, with no preferred direction, is the energetic wellspring of the universe we experience. We call this <em>the wishdrops conjecture</em>. A simple, elegant, latent geometry underpins our vastly complex physical universe – that's our guess, at least. Particles, constellations, time, physics, even the sensory apparatus, right up to the point of experience itself, all constituent of <em>the unfolding shadow of a dynamic, holographic sphere</em>. Think of it as a very literal interpretation of the oft cited <em>“God is an infinite sphere whose center is everywhere and whose circumference is nowhere,”</em> which first appears in medieval times in The Book of Twenty-four Philosophers, though perhaps hovered in the philosophical ether for a long time before that. We even wonder whether modern history misunderstands that it was meant as more than a metaphor – like maybe the ancients knew something we have since lost.</p>
+    <p><em>That were the universe but one spinning sphere</em>. A belief and a lament simultaneously. The belief is that a single sphere of infinite dimension, spinning forever with no preferred direction, is the energetic wellspring of the universe we experience. We call this <em>the wishdrops conjecture</em>. A simple, elegant, latent geometry underpins our vastly complex physical universe – that's our guess, at least. Particles, constellations, time, physics, even the sensory apparatus, right up to the point of experience itself, all <em>the unfolding shadow of a dynamic, holographic sphere</em>. Think of it as a very literal interpretation of the oft cited <em>“God is an infinite sphere whose center is everywhere and whose circumference is nowhere.”</em> This first appears around the 12th century, in the Latin text <em>The Book of Twenty-four Philosophers</em>, though perhaps hovered in the contemplative ether for a long time before that. We wonder whether modern history misunderstands that it was meant as more than a metaphor. Like maybe the ancients knew something we have since lost.</p>
     <p>The lament is how difficult this will be to explain. At least we think so.</p>
     <p>Only one way to find out!</p>
     <p>We'll use math (mostly high school level), physics, and intuition to elaborate on our <em>pet ratios</em> – not animal fractions, but principled comparisons between energies, lengths, and masses that give us a warm feeling inside when we think about the secret geometry behind them, even as we might have made it up. Hopefully that will break the ice. The idea is that these ratios are fingerprints of the unobservable, rife with suggestive recurring signatures, offering explanatory power if nothing else. There may be no new physics here, in other words, nor proof of anything <em>true</em> – we take “real physics” at face value, treating it as <em>evidence</em>, not something to be overturned. This lets us be right up front about how we hope the reader receives our semi-metaphysical discourse:</p>
@@ -333,6 +364,166 @@ mjx-container[display="true"] { margin: 0 !important; }
         </div>
       </div>
     </section>
+  </div>
+
+  <div class="prose after">
+    <p>Most people, not being physicists, will look at those and think – besides what the heck does that all mean – hm, ok, the same numbers and forms seem to appear repeatedly, maybe that means something?</p>
+    <ul class="recurring">
+      <li>\(\sqrt{8}\)</li>
+      <li>\(160\)</li>
+      <li>\(7 + 3 = 10\)</li>
+      <li>\(10 \cdot 160 = 1600\)</li>
+      <li>\(4\pi\)</li>
+      <li>\(\varphi\)</li>
+      <li>\(\frac{1}{x} \cdot (y)^x\)</li>
+    </ul>
+    <p>A physicist, however, will be immediately skeptical of, at a minimum, the following:</p>
+
+    <h2 class="section">Relating color and sound to atomic physics?</h2>
+    <p>Light wavelengths are inversely related to both frequency and energy.</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$E = \frac{h \cdot c}{\lambda} = h \cdot \nu$$</div>
+    <div class="terms">
+      <span class="sym">\(E\)</span><span class="def">energy of a photon</span><span class="val"></span>
+      <span class="sym">\(h\)</span><span class="def">Planck's constant</span><span class="val"></span>
+      <span class="sym">\(c\)</span><span class="def">speed of light</span><span class="val"></span>
+      <span class="sym">\(\lambda\)</span><span class="def">light wavelength (inverse relation to \(E\))</span><span class="val"></span>
+      <span class="sym">\(\nu\)</span><span class="def">frequency (direct relation to \(E\))</span><span class="val"></span>
+    </div>
+  </section>
+
+  <div class="prose">
+    <p>It is well known that these wavelengths have a “visible range.”</p>
+  </div>
+
+  <figure class="spectrum-fig">
+    <div class="spectrum-scroll">
+      <svg viewBox="0 0 720 164" role="img" aria-labelledby="spec-title spec-desc">
+        <title id="spec-title">Color apices λn for n = 7 to 1, to scale</title>
+        <desc id="spec-desc">A linear wavelength scale from 360 to 1200 nm. The visible band spans about 380 to 750 nm. Markers sit at n = 7 (438 nm), 6 (473), 5 (519), 4 (580), 3 (670), then in the infrared n = 2 (820) and n = 1 (1160, essentially the wishdrops wavelength). The spacing widens as n falls, following 1/√n. The Rydberg wavelength at 91 nm is shown off scale to the left.</desc>
+        <defs>
+          <linearGradient id="visible" x1="0" x2="1" y1="0" y2="0">
+            <stop offset="0.00%" stop-color="#610061"/><stop offset="2.70%" stop-color="#79008d"/><stop offset="5.41%" stop-color="#8300b5"/><stop offset="8.11%" stop-color="#7e00db"/><stop offset="10.81%" stop-color="#6a00ff"/><stop offset="13.51%" stop-color="#3d00ff"/><stop offset="16.22%" stop-color="#0000ff"/><stop offset="18.92%" stop-color="#0046ff"/><stop offset="21.62%" stop-color="#007bff"/><stop offset="24.32%" stop-color="#00a9ff"/><stop offset="27.03%" stop-color="#00d5ff"/><stop offset="29.73%" stop-color="#00ffff"/><stop offset="32.43%" stop-color="#00ff92"/><stop offset="35.14%" stop-color="#00ff00"/><stop offset="37.84%" stop-color="#36ff00"/><stop offset="40.54%" stop-color="#5eff00"/><stop offset="43.24%" stop-color="#81ff00"/><stop offset="45.95%" stop-color="#a3ff00"/><stop offset="48.65%" stop-color="#c3ff00"/><stop offset="51.35%" stop-color="#e1ff00"/><stop offset="54.05%" stop-color="#ffff00"/><stop offset="56.76%" stop-color="#ffdf00"/><stop offset="59.46%" stop-color="#ffbe00"/><stop offset="62.16%" stop-color="#ff9b00"/><stop offset="64.86%" stop-color="#ff7700"/><stop offset="67.57%" stop-color="#ff4f00"/><stop offset="70.27%" stop-color="#ff2100"/><stop offset="72.97%" stop-color="#ff0000"/><stop offset="86.49%" stop-color="#ff0000"/><stop offset="89.19%" stop-color="#e20000"/><stop offset="91.89%" stop-color="#c40000"/><stop offset="94.59%" stop-color="#a50000"/><stop offset="97.30%" stop-color="#840000"/><stop offset="100.00%" stop-color="#610000"/>
+          </linearGradient>
+          <linearGradient id="irfade" x1="0" x2="1" y1="0" y2="0">
+            <stop offset="0%" stop-color="#610000" stop-opacity="1"/><stop offset="100%" stop-color="#610000" stop-opacity="0"/>
+          </linearGradient>
+          <pattern id="hatch" width="6" height="6" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+            <line x1="0" y1="0" x2="0" y2="6" class="hatch-line"/>
+          </pattern>
+        </defs>
+
+        <!-- off-scale: Rydberg (UV) -->
+        <rect x="20" y="64" width="36" height="36" class="offband"/>
+        <line x1="38" y1="44" x2="38" y2="60" class="tick"/>
+        <text x="38" y="20" class="lab" text-anchor="middle">λr</text>
+        <text x="38" y="38" class="num" text-anchor="middle">91 nm</text>
+        <text x="38" y="122" class="axis" text-anchor="middle">UV</text>
+        <text x="73" y="88" class="brk" text-anchor="middle">//</text>
+
+        <!-- to-scale band, 360–1200 nm -->
+        <rect x="90" y="64" width="600" height="36" class="offband"/>
+        <rect x="104.3" y="64" width="264.3" height="36" fill="url(#visible)"/>
+        <rect x="368.6" y="64" width="40" height="36" fill="url(#irfade)"/>
+
+        <!-- row labels -->
+        <text x="128" y="38" class="axis" text-anchor="end">n =</text>
+        <text x="128" y="122" class="axis" text-anchor="end">nm</text>
+
+        <!-- apices n = 7 … 1 -->
+        <g>
+          <line x1="146" y1="44" x2="146" y2="60" class="tick"/><line x1="146" y1="104" x2="146" y2="110" class="lead"/>
+          <text x="146" y="38" class="lab" text-anchor="middle">7</text>
+          <text x="146" y="122" class="num" text-anchor="middle">438</text>
+        </g>
+        <g>
+          <line x1="171.1" y1="44" x2="171.1" y2="60" class="tick"/><line x1="171.1" y1="104" x2="171.1" y2="110" class="lead"/>
+          <text x="171.1" y="122" class="num" text-anchor="middle">473</text>
+          <text x="171.1" y="38" class="lab" text-anchor="middle">6</text>
+        </g>
+        <g>
+          <line x1="203.3" y1="44" x2="203.3" y2="60" class="tick"/><line x1="203.3" y1="104" x2="203.3" y2="110" class="lead"/>
+          <text x="203.3" y="38" class="lab" text-anchor="middle">5</text>
+          <text x="203.3" y="122" class="num" text-anchor="middle">519</text>
+        </g>
+        <g>
+          <line x1="247.1" y1="44" x2="247.1" y2="60" class="tick"/><line x1="247.1" y1="104" x2="247.1" y2="110" class="lead"/>
+          <text x="247.1" y="38" class="lab" text-anchor="middle">4</text>
+          <text x="247.1" y="122" class="num" text-anchor="middle">580</text>
+        </g>
+        <g>
+          <line x1="311.1" y1="44" x2="311.1" y2="60" class="tick"/><line x1="311.1" y1="104" x2="311.1" y2="110" class="lead"/>
+          <text x="311.1" y="38" class="lab" text-anchor="middle">3</text>
+          <text x="311.1" y="122" class="num" text-anchor="middle">670</text>
+        </g>
+        <g>
+          <line x1="418.6" y1="44" x2="418.6" y2="60" class="tick"/><line x1="418.6" y1="104" x2="418.6" y2="110" class="lead"/>
+          <text x="418.6" y="38" class="lab" text-anchor="middle">2</text>
+          <text x="418.6" y="122" class="num" text-anchor="middle">820</text>
+        </g>
+        <g>
+          <line x1="661.3" y1="44" x2="661.3" y2="60" class="tick"/><line x1="661.3" y1="104" x2="661.3" y2="110" class="lead"/>
+          <text x="661.3" y="38" class="lab" text-anchor="middle">1</text>
+          <text x="661.3" y="20" class="lab" text-anchor="middle">≈ λvv</text>
+          <text x="661.3" y="122" class="num" text-anchor="middle">1160</text>
+        </g>
+
+        <!-- region brackets -->
+        <path d="M104.3 140 V136 H368.6 V140" class="bracket"/>
+        <path d="M372.6 140 V136 H690 V140" class="bracket"/>
+        <text x="236.4" y="156" class="axis" text-anchor="middle">visible</text>
+        <text x="531.3" y="156" class="axis" text-anchor="middle">infrared</text>
+      </svg>
+    </div>
+  </figure>
+
+  <div class="prose">
+    <p>What is not widely known is how the visible range relates to any other significant wavelength(s), nevermind the pure color assignments. There may not even be consensus that such rules exist, given the experience of color is at least in part subjective and likely assumed accidental. Still, this visible range is testable to some extent, and people repeatedly report the same wavelengths correspond to the same colors, more or less. Yellow is <em>around</em> 580 nm, at least, or <em>somewhere in the range of</em> 570-590 nm. Our suggestion is that this isn't some magical coincidence, rather that these energies bear a direct relationship to basic atomic physics. These wavelengths are “harmonic” expressly because they correspond to natural atomic phenomena, we propose. As such, animal bodies <em>evolved to tune in to them</em>. The physics existed first, in other words, and adaptation followed.</p>
+    <p>Here's another formula we propose that could probably headline this list of tenuous claims:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$\frac{v_s}{c} = \alpha^3 \cdot 3$$</div>
+    <div class="terms">
+      <span class="sym">\(v_s\)</span><span class="def">idealized speed of sound</span><span class="val">~349 m/s</span>
+      <span class="sym">\(c\)</span><span class="def">speed of light</span><span class="val">~3 × 10⁸ m/s</span>
+      <span class="sym">\(\alpha\)</span><span class="def">fine structure constant</span><span class="val">~1/137</span>
+    </div>
+  </section>
+
+  <div class="prose">
+    <p>Yep, we're relating the speed of sound to the speed of light. First off, these are two significantly different modes of propagation – light relies on perpendicular electromagnetic fields, sound requires a medium to propagate through longitudinally, meaning the waves align with the direction of propagation. This may seem like a mismatch, but we're actually counting on this. Furthermore, the medium matters <em>a lot</em> when it comes to the speed of sound – even the temperature of the air matters. Our proposed “idealized” speed corresponds to air at just shy of 90 degrees Fahrenheit at sea level and perhaps other less important details. Still, the idea is the same – some physical process that still lives at the final terminal at the bottom of the inner ear spiral is resonating with fundamental atomic physical processes. That's the idea.</p>
+    <p>We derive the relationship from geometry, assuming that the inverse fine structure constant is the radius of an invisible ball:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$v_s \cdot \frac{4\pi}{3} \cdot \alpha^{-3} = c \cdot 4\pi$$</div>
+    <div class="terms">
+      <span class="sym">\(v_s\)</span><span class="def">idealized speed of sound</span><span class="val"></span>
+      <span class="sym">\(c\)</span><span class="def">speed of light</span><span class="val"></span>
+      <span class="sym">\(\frac{4\pi}{3}\,\alpha^{-3}\)</span><span class="def">volume of a 3d ball of radius \(1/\alpha\)</span><span class="val">~137</span>
+      <span class="sym">\(4\pi\)</span><span class="def">solid angle broadcast into 3d</span><span class="val"></span>
+    </div>
+  </section>
+
+  <div class="prose">
+    <p>The idea is that the “flow” of two related geometries matches – a 0d emitter into 3d in the case of light, a uniform 3d advance or “pressure wave” of 0d emitters in the case of sound. We'll further elaborate on the light and color ratios in later sections.</p>
+    <p>Perhaps obviously, given the breadth of our proposal, we need to account for the sensory apparatus somehow. Regardless, we're happy to consider this “evidence” inadmissible in a court of conviction. It's just a nice side note that we decided to start with.</p>
+
+    <h2 class="section">Even if we buy color and sound, om, historically, was never pinpointed</h2>
+    <p>We have it at 138, some guy in the 70s somewhat unfortunately put it at 136.1 based on some earth calculations that we sort of disavow, but still, 138 is a comfortable tone, the ancients treated om as the primordial sound, we sort of agree, again, some subjectivity, happy to dismiss this evidence.</p>
+
+    <h2 class="section">The golden ratio is woo</h2>
+    <p>It's true, the golden ratio is a fav of the new age, and renowned for being pretty, appearing in nature, etc, but we promise we have a principled reason for using it! we'll elaborate in our discussion of the sphere that underpins everything.</p>
+
+    <h2 class="section">How can the human-defined volt have anything to do with the hidden geometry of the universe?</h2>
+    <p>This is a tricky one, but the answer is because it's a ratio between “radial energy” and hidden tangential energy that balance in the ground state and the extended ground state of the whole universe (the vacuum expectation energy).</p>
+
+    <h2 class="section">An explanation for the fine structure constant? Large number hypotheses? Seriously? They already tried that</h2>
+    <p>it wouldn't be unheard of to spend a decade or more chasing down numerical coincidences about the universe unsuccessfully. some guy named eddington famously did so in search of a geometric explanation for the fine structure constant, a dimensionless ratio around 1/137 that shows up all over nature, including the speed ratio between an electron in the ground state of an atom and light in a vacuum, but never decisively landed a conclusion. paul dirac, an otherwise brilliant physicist, sunk a lot of time on what is now known as his large number hypothesis, the idea that nature's largest ratios – the strength of gravity versus the strength of electromagnetism, for example, or atomic-scale radii versus that of the whole universe – must be related somehow. these efforts are usually labeled numerology, a derogatory term about a cautionary tale regarding a decidedly unscientific endeavor that yah, go ahead, call it whatever you want, is definitely not physics.</p>
+    <p>we'd like to follow in this time honored tradition!</p>
   </div>
 </div>
 
