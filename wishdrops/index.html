@@ -78,10 +78,10 @@ h1 {
   font-family: var(--display); font-weight: 500; font-size: 1.2rem;
   margin: 0; padding: 0.9rem 1.4rem;
   border-bottom: 1px solid var(--rule);
-  text-wrap: balance;
-  display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline;
-  column-gap: 1rem; row-gap: 0.2rem;
+  display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: baseline;
+  column-gap: 1.25rem; row-gap: 0.2rem;
 }
+.card h2 > span:first-child { min-width: 0; text-wrap: pretty; }
 .card h2 .ratio {
   font-family: var(--mono); font-weight: 400; font-size: 0.85rem; color: var(--muted);
   white-space: nowrap; font-variant-numeric: tabular-nums;
@@ -162,6 +162,7 @@ mjx-container[display="true"] { margin: 0 !important; }
   .terms .val, .nest .val { grid-column: 2; text-align: left; margin-top: -0.35rem; }
   .sub, .nest { grid-column: 1 / -1; }
   .equation { font-size: 1rem; }
+  .card h2 { grid-template-columns: 1fr; }
 }
 </style>
 
@@ -172,11 +173,11 @@ mjx-container[display="true"] { margin: 0 !important; }
   </header>
 
   <div class="prose">
-    <p>That were the universe but one spinning sphere. A belief and a lament simultaneously. The belief is that a single sphere of infinite dimension, spinning forever with no preferred direction, is the energetic wellspring of the universe we experience. The universe has a latent form, in other words – the sphere – upon which an image manifests – particles, constellations, time, physics, even the sensory apparatus, right up to the point of experience itself. The familiar universe is an unfolding holographic shadow of the sphere.</p>
+    <p><em>That were the universe but one spinning sphere</em>. A belief and a lament simultaneously. The belief is that a single sphere of infinite dimension, spinning forever, with no preferred direction, is the energetic wellspring of the universe we experience. We call this <em>the wishdrops conjecture</em>. A simple, elegant, latent geometry underpins our vastly complex physical universe is our guess. All particles, constellations, time, physics, even the sensory apparatus, right up to the point of experience itself, are part of <em>the unfolding shadow of a dynamic, holographic sphere</em>. It is in a way a very literal interpretation of the oft cited <em>“God is an infinite sphere whose center is everywhere and whose circumference is nowhere,”</em> which first appears in medieval times in The Book of Twenty-four Philosophers though could possibly trace back much further. We wonder whether modern history misunderstands that it was meant as more than a metaphor.</p>
     <p>The lament is how difficult it will be to explain it.</p>
     <p>At least we think so.</p>
     <p>Only one way to find out!</p>
-    <p>To help make our case, we'll use math (mostly high school level), physics, and intuition to elaborate on pet ratios – not animal fractions, but principled comparisons between energies, lengths, and masses that give us a warm feeling inside when we think about the secret geometry behind them, even as we might have made it up. These pet ratios would be the fingerprints of the unobservable, rife with suggestive recurring signatures that can only at best offer explanatory power. There is no new physics nor proof of anything true, in other words. So let's be right up front about how we hope the reader receives our semi-metaphysical discourse:</p>
+    <p>To make our case we'll use math (mostly high school level), physics, and intuition to elaborate on <em>pet ratios</em> – not animal fractions, but principled comparisons between energies, lengths, and masses that give us a warm feeling inside when we think about the secret geometry behind them, even as we might have made it up. These pet ratios would be the fingerprints of the unobservable, rife with suggestive recurring signatures that can really only ever offer explanatory power, perhaps. There is no new physics nor proof of anything <em>true</em>, in other words. So let's be right up front about how we hope the reader receives our semi-metaphysical discourse:</p>
     <p>Take it or leave it!</p>
     <p>We'll lead with the ratios, to give some sense of where this is headed, in order to have something to project back over the origin story as it unfolds. The concepts will be familiar to some and not to others, it's ok to skim past them because we will go into much more detail afterwards.</p>
   </div>
