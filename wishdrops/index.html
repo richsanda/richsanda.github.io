@@ -158,11 +158,30 @@ h1 {
 
 /* ---------- discussion after the ratio cards ---------- */
 .prose.after { margin-top: 4rem; }
-.prose h2.section {
-  font-family: var(--display); font-weight: 500; font-size: 1.45rem; line-height: 1.25;
-  margin: 3rem 0 1rem; text-wrap: balance;
+.prose h2.part {
+  font-family: var(--display); font-weight: 500; font-size: 1.85rem; line-height: 1.15;
+  margin: 4rem 0 1.25rem; padding-top: 1.5rem; border-top: 1px solid var(--rule);
+  text-wrap: balance;
+}
+.prose h2.part:first-child { margin-top: 0; }
+.prose.after h2.part:first-child { margin-top: 0; }
+.prose h3.section {
+  font-family: var(--display); font-weight: 500; font-size: 1.3rem; line-height: 1.3;
+  margin: 2.75rem 0 0.9rem; text-wrap: balance;
 }
 .card.inline { margin: 1.5rem 0 2rem; }
+.cases {
+  display: grid; grid-template-columns: minmax(0, 1fr) auto;
+  column-gap: 1.2rem; row-gap: 0.55rem; align-items: baseline;
+  padding: 1rem 1.4rem 1.2rem;
+  border-top: 1px dashed var(--rule);
+  font-size: 1rem; line-height: 1.45;
+}
+.cases .fx { text-align: right; white-space: nowrap; }
+@media (max-width: 520px) {
+  .cases { grid-template-columns: 1fr; row-gap: 0.2rem; }
+  .cases .fx { text-align: left; margin-bottom: 0.5rem; }
+}
 .card.inline .equation { padding-block: 1.3rem; }
 
 .recurring {
@@ -201,15 +220,17 @@ mjx-container[display="true"] { margin: 0 !important; }
 <div class="page">
   <header>
     <h1>That were the universe but one spinning sphere</h1>
-    <p class="subtitle">Our pet ratios</p>
+    <p class="subtitle">The wishdrops conjecture</p>
   </header>
 
   <div class="prose">
+    <h2 class="part">A belief and a lament</h2>
     <p><em>That were the universe but one spinning sphere</em>. A belief and a lament simultaneously. The belief is that a single sphere of infinite dimension, spinning forever with no preferred direction, is the energetic wellspring of the universe we experience. We call this <em>the wishdrops conjecture</em>. A simple, elegant, latent geometry underpins our vastly complex physical universe – that's our guess, at least. Particles, constellations, time, physics, even the sensory apparatus, right up to the point of experience itself, all <em>the unfolding shadow of a dynamic, holographic sphere</em>. Think of it as a very literal interpretation of the oft cited <em>“God is an infinite sphere whose center is everywhere and whose circumference is nowhere.”</em> This first appears around the 12th century, in the Latin text <em>The Book of Twenty-four Philosophers</em>, though perhaps hovered in the contemplative ether for a long time before that. We wonder whether modern history misunderstands that it was meant as more than a metaphor. Like maybe the ancients knew something we have since lost.</p>
     <p>The lament is how difficult this will be to explain. At least we think so.</p>
     <p>Only one way to find out!</p>
-    <p>We'll use math (mostly high school level), physics, and intuition to elaborate on our <em>pet ratios</em> – not animal fractions, but principled comparisons between energies, lengths, and masses that give us a warm feeling inside when we think about the secret geometry behind them, even as we might have made it up. Hopefully that will break the ice. The idea is that these ratios are fingerprints of the unobservable, rife with suggestive recurring signatures, offering explanatory power if nothing else. There may be no new physics here, in other words, nor proof of anything <em>true</em> – we take “real physics” at face value, treating it as <em>evidence</em>, not something to be overturned. This lets us be right up front about how we hope the reader receives our semi-metaphysical discourse:</p>
+    <p>We'll use math (mostly high school level), physics, and intuition to elaborate on our <em>pet ratios</em> – not animal fractions, but principled comparisons between energies, lengths, and masses that give us a warm feeling inside when we think about the secret geometry behind them, even as we might have made it up. Hopefully that will break the ice. The idea is that these ratios are fingerprints of the unobservable, rife with suggestive recurring signatures, offering explanatory power, if nothing else. There may be no new physics here, in other words, nor proof of anything <em>true</em> – we take “real physics” at face value and treat it as <em>evidence</em>, not something to overturn. That lets us be right up front about how we hope the reader receives the following semi-metaphysical discourse:</p>
     <p>Take it or leave it 🙂</p>
+    <h2 class="part">Pet ratios</h2>
     <p>We'll lead with the ratios, to give some sense of where this is headed, and in order to have something to project back over the origin story as it unfolds. The concepts will be familiar to some and not to others, it's ok to skim past them because we will go into much more detail afterwards.</p>
   </div>
 
@@ -271,17 +292,6 @@ mjx-container[display="true"] { margin: 0 !important; }
       <div class="terms">
         <span class="sym">\(m_e\)</span><span class="def">electron mass</span><span class="val">~.511 MeV/c²</span>
         <span class="sym">\(m_H\)</span><span class="def">Higgs boson mass</span><span class="val">~125.2 GeV/c²</span>
-        <span class="sym">\(\varphi\)</span><span class="def">phi, the golden ratio</span><span class="val">~1.618</span>
-      </div>
-    </section>
-
-    <section class="card">
-      <h2><span>The electron volt to the Higgs vacuum expectation value</span><span class="ratio">~5.74 × 10⁻¹² : 1</span></h2>
-      <div class="equation">$$\frac{\text{eV}}{v_H} = \frac{1}{\sqrt{2}} \cdot \frac{1}{\alpha} \cdot 4\pi \cdot \frac{1}{160} \cdot \left(\frac{\sqrt{8}}{3}\right)^{480} \cdot \varphi^{\frac{1}{160}\cdot 3}$$</div>
-      <div class="terms">
-        <span class="sym">\(\text{eV}\)</span><span class="def">electron volt</span><span class="val">1 eV</span>
-        <span class="sym">\(v_H\)</span><span class="def">Higgs vacuum expectation value</span><span class="val">~246 GeV</span>
-        <span class="sym">\(\alpha\)</span><span class="def">fine structure constant</span><span class="val">~1/137</span>
         <span class="sym">\(\varphi\)</span><span class="def">phi, the golden ratio</span><span class="val">~1.618</span>
       </div>
     </section>
@@ -349,7 +359,7 @@ mjx-container[display="true"] { margin: 0 !important; }
 
     <section class="card">
       <h2><span>The ground state energy ratio</span><span class="ratio">~1.0000027 : 1</span></h2>
-      <div class="equation">$$\frac{h \cdot c}{\lambda_7 \cdot \sqrt{8} \cdot \text{eV}} = 1 \mathbin{⊿} 2\,\ell_1 \mathbin{⊿} \ell_2$$</div>
+      <div class="equation">$$\frac{h \cdot c}{\lambda_7 \cdot \sqrt{8} \cdot \text{eV}} = 1 \mathbin{⊿} 2\,(\ell_1 + \ell_2)$$</div>
       <div class="terms">
         <span class="sym">\(h\)</span><span class="def">Planck's constant</span><span class="val"></span>
         <span class="sym">\(c\)</span><span class="def">speed of light</span><span class="val"></span>
@@ -365,10 +375,28 @@ mjx-container[display="true"] { margin: 0 !important; }
         </div>
       </div>
     </section>
+
+    <section class="card">
+      <h2><span>The electron volt to the Higgs vacuum expectation value</span><span class="ratio">~4.06 × 10⁻¹² : 1</span></h2>
+      <div class="equation">$$\frac{\text{eV}}{v_H} = \frac{\frac{1}{\sqrt{2}} \cdot \frac{1}{\alpha} \cdot 4\pi \cdot \frac{1}{160} \cdot \left(\frac{\sqrt{8}}{3}\right)^{480} \cdot \varphi^{\frac{1}{1600}\cdot\left(30 - \frac{1}{3}\right)}}{1 \mathbin{⊿_\varphi} 2\,(\ell_1 + \ell_2)}$$</div>
+      <div class="terms">
+        <span class="sym">\(\text{eV}\)</span><span class="def">electron volt</span><span class="val">1 eV</span>
+        <span class="sym">\(v_H\)</span><span class="def">Higgs vacuum expectation value</span><span class="val">~246 GeV</span>
+        <span class="sym">\(\alpha\)</span><span class="def">fine structure constant</span><span class="val">~1/137</span>
+        <span class="sym">\(\varphi\)</span><span class="def">phi, the golden ratio</span><span class="val">~1.618</span>
+        <span class="sym">\(⊿_\varphi\)</span><span class="def">φ-weighted hypotenuse, \(a \mathbin{⊿_\varphi} b = \sqrt{a^2 + \varphi \cdot b^2}\)</span><span class="val"></span>
+        <span class="sym">\(\ell_1\)</span><span class="def">one-loop QED correction, \(\alpha/2\pi\)</span><span class="val">~0.0011614</span>
+        <span class="sym">\(\ell_2\)</span><span class="def">two-loop QED correction, \(|C_2|\cdot(\alpha/\pi)^2\)</span><span class="val">~1.77 × 10⁻⁶</span>
+        <div class="nest">
+          <span class="sym">\(C_2\)</span><span class="def">two-loop coefficient</span><span class="val">~ −0.328479</span>
+        </div>
+      </div>
+    </section>
   </div>
 
   <div class="prose after">
-    <p>Most people, not being physicists, will look at those and think – besides what the heck does that all mean – hm, ok, the same numbers and forms do seem to appear repeatedly:</p>
+    <h2 class="part">Not physicists and physicists</h2>
+    <p>Most people, not being physicists, will look at those and think – besides what the heck does that all mean – hm, some numbers and forms do seem to appear repeatedly:</p>
     <ul class="recurring">
       <li>\(\sqrt{8}\)</li>
       <li>\(160\)</li>
@@ -381,7 +409,7 @@ mjx-container[display="true"] { margin: 0 !important; }
     <p>Maybe that means something?</p>
     <p>A physicist, however, will be immediately skeptical of, at a minimum, the following:</p>
 
-    <h2 class="section">Relating color and sound to atomic physics?</h2>
+    <h3 class="section">Relating color and sound to atomic physics?</h3>
     <p>Light wavelengths are inversely related to both frequency and energy.</p>
   </div>
 
@@ -397,7 +425,7 @@ mjx-container[display="true"] { margin: 0 !important; }
   </section>
 
   <div class="prose">
-    <p>It is well known that these wavelengths have a “visible range.”</p>
+    <p>It is well known that these wavelengths have a “visible range,” from about 380 (ultraviolet) to 750 (infrared) nanometers:</p>
   </div>
 
   <figure class="spectrum-fig">
@@ -482,8 +510,8 @@ mjx-container[display="true"] { margin: 0 !important; }
   </figure>
 
   <div class="prose">
-    <p>What is not widely known is how the visible range is set by any other significant wavelength(s), nevermind the pure color assignments. There may not even be consensus that such rules exist, given the experience of color is at least in part subjective and generally assumed accidental. Still, this visible range is testable to some extent, and people repeatedly report the same wavelengths correspond to the same colors, more or less. Yellow is <em>around</em> 580 nm, or <em>somewhere in the range of</em> 570-590 nm. Our suggestion is that this isn't some magical coincidence, rather that these energies bear a direct relationship to basic atomic physics. These wavelengths are “harmonic” expressly because they correspond to natural atomic phenomena, we propose, and as such, animal bodies <em>evolved to tune in to them</em>, not the other way around. The physics exists, in other words, and adaptation follows.</p>
-    <p>Here's another formula we propose that could probably headline this list of tenuous claims:</p>
+    <p>What is not widely known is how the visible range is set by any other physics, nevermind the pure color assignments. There may not even be consensus that such a connection exists, given the experience of color is at least in part subjective, and generally assumed accidental. Still, this visible range is testable to some extent, and people repeatedly report the same wavelengths correspond to the same colors, more or less. Yellow is <em>around</em> 580 nm, or <em>somewhere in the range of</em> 570-590 nm. Our suggestion is that this isn't some magical coincidence, rather that the associated energies bear a direct relationship to basic atomic physics. These wavelengths are “harmonic” expressly because they correspond to natural atomic phenomena, we propose, and as such, animal bodies <em>evolved to tune in to them</em>, not the other way around. The physics exists; and adaptation follows.</p>
+    <p>Here's another formula we propose that could probably headline this list of spurious claims:</p>
   </div>
 
   <section class="card inline">
@@ -496,7 +524,7 @@ mjx-container[display="true"] { margin: 0 !important; }
   </section>
 
   <div class="prose">
-    <p>Yep, we're relating the speed of sound to the speed of light. First off, these are two significantly different modes of propagation – light relies on transverse electromagnetic fields, sound requires a medium to propagate through longitudinally, meaning the waves align with the direction of propagation. This may seem like a mismatch, but we're actually counting on this. We derive our speed relationship from basic geometry, assuming that the inverse fine structure constant is the radius of an invisible ball:</p>
+    <p>Yep, we're relating the speed of sound to the speed of light. First off, these are two significantly different modes of propagation – light relies on <em>transverse</em> electromagnetic fields, sound requires a medium to propagate through <em>longitudinally</em>, meaning the waves align with the direction of propagation. This may seem like a mismatch, but we're actually counting on it. We derive our speed relationship from this basic geometry, assuming the inverse fine structure constant to be the radius of an invisible ball:</p>
   </div>
 
   <section class="card inline">
@@ -510,23 +538,50 @@ mjx-container[display="true"] { margin: 0 !important; }
   </section>
 
   <div class="prose">
-    <p>The idea is that the “flow” of two related geometries matches – a 0d emitter into 3d in the case of light, a uniform 3d advance or “pressure wave” of 0d emitters in the case of sound. We'll further elaborate on the role of the fine structure constant and light and color ratios in later sections.</p>
-    <p>Now the medium matters <em>a lot</em> when it comes to the speed of sound – even the temperature of the air matters, assuming we're talking about air at all, since solids and liquids can yield significantly different speeds. Our proposed “idealized” conditions correspond to earthly air at just shy of 90 degrees Fahrenheit at low humidity and perhaps other less important details, not to mention a built-in assumption that the “bounciness” of air molecules, the primary driver of pressure wave mechanics, matches our formula in the first place. Still, the idea is the same – some physical process that still lives at the final terminal way at the bottom of inner ear biology is resonating with fundamental atomic physical processes. That's the idea.</p>
-    <p>Perhaps it is obvious that, given the breadth of our proposal, we need to account for the sensory apparatus somehow. So here it is. Regardless, we're happy to consider this “evidence” inadmissible in a court of conviction. It's just a nice side note that we decided to start with. Plus this is how we got hooked 🙂</p>
+    <p>The idea is that the “flow” of two related geometries matches – a 0d emitter into 3d in the case of light, a uniform 3d advance or “pressure wave” of 0d emitters in the case of sound. This is, in effect, <em>Gauss's law</em>, which states the flux out of a ball uniformly filled with emitters (our sound case) equals the flux of a single point emitter of the same total strength (our light case).</p>
+  </div>
 
-    <h2 class="section">Even if we buy color and sound, om, historically, was never pinpointed</h2>
+  <section class="card inline">
+    <h2><span>Gauss's law (divergence theorem)</span></h2>
+    <div class="equation">$$\oint \mathbf{F} \cdot d\mathbf{A} = \int (\nabla \cdot \mathbf{F})\, dV$$</div>
+    <div class="terms">
+      <span class="sym">\(\mathbf{F}\)</span><span class="def">a field flowing outward from its sources</span><span class="val"></span>
+      <span class="sym">\(\oint \mathbf{F} \cdot d\mathbf{A}\)</span><span class="def">flux out through a closed surface</span><span class="val"></span>
+      <span class="sym">\(\int (\nabla \cdot \mathbf{F})\, dV\)</span><span class="def">total source strength inside it</span><span class="val"></span>
+    </div>
+    <div class="cases">
+      <span class="def">point source of strength \(q\)</span><span class="fx">\(\text{flux} = 4\pi \cdot q\)</span>
+      <span class="def">uniform source density \(s\) in a ball of radius \(R\)</span><span class="fx">\(\text{flux} = s \cdot \frac{4\pi}{3} \cdot R^3\)</span>
+    </div>
+  </section>
+
+  <div class="prose">
+    <p>Set the following:</p>
+    <ul class="recurring">
+      <li>\(q = c\)</li>
+      <li>\(s = v_s\)</li>
+      <li>\(R = 1/\alpha\)</li>
+    </ul>
+    <p>And the two fluxes match exactly when \(v_s / c = \alpha^3 \cdot 3\). This is not proof, of course, of a relationship between color and sound, rather it is meant only as an illustration of our suggestion. We'll further elaborate on the role of the fine structure constant and light and color ratios in later sections.</p>
+    <p>Now the medium matters <em>a lot</em> when it comes to the speed of sound – even the temperature of the air matters, assuming we're talking about air at all, since solids and liquids can yield significantly different speeds. Our proposed “idealized” conditions correspond to earthly air at just shy of 90 degrees Fahrenheit at low humidity and perhaps other less important details, not to mention a built-in assumption that the “bounciness” of air molecules, the primary driver of pressure wave mechanics, matches our formula in the first place. Still, the idea is the same – some physical process that still lives inside the final terminal way at the bottom of inner ear biology is resonating with fundamental atomic physical processes. That's the idea.</p>
+    <p>Perhaps it is obvious that, given the breadth of our proposal, we need to account for the sensory apparatus somehow. So here it is and please forgive us. Regardless, we're happy to consider this “evidence” inadmissible in a court of conviction. It's just a nice side note that we decided to start with. Plus this is how we got hooked in the first place 🙂</p>
+
+    <h3 class="section">Even if we buy color and sound, om, historically, was never pinpointed</h3>
     <p>Our calculation for om is very close to 138 Hertz. Om, however, in ancient times at least, had no set frequency. It was generally thought of in ancient Hindu and Vedic traditions as “the primordial sound,” the comfortable background hum of everything that you could chant over while meditating among other things. In the 1970s the concept was “modernized” and a precise frequency was birthed based on some earthly calculations, like the “sound” corresponding to the slow orbit of the earth then raised by doubling until reaching somewhere in the auditory range. Our value is intended more in the tradition of the former, and it is in fact somewhat inconvenient that it lands so close to the earthly version – that's not a coincidence we want to highlight!</p>
     <p>What we're proposing is that there is, in fact, a comfortable background hum built into atomic structure that registers as the primordial sound, and that this frequency existed well in advance of voices and hearing developing like tuning forks around it.</p>
 
-    <h2 class="section">The golden ratio is woo</h2>
-    <p>It's true, the golden ratio is a fav of the new age, and renowned for being pretty, appearing in nature, etc, but we promise we have a principled reason for using it! we'll elaborate in our discussion of the sphere that underpins everything.</p>
+    <h3 class="section">The golden ratio is woo</h3>
+    <p>It's true, the golden ratio is a fav of the new age. It's renowned for being pretty, vaguely appearing in nature, cool for drawing spirals inside nested rectangles, but generally the laughing stock of physics. Still, it's not like it appears <em>nowhere</em> in physics – it appears in KAM theory, Siegel disks, and most of those are for essentially the same mathematical reason we want to use it – it is a member of the class of numbers that is provably the most difficult to approximate using exclusively rational numbers. Frequencies – oscillations and orbits, say – of this ratio are for this reason the <em>least</em> susceptible to resonance, and resonance destroys stability. So the golden ratio has this sort of super power when characterizing a frequency to make that frequency immortal (almost). Consider tapping a record as it rotates around a turntable, basically supplying some small amount of vertical motion at regular intervals. If you do this precisely once for every time around, the record wobbles out of control. Same for twice, half, and any other rational such frequency. Irrational frequencies – the square root of 2, for example – are more resistant because the taps never quite align, but even irrational frequencies can come <em>close</em> to combinations of rational ones and that can have the same effect. Then there's the golden ratio. it is the <em>most irrational</em> number, per Hurwitz's theorem. It is the last frequency to destabilize because the taps almost perfectly counterbalance each other – alignment is extremely slow to accumulate. That's why this number is important to us – our spinning sphere creates an unfathomable sea of interference, pretty much all frequencies occur simultaneously, and resonance destroys almost all patterns… so what survives? We expect the stable images that arise from our sea of interference to carry the signature of the golden ratio everywhere.</p>
 
-    <h2 class="section">How can the human-defined volt have anything to do with the hidden geometry of the universe?</h2>
-    <p>This is a tricky one, but the answer is because it's a ratio between “radial energy” and hidden tangential energy that balance in the ground state and the extended ground state of the whole universe (the vacuum expectation energy).</p>
+    <h3 class="section">How can the human-defined volt have anything to do with the hidden geometry of the universe?</h3>
+    <p>This is a tricky one, and it confounded us for a long time. It's not precisely that the electron volt itself matters, it's the energy relationship implicit in relating the electron volt to Planck's constant, h. eV / h is a frequency – ~241 THz – and our claim is that it's an important one, in that it characterizes the atomic ground state. Furthermore, we ultimately claim that the numeric value of the energy used in ground state calculations in electron volts – ~13.60569 – exists as a <em>ratio</em>, on account of the way h is baked into the ground state, including the “ground state” of the entire universe known as the vacuum expectation value. This is an energetic value that pervades the universe, registering everywhere with precisely the same value, about 246 GeV.</p>
 
-    <h2 class="section">An explanation for the fine structure constant? Large number hypotheses? Seriously? They already tried that</h2>
-    <p>it wouldn't be unheard of to spend a decade or more chasing down numerical coincidences about the universe unsuccessfully. some guy named eddington famously did so in search of a geometric explanation for the fine structure constant, a dimensionless ratio around 1/137 that shows up all over nature, including the speed ratio between an electron in the ground state of an atom and light in a vacuum, but never decisively landed a conclusion. paul dirac, an otherwise brilliant physicist, sunk a lot of time on what is now known as his large number hypothesis, the idea that nature's largest ratios – the strength of gravity versus the strength of electromagnetism, for example, or atomic-scale radii versus that of the whole universe – must be related somehow. these efforts are usually labeled numerology, a derogatory term about a cautionary tale regarding a decidedly unscientific endeavor that yah, go ahead, call it whatever you want, is definitely not physics.</p>
-    <p>we'd like to follow in this time honored tradition!</p>
+    <h3 class="section">An explanation for the fine structure constant? Large number hypotheses? Seriously? They already tried that</h3>
+    <p>It wouldn't be unheard of to spend a decade or more chasing down numerical coincidences about the universe unsuccessfully. Some guy named Eddington famously did so in search of a geometric explanation for the fine structure constant, the dimensionless ratio around 1/137 that shows up all over nature, including the speed ratio between an electron in the ground state of an atom and light in a vacuum. He never decisively landed a conclusion. Paul Dirac, an otherwise brilliant physicist, sunk a lot of time on what is now known as his large number hypothesis, the idea that nature's largest ratios – the strength of gravity versus the strength of electromagnetism, for example, or atomic-scale radii versus that of the whole universe – must be related somehow. These efforts are usually labeled numerology, a derogatory term about a cautionary tale regarding a decidedly unscientific endeavor that yah, go ahead, call it whatever you want, is definitely not physics.</p>
+    <p>We'd like to follow in this time honored tradition!</p>
+
+    <h2 class="part">The sphere</h2>
+    <p>Ok, at some point we're going to have to describe this thing and where it comes from and what falls out of it.</p>
   </div>
 </div>
 
