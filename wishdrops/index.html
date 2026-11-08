@@ -290,6 +290,21 @@ h1 {
 .widget .controls output { color: var(--ink); font-variant-numeric: tabular-nums; white-space: nowrap; }
 .widget .controls input:focus-visible { outline: 2px solid var(--ink); outline-offset: 3px; }
 
+.ladders { padding: 1.1rem 1.4rem 1.3rem; overflow-x: auto; }
+.ladder { display: grid; grid-template-columns: auto auto; justify-content: start; column-gap: 1.6rem; row-gap: 0.3rem; font-family: var(--mono); font-size: 0.88rem; font-variant-numeric: tabular-nums; }
+.ladder-title { grid-column: 1 / -1; font-family: var(--display); font-style: italic; font-size: 1rem; color: var(--muted); margin-bottom: 0.4rem; }
+.ladder .lc { white-space: nowrap; }
+.ladder .ln { white-space: nowrap; color: var(--muted); }
+.ladder .ln::before { content: "– "; }
+.prose p.draft { color: var(--muted); font-style: italic; border-left: 2px dashed var(--card-edge); padding-left: 0.9rem; }
+.arrived { list-style: none; padding: 0; margin: 0 0 1.15em; display: grid; grid-template-columns: auto 1fr; column-gap: 1.2rem; row-gap: 0.35rem; }
+.arrived li { display: contents; }
+.arrived li span:first-child { text-align: right; font-family: var(--mono); font-size: 0.95rem; }
+.steps { padding: 1.2rem 1.4rem 1.4rem; display: grid; gap: 0.9rem; counter-reset: step; }
+.step { display: grid; grid-template-columns: 1.6rem minmax(0, 1fr); gap: 0.6rem; align-items: start; font-size: 1rem; }
+.step::before { counter-increment: step; content: counter(step); font-family: var(--mono); font-size: 0.8rem; color: var(--muted); padding-top: 0.2rem; }
+.step > div { min-width: 0; overflow-x: auto; }
+
 mjx-container[display="true"] { margin: 0 !important; }
 
 @media (max-width: 520px) {
@@ -651,18 +666,20 @@ mjx-container[display="true"] { margin: 0 !important; }
     <p>Perhaps it is obvious that, given the breadth of our proposal, we need to account for the sensory apparatus somehow – so there it is and please forgive us. Regardless, we're happy to consider this “evidence” inadmissible in a court of conviction. It's just a nice side note that we decided to start with. Plus this is how we got hooked in the first place 🙂</p>
 
     <h3 class="section">Even if we buy color and sound, om, historically, was never pinpointed</h3>
-    <p>Our calculation for om is very close to 138 Hertz. Om, however, in ancient times at least, had no set frequency. It was generally thought of in ancient Hindu and Vedic traditions as “the primordial sound,” the comfortable background hum of everything that you could chant over while meditating among other things. In the 1970s the concept was “modernized” and a precise frequency was birthed based on some earthly calculations, like the “sound” corresponding to the slow orbit of the earth then raised by doubling until reaching somewhere in the auditory range. Our value is intended more in the tradition of the former, and it is in fact somewhat inconvenient that it lands so close to the earthly version – that's not a coincidence we want to highlight!</p>
+    <p>Our calculation for om is very close to 138 Hertz. Om, however, in ancient times at least, had no set frequency. It was generally thought of in ancient Hindu and Vedic traditions as “the primordial sound,” the comfortable background hum of everything that one could chant over while meditating among other things. In the 1970s the concept was “modernized” and a precise frequency was birthed based on some earthly calculations, like the “sound” corresponding to the slow orbit of the earth then raised by doubling until reaching somewhere in the actual auditory range. Our value is intended more in the tradition of the former, and it is in fact somewhat inconvenient that it lands so close to the earthly version – that's not a coincidence we want to highlight!</p>
     <p>What we're proposing is that there is, in fact, a comfortable background hum built into atomic structure that registers as the primordial sound, and that this frequency existed well in advance of voices and hearing developing like tuning forks around it.</p>
 
     <h3 class="section">The golden ratio is woo</h3>
-    <p>It's true, the golden ratio is a fav of the new age. It's renowned for being pretty, vaguely appearing in nature, cool for drawing spirals inside nested rectangles, but generally the laughing stock of physics. Still, it's not like it appears <em>nowhere</em> in physics – it appears in KAM theory, Siegel disks, critical circle maps, and phyllotaxis (reproduced in the lab with magnetized droplets), all for essentially the same mathematical reason we want to use it – it is a member of the class of numbers that is provably the most difficult to approximate using exclusively rational numbers. Frequencies – oscillations and orbits, say – that bear this ratio are for this reason the <em>least</em> susceptible to resonance, and resonance destroys stability. So the golden ratio has this sort of super power when characterizing a frequency to make that frequency immortal (well, not quite, but still). Consider tapping a record as it rotates around a turntable, basically supplying some small amount of vertical motion at regular intervals. If you do this precisely once for every time around, the record wobbles out of control. Same for twice, half, and any other rational such frequency. Irrational frequencies – the square root of 2, for example – are more resistant because the taps never quite align. But even irrational frequencies can come <em>close</em> to combinations of rational ones and that can have the same effect. Then there's the golden ratio. it is the <em>most irrational</em> number, per Hurwitz's theorem. It is the last frequency to destabilize because the taps almost perfectly counterbalance each other – alignment is extremely slow to accumulate. That's why this number is important to us – our spinning sphere creates an unfathomable sea of interference, pretty much all frequencies occur simultaneously, and resonance destroys almost all patterns. So what survives? We expect the stable images that arise from our sea of interference to carry the signature of the golden ratio unfailingly.</p>
+    <p>It's true, the golden ratio is a fav of the new age. It's renowned for being pretty, vaguely appearing in nature, cool for drawing spirals inside nested rectangles, but generally the laughing stock of physics. Still, it's not like it appears <em>nowhere</em> in physics – it appears in KAM theory, Siegel disks, critical circle maps, and phyllotaxis (reproduced in the lab with magnetized droplets), all for essentially the same mathematical reason we want to use it – it is a member of the class of numbers that is provably the most difficult to approximate using exclusively rational numbers. Natural frequencies like oscillations and orbits that bear this ratio are for this reason the <em>least</em> susceptible to resonance, which is precisely what destroys stability. So the golden ratio has this sort of super power when characterizing a frequency to make that frequency immortal (not quite, but still).</p>
+    <p>Consider tapping a record as it rotates around a turntable, basically supplying some small amount of vertical motion at regular intervals. If you do this precisely once for every time around, the record will, subject to compounding influence, wobble out of control. Same for twice, half, and any other rational such frequency. Irrational frequencies – the square root of 2, for example – are more resistant because the taps never quite align – the influence doesn't compound as much. But even irrational frequencies can come <em>close</em> to combinations of rational ones, and that can have the same effect.</p>
+    <p>Then there's the golden ratio. The golden ratio is among a class of the <em>most irrational</em> numbers, per Hurwitz's theorem. It is the last frequency to destabilize because the taps are so well distributed – alignment is extremely slow to accumulate. That's why this number is important to us – our spinning sphere creates an unfathomable sea of interference, in which pretty much all frequencies occur simultaneously, and resonance destroys almost all patterns. So what survives? We expect the stable images that arise from our sea of interference to carry the signature of the golden ratio unfailingly.</p>
 
     <h3 class="section">How can the human-defined volt have anything to do with the hidden geometry of the universe?</h3>
-    <p>This is a tricky one, and it confounded us for a long time. It's not precisely that the electron volt itself matters, it's the energy relationship implicit in relating the electron volt to Planck's constant, h. eV / h is a frequency – ~241 THz – and our claim is that it's an important one, in that it characterizes the atomic ground state. Furthermore, we ultimately claim that the numeric value of the energy used in ground state calculations in electron volts – ~13.60569 – exists as a pure ratio, on account of the way h is baked into the ground state, including the “ground state” of the entire universe known as the vacuum expectation value. This is an energetic value that pervades the universe, registering everywhere with precisely the same value, about 246 GeV, which we also propose can drop its units in certain contexts.</p>
+    <p>This is a tricky one, and it confounded us for a long time. It's not precisely that the electron volt itself matters, it's the energy relationship implicit in relating the electron volt to Planck's constant, h. eV / h is a frequency – ~241 THz – and our claim is that it's an important one, in that it characterizes the atomic ground state. Furthermore, we ultimately claim that the numeric value of the energy used in ground state calculations in electron volts – ~13.60569 – exists as a pure ratio, on account of the way h is baked into the ground state, including the “ground state” of the entire universe known as the vacuum expectation value. This is an energetic value that pervades the universe, registering everywhere with precisely the same value, about 246 GeV, which we also propose can drop its units in certain contexts. Ascribing natural significance to numbers normally associated with volts is disorienting, but it isn't to mean that the volt was divinely granted or coincidentally perfect.</p>
 
     <h3 class="section">An explanation for the fine structure constant? Large number hypotheses? Seriously? They already tried that</h3>
-    <p>It wouldn't be unheard of to spend a decade or more chasing down numerical coincidences about the universe unsuccessfully. Some guy named Eddington famously did so in search of a geometric explanation for the fine structure constant, the dimensionless ratio around 1/137 that shows up all over nature, including the speed ratio between an electron in the ground state of an atom and light in a vacuum. He never decisively landed a conclusion. Paul Dirac, an otherwise brilliant physicist, sunk a lot of time on what is now known as his large number hypothesis, the idea that nature's largest ratios – the strength of gravity versus the strength of electromagnetism, for example, or atomic-scale radii versus that of the whole universe – must be related somehow. These efforts are usually labeled numerology, a derogatory term about a cautionary tale regarding a decidedly unscientific endeavor that yah, go ahead, call it whatever you want, is definitely not physics.</p>
-    <p>We'd like to follow in this time honored tradition!</p>
+    <p>It wouldn't be unheard of to spend a decade or more chasing down numerical coincidences about the universe unsuccessfully. Some guy named Eddington famously did so in search of a geometric explanation for the fine structure constant, the dimensionless ratio around 1/137 that shows up all over nature, including the speed ratio between an electron in the ground state of an atom and light in a vacuum. He never decisively landed a satisfying conclusion. Paul Dirac, an otherwise brilliant physicist, sunk a lot of time on what is now known as his large number hypothesis, the idea that nature's largest ratios – the strength of gravity versus the strength of electromagnetism, for example, or atomic-scale radii versus that of the whole universe – must be related somehow. These efforts are usually labeled numerology, a derogatory term about a cautionary tale regarding a decidedly unscientific endeavor that yeah, go ahead, call it whatever you want, is definitely not physics.</p>
+    <p>We're following in this time honored tradition!</p>
 
     <h2 class="part">The sphere</h2>
     <p>A sphere is all points at a set radius from a center point. It contains none of the points inside – that would be a ball. A sphere is always of one less dimension than the ball it is the surface of, or the space it exists in, so the dimension count between spheres and their correspondences are always off by one. Here, from left to right, are depictions of a 0-sphere, a 1-sphere, a 2-sphere (the usual kind), and a 3-sphere (sort of):</p>
@@ -738,7 +755,7 @@ mjx-container[display="true"] { margin: 0 !important; }
     <p>What's the deal with that 3-sphere, though?</p>
     <p>The depiction is attempting to show something more like a ball, or a volume, that gets darker on the approach to the origin, but remember, all points are equidistant from the center. Every bit closer to the center the radius appears in 3 dimensions, a corresponding “hidden” dimension is compensating. In our case, darker means <em>more hidden radius</em>. And the implication is that space is a 4-space; the ball a 4-ball.</p>
     <p>Another interesting effect in this setup is that a whole three dimensional space exists <em>at the radius</em>. In other words, you can move in 3 directions – like a rocket launched from the flats that parachutes back in a spiral to the salty floor – without ever getting any closer to the center of the 4-ball. The center of the earth is not the true center in this setup – it's just as far away from the true center as the flats, the north pole, or anywhere on or inside earth. The hidden radius stretches away from all earthly points equally in this case, converging on a common center in 4-space.</p>
-    <p>The final point we'll make about the 3-sphere for now is that, in our setup, where Utah, middle earth, and the north pole are all on the same 3-sphere, <em>all lines are curved</em>, at least those that remain in the 3-space. Straight lines depart the sphere, and those that depart perpendicularly are radial. This would sort of mean the earth's axis itself would need be curved, but here it gets hard to carry on the analogy, because if the sphere was the same size as earth and yet carrying an extra, third dimension, the “round trip” off the salt flats that ultimately returns to the salt flats would be just as long as the trip around any great circle – one full equator-sized cycle in our idealized, spherical globe.</p>
+    <p>The final point we'll make about the 3-sphere for now is that, in our setup, where Utah, middle earth, and the north pole are all on the same 3-sphere, <em>all lines are curved</em>, at least those that remain in the 3-sphere. Straight lines depart the sphere, and those that depart perpendicularly are radial. This would sort of mean the earth's axis itself would need be curved, but here it gets hard to carry on the analogy, because if the sphere was the same size as earth and yet carrying an extra, third dimension, the “round trip” off the salt flats that ultimately returns to the salt flats would be just as long as the trip around any great circle – one full equator-sized cycle in our idealized, spherical globe.</p>
   </div>
 
   <figure class="fig-svg" id="hidden-circle">
@@ -821,6 +838,49 @@ mjx-container[display="true"] { margin: 0 !important; }
     </div>
   </figure>
 
+  <div class="prose">
+    <h3 class="section">√n and 1 / √n</h3>
+    <p>A unit vector is a vector of length 1. It is commonly used to simplify math involving vectors – just factor out the real length of the vector, do all the math, then multiply the original length back in later. Or, in the case of ratios, where true values cancel, there's no need to carry true values through the calculations at all.</p>
+    <p>In the case that no direction is preferred, the math suggests combining unit vectors in quadrature in the number of available dimensions to obtain the magnitude of the overall vector, otherwise known as the “norm.”</p>
+    <p>Here are the norms in n dimensions for n in 1 through 9. Because each component of each overall vector is just one extra, orthogonal appendage of length 1, these can be constructed iteratively – start with 1, then calculate \(\sqrt{1^2 + 1^2} = \sqrt{2}\), then, similarly, \(\sqrt{(\sqrt{2})^2 + 1^2} = \sqrt{3}\), and so on:</p>
+  </div>
+
+  <section class="card inline ladders">
+      <div class="ladder"><div class="ladder-title">Unit components → norm</div>
+        <span class="lc">1</span><span class="ln">1</span>
+        <span class="lc">1, 1</span><span class="ln">√2</span>
+        <span class="lc">1, 1, 1</span><span class="ln">√3</span>
+        <span class="lc">1, 1, 1, 1</span><span class="ln">√4</span>
+        <span class="lc">1, 1, 1, 1, 1</span><span class="ln">√5</span>
+        <span class="lc">1, 1, 1, 1, 1, 1</span><span class="ln">√6</span>
+        <span class="lc">1, 1, 1, 1, 1, 1, 1</span><span class="ln">√7</span>
+        <span class="lc">1, 1, 1, 1, 1, 1, 1, 1</span><span class="ln">√8</span>
+        <span class="lc">1, 1, 1, 1, 1, 1, 1, 1, 1</span><span class="ln">√9</span>
+      </div>
+  </section>
+
+  <div class="prose">
+    <p>An inverse pattern develops if you pin the overall vector length to 1 and distribute it into n dimensions:</p>
+  </div>
+
+  <section class="card inline ladders">
+      <div class="ladder"><div class="ladder-title">Unit norm → components</div>
+        <span class="lc">1</span><span class="ln">1</span>
+        <span class="lc">1/√2, 1/√2</span><span class="ln">1</span>
+        <span class="lc">1/√3, 1/√3, 1/√3</span><span class="ln">1</span>
+        <span class="lc">1/√4, 1/√4, 1/√4, 1/√4</span><span class="ln">1</span>
+        <span class="lc">1/√5, 1/√5, 1/√5, 1/√5, 1/√5</span><span class="ln">1</span>
+        <span class="lc">1/√6, 1/√6, 1/√6, 1/√6, 1/√6, 1/√6</span><span class="ln">1</span>
+        <span class="lc">1/√7, 1/√7, 1/√7, 1/√7, 1/√7, 1/√7, 1/√7</span><span class="ln">1</span>
+        <span class="lc">1/√8, 1/√8, 1/√8, 1/√8, 1/√8, 1/√8, 1/√8, 1/√8</span><span class="ln">1</span>
+        <span class="lc">1/√9, 1/√9, 1/√9, 1/√9, 1/√9, 1/√9, 1/√9, 1/√9, 1/√9</span><span class="ln">1</span>
+      </div>
+  </section>
+
+  <div class="prose">
+    <p>Another way to visualize is to note that the full extent of combining unit vectors end on end can be divided by the number of unit vectors, yielding a sort of “wavelength” as \(\sqrt{n} / n = 1 / \sqrt{n}\) in n dimensions:</p>
+  </div>
+
   <figure class="drawing-fig" id="1-2-3-vectors">
     <div class="spectrum-scroll">
       <div class="drawing nolabels">
@@ -828,6 +888,73 @@ mjx-container[display="true"] { margin: 0 !important; }
       </div>
     </div>
   </figure>
+
+  <div class="prose">
+    <p class="draft">Need to describe how contributing dimensions go in the numerator, frame dimensions go in the denominator, how this enables changing speeds, changing frequencies, curvatures, etc.</p>
+    <p class="draft">Also need to describe how local coherence can occur once local conditions are pinned down from the global incoherence.</p>
+
+    <h3 class="section">The golden ratio</h3>
+    <p>The golden ratio is the norm of the sphere – the radius is phi. Need a radial potential that puts minima at phi and phi bar:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$V(\varphi) = \left(\varphi^2 - \varphi - 1\right)^2$$</div>
+  </section>
+
+  <div class="prose">
+    <p>Simplest monic function that does this.</p>
+    <p>Physics says take the second derivative and evaluate at the minima then square root to obtain the stiffness, which in our case turns out to be sqrt(10).</p>
+  </div>
+
+  <section class="card inline">
+    <h2><span>Where the 10 comes from</span></h2>
+    <div class="steps">
+      <div class="step"><div>Write the potential as a square, using \(x\) for the radial coordinate: \(V = f^2\), with \(f(x) = x^2 - x - 1\).</div></div>
+      <div class="step"><div>Differentiate twice: \(V' = 2 f f'\), and \(V'' = 2 (f')^2 + 2 f f''\).</div></div>
+      <div class="step"><div>At the minima \(f = 0\), so the second term drops out: \(V'' = 2 (f')^2 = 2 (2x - 1)^2\).</div></div>
+      <div class="step"><div>At \(x = \varphi\): \(2\varphi - 1 = \sqrt{5}\), so \(V'' = 2 \cdot 5 = 10\). At \(x = \bar{\varphi} = 1 - \varphi\): \(2\bar{\varphi} - 1 = -\sqrt{5}\), so again \(V'' = 10\).</div></div>
+      <div class="step"><div>Square root: \(\sqrt{V''} = \sqrt{10}\).</div></div>
+    </div>
+  </section>
+
+  <div class="prose">
+    <p class="draft">Need to explain how the 10 factors out and gives us our master formula:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$\sqrt{10} \cdot \left(\frac{1}{\sqrt{40}} \pm \frac{1}{\sqrt{8}}\right)$$</div>
+  </section>
+
+  <div class="prose">
+    <p>This implies 10 ambient dimensions, a “field” with transverse speed of 40 : 1 dimensions, and a causal envelope with transverse speed of 8 : 1 dimensions.</p>
+    <p>Now, from no preferred anything on a globally incoherent sphere – a rather elegant starting point – we've arrived at:</p>
+    <ul class="arrived">
+      <li><span>\(\varphi\)</span><span>the radius</span></li>
+      <li><span>10</span><span>ambient dimensions (radial)</span></li>
+      <li><span>40d</span><span>a transverse field (tangential)</span></li>
+      <li><span>8d</span><span>a relative transverse field (tangential)</span></li>
+    </ul>
+
+    <h3 class="section">The fine ladder</h3>
+    <p class="draft">Big explanation of how this looks like a 3-sphere.</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$r_e \;\xrightarrow{\times 137}\; \bar{\lambda}_C \;\xrightarrow{\times 137}\; a_0 \;\xrightarrow{\times 137}\; \frac{1}{4\pi R_\infty}$$</div>
+    <div class="terms">
+      <span class="sym">\(r_e\)</span><span class="def">classical electron radius – the center</span><span class="val">2.818 × 10⁻¹⁵ m</span>
+      <span class="sym">\(\bar{\lambda}_C\)</span><span class="def">reduced Compton wavelength – radius of a 0-sphere (a pair of points) with hidden phase, 137×</span><span class="val">3.862 × 10⁻¹³ m</span>
+      <span class="sym">\(a_0\)</span><span class="def">Bohr radius – radius of a 1-sphere (the electron orbit), 137²×</span><span class="val">5.292 × 10⁻¹¹ m</span>
+      <span class="sym">\(\frac{1}{4\pi R_\infty}\)</span><span class="def">radius of a 2-sphere (wavelength content / photon), 137³×</span><span class="val">7.252 × 10⁻⁹ m</span>
+    </div>
+  </section>
+
+  <div class="prose">
+    <p class="draft">The top corresponds to light speed, the bottom to speed of sound – this is the sphere.</p>
+  </div>
+
+
+
 </div>
 
 <script>
