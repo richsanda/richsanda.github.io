@@ -20,6 +20,11 @@ window.MathJax = {
   --rule: #D2D6E3;
   --card: #FFFFFF;
   --card-edge: #C9CEDF;
+  --drawing-blend: multiply;
+  --fig-a: #D9E1F8;
+  --fig-b: #ECE1F7;
+  --fig-c: #DCEDEA;
+  --drawing-filter: none;
 
   --display: "Bodoni Moda", "Didot", "Bodoni 72", Georgia, serif;
   --body: "Spectral", "Iowan Old Style", Georgia, serif;
@@ -29,12 +34,16 @@ window.MathJax = {
   :root:not([data-theme="light"]) {
     --paper: #0F1222; --ink: #E4E6F2; --muted: #9AA0C0; --rule: #2A2F4A;
     --card: #171B30; --card-edge: #2F3556;
+    --drawing-blend: screen; --drawing-filter: invert(1);
+    --fig-a: #27325C; --fig-b: #3A2D57; --fig-c: #1E3B3B;
     color-scheme: dark;
   }
 }
 :root[data-theme="dark"] {
   --paper: #0F1222; --ink: #E4E6F2; --muted: #9AA0C0; --rule: #2A2F4A;
   --card: #171B30; --card-edge: #2F3556;
+    --drawing-blend: screen; --drawing-filter: invert(1);
+    --fig-a: #27325C; --fig-b: #3A2D57; --fig-c: #1E3B3B;
   color-scheme: dark;
 }
 
@@ -206,6 +215,81 @@ h1 {
 .spectrum-fig .bracket { fill: none; stroke: var(--muted); stroke-width: 1; }
 .spectrum-fig .offband { fill: var(--rule); stroke: var(--card-edge); stroke-width: 1; }
 
+.spheres-fig { margin: 1.5rem 0 2rem; }
+.spheres-fig svg { display: block; width: 100%; min-width: 30rem; height: auto; }
+.spheres-fig .lab { font-family: var(--body); font-size: 14px; fill: var(--ink); }
+.spheres-fig .axis { font-family: var(--mono); font-size: 11px; fill: var(--muted); }
+.spheres-fig .pt { fill: var(--ink); }
+.spheres-fig .center { fill: var(--muted); }
+.spheres-fig .radius { stroke: var(--muted); stroke-width: 1; stroke-dasharray: 3 3; }
+.spheres-fig .ring { stroke: var(--ink); stroke-width: 1.75; }
+.spheres-fig circle.ring:not([fill]) { fill: none; }
+.spheres-fig .eq { fill: none; stroke: var(--ink); stroke-width: 1; opacity: 0.55; }
+.spheres-fig .eq-back { fill: none; stroke: var(--ink); stroke-width: 1; stroke-dasharray: 3 3; opacity: 0.35; }
+.spheres-fig .sh-hi { stop-color: var(--card); }
+.spheres-fig .sh-lo { stop-color: var(--card-edge); }
+.spheres-fig .nest-a, .spheres-fig .nest-b, .spheres-fig .nest-c { stroke: var(--ink); stroke-width: 1.25; fill: var(--muted); }
+.spheres-fig .nest-a { fill-opacity: 0.10; }
+.spheres-fig .nest-b { fill-opacity: 0.14; }
+.spheres-fig .nest-c { fill-opacity: 0.20; }
+
+.drawing { position: relative; min-width: 30rem; padding-bottom: 2.6rem; }
+.drawing img { display: block; width: 100%; height: auto; mix-blend-mode: var(--drawing-blend); filter: var(--drawing-filter); }
+.drawing-labels span {
+  position: absolute; bottom: 0; transform: translateX(-50%);
+  font-family: var(--body); font-size: 0.95rem; text-align: center; white-space: nowrap;
+}
+.drawing-labels em {
+  display: block; font-style: normal; font-family: var(--mono); font-size: 0.72rem; color: var(--muted);
+}
+.drawing-labels span:not(:has(em)) { bottom: 1.25rem; }
+.drawing-fig { margin: 1.5rem 0 2rem; }
+.drawing.nolabels { padding-bottom: 0; }
+
+/* ---------- figures & widgets in the sphere section ---------- */
+.fig-svg, .widget { margin: 1.5rem 0 2rem; }
+.fig-svg svg, .widget-svg { display: block; width: 100%; min-width: 28rem; height: auto; touch-action: none; }
+.fig-svg .lab, .widget-svg .lab { font-family: var(--body); font-size: 16px; fill: var(--ink); }
+.fig-svg .axis, .widget-svg .axis { font-family: var(--mono); font-size: 12px; fill: var(--muted); }
+.fig-svg .globe { fill: var(--fig-c); stroke: var(--ink); stroke-width: 1.75; }
+.fig-svg .eq { fill: none; stroke: var(--ink); stroke-width: 1; opacity: 0.55; }
+.fig-svg .eq-back { fill: none; stroke: var(--ink); stroke-width: 1; stroke-dasharray: 3 3; opacity: 0.35; }
+.fig-svg .hc { fill: none; stroke: var(--ink); stroke-width: 2; stroke-linecap: round; }
+.fig-svg .up { stroke: var(--ink); stroke-width: 1; stroke-dasharray: 2 4; opacity: 0.6; }
+.fig-svg .pt, .widget-svg .pt { fill: var(--ink); }
+.widget-svg .pt-muted { fill: var(--muted); }
+.widget-svg .circ { fill: none; stroke: var(--muted); stroke-width: 1.25; }
+.widget-svg .guide { stroke: var(--muted); stroke-width: 1; stroke-dasharray: 3 4; opacity: 0.6; }
+.widget-svg .hyp { stroke: var(--ink); stroke-width: 2.25; }
+.widget-svg .tri { fill: var(--fig-c); fill-opacity: 0.55; stroke: var(--ink); stroke-width: 1.75; stroke-linejoin: round; }
+.widget-svg .rt { fill: none; stroke: var(--ink); stroke-width: 1.25; }
+.widget-svg .handle { fill: var(--card); stroke: var(--ink); stroke-width: 2; cursor: ew-resize; }
+.widget-svg .pt-tri { fill: var(--card); stroke: var(--ink); stroke-width: 1.25; stroke-linejoin: round; }
+.widget-svg .sq-a { fill: var(--fig-a); stroke: var(--ink); stroke-width: 1.25; }
+.widget-svg .sq-b { fill: var(--fig-b); stroke: var(--ink); stroke-width: 1.25; }
+.widget-svg .sq-c { fill: var(--fig-c); stroke: var(--ink); stroke-width: 1.25; }
+.widget-svg .frame { fill: none; stroke: var(--ink); stroke-width: 2; }
+.widget-svg .area { font-family: var(--body); font-size: 18px; fill: var(--ink); }
+.widget-svg .edge { font-family: var(--body); font-style: italic; font-size: 15px; fill: var(--ink); }
+.widget .controls {
+  display: flex; align-items: center; gap: 0.9rem; flex-wrap: wrap;
+  margin-top: 0.6rem; font-family: var(--mono); font-size: 0.85rem; color: var(--muted);
+}
+.widget-svg.square { max-width: 32rem; min-width: 20rem; margin: 0 auto; }
+.widget-svg .outer { fill: none; stroke: var(--ink); stroke-width: 1.75; }
+.widget-svg .inner { fill: none; stroke: var(--ink); stroke-width: 1.75; }
+.widget-svg .thales { fill: none; stroke: var(--ink); stroke-width: 1.25; stroke-dasharray: 2 6; opacity: 0.55; }
+.widget-svg .axisline { stroke: var(--muted); stroke-width: 1; opacity: 0.5; }
+.widget-svg .leg-r { stroke: var(--ink); stroke-width: 3; }
+.widget-svg .leg-w { stroke: var(--ink); stroke-width: 3; stroke-dasharray: 9 5; }
+.widget-svg.square .lab { font-size: 26px; font-style: italic; }
+.widget-svg.square .handle { cursor: grab; }
+.widget-svg.square text { paint-order: stroke; stroke: var(--paper); stroke-width: 3px; stroke-opacity: 0.85; stroke-linejoin: round; }
+.widget-svg.square .axis { font-size: 18px; }
+.widget .controls input[type=range] { flex: 1 1 10rem; min-width: 0; accent-color: var(--ink); }
+.widget .controls output { color: var(--ink); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.widget .controls input:focus-visible { outline: 2px solid var(--ink); outline-offset: 3px; }
+
 mjx-container[display="true"] { margin: 0 !important; }
 
 @media (max-width: 520px) {
@@ -228,7 +312,7 @@ mjx-container[display="true"] { margin: 0 !important; }
     <p><em>That were the universe but one spinning sphere</em>. A belief and a lament simultaneously. The belief is that a single sphere of infinite dimension, spinning forever with no preferred direction, is the energetic wellspring of the universe we experience. We call this <em>the wishdrops conjecture</em>. A simple, elegant, latent geometry underpins our vastly complex physical universe – that's our guess, at least. Particles, constellations, time, physics, even the sensory apparatus, right up to the point of experience itself, all <em>the unfolding shadow of a dynamic, holographic sphere</em>. Think of it as a very literal interpretation of the oft cited <em>“God is an infinite sphere whose center is everywhere and whose circumference is nowhere.”</em> This first appears around the 12th century, in the Latin text <em>The Book of Twenty-four Philosophers</em>, though perhaps hovered in the contemplative ether for a long time before that. We wonder whether modern history misunderstands that it was meant as more than a metaphor. Like maybe the ancients knew something we have since lost.</p>
     <p>The lament is how difficult this will be to explain. At least we think so.</p>
     <p>Only one way to find out!</p>
-    <p>We'll use math (mostly high school level), physics, and intuition to elaborate on our <em>pet ratios</em> – not animal fractions, but principled comparisons between energies, lengths, and masses that give us a warm feeling inside when we think about the secret geometry behind them, even as we might have made it up. Hopefully that will break the ice. The idea is that these ratios are fingerprints of the unobservable, rife with suggestive recurring signatures, offering explanatory power, if nothing else. There may be no new physics here, in other words, nor proof of anything <em>true</em> – we take “real physics” at face value and treat it as <em>evidence</em>, not something to overturn. That lets us be right up front about how we hope the reader receives the following semi-metaphysical discourse:</p>
+    <p>We'll use math (mostly high school level), physics, and intuition to elaborate on our <em>pet ratios</em> – not animal fractions, but principled comparisons between energies, lengths, and masses that give us a warm feeling inside when we think about the secret geometry behind them, even as we might have made it up. Hopefully that will break the ice. The idea is that these ratios are fingerprints of the unobservable, rife with suggestive recurring signatures, offering explanatory power, even if nothing else. That is to say, there may be no new physics here, nor proof of anything <em>true</em>, for we take real physics at face value and treat it as <em>evidence</em>, not something to overturn. That lets us be right up front about how we hope the reader will receive the following semi-metaphysical discourse:</p>
     <p>Take it or leave it 🙂</p>
     <h2 class="part">Pet ratios</h2>
     <p>We'll lead with the ratios, to give some sense of where this is headed, and in order to have something to project back over the origin story as it unfolds. The concepts will be familiar to some and not to others, it's ok to skim past them because we will go into much more detail afterwards.</p>
@@ -407,7 +491,7 @@ mjx-container[display="true"] { margin: 0 !important; }
       <li>\(\frac{1}{x} \cdot (y)^x\)</li>
     </ul>
     <p>Maybe that means something?</p>
-    <p>A physicist, however, will be immediately skeptical of, at a minimum, the following:</p>
+    <p>A physicist, however, will be immediately skeptical of, at a minimum, the following few things.</p>
 
     <h3 class="section">Relating color and sound to atomic physics?</h3>
     <p>Light wavelengths are inversely related to both frequency and energy.</p>
@@ -510,7 +594,7 @@ mjx-container[display="true"] { margin: 0 !important; }
   </figure>
 
   <div class="prose">
-    <p>What is not widely known is how the visible range is set by any other physics, nevermind the pure color assignments. There may not even be consensus that such a connection exists, given the experience of color is at least in part subjective, and generally assumed accidental. Still, this visible range is testable to some extent, and people repeatedly report the same wavelengths correspond to the same colors, more or less. Yellow is <em>around</em> 580 nm, or <em>somewhere in the range of</em> 570-590 nm. Our suggestion is that this isn't some magical coincidence, rather that the associated energies bear a direct relationship to basic atomic physics. These wavelengths are “harmonic” expressly because they correspond to natural atomic phenomena, we propose, and as such, animal bodies <em>evolved to tune in to them</em>, not the other way around. The physics exists; and adaptation follows.</p>
+    <p>What is not widely known is how the visible range is set by any other physics, nevermind the pure color assignments. There may not even be consensus that such a connection exists, given the experience of color is at least in part subjective, and generally assumed accidental. Still, this visible range is testable to some extent, and people repeatedly report the same wavelengths correspond to the same colors, more or less. Yellow is <em>around</em> 580 nm, or <em>somewhere in the range of</em> 570-590 nm. Our suggestion is that this isn't some magical coincidence, rather that the associated energies bear a direct relationship to basic atomic physics. These wavelengths are “harmonic” expressly because they correspond to natural atomic phenomena, we propose, and as such, animal bodies <em>evolved to tune in to them</em>, not the other way around. The physics exists; adaptation follows.</p>
     <p>Here's another formula we propose that could probably headline this list of spurious claims:</p>
   </div>
 
@@ -538,7 +622,7 @@ mjx-container[display="true"] { margin: 0 !important; }
   </section>
 
   <div class="prose">
-    <p>The idea is that the “flow” of two related geometries matches – a 0d emitter into 3d in the case of light, a uniform 3d advance or “pressure wave” of 0d emitters in the case of sound. This is, in effect, <em>Gauss's law</em>, which states the flux out of a ball uniformly filled with emitters (our sound case) equals the flux of a single point emitter of the same total strength (our light case).</p>
+    <p>The idea is that the “flow” of two related geometries matches – a 0d emitter into 3d in the case of light, a 3d advance or “pressure wave” of uniformly distributed 0d emitters in the case of sound. This is, in effect, <em>Gauss's law</em>, which implies the flux out of a ball uniformly filled with emitters (our sound case) equals the flux of a single point emitter of the same total strength (our light case).</p>
   </div>
 
   <section class="card inline">
@@ -563,26 +647,309 @@ mjx-container[display="true"] { margin: 0 !important; }
       <li>\(R = 1/\alpha\)</li>
     </ul>
     <p>And the two fluxes match exactly when \(v_s / c = \alpha^3 \cdot 3\). This is not proof, of course, of a relationship between color and sound, rather it is meant only as an illustration of our suggestion. We'll further elaborate on the role of the fine structure constant and light and color ratios in later sections.</p>
-    <p>Now the medium matters <em>a lot</em> when it comes to the speed of sound – even the temperature of the air matters, assuming we're talking about air at all, since solids and liquids can yield significantly different speeds. Our proposed “idealized” conditions correspond to earthly air at just shy of 90 degrees Fahrenheit at low humidity and perhaps other less important details, not to mention a built-in assumption that the “bounciness” of air molecules, the primary driver of pressure wave mechanics, matches our formula in the first place. Still, the idea is the same – some physical process that still lives inside the final terminal way at the bottom of inner ear biology is resonating with fundamental atomic physical processes. That's the idea.</p>
-    <p>Perhaps it is obvious that, given the breadth of our proposal, we need to account for the sensory apparatus somehow. So here it is and please forgive us. Regardless, we're happy to consider this “evidence” inadmissible in a court of conviction. It's just a nice side note that we decided to start with. Plus this is how we got hooked in the first place 🙂</p>
+    <p>Now the medium matters <em>a lot</em> when it comes to the speed of sound – even the temperature of the air matters, assuming we're talking about air at all, since solids and liquids can yield significantly different speeds. Our proposed “idealized” conditions correspond to earthly air at just shy of 90 degrees Fahrenheit at low humidity and perhaps other less important details, not to mention a built-in assumption that the “bounciness” of air molecules, the primary driver of pressure wave mechanics, matches our formula in the first place. Still, the idea is the same – some physical process that lives inside the final terminal way at the bottom of inner ear biology is resonating with fundamental atomic physical processes. That's the idea.</p>
+    <p>Perhaps it is obvious that, given the breadth of our proposal, we need to account for the sensory apparatus somehow – so there it is and please forgive us. Regardless, we're happy to consider this “evidence” inadmissible in a court of conviction. It's just a nice side note that we decided to start with. Plus this is how we got hooked in the first place 🙂</p>
 
     <h3 class="section">Even if we buy color and sound, om, historically, was never pinpointed</h3>
     <p>Our calculation for om is very close to 138 Hertz. Om, however, in ancient times at least, had no set frequency. It was generally thought of in ancient Hindu and Vedic traditions as “the primordial sound,” the comfortable background hum of everything that you could chant over while meditating among other things. In the 1970s the concept was “modernized” and a precise frequency was birthed based on some earthly calculations, like the “sound” corresponding to the slow orbit of the earth then raised by doubling until reaching somewhere in the auditory range. Our value is intended more in the tradition of the former, and it is in fact somewhat inconvenient that it lands so close to the earthly version – that's not a coincidence we want to highlight!</p>
     <p>What we're proposing is that there is, in fact, a comfortable background hum built into atomic structure that registers as the primordial sound, and that this frequency existed well in advance of voices and hearing developing like tuning forks around it.</p>
 
     <h3 class="section">The golden ratio is woo</h3>
-    <p>It's true, the golden ratio is a fav of the new age. It's renowned for being pretty, vaguely appearing in nature, cool for drawing spirals inside nested rectangles, but generally the laughing stock of physics. Still, it's not like it appears <em>nowhere</em> in physics – it appears in KAM theory, Siegel disks, and most of those are for essentially the same mathematical reason we want to use it – it is a member of the class of numbers that is provably the most difficult to approximate using exclusively rational numbers. Frequencies – oscillations and orbits, say – of this ratio are for this reason the <em>least</em> susceptible to resonance, and resonance destroys stability. So the golden ratio has this sort of super power when characterizing a frequency to make that frequency immortal (almost). Consider tapping a record as it rotates around a turntable, basically supplying some small amount of vertical motion at regular intervals. If you do this precisely once for every time around, the record wobbles out of control. Same for twice, half, and any other rational such frequency. Irrational frequencies – the square root of 2, for example – are more resistant because the taps never quite align, but even irrational frequencies can come <em>close</em> to combinations of rational ones and that can have the same effect. Then there's the golden ratio. it is the <em>most irrational</em> number, per Hurwitz's theorem. It is the last frequency to destabilize because the taps almost perfectly counterbalance each other – alignment is extremely slow to accumulate. That's why this number is important to us – our spinning sphere creates an unfathomable sea of interference, pretty much all frequencies occur simultaneously, and resonance destroys almost all patterns… so what survives? We expect the stable images that arise from our sea of interference to carry the signature of the golden ratio everywhere.</p>
+    <p>It's true, the golden ratio is a fav of the new age. It's renowned for being pretty, vaguely appearing in nature, cool for drawing spirals inside nested rectangles, but generally the laughing stock of physics. Still, it's not like it appears <em>nowhere</em> in physics – it appears in KAM theory, Siegel disks, critical circle maps, and phyllotaxis (reproduced in the lab with magnetized droplets), all for essentially the same mathematical reason we want to use it – it is a member of the class of numbers that is provably the most difficult to approximate using exclusively rational numbers. Frequencies – oscillations and orbits, say – that bear this ratio are for this reason the <em>least</em> susceptible to resonance, and resonance destroys stability. So the golden ratio has this sort of super power when characterizing a frequency to make that frequency immortal (well, not quite, but still). Consider tapping a record as it rotates around a turntable, basically supplying some small amount of vertical motion at regular intervals. If you do this precisely once for every time around, the record wobbles out of control. Same for twice, half, and any other rational such frequency. Irrational frequencies – the square root of 2, for example – are more resistant because the taps never quite align. But even irrational frequencies can come <em>close</em> to combinations of rational ones and that can have the same effect. Then there's the golden ratio. it is the <em>most irrational</em> number, per Hurwitz's theorem. It is the last frequency to destabilize because the taps almost perfectly counterbalance each other – alignment is extremely slow to accumulate. That's why this number is important to us – our spinning sphere creates an unfathomable sea of interference, pretty much all frequencies occur simultaneously, and resonance destroys almost all patterns. So what survives? We expect the stable images that arise from our sea of interference to carry the signature of the golden ratio unfailingly.</p>
 
     <h3 class="section">How can the human-defined volt have anything to do with the hidden geometry of the universe?</h3>
-    <p>This is a tricky one, and it confounded us for a long time. It's not precisely that the electron volt itself matters, it's the energy relationship implicit in relating the electron volt to Planck's constant, h. eV / h is a frequency – ~241 THz – and our claim is that it's an important one, in that it characterizes the atomic ground state. Furthermore, we ultimately claim that the numeric value of the energy used in ground state calculations in electron volts – ~13.60569 – exists as a <em>ratio</em>, on account of the way h is baked into the ground state, including the “ground state” of the entire universe known as the vacuum expectation value. This is an energetic value that pervades the universe, registering everywhere with precisely the same value, about 246 GeV.</p>
+    <p>This is a tricky one, and it confounded us for a long time. It's not precisely that the electron volt itself matters, it's the energy relationship implicit in relating the electron volt to Planck's constant, h. eV / h is a frequency – ~241 THz – and our claim is that it's an important one, in that it characterizes the atomic ground state. Furthermore, we ultimately claim that the numeric value of the energy used in ground state calculations in electron volts – ~13.60569 – exists as a pure ratio, on account of the way h is baked into the ground state, including the “ground state” of the entire universe known as the vacuum expectation value. This is an energetic value that pervades the universe, registering everywhere with precisely the same value, about 246 GeV, which we also propose can drop its units in certain contexts.</p>
 
     <h3 class="section">An explanation for the fine structure constant? Large number hypotheses? Seriously? They already tried that</h3>
     <p>It wouldn't be unheard of to spend a decade or more chasing down numerical coincidences about the universe unsuccessfully. Some guy named Eddington famously did so in search of a geometric explanation for the fine structure constant, the dimensionless ratio around 1/137 that shows up all over nature, including the speed ratio between an electron in the ground state of an atom and light in a vacuum. He never decisively landed a conclusion. Paul Dirac, an otherwise brilliant physicist, sunk a lot of time on what is now known as his large number hypothesis, the idea that nature's largest ratios – the strength of gravity versus the strength of electromagnetism, for example, or atomic-scale radii versus that of the whole universe – must be related somehow. These efforts are usually labeled numerology, a derogatory term about a cautionary tale regarding a decidedly unscientific endeavor that yah, go ahead, call it whatever you want, is definitely not physics.</p>
     <p>We'd like to follow in this time honored tradition!</p>
 
     <h2 class="part">The sphere</h2>
-    <p>Ok, at some point we're going to have to describe this thing and where it comes from and what falls out of it.</p>
+    <p>A sphere is all points at a set radius from a center point. It contains none of the points inside – that would be a ball. A sphere is always of one less dimension than the ball it is the surface of, or the space it exists in, so the dimension count between spheres and their correspondences are always off by one. Here, from left to right, are depictions of a 0-sphere, a 1-sphere, a 2-sphere (the usual kind), and a 3-sphere (sort of):</p>
   </div>
+
+  <figure class="drawing-fig">
+    <div class="spectrum-scroll">
+      <div class="drawing">
+        <img src="spheres-drawing.jpg" width="1730" height="390" alt="Pencil drawing, left to right: a 0-sphere as two points either side of a center; a 1-sphere as a circle seen at an angle, with two points on it; a 2-sphere as a shaded ball with two points on its surface; and a 3-sphere, sort of, as a ball shaded darkest at its center.">
+        <div class="drawing-labels" aria-hidden="true">
+          <span style="left:12.6%">0-sphere</span>
+          <span style="left:36.4%">1-sphere</span>
+          <span style="left:62.2%">2-sphere</span>
+          <span style="left:87.2%">3-sphere<em>sort of</em></span>
+        </div>
+      </div>
+    </div>
+  </figure>
+
+  <!-- Alternate drawn version of the same figure, kept for later use -->
+  <template id="alt-spheres-figure">
+  <figure class="spheres-fig">
+    <div class="spectrum-scroll">
+      <svg viewBox="0 0 720 210" role="img" aria-labelledby="sph-title sph-desc">
+        <title id="sph-title">Spheres in dimensions 0 through 3</title>
+        <desc id="sph-desc">Left to right: a 0-sphere, two points at equal distance from a center; a 1-sphere, a circle; a 2-sphere, the familiar round surface; and a 3-sphere, suggested by nested spheres since it cannot be drawn directly.</desc>
+        <defs>
+          <radialGradient id="shade" cx="38%" cy="34%" r="70%">
+            <stop offset="0%" class="sh-hi"/>
+            <stop offset="100%" class="sh-lo"/>
+          </radialGradient>
+        </defs>
+
+        <!-- 0-sphere -->
+        <line x1="35" y1="90" x2="145" y2="90" class="radius"/>
+        <circle cx="90" cy="90" r="2.5" class="center"/>
+        <circle cx="35" cy="90" r="5.5" class="pt"/>
+        <circle cx="145" cy="90" r="5.5" class="pt"/>
+
+        <!-- 1-sphere -->
+        <line x1="270" y1="90" x2="325" y2="90" class="radius"/>
+        <circle cx="270" cy="90" r="2.5" class="center"/>
+        <circle cx="270" cy="90" r="55" class="ring"/>
+
+        <!-- 2-sphere -->
+        <circle cx="450" cy="90" r="55" fill="url(#shade)" class="ring"/>
+        <path d="M395 90 A55 15 0 0 1 505 90" class="eq-back"/>
+        <path d="M395 90 A55 15 0 0 0 505 90" class="eq"/>
+
+        <!-- 3-sphere, sort of: nested 2-spheres -->
+        <circle cx="630" cy="90" r="58" class="nest-a"/>
+        <circle cx="630" cy="90" r="40" class="nest-b"/>
+        <circle cx="630" cy="90" r="22" class="nest-c"/>
+        <path d="M572 90 A58 15 0 0 0 688 90" class="eq"/>
+        <path d="M590 90 A40 10 0 0 0 670 90" class="eq"/>
+        <path d="M608 90 A22 6 0 0 0 652 90" class="eq"/>
+
+        <text x="90" y="178" class="lab" text-anchor="middle">0-sphere</text>
+        <text x="90" y="196" class="axis" text-anchor="middle">two points</text>
+        <text x="270" y="178" class="lab" text-anchor="middle">1-sphere</text>
+        <text x="270" y="196" class="axis" text-anchor="middle">a circle</text>
+        <text x="450" y="178" class="lab" text-anchor="middle">2-sphere</text>
+        <text x="450" y="196" class="axis" text-anchor="middle">a surface</text>
+        <text x="630" y="178" class="lab" text-anchor="middle">3-sphere</text>
+        <text x="630" y="196" class="axis" text-anchor="middle">sort of</text>
+      </svg>
+    </div>
+  </figure>
+  </template>
+
+  <div class="prose">
+    <p>In ordinary, three dimensional space, a sphere is two-dimensional, like a bubble with zero thickness floating through the air. Indeed, like the surface of the earth, particularly in West Texas or the Utah salt flats or whatever, there are only two directions of travel available (on foot, anyway), despite that the space and the globe offer three distinct directions.</p>
+    <p>What's the deal with that 3-sphere, though?</p>
+    <p>The depiction is attempting to show something more like a ball, or a volume, that gets darker on the approach to the origin, but remember, all points are equidistant from the center. Every bit closer to the center the radius appears in 3 dimensions, a corresponding “hidden” dimension is compensating. In our case, darker means <em>more hidden radius</em>. And the implication is that space is a 4-space; the ball a 4-ball.</p>
+    <p>Another interesting effect in this setup is that a whole three dimensional space exists <em>at the radius</em>. In other words, you can move in 3 directions – like a rocket launched from the flats that parachutes back in a spiral to the salty floor – without ever getting any closer to the center of the 4-ball. The center of the earth is not the true center in this setup – it's just as far away from the true center as the flats, the north pole, or anywhere on or inside earth. The hidden radius stretches away from all earthly points equally in this case, converging on a common center in 4-space.</p>
+    <p>The final point we'll make about the 3-sphere for now is that, in our setup, where Utah, middle earth, and the north pole are all on the same 3-sphere, <em>all lines are curved</em>, at least those that remain in the 3-space. Straight lines depart the sphere, and those that depart perpendicularly are radial. This would sort of mean the earth's axis itself would need be curved, but here it gets hard to carry on the analogy, because if the sphere was the same size as earth and yet carrying an extra, third dimension, the “round trip” off the salt flats that ultimately returns to the salt flats would be just as long as the trip around any great circle – one full equator-sized cycle in our idealized, spherical globe.</p>
+  </div>
+
+  <figure class="fig-svg" id="hidden-circle">
+    <div class="spectrum-scroll">
+      <svg viewBox="0 0 720 330" role="img" aria-labelledby="hc-title hc-desc">
+        <title id="hc-title">A round trip off the flats</title>
+        <desc id="hc-desc">A 2-sphere drawn as a circle with its equator. From a marked point on its surface, a third circle of the same size leaves straight outward and curves back around, fading as it gets farther from the point where it touches the sphere.</desc>
+        <circle cx="330" cy="165" r="100" class="globe"/>
+        <path d="M230 165 A100 26 0 0 1 430 165" class="eq-back"/>
+        <path d="M230 165 A100 26 0 0 0 430 165" class="eq"/>
+        <path d="M383.0 80.2 A100 100 0 0 1 386.6 74.8" class="hc" style="opacity:0.98"/><path d="M386.6 74.8 A100 100 0 0 1 390.6 69.6" class="hc" style="opacity:0.95"/><path d="M390.6 69.6 A100 100 0 0 1 395.0 64.7" class="hc" style="opacity:0.92"/><path d="M395.0 64.7 A100 100 0 0 1 399.6 60.1" class="hc" style="opacity:0.89"/><path d="M399.6 60.1 A100 100 0 0 1 404.5 55.7" class="hc" style="opacity:0.85"/><path d="M404.5 55.7 A100 100 0 0 1 409.7 51.8" class="hc" style="opacity:0.82"/><path d="M409.7 51.8 A100 100 0 0 1 415.2 48.2" class="hc" style="opacity:0.79"/><path d="M415.2 48.2 A100 100 0 0 1 420.8 44.9" class="hc" style="opacity:0.76"/><path d="M420.8 44.9 A100 100 0 0 1 426.7 42.0" class="hc" style="opacity:0.73"/><path d="M426.7 42.0 A100 100 0 0 1 432.8 39.5" class="hc" style="opacity:0.70"/><path d="M432.8 39.5 A100 100 0 0 1 439.0 37.4" class="hc" style="opacity:0.67"/><path d="M439.0 37.4 A100 100 0 0 1 445.3 35.8" class="hc" style="opacity:0.65"/><path d="M445.3 35.8 A100 100 0 0 1 451.7 34.5" class="hc" style="opacity:0.62"/><path d="M451.7 34.5 A100 100 0 0 1 458.2 33.6" class="hc" style="opacity:0.59"/><path d="M458.2 33.6 A100 100 0 0 1 464.7 33.2" class="hc" style="opacity:0.56"/><path d="M464.7 33.2 A100 100 0 0 1 471.3 33.2" class="hc" style="opacity:0.54"/><path d="M471.3 33.2 A100 100 0 0 1 477.8 33.7" class="hc" style="opacity:0.51"/><path d="M477.8 33.7 A100 100 0 0 1 484.3 34.6" class="hc" style="opacity:0.48"/><path d="M484.3 34.6 A100 100 0 0 1 490.7 35.8" class="hc" style="opacity:0.46"/><path d="M490.7 35.8 A100 100 0 0 1 497.0 37.6" class="hc" style="opacity:0.43"/><path d="M497.0 37.6 A100 100 0 0 1 503.2 39.7" class="hc" style="opacity:0.41"/><path d="M503.2 39.7 A100 100 0 0 1 509.3 42.2" class="hc" style="opacity:0.39"/><path d="M509.3 42.2 A100 100 0 0 1 515.1 45.1" class="hc" style="opacity:0.36"/><path d="M515.1 45.1 A100 100 0 0 1 520.8 48.4" class="hc" style="opacity:0.34"/><path d="M520.8 48.4 A100 100 0 0 1 526.2 52.0" class="hc" style="opacity:0.32"/><path d="M526.2 52.0 A100 100 0 0 1 531.4 56.0" class="hc" style="opacity:0.30"/><path d="M531.4 56.0 A100 100 0 0 1 536.3 60.4" class="hc" style="opacity:0.28"/><path d="M536.3 60.4 A100 100 0 0 1 540.9 65.0" class="hc" style="opacity:0.26"/><path d="M540.9 65.0 A100 100 0 0 1 545.2 69.9" class="hc" style="opacity:0.24"/><path d="M545.2 69.9 A100 100 0 0 1 549.2 75.1" class="hc" style="opacity:0.22"/><path d="M549.2 75.1 A100 100 0 0 1 552.8 80.6" class="hc" style="opacity:0.20"/><path d="M552.8 80.6 A100 100 0 0 1 556.1 86.2" class="hc" style="opacity:0.18"/><path d="M556.1 86.2 A100 100 0 0 1 559.0 92.1" class="hc" style="opacity:0.16"/><path d="M559.0 92.1 A100 100 0 0 1 561.5 98.2" class="hc" style="opacity:0.15"/><path d="M561.5 98.2 A100 100 0 0 1 563.6 104.4" class="hc" style="opacity:0.13"/><path d="M563.6 104.4 A100 100 0 0 1 565.2 110.7" class="hc" style="opacity:0.12"/><path d="M565.2 110.7 A100 100 0 0 1 566.5 117.1" class="hc" style="opacity:0.10"/><path d="M566.5 117.1 A100 100 0 0 1 567.3 123.6" class="hc" style="opacity:0.09"/><path d="M567.3 123.6 A100 100 0 0 1 567.8 130.1" class="hc" style="opacity:0.07"/><path d="M567.8 130.1 A100 100 0 0 1 567.7 136.7" class="hc" style="opacity:0.06"/><path d="M567.7 136.7 A100 100 0 0 1 567.3 143.2" class="hc" style="opacity:0.05"/><path d="M567.3 143.2 A100 100 0 0 1 566.4 149.7" class="hc" style="opacity:0.04"/><path d="M566.4 149.7 A100 100 0 0 1 565.1 156.1" class="hc" style="opacity:0.04"/><path d="M565.1 156.1 A100 100 0 0 1 563.4 162.4" class="hc" style="opacity:0.04"/><path d="M563.4 162.4 A100 100 0 0 1 561.3 168.6" class="hc" style="opacity:0.04"/><path d="M561.3 168.6 A100 100 0 0 1 558.8 174.7" class="hc" style="opacity:0.04"/><path d="M558.8 174.7 A100 100 0 0 1 555.9 180.5" class="hc" style="opacity:0.04"/><path d="M555.9 180.5 A100 100 0 0 1 552.6 186.2" class="hc" style="opacity:0.04"/><path d="M552.6 186.2 A100 100 0 0 1 549.0 191.6" class="hc" style="opacity:0.04"/><path d="M549.0 191.6 A100 100 0 0 1 545.0 196.8" class="hc" style="opacity:0.04"/><path d="M545.0 196.8 A100 100 0 0 1 540.6 201.7" class="hc" style="opacity:0.04"/><path d="M540.6 201.7 A100 100 0 0 1 536.0 206.3" class="hc" style="opacity:0.04"/><path d="M536.0 206.3 A100 100 0 0 1 531.1 210.6" class="hc" style="opacity:0.04"/><path d="M531.1 210.6 A100 100 0 0 1 525.9 214.6" class="hc" style="opacity:0.04"/><path d="M525.9 214.6 A100 100 0 0 1 520.4 218.2" class="hc" style="opacity:0.04"/><path d="M520.4 218.2 A100 100 0 0 1 514.7 221.5" class="hc" style="opacity:0.05"/><path d="M514.7 221.5 A100 100 0 0 1 508.9 224.4" class="hc" style="opacity:0.06"/><path d="M508.9 224.4 A100 100 0 0 1 502.8 226.9" class="hc" style="opacity:0.07"/><path d="M502.8 226.9 A100 100 0 0 1 496.6 228.9" class="hc" style="opacity:0.09"/><path d="M496.6 228.9 A100 100 0 0 1 490.3 230.6" class="hc" style="opacity:0.10"/><path d="M490.3 230.6 A100 100 0 0 1 483.9 231.9" class="hc" style="opacity:0.12"/><path d="M483.9 231.9 A100 100 0 0 1 477.4 232.7" class="hc" style="opacity:0.13"/><path d="M477.4 232.7 A100 100 0 0 1 470.9 233.1" class="hc" style="opacity:0.15"/><path d="M470.9 233.1 A100 100 0 0 1 464.3 233.1" class="hc" style="opacity:0.16"/><path d="M464.3 233.1 A100 100 0 0 1 457.8 232.7" class="hc" style="opacity:0.18"/><path d="M457.8 232.7 A100 100 0 0 1 451.3 231.8" class="hc" style="opacity:0.20"/><path d="M451.3 231.8 A100 100 0 0 1 444.9 230.5" class="hc" style="opacity:0.22"/><path d="M444.9 230.5 A100 100 0 0 1 438.6 228.8" class="hc" style="opacity:0.24"/><path d="M438.6 228.8 A100 100 0 0 1 432.4 226.7" class="hc" style="opacity:0.26"/><path d="M432.4 226.7 A100 100 0 0 1 426.3 224.2" class="hc" style="opacity:0.28"/><path d="M426.3 224.2 A100 100 0 0 1 420.5 221.3" class="hc" style="opacity:0.30"/><path d="M420.5 221.3 A100 100 0 0 1 414.8 218.0" class="hc" style="opacity:0.32"/><path d="M414.8 218.0 A100 100 0 0 1 409.4 214.3" class="hc" style="opacity:0.34"/><path d="M409.4 214.3 A100 100 0 0 1 404.2 210.3" class="hc" style="opacity:0.36"/><path d="M404.2 210.3 A100 100 0 0 1 399.3 206.0" class="hc" style="opacity:0.39"/><path d="M399.3 206.0 A100 100 0 0 1 394.7 201.4" class="hc" style="opacity:0.41"/><path d="M394.7 201.4 A100 100 0 0 1 390.4 196.5" class="hc" style="opacity:0.43"/><path d="M390.4 196.5 A100 100 0 0 1 386.4 191.3" class="hc" style="opacity:0.46"/><path d="M386.4 191.3 A100 100 0 0 1 382.8 185.8" class="hc" style="opacity:0.48"/><path d="M382.8 185.8 A100 100 0 0 1 379.5 180.1" class="hc" style="opacity:0.51"/><path d="M379.5 180.1 A100 100 0 0 1 376.6 174.3" class="hc" style="opacity:0.54"/><path d="M376.6 174.3 A100 100 0 0 1 374.1 168.2" class="hc" style="opacity:0.56"/><path d="M374.1 168.2 A100 100 0 0 1 372.0 162.0" class="hc" style="opacity:0.59"/><path d="M372.0 162.0 A100 100 0 0 1 370.4 155.7" class="hc" style="opacity:0.62"/><path d="M370.4 155.7 A100 100 0 0 1 369.1 149.3" class="hc" style="opacity:0.65"/><path d="M369.1 149.3 A100 100 0 0 1 368.3 142.8" class="hc" style="opacity:0.67"/><path d="M368.3 142.8 A100 100 0 0 1 367.8 136.2" class="hc" style="opacity:0.70"/><path d="M367.8 136.2 A100 100 0 0 1 367.9 129.7" class="hc" style="opacity:0.73"/><path d="M367.9 129.7 A100 100 0 0 1 368.3 123.2" class="hc" style="opacity:0.76"/><path d="M368.3 123.2 A100 100 0 0 1 369.2 116.7" class="hc" style="opacity:0.79"/><path d="M369.2 116.7 A100 100 0 0 1 370.5 110.3" class="hc" style="opacity:0.82"/><path d="M370.5 110.3 A100 100 0 0 1 372.2 103.9" class="hc" style="opacity:0.85"/><path d="M372.2 103.9 A100 100 0 0 1 374.3 97.8" class="hc" style="opacity:0.89"/><path d="M374.3 97.8 A100 100 0 0 1 376.8 91.7" class="hc" style="opacity:0.92"/><path d="M376.8 91.7 A100 100 0 0 1 379.7 85.9" class="hc" style="opacity:0.95"/><path d="M379.7 85.9 A100 100 0 0 1 383.0 80.2" class="hc" style="opacity:0.98"/>
+        <line x1="383.0" y1="80.2" x2="407.4" y2="41.2" class="up"/>
+        <circle cx="383.0" cy="80.2" r="5" class="pt"/>
+        <text x="366" y="56" class="lab" text-anchor="end">the flats</text>
+        <text x="330" y="307" class="axis" text-anchor="middle">the globe</text>
+        <text x="574" y="128" class="axis"><tspan x="574">one equator-length</tspan><tspan x="574" dy="16">round trip</tspan></text>
+      </svg>
+    </div>
+  </figure>
+
+  <div class="prose">
+    <p>Indeed, something would have to give in this picture, either how the 3-sphere is “sliced” or the nature of inner earth (or both).</p>
+    <h3 class="section">The pythagorean theorem</h3>
+    <p>In our 3-sphere, we suggested a visualization of two components – the shrinking 2-sphere and the hidden compensation. These two parts combine, however not via pure addition, since they don't align with each other – the components meet at a right angle.</p>
+  </div>
+
+  <figure class="widget" id="hidden-tri">
+    <div class="spectrum-scroll">
+      <svg viewBox="0 0 720 720" role="img" aria-labelledby="ht-title ht-desc" class="widget-svg square" id="ht-svg">
+        <title id="ht-title">Visible radius and hidden radius meeting at a right angle</title>
+        <desc id="ht-desc">A large circle of radius R. Inside the smaller circle the area is shaded darker toward the center in proportion to the hidden component; the ring between the two circles is left clear. R lies along the x-axis from the origin to the edge. A smaller inner circle of radius r stands for the shrinking 2-sphere. From the end of R, a segment w touches the inner circle at a tangent; a ray r from the origin meets it there at a right angle. That right-angle corner floats along a faint dashed arc as the inner circle grows or shrinks.</desc>
+        <defs>
+          <clipPath id="ht-clip"><circle id="ht-clipc" cx="360" cy="360" r="192"/></clipPath>
+          <radialGradient id="ht-shade" cx="50%" cy="50%" r="50%">
+            <stop offset="0%" style="stop-color:var(--ink);stop-opacity:0.550"/><stop offset="5%" style="stop-color:var(--ink);stop-opacity:0.549"/><stop offset="10%" style="stop-color:var(--ink);stop-opacity:0.547"/><stop offset="15%" style="stop-color:var(--ink);stop-opacity:0.543"/><stop offset="20%" style="stop-color:var(--ink);stop-opacity:0.539"/><stop offset="25%" style="stop-color:var(--ink);stop-opacity:0.532"/><stop offset="30%" style="stop-color:var(--ink);stop-opacity:0.525"/><stop offset="35%" style="stop-color:var(--ink);stop-opacity:0.515"/><stop offset="40%" style="stop-color:var(--ink);stop-opacity:0.504"/><stop offset="45%" style="stop-color:var(--ink);stop-opacity:0.491"/><stop offset="50%" style="stop-color:var(--ink);stop-opacity:0.476"/><stop offset="55%" style="stop-color:var(--ink);stop-opacity:0.460"/><stop offset="60%" style="stop-color:var(--ink);stop-opacity:0.440"/><stop offset="65%" style="stop-color:var(--ink);stop-opacity:0.418"/><stop offset="70%" style="stop-color:var(--ink);stop-opacity:0.392"/><stop offset="75%" style="stop-color:var(--ink);stop-opacity:0.364"/><stop offset="80%" style="stop-color:var(--ink);stop-opacity:0.330"/><stop offset="85%" style="stop-color:var(--ink);stop-opacity:0.290"/><stop offset="90%" style="stop-color:var(--ink);stop-opacity:0.240"/><stop offset="95%" style="stop-color:var(--ink);stop-opacity:0.172"/><stop offset="100%" style="stop-color:var(--ink);stop-opacity:0.000"/>
+          </radialGradient>
+        </defs>
+        <circle cx="360" cy="360" r="320" fill="url(#ht-shade)" clip-path="url(#ht-clip)"/>
+        <circle cx="360" cy="360" r="320" class="outer"/>
+        <line x1="40" y1="360" x2="680" y2="360" class="axisline"/>
+        <path d="M360 360 A160 160 0 0 1 680 360" class="thales"/>
+        <circle id="ht-inner" cx="360" cy="360" r="192" class="inner"/>
+        <line id="ht-r" x1="360" y1="360" x2="0" y2="0" class="leg-r"/>
+        <line id="ht-w" x1="0" y1="0" x2="680" y2="360" class="leg-w"/>
+        <line x1="360" y1="360" x2="680" y2="360" class="hyp"/>
+        <path id="ht-rt" class="rt" d=""/>
+        <circle cx="360" cy="360" r="4.5" class="pt"/>
+        <circle cx="680" cy="360" r="4.5" class="pt"/>
+        <circle id="ht-h" r="7.5" class="handle"/>
+        <text id="ht-lr" class="lab" text-anchor="middle">r</text>
+        <text id="ht-lw" class="lab" text-anchor="middle">w</text>
+        <text x="520" y="392" class="lab" text-anchor="middle">R</text>
+      </svg>
+    </div>
+    <div class="controls">
+      <label for="ht-range">Inner radius</label>
+      <input type="range" id="ht-range" min="2" max="98" step="any" value="60">
+      <output id="ht-out" for="ht-range"></output>
+    </div>
+  </figure>
+
+  <div class="prose">
+    <p>This means they combine in “quadrature.” That's the calculation of the hypotenuse of a right triangle, which calls for use of the pythagorean theorem – \(a^2 + b^2 = c^2\).</p>
+  </div>
+
+  <figure class="widget" id="pythagoras">
+    <div class="spectrum-scroll">
+      <svg viewBox="0 0 720 320" role="img" aria-labelledby="py-title py-desc" class="widget-svg" id="py-svg">
+        <title id="py-title">Pythagoras by rearrangement</title>
+        <desc id="py-desc">Two equal squares of side a plus b. On the left, four copies of the same right triangle sit in the corners, each turned 90 degrees from the last, leaving a tilted square of area c squared in the middle. On the right, the same four triangles are paired into two rectangles in opposite corners, leaving squares of area a squared and b squared. Dragging the meeting point changes the triangle's proportions.</desc>
+        <g id="py-left"></g>
+        <g id="py-right"></g>
+        <circle id="py-h" r="7" class="handle"/>
+      </svg>
+    </div>
+    <div class="controls">
+      <label for="py-range">Meeting point</label>
+      <input type="range" id="py-range" min="12" max="88" step="any" value="42.857">
+      <output id="py-out" for="py-range"></output>
+    </div>
+  </figure>
+
+  <figure class="drawing-fig" id="1-2-3-vectors">
+    <div class="spectrum-scroll">
+      <div class="drawing nolabels">
+        <img src="vectors-drawing.jpg" width="1854" height="708" alt="Pencil drawing in three parts. Left: a line of length 1, bracketed above and below with 1. Middle: a square standing on its corner with a horizontal diagonal of length √2, its half-diagonal bracketed as 1/√2. Right: overlapping projected cube edges around a horizontal diagonal of length √3, its partial segment bracketed as 1/√3.">
+      </div>
+    </div>
+  </figure>
 </div>
+
+<script>
+(function () {
+  function svgX(svg, evt) {
+    var pt = svg.createSVGPoint(); pt.x = evt.clientX; pt.y = evt.clientY;
+    return pt.matrixTransform(svg.getScreenCTM().inverse()).x;
+  }
+  function drag(svg, handle, onX) {
+    var on = false;
+    function move(e) { if (on) { onX(svgX(svg, e)); e.preventDefault(); } }
+    handle.addEventListener('pointerdown', function (e) { on = true; try { handle.setPointerCapture(e.pointerId); } catch (_) {} e.preventDefault(); });
+    handle.addEventListener('pointermove', move);
+    handle.addEventListener('pointerup', function () { on = false; });
+    handle.addEventListener('pointercancel', function () { on = false; });
+  }
+  function f2(n) { return n.toFixed(2); }
+
+  /* ---- Visible radius r, hidden radius w, true radius R (R fixed on the x-axis) ---- */
+  (function () {
+    var svg = document.getElementById('ht-svg'); if (!svg) return;
+    var C = 360, R = 320, A = [C + R, C];
+    var range = document.getElementById('ht-range'), out = document.getElementById('ht-out');
+    var inner = document.getElementById('ht-inner');
+    var lr = document.getElementById('ht-r'), lw = document.getElementById('ht-w');
+    var rt = document.getElementById('ht-rt'), H = document.getElementById('ht-h');
+    var tr = document.getElementById('ht-lr'), tw = document.getElementById('ht-lw');
+    function draw(pct) {
+      var r = R * pct / 100, w = Math.sqrt(R * R - r * r);
+      var px = C + r * r / R, py = C - r * w / R;   // tangent point: the floating right angle
+      inner.setAttribute('r', r); document.getElementById('ht-clipc').setAttribute('r', r);
+      lr.setAttribute('x2', px); lr.setAttribute('y2', py);
+      lw.setAttribute('x1', px); lw.setAttribute('y1', py);
+      H.setAttribute('cx', px); H.setAttribute('cy', py);
+      var u1 = [(C - px) / r, (C - py) / r], u2 = [(A[0] - px) / w, (A[1] - py) / w];
+      var k = Math.min(24, r * 0.35, w * 0.35);
+      if (k > 4) {
+        var a = [px + u1[0] * k, py + u1[1] * k], b = [px + u2[0] * k, py + u2[1] * k];
+        var c = [a[0] + u2[0] * k, a[1] + u2[1] * k];
+        rt.setAttribute('d', 'M' + a + ' L' + c + ' L' + b);
+      } else rt.setAttribute('d', '');
+      // labels pushed outward (upward) from each leg
+      function place(el, p, q) {
+        var mx = (p[0] + q[0]) / 2, my = (p[1] + q[1]) / 2, dx = q[0] - p[0], dy = q[1] - p[1], n = Math.hypot(dx, dy) || 1;
+        var nx = dy / n, ny = -dx / n; if (ny > 0) { nx = -nx; ny = -ny; }
+        el.setAttribute('x', mx + nx * 22); el.setAttribute('y', my + ny * 22 + 8);
+      }
+      place(tr, [C, C], [px, py]); place(tw, [px, py], A);
+      var a2 = (r / R) * (r / R), b2 = (w / R) * (w / R);
+      out.textContent = 'r² + w² = R²   ' + a2.toFixed(2) + ' + ' + b2.toFixed(2) + ' = ' + (a2 + b2).toFixed(2);
+    }
+    function svgPt(e) {
+      var pt = svg.createSVGPoint(); pt.x = e.clientX; pt.y = e.clientY;
+      return pt.matrixTransform(svg.getScreenCTM().inverse());
+    }
+    var on = false;
+    H.addEventListener('pointerdown', function (e) { on = true; try { H.setPointerCapture(e.pointerId); } catch (_) {} e.preventDefault(); });
+    H.addEventListener('pointermove', function (e) {
+      if (!on) return;
+      var p = svgPt(e), pct = Math.min(98, Math.max(2, Math.hypot(p.x - C, p.y - C) / R * 100));
+      range.value = pct; draw(pct); e.preventDefault();
+    });
+    H.addEventListener('pointerup', function () { on = false; });
+    H.addEventListener('pointercancel', function () { on = false; });
+    range.addEventListener('input', function () { draw(+range.value); });
+    draw(+range.value);
+  })();
+
+  /* ---- Pythagoras by rearrangement ---- */
+  (function () {
+    var svg = document.getElementById('py-svg'); if (!svg) return;
+    var L = document.getElementById('py-left'), Rg = document.getElementById('py-right');
+    var H = document.getElementById('py-h'), range = document.getElementById('py-range'), out = document.getElementById('py-out');
+    var S = 240, LX = 60, RX = 420, Y = 34, UNITS = 7, NS = 'http://www.w3.org/2000/svg';
+    function el(tag, attrs, text) {
+      var e = document.createElementNS(NS, tag);
+      for (var k in attrs) e.setAttribute(k, attrs[k]);
+      if (text != null) e.textContent = text;
+      return e;
+    }
+    function poly(g, ox, pts, cls) {
+      g.appendChild(el('polygon', { points: pts.map(function (p) { return (ox + p[0]) + ',' + (Y + p[1]); }).join(' '), 'class': cls }));
+    }
+    function label(g, x, y, txt, cls) { g.appendChild(el('text', { x: x, y: y, 'class': cls, 'text-anchor': 'middle' }, txt)); }
+    function draw(pct) {
+      var a = S * pct / 100, b = S - a;
+      L.textContent = ''; Rg.textContent = '';
+      // left: four triangles turned 90° each time, c² in the middle
+      var P1 = [a, 0], P2 = [S, a], P3 = [S - a, S], P4 = [0, S - a];
+      poly(L, LX, [P1, P2, P3, P4], 'sq-c');
+      poly(L, LX, [[0, 0], P1, P4], 'pt-tri');
+      poly(L, LX, [[S, 0], P2, P1], 'pt-tri');
+      poly(L, LX, [[S, S], P3, P2], 'pt-tri');
+      poly(L, LX, [[0, S], P4, P3], 'pt-tri');
+      L.appendChild(el('rect', { x: LX, y: Y, width: S, height: S, 'class': 'frame' }));
+      label(L, LX + S / 2, Y + S / 2 + 7, 'c²', 'area');
+      label(L, LX + a / 2, Y - 10, 'a', 'edge'); label(L, LX + a + b / 2, Y - 10, 'b', 'edge');
+      // right: same triangles paired into two rectangles, leaving a² and b²
+      poly(Rg, RX, [[0, 0], [a, 0], [a, a], [0, a]], 'sq-a');
+      poly(Rg, RX, [[a, a], [S, a], [S, S], [a, S]], 'sq-b');
+      poly(Rg, RX, [[a, 0], [S, 0], [a, a]], 'pt-tri');
+      poly(Rg, RX, [[S, 0], [S, a], [a, a]], 'pt-tri');
+      poly(Rg, RX, [[0, a], [a, a], [0, S]], 'pt-tri');
+      poly(Rg, RX, [[a, a], [a, S], [0, S]], 'pt-tri');
+      Rg.appendChild(el('rect', { x: RX, y: Y, width: S, height: S, 'class': 'frame' }));
+      if (a > 34) label(Rg, RX + a / 2, Y + a / 2 + 7, 'a²', 'area');
+      if (b > 34) label(Rg, RX + a + b / 2, Y + a + b / 2 + 7, 'b²', 'area');
+      label(Rg, RX + a / 2, Y - 10, 'a', 'edge'); label(Rg, RX + a + b / 2, Y - 10, 'b', 'edge');
+      label(L, LX + S / 2, Y + S + 30, 'c² in the middle', 'axis');
+      label(Rg, RX + S / 2, Y + S + 30, 'a² and b² in the gaps', 'axis');
+      H.setAttribute('cx', LX + a); H.setAttribute('cy', Y);
+      var ua = UNITS * pct / 100, ub = UNITS - ua;
+      out.textContent = 'a² + b² = c² \u2003 ' + (ua * ua).toFixed(1) + ' + ' + (ub * ub).toFixed(1) + ' = ' + (ua * ua + ub * ub).toFixed(1);
+    }
+    range.addEventListener('input', function () { draw(+range.value); });
+    drag(svg, H, function (x) {
+      var pct = Math.min(88, Math.max(12, (x - LX) / S * 100));
+      range.value = pct; draw(pct);
+    });
+    draw(+range.value);
+  })();
+})();
+</script>
 
 </body></html>
