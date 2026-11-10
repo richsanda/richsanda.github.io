@@ -6,8 +6,34 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,opsz,wght@0,6..96,400;0,6..96,500;1,6..96,400&family=Spectral:ital,wght@0,300;0,400;1,300&family=IBM+Plex+Mono:wght@400&display=swap">
 <script>
 window.MathJax = {
-  tex: { inlineMath: [['\\(', '\\)']], displayMath: [['$$', '$$']] },
-  svg: { fontCache: 'global' }
+  tex: {
+    inlineMath: [['\\(', '\\)']], displayMath: [['$$', '$$']],
+    // right-triangle "hypotenuse" operator, drawn as a shape so it never depends on a font having the glyph
+    macros: {
+      hyp: ['\\mathbin{{\\class{mjhyp}{\\color{transparent}{\\Delta}}}_{#1}}', 1],
+      leg: ['\\mathbin{{\\class{mjleg}{\\color{transparent}{\\Delta}}}_{#1}}', 1],
+      bighyp: '\\mathop{\\class{mjhyp}{\\color{transparent}{\\Large\\Delta}}}\\limits'
+    }
+  },
+  svg: { fontCache: 'global' },
+  startup: {
+    pageReady: function () {
+      return MathJax.startup.defaultPageReady().then(function () {
+        var NS = 'http://www.w3.org/2000/svg';
+        document.querySelectorAll('g.mjhyp, g.mjleg').forEach(function (g) {
+          var b = g.getBBox(), mirror = g.classList.contains('mjleg');
+          var x0 = b.x + b.width * 0.1, x1 = b.x + b.width * 0.9, y0 = b.y + b.height * 0.04, y1 = b.y + b.height * 0.96;
+          var p = document.createElementNS(NS, 'path');
+          p.setAttribute('d', mirror
+            ? 'M' + x1 + ' ' + y0 + ' L' + x0 + ' ' + y0 + ' L' + x0 + ' ' + y1 + ' Z'
+            : 'M' + x0 + ' ' + y0 + ' L' + x1 + ' ' + y0 + ' L' + x1 + ' ' + y1 + ' Z');
+          p.setAttribute('fill', 'none'); p.setAttribute('stroke', 'currentColor');
+          p.setAttribute('stroke-width', '50'); p.setAttribute('stroke-linejoin', 'round');
+          g.appendChild(p);
+        });
+      });
+    }
+  }
 };
 </script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/3.2.2/es5/tex-svg.min.js" defer></script>
@@ -305,6 +331,15 @@ h1 {
 .step::before { counter-increment: step; content: counter(step); font-family: var(--mono); font-size: 0.8rem; color: var(--muted); padding-top: 0.2rem; }
 .step > div { min-width: 0; overflow-x: auto; }
 
+.loop-wrap { overflow-x: auto; padding: 0.6rem 1.4rem 0.4rem; }
+.loop-table { width: 100%; border-collapse: collapse; font-size: 0.92rem; font-variant-numeric: tabular-nums; }
+.loop-table th { font-weight: 400; font-size: 0.82rem; color: var(--muted); text-align: right; padding: 0.4rem 0.6rem; border-bottom: 1px solid var(--rule); white-space: nowrap; }
+.loop-table th:first-child, .loop-table td:first-child { text-align: left; }
+.loop-table td { font-family: var(--mono); font-size: 0.85rem; text-align: right; padding: 0.4rem 0.6rem; border-bottom: 1px dashed var(--rule); white-space: nowrap; }
+.loop-table tr.anchor-row td { font-weight: 500; color: var(--ink); }
+.loop-table tr.est td { color: var(--muted); font-style: italic; }
+.loop-note { padding: 0.6rem 1.4rem 1.2rem; font-size: 0.92rem; color: var(--muted); font-style: italic; }
+
 mjx-container[display="true"] { margin: 0 !important; }
 
 @media (max-width: 520px) {
@@ -327,7 +362,7 @@ mjx-container[display="true"] { margin: 0 !important; }
     <p><em>That were the universe but one spinning sphere</em>. A belief and a lament simultaneously. The belief is that a single sphere of infinite dimension, spinning forever with no preferred direction, is the energetic wellspring of the universe we experience. We call this <em>the wishdrops conjecture</em>. A simple, elegant, latent geometry underpins our vastly complex physical universe – that's our guess, at least. Particles, constellations, time, physics, even the sensory apparatus, right up to the point of experience itself, all <em>the unfolding shadow of a dynamic, holographic sphere</em>. Think of it as a very literal interpretation of the oft cited <em>“God is an infinite sphere whose center is everywhere and whose circumference is nowhere.”</em> This first appears around the 12th century, in the Latin text <em>The Book of Twenty-four Philosophers</em>, though perhaps hovered in the contemplative ether for a long time before that. We wonder whether modern history misunderstands that it was meant as more than a metaphor. Like maybe the ancients knew something we have since lost.</p>
     <p>The lament is how difficult this will be to explain. At least we think so.</p>
     <p>Only one way to find out!</p>
-    <p>We'll use math (mostly high school level), physics, and intuition to elaborate on our <em>pet ratios</em> – not animal fractions, but principled comparisons between energies, lengths, and masses that give us a warm feeling inside when we think about the secret geometry behind them, even as we might have made it up. Hopefully that will break the ice. The idea is that these ratios are fingerprints of the unobservable, rife with suggestive recurring signatures, offering explanatory power, even if nothing else. That is to say, there may be no new physics here, nor proof of anything <em>true</em>, for we take real physics at face value and treat it as <em>evidence</em>, not something to overturn. That lets us be right up front about how we hope the reader will receive the following semi-metaphysical discourse:</p>
+    <p>We'll use math (mostly high school level), physics, and intuition to elaborate on our <em>pet ratios</em> – not animal fractions, but principled comparisons between energies, lengths, and masses that give us a warm feeling inside when we think about the secret geometry behind them, even as we might have made it up. Hopefully that will break the ice. The idea is that these ratios are fingerprints of the unobservable, rife with suggestive recurring signatures, offering explanatory power if nothing else. That is to say, there may be no new physics here, nor proof of anything <em>true</em>, for we take real physics at face value and treat it as <em>evidence</em>, not something to overturn. That lets us be right up front about how we hope the reader will receive the following semi-metaphysical discourse:</p>
     <p>Take it or leave it 🙂</p>
     <h2 class="part">Pet ratios</h2>
     <p>We'll lead with the ratios, to give some sense of where this is headed, and in order to have something to project back over the origin story as it unfolds. The concepts will be familiar to some and not to others, it's ok to skim past them because we will go into much more detail afterwards.</p>
@@ -335,19 +370,20 @@ mjx-container[display="true"] { margin: 0 !important; }
 
   <div class="cards">
     <section class="card">
-      <h2><span>The wishdrops wavelength to the Rydberg wavelength</span><span class="ratio">~12.73 : 1</span></h2>
-      <div class="equation">$$\frac{\lambda_{vv}}{\lambda_r} = w_0 = \frac{160}{4\pi}$$</div>
+      <h2><span>The Rydberg wavelength to the wishdrops wavelength</span><span class="ratio">~1 : 12.73</span></h2>
+      <div class="equation">$$\frac{\lambda_r}{\lambda_{vv}} = \frac{1}{w_0} = 4\pi \cdot \frac{1}{160}$$</div>
       <div class="terms">
-        <span class="sym">\(\lambda_{vv}\)</span><span class="def">wishdrops wavelength</span><span class="val">~1160 nm</span>
         <span class="sym">\(\lambda_r\)</span><span class="def">Rydberg wavelength</span><span class="val">~91 nm</span>
+        <span class="sym">\(\lambda_{vv}\)</span><span class="def">wishdrops wavelength</span><span class="val">~1160 nm</span>
         <span class="sym">\(w_0\)</span><span class="def">wishdrops ratio, \(160/4\pi\)</span><span class="val">≈ 12.73</span>
       </div>
     </section>
 
     <section class="card">
-      <h2><span>The color spectrum apices (the “pure color” wavelengths) to the wishdrops wavelength</span><span class="ratio">~1/√n : 1</span></h2>
-      <div class="equation">$$\frac{\lambda_n}{\lambda_{vv}} = \frac{1}{\sqrt{n}\,\cdot\,\varphi^{\frac{1}{160}\cdot\frac{1}{7}}}$$</div>
+      <h2><span>The wishdrops wavelength to the color spectrum apices (the “pure color” wavelengths)</span><span class="ratio">~1 : 1/√n</span></h2>
+      <div class="equation">$$\frac{\lambda_{vv}}{\lambda_n} = \sqrt{n} \cdot \varphi^{\frac{1}{160}\cdot\frac{1}{7}}$$</div>
       <div class="terms">
+        <span class="sym">\(\lambda_{vv}\)</span><span class="def">wishdrops wavelength</span><span class="val">~1160 nm</span>
         <span class="sym">\(\lambda_n\)</span><span class="def">color wavelength for \(n\) in 7..3</span><span class="val"></span>
         <div class="sub">
           <span class="n">n = 7</span><span class="dot" style="background:#7B3FE4"></span><span>violet</span><span class="val">~438 nm</span>
@@ -356,14 +392,13 @@ mjx-container[display="true"] { margin: 0 !important; }
           <span class="n">n = 4</span><span class="dot" style="background:#E8C400"></span><span>yellow</span><span class="val">~580 nm</span>
           <span class="n">n = 3</span><span class="dot" style="background:#E0301E"></span><span>red</span><span class="val">~670 nm</span>
         </div>
-        <span class="sym">\(\lambda_{vv}\)</span><span class="def">wishdrops wavelength</span><span class="val">~1160 nm</span>
         <span class="sym">\(\varphi\)</span><span class="def">phi, the golden ratio</span><span class="val">~1.618</span>
       </div>
     </section>
 
     <section class="card">
       <h2><span>The central auditory frequency to the wishdrops frequency</span><span class="ratio">~5.34 × 10⁻¹³ : 1</span></h2>
-      <div class="equation">$$\frac{\nu_0}{\nu_{vv}} = \left(\frac{\sqrt{8}}{3}\right)^{480} \cdot \varphi^{\frac{1}{160}\cdot 3}$$</div>
+      <div class="equation">$$\frac{\nu_0}{\nu_{vv}} = \left( \left(\frac{\sqrt{8}}{3}\right)^{160} \cdot \varphi^{\frac{1}{160}} \right)^{3}$$</div>
       <div class="terms">
         <span class="sym">\(\nu_0\)</span><span class="def">central auditory frequency (om)</span><span class="val">~138 Hz</span>
         <span class="sym">\(\nu_{vv}\)</span><span class="def">wishdrops frequency, \(c/\lambda_{vv}\)</span><span class="val">~258 THz</span>
@@ -441,54 +476,79 @@ mjx-container[display="true"] { margin: 0 !important; }
 
       <div class="part">
         <h3>inverse fine structure constant as a hypotenuse on a sphere</h3>
-        <div class="equation">$$L^3 = 40^4 \mathbin{⊿_R} 8^6 \mathbin{⊿_R} \frac{4\pi \cdot L}{2\,\varphi}$$</div>
+        <div class="equation">$$L^3 \leg{R} \frac{1}{\varphi\,(\ell_1 + \ell_2 + \cdots + \ell_7)} = 40^4 \hyp{R} 8^6$$</div>
         <div class="terms">
-          <span class="sym">\(⊿_R\)</span><span class="def">hypotenuse on a sphere of felt radius \(R\)</span><span class="val"></span>
-        </div>
+      <span class="sym">\(L\)</span><span class="def">inverse fine structure constant, \(1/\alpha\)</span><span class="val"></span>
+      <span class="sym">\(\ell_n\)</span><span class="def">n-loop QED correction, \(|C_n| \cdot (\alpha/\pi)^n\)</span><span class="val"></span>
+      <span class="sym">\(\varphi\)</span><span class="def">phi, the golden ratio</span><span class="val">~1.618</span>
+      <span class="sym">\(\leg{R}\)</span><span class="def">leg on a sphere of felt radius \(R\)</span><span class="val"></span>
+      <span class="sym">\(\hyp{R}\)</span><span class="def">hypotenuse on a sphere of felt radius \(R\)</span><span class="val"></span>
+    </div>
+        <div class="derived">
+      <span class="lead">with one loop alone, the term is the Schwinger correction, inverted, over φ</span>
+      <div class="tex">$$\frac{4\pi \cdot L}{2\,\varphi} = \frac{1}{\varphi\,\ell_1}, \qquad \ell_1 = \frac{\alpha}{2\pi}$$</div>
+    </div>
+        <div class="loop-wrap">
+      <table class="loop-table">
+        <thead><tr><th>\(k\)</th><th>QED coefficient \(C_k\)</th><th>\(\ell_k = |C_k| (\alpha/\pi)^k\)</th></tr></thead>
+        <tbody>
+          <tr><td>1</td><td>+0.5</td><td>1.16 × 10⁻³</td></tr>
+          <tr><td>2</td><td>−0.328</td><td>1.77 × 10⁻⁶</td></tr>
+          <tr><td>3</td><td>+1.181</td><td>1.48 × 10⁻⁸</td></tr>
+          <tr><td>4</td><td>−1.912</td><td>5.57 × 10⁻¹¹</td></tr>
+          <tr><td>5</td><td>≈ +6.7</td><td>4.6 × 10⁻¹³</td></tr>
+          <tr class="est"><td>6</td><td>not yet computed</td><td>~10⁻¹⁶</td></tr>
+          <tr class="est"><td>7</td><td>not yet computed</td><td>~10⁻¹⁹</td></tr>
+        </tbody>
+      </table>
+    </div>
       </div>
 
       <div class="part">
         <h3>solving both together</h3>
         <div class="result">
-          <span class="sym">\(L\)</span><span class="num">= ~137.03599918 <span class="cmp">(CODATA 2022: 137.035999177(21), 0.08σ)</span></span>
+          <span class="sym">\(L\)</span><span class="num">= ~137.035999176 <span class="cmp">(CODATA 2022: 137.035999177(21), 0.06σ)</span></span>
           <span class="sym">\(R\)</span><span class="num">= ~68.11 × 10⁶</span>
         </div>
       </div>
-    </section>
+      <div class="loop-note">Solving for L: one loop alone gives 0.08σ from CODATA; all five computed loops summed with |C<sub>k</sub>|, as in the ground state card, give 0.06σ; with signed C<sub>k</sub>, 0.23σ.</div>
+  </section>
 
     <section class="card">
       <h2><span>The ground state energy ratio</span><span class="ratio">~1.0000027 : 1</span></h2>
-      <div class="equation">$$\frac{h \cdot c}{\lambda_7 \cdot \sqrt{8} \cdot \text{eV}} = 1 \mathbin{⊿} 2\,(\ell_1 + \ell_2)$$</div>
+      <div class="equation">$$\frac{4\pi \cdot \frac{1}{160} \cdot \sqrt{7} \cdot \varphi^{\frac{1}{160}\cdot\frac{1}{7}} \cdot Ry}{\sqrt{8} \cdot \text{eV}} = 1 \hyp{} 2\,(\ell_1 + \ell_2 + \cdots + \ell_7)$$</div>
       <div class="terms">
-        <span class="sym">\(h\)</span><span class="def">Planck's constant</span><span class="val"></span>
-        <span class="sym">\(c\)</span><span class="def">speed of light</span><span class="val"></span>
-        <span class="sym">\(\lambda_7\)</span><span class="def">violet wavelength</span><span class="val">~438 nm</span>
         <span class="sym">\(\text{eV}\)</span><span class="def">one electron volt</span><span class="val"></span>
-        <span class="sym">\(\ell_1\)</span><span class="def">one-loop QED correction, \(\alpha/2\pi\)</span><span class="val">~0.0011614</span>
+        <span class="sym">\(Ry\)</span><span class="def">Rydberg energy</span><span class="val">~13.6 eV</span>
+        <span class="sym">\(\varphi\)</span><span class="def">phi, the golden ratio</span><span class="val">~1.618</span>
+        <span class="sym">\(\ell_n\)</span><span class="def">n-loop QED correction, \(|C_n| \cdot (\alpha/\pi)^n\)</span><span class="val"></span>
         <div class="nest">
           <span class="sym">\(\alpha\)</span><span class="def">fine structure constant</span><span class="val">~1/137</span>
-        </div>
-        <span class="sym">\(\ell_2\)</span><span class="def">two-loop QED correction, \(|C_2|\cdot(\alpha/\pi)^2\)</span><span class="val">~1.77 × 10⁻⁶</span>
-        <div class="nest">
-          <span class="sym">\(C_2\)</span><span class="def">two-loop coefficient</span><span class="val">~ −0.328479</span>
         </div>
       </div>
     </section>
 
     <section class="card">
-      <h2><span>The electron volt to the Higgs vacuum expectation value</span><span class="ratio">~4.06 × 10⁻¹² : 1</span></h2>
-      <div class="equation">$$\frac{\text{eV}}{v_H} = \frac{\frac{1}{\sqrt{2}} \cdot \frac{1}{\alpha} \cdot 4\pi \cdot \frac{1}{160} \cdot \left(\frac{\sqrt{8}}{3}\right)^{480} \cdot \varphi^{\frac{1}{1600}\cdot\left(30 - \frac{1}{3}\right)}}{1 \mathbin{⊿_\varphi} 2\,(\ell_1 + \ell_2)}$$</div>
+      <h2><span>The Higgs vacuum expectation value ratio</span><span class="ratio">~1.0000044 : 1</span></h2>
+      <div class="equation">$$\frac{4\pi \cdot \frac{1}{160} \cdot \left( \left(\frac{\sqrt{8}}{3}\right)^{160} \cdot \varphi^{\frac{1}{160}} \right)^{3} \cdot v_H}{\sqrt{2} \cdot \alpha \cdot \varphi^{\frac{1}{1600}\cdot\frac{1}{3}} \cdot \text{eV}} = 1 \hyp{} 2 \cdot \sqrt{\varphi} \cdot (\ell_1 + \ell_2 + \cdots + \ell_7)$$</div>
       <div class="terms">
         <span class="sym">\(\text{eV}\)</span><span class="def">electron volt</span><span class="val">1 eV</span>
         <span class="sym">\(v_H\)</span><span class="def">Higgs vacuum expectation value</span><span class="val">~246 GeV</span>
         <span class="sym">\(\alpha\)</span><span class="def">fine structure constant</span><span class="val">~1/137</span>
         <span class="sym">\(\varphi\)</span><span class="def">phi, the golden ratio</span><span class="val">~1.618</span>
-        <span class="sym">\(⊿_\varphi\)</span><span class="def">φ-weighted hypotenuse, \(a \mathbin{⊿_\varphi} b = \sqrt{a^2 + \varphi \cdot b^2}\)</span><span class="val"></span>
-        <span class="sym">\(\ell_1\)</span><span class="def">one-loop QED correction, \(\alpha/2\pi\)</span><span class="val">~0.0011614</span>
-        <span class="sym">\(\ell_2\)</span><span class="def">two-loop QED correction, \(|C_2|\cdot(\alpha/\pi)^2\)</span><span class="val">~1.77 × 10⁻⁶</span>
-        <div class="nest">
-          <span class="sym">\(C_2\)</span><span class="def">two-loop coefficient</span><span class="val">~ −0.328479</span>
-        </div>
+        <span class="sym">\(\ell_n\)</span><span class="def">n-loop QED correction, \(|C_n| \cdot (\alpha/\pi)^n\)</span><span class="val"></span>
+      </div>
+    </section>
+
+    <section class="card">
+      <h2><span>The Rydberg energy to the Higgs vacuum expectation value</span><span class="ratio">~5.53 × 10⁻¹¹ : 1</span></h2>
+      <div class="equation">$$\frac{Ry}{v_H} = \frac{2}{\alpha} \cdot \frac{\left( \left(\frac{\sqrt{8}}{3}\right)^{160} \cdot \varphi^{\frac{1}{160}} \right)^{3}}{\sqrt{7} \cdot \varphi^{\frac{1}{160}\cdot\frac{1}{7}} \cdot \varphi^{\frac{1}{1600}\cdot\frac{1}{3}}} \cdot \frac{1 \hyp{} 2\,(\ell_1 + \ell_2 + \cdots + \ell_7)}{1 \hyp{} 2 \cdot \sqrt{\varphi} \cdot (\ell_1 + \ell_2 + \cdots + \ell_7)}$$</div>
+      <div class="terms">
+        <span class="sym">\(Ry\)</span><span class="def">Rydberg energy</span><span class="val">~13.6 eV</span>
+        <span class="sym">\(v_H\)</span><span class="def">Higgs vacuum expectation value</span><span class="val">~246 GeV</span>
+        <span class="sym">\(\alpha\)</span><span class="def">fine structure constant</span><span class="val">~1/137</span>
+        <span class="sym">\(\varphi\)</span><span class="def">phi, the golden ratio</span><span class="val">~1.618</span>
+        <span class="sym">\(\ell_n\)</span><span class="def">n-loop QED correction, \(|C_n| \cdot (\alpha/\pi)^n\)</span><span class="val"></span>
       </div>
     </section>
   </div>
@@ -670,12 +730,12 @@ mjx-container[display="true"] { margin: 0 !important; }
     <p>What we're proposing is that there is, in fact, a comfortable background hum built into atomic structure that registers as the primordial sound, and that this frequency existed well in advance of voices and hearing developing like tuning forks around it.</p>
 
     <h3 class="section">The golden ratio is woo</h3>
-    <p>It's true, the golden ratio is a fav of the new age. It's renowned for being pretty, vaguely appearing in nature, cool for drawing spirals inside nested rectangles, but generally the laughing stock of physics. Still, it's not like it appears <em>nowhere</em> in physics – it appears in KAM theory, Siegel disks, critical circle maps, and phyllotaxis (reproduced in the lab with magnetized droplets), all for essentially the same mathematical reason we want to use it – it is a member of the class of numbers that is provably the most difficult to approximate using exclusively rational numbers. Natural frequencies like oscillations and orbits that bear this ratio are for this reason the <em>least</em> susceptible to resonance, which is precisely what destroys stability. So the golden ratio has this sort of super power when characterizing a frequency to make that frequency immortal (not quite, but still).</p>
+    <p>It's true, the golden ratio is a fav of the new age. It's renowned for being pretty, vaguely appearing in nature, cool for drawing spirals inside nested rectangles, but generally the laughing stock of physics. Still, it's not like it appears <em>nowhere</em> in physics – it appears in KAM theory, Siegel disks, critical circle maps, and phyllotaxis (reproduced in the lab with magnetized droplets), all for essentially the same mathematical reason we want to use it – it is a member of the class of numbers that is provably the most difficult to approximate using exclusively rational numbers. Natural frequencies like oscillations and orbits that bear this ratio are, for this reason, the least susceptible to <em>resonance</em>, which is precisely what destroys stability. Rational and near-rational frequencies resonate, resonance destroys stability – that's it. So the golden ratio has this sort of super power as a frequency – it's immortal (not quite, but still).</p>
     <p>Consider tapping a record as it rotates around a turntable, basically supplying some small amount of vertical motion at regular intervals. If you do this precisely once for every time around, the record will, subject to compounding influence, wobble out of control. Same for twice, half, and any other rational such frequency. Irrational frequencies – the square root of 2, for example – are more resistant because the taps never quite align – the influence doesn't compound as much. But even irrational frequencies can come <em>close</em> to combinations of rational ones, and that can have the same effect.</p>
     <p>Then there's the golden ratio. The golden ratio is among a class of the <em>most irrational</em> numbers, per Hurwitz's theorem. It is the last frequency to destabilize because the taps are so well distributed – alignment is extremely slow to accumulate. That's why this number is important to us – our spinning sphere creates an unfathomable sea of interference, in which pretty much all frequencies occur simultaneously, and resonance destroys almost all patterns. So what survives? We expect the stable images that arise from our sea of interference to carry the signature of the golden ratio unfailingly.</p>
 
     <h3 class="section">How can the human-defined volt have anything to do with the hidden geometry of the universe?</h3>
-    <p>This is a tricky one, and it confounded us for a long time. It's not precisely that the electron volt itself matters, it's the energy relationship implicit in relating the electron volt to Planck's constant, h. eV / h is a frequency – ~241 THz – and our claim is that it's an important one, in that it characterizes the atomic ground state. Furthermore, we ultimately claim that the numeric value of the energy used in ground state calculations in electron volts – ~13.60569 – exists as a pure ratio, on account of the way h is baked into the ground state, including the “ground state” of the entire universe known as the vacuum expectation value. This is an energetic value that pervades the universe, registering everywhere with precisely the same value, about 246 GeV, which we also propose can drop its units in certain contexts. Ascribing natural significance to numbers normally associated with volts is disorienting, but it isn't to mean that the volt was divinely granted or coincidentally perfect.</p>
+    <p>This is a tricky one, and it confounded us for a long time. It's not precisely that the electron volt itself matters, it's the energy relationship implicit in relating the electron volt to Planck's constant, h. eV / h is a frequency – ~241 THz – and our claim is that it's an important one, in that it characterizes the atomic ground state. Furthermore, we ultimately claim that the numeric value of the energy used in ground state calculations in electron volts – ~13.60569 – exists as a pure ratio, on account of the way h is baked into the ground state, including the “ground state” of the entire universe known as the vacuum expectation value. This is an energetic value that pervades the universe, registering everywhere with precisely the same value, about 246 GeV, which we also propose can drop its units in certain contexts. Ascribing natural significance to numbers normally associated with volts is disorienting, but it isn't to mean that the volt was divinely granted or coincidentally perfect. It's a bookkeeping feature.</p>
 
     <h3 class="section">An explanation for the fine structure constant? Large number hypotheses? Seriously? They already tried that</h3>
     <p>It wouldn't be unheard of to spend a decade or more chasing down numerical coincidences about the universe unsuccessfully. Some guy named Eddington famously did so in search of a geometric explanation for the fine structure constant, the dimensionless ratio around 1/137 that shows up all over nature, including the speed ratio between an electron in the ground state of an atom and light in a vacuum. He never decisively landed a satisfying conclusion. Paul Dirac, an otherwise brilliant physicist, sunk a lot of time on what is now known as his large number hypothesis, the idea that nature's largest ratios – the strength of gravity versus the strength of electromagnetism, for example, or atomic-scale radii versus that of the whole universe – must be related somehow. These efforts are usually labeled numerology, a derogatory term about a cautionary tale regarding a decidedly unscientific endeavor that yeah, go ahead, call it whatever you want, is definitely not physics.</p>
@@ -952,6 +1012,86 @@ mjx-container[display="true"] { margin: 0 !important; }
   <div class="prose">
     <p class="draft">The top corresponds to light speed, the bottom to speed of sound – this is the sphere.</p>
   </div>
+
+  <div class="prose">
+    <h2 class="part">Appendix: notation under review</h2>
+    <p class="draft">Candidate ways of writing the fine structure card, for comparison in context. Not yet part of the argument.</p>
+  </div>
+
+  <section class="card inline">
+    <h2><span>Current: anchor as the third leg</span></h2>
+    <div class="equation">$$L^3 = 40^4 \hyp{R} 8^6 \hyp{R} \frac{4\pi \cdot L}{2\,\varphi}$$</div>
+  </section>
+
+  <section class="card inline">
+    <h2><span>Anchor moved across: bulk with the 7d infusion removed, equals boundary content</span></h2>
+    <div class="equation">$$L^3 \leg{R} \frac{4\pi \cdot L}{2\,\varphi} = 40^4 \hyp{R} 8^6$$</div>
+    <div class="terms">
+      <span class="sym">\(\hyp{R}\)</span><span class="def">hypotenuse on a sphere of felt radius \(R\)</span><span class="val"></span>
+      <span class="sym">\(\leg{R}\)</span><span class="def">leg on a sphere of felt radius \(R\), \(a \leg{R} b = R \cdot \arccos\left(\frac{\cos(a/R)}{\cos(b/R)}\right)\)</span><span class="val"></span>
+      <span class="sym">flat</span><span class="def">\(a \leg{} b = \sqrt{a^2 - b^2}\)</span><span class="val"></span>
+    </div>
+  </section>
+
+  <section class="card inline">
+    <h2><span>Option A: the seven infusions as the loop series</span></h2>
+    <div class="equation">$$L^3 \leg{R} \frac{1}{\varphi\,(\ell_1 + \ell_2 + \cdots + \ell_7)} = 40^4 \hyp{R} 8^6$$</div>
+    <div class="terms">
+      <span class="sym">\(L\)</span><span class="def">inverse fine structure constant, \(1/\alpha\)</span><span class="val">~137.036</span>
+      <span class="sym">\(\ell_n\)</span><span class="def">n-loop QED correction, \(|C_n| \cdot (\alpha/\pi)^n\)</span><span class="val"></span>
+      <span class="sym">\(\varphi\)</span><span class="def">phi, the golden ratio</span><span class="val">~1.618</span>
+      <span class="sym">\(\leg{R}\)</span><span class="def">leg on a sphere of felt radius \(R\)</span><span class="val"></span>
+      <span class="sym">\(\hyp{R}\)</span><span class="def">hypotenuse on a sphere of felt radius \(R\)</span><span class="val"></span>
+    </div>
+    <div class="derived">
+      <span class="lead">with one loop alone, the term is the Schwinger correction, inverted, over φ</span>
+      <div class="tex">$$\frac{4\pi \cdot L}{2\,\varphi} = \frac{1}{\varphi\,\ell_1}, \qquad \ell_1 = \frac{\alpha}{2\pi}$$</div>
+    </div>
+    <div class="loop-wrap">
+      <table class="loop-table">
+        <thead><tr><th>\(k\)</th><th>QED coefficient \(C_k\)</th><th>\(\ell_k = |C_k| (\alpha/\pi)^k\)</th></tr></thead>
+        <tbody>
+          <tr><td>1</td><td>+0.5</td><td>1.16 × 10⁻³</td></tr>
+          <tr><td>2</td><td>−0.328</td><td>1.77 × 10⁻⁶</td></tr>
+          <tr><td>3</td><td>+1.181</td><td>1.48 × 10⁻⁸</td></tr>
+          <tr><td>4</td><td>−1.912</td><td>5.57 × 10⁻¹¹</td></tr>
+          <tr><td>5</td><td>≈ +6.7</td><td>4.6 × 10⁻¹³</td></tr>
+          <tr class="est"><td>6</td><td>not yet computed</td><td>~10⁻¹⁶</td></tr>
+          <tr class="est"><td>7</td><td>not yet computed</td><td>~10⁻¹⁹</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="loop-note">Solving for L: one loop alone gives 0.08σ from CODATA; all five computed loops summed with |C<sub>k</sub>|, as in the ground state card, give 0.06σ; with signed C<sub>k</sub>, 0.23σ.</div>
+  </section>
+
+  <section class="card inline">
+    <h2><span>Option B: the same, as a sum</span></h2>
+    <div class="equation">$$L^3 \leg{R} \left( \varphi \sum_{k=1}^{7} \ell_k \right)^{-1} = 40^4 \hyp{R} 8^6$$</div>
+    <div class="terms">
+      <span class="sym">\(\ell_k\)</span><span class="def">k-loop QED correction, \(|C_k|(\alpha/\pi)^k\)</span><span class="val"></span>
+      <span class="sym">\(\sum_{k=1}^{7}\)</span><span class="def">the corrections accumulate; their total, inverted over φ, is the leg</span><span class="val"></span>
+    </div>
+  </section>
+
+  <section class="card inline">
+    <h2><span>Ground state energy ratio, expanded</span><span class="ratio">~1.0000027 : 1</span></h2>
+    <div class="equation">$$\frac{h \cdot c}{\underbrace{4\pi \cdot r_e \cdot L^3}_{\lambda_r} \cdot \frac{160}{4\pi} \cdot \frac{1}{\sqrt{7}} \cdot \frac{1}{\varphi^{\frac{1}{160}\cdot\frac{1}{7}}} \cdot \sqrt{8} \cdot \text{eV}} = 1 \hyp{} 2\,(\ell_1 + \ell_2 + \cdots + \ell_7)$$</div>
+    <div class="derived">
+      <span class="lead">the 4π's cancel, so the wishdrops wavelength is 160 classical electron radii, times L³</span>
+      <div class="tex">$$\lambda_{vv} = 160 \cdot r_e \cdot L^3 \qquad\Longrightarrow\qquad \frac{h \cdot c \cdot \sqrt{7} \cdot \varphi^{\frac{1}{160}\cdot\frac{1}{7}}}{160 \cdot r_e \cdot L^3 \cdot \sqrt{8} \cdot \text{eV}} = 1 \hyp{} 2\,(\ell_1 + \ell_2 + \cdots + \ell_7)$$</div>
+    </div>
+    <div class="terms">
+      <span class="sym">\(h\)</span><span class="def">Planck's constant</span><span class="val"></span>
+      <span class="sym">\(c\)</span><span class="def">speed of light</span><span class="val"></span>
+      <span class="sym">\(r_e\)</span><span class="def">classical electron radius</span><span class="val">2.82 × 10⁻¹⁵ m</span>
+      <span class="sym">\(L\)</span><span class="def">inverse fine structure constant, \(1/\alpha\)</span><span class="val"></span>
+      <span class="sym">\(\lambda_r\)</span><span class="def">Rydberg wavelength, \(1/R_\infty = 4\pi \cdot r_e \cdot L^3\)</span><span class="val">~91 nm</span>
+      <span class="sym">\(\varphi\)</span><span class="def">phi, the golden ratio</span><span class="val">~1.618</span>
+      <span class="sym">\(\text{eV}\)</span><span class="def">one electron volt</span><span class="val"></span>
+      <span class="sym">\(\ell_n\)</span><span class="def">n-loop QED correction, \(|C_n| \cdot (\alpha/\pi)^n\)</span><span class="val"></span>
+    </div>
+  </section>
+
 
 
 
