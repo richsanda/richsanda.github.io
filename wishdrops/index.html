@@ -50,6 +50,7 @@ window.MathJax = {
   --fig-a: #D9E1F8;
   --fig-b: #ECE1F7;
   --fig-c: #DCEDEA;
+  --py-a: #3B6FD8; --py-b: #8A4FC8; --py-c: #1F9A80;
   --drawing-filter: none;
 
   --display: "Bodoni Moda", "Didot", "Bodoni 72", Georgia, serif;
@@ -61,7 +62,7 @@ window.MathJax = {
     --paper: #0F1222; --ink: #E4E6F2; --muted: #9AA0C0; --rule: #2A2F4A;
     --card: #171B30; --card-edge: #2F3556;
     --drawing-blend: screen; --drawing-filter: invert(1);
-    --fig-a: #27325C; --fig-b: #3A2D57; --fig-c: #1E3B3B;
+    --fig-a: #27325C; --fig-b: #3A2D57; --fig-c: #1E3B3B; --py-a: #7FA2F0; --py-b: #B98BEA; --py-c: #5CC9B0;
     color-scheme: dark;
   }
 }
@@ -69,7 +70,7 @@ window.MathJax = {
   --paper: #0F1222; --ink: #E4E6F2; --muted: #9AA0C0; --rule: #2A2F4A;
   --card: #171B30; --card-edge: #2F3556;
     --drawing-blend: screen; --drawing-filter: invert(1);
-    --fig-a: #27325C; --fig-b: #3A2D57; --fig-c: #1E3B3B;
+    --fig-a: #27325C; --fig-b: #3A2D57; --fig-c: #1E3B3B; --py-a: #7FA2F0; --py-b: #B98BEA; --py-c: #5CC9B0;
   color-scheme: dark;
 }
 
@@ -301,6 +302,33 @@ h1 {
 .widget-svg .sq-b { fill: var(--fig-b); stroke: var(--ink); stroke-width: 1.25; }
 .widget-svg .sq-c { fill: var(--fig-c); stroke: var(--ink); stroke-width: 1.25; }
 .widget-svg .frame { fill: none; stroke: var(--ink); stroke-width: 2; }
+.widget-svg .ov-a { fill: var(--py-a); fill-opacity: 0.26; stroke: var(--py-a); stroke-width: 1.5; }
+.widget-svg .ov-b { fill: var(--py-b); fill-opacity: 0.26; stroke: var(--py-b); stroke-width: 1.5; }
+.widget-svg .ov-c { fill: var(--py-c); fill-opacity: 0.26; stroke: var(--py-c); stroke-width: 2; stroke-linejoin: round; }
+.widget-svg .ov-diag { stroke: var(--ink); stroke-width: 1.25; stroke-dasharray: 5 4; opacity: 0.7; }
+.widget canvas { display: block; width: 100%; height: auto; border-radius: 6px; }
+.widget .controls button.play {
+  font: inherit; color: var(--ink); background: var(--card); border: 1px solid var(--rule);
+  border-radius: 999px; padding: 0.25rem 0.9rem; cursor: pointer;
+}
+.widget .controls button.play:hover { border-color: var(--muted); }
+.widget .controls .hint { color: var(--muted); }
+.fig-svg .ray { stroke: var(--muted); stroke-width: 1.25; }
+.fig-svg .brace { fill: none; stroke: var(--py-c); stroke-width: 2; stroke-linejoin: round; }
+.fig-svg .pt { fill: var(--ink); }
+.fig-svg .pt-muted { fill: var(--muted); }
+.fig-svg .vec { stroke: var(--ink); stroke-width: 2.25; }
+.fig-svg .front { fill: none; stroke: var(--py-c); stroke-width: 1.5; transform-box: fill-box; transform-origin: center; }
+.fig-svg .front-pt { fill: var(--py-b); fill-opacity: 0.4; }
+.fig-svg .sink-front { animation: sink-front 3.6s linear infinite; }
+.fig-svg .source-front { animation: source-front 3.6s linear infinite; }
+@keyframes sink-front { from { transform: scale(1); opacity: 0; } 15% { opacity: 0.55; } to { transform: scale(0.08); opacity: 0.1; } }
+@keyframes source-front { from { transform: scale(0.08); opacity: 0.1; } 85% { opacity: 0.55; } to { transform: scale(1); opacity: 0; } }
+@media (prefers-reduced-motion: reduce) {
+  .fig-svg .sink-front, .fig-svg .source-front { animation: none; opacity: 0.45; }
+  .fig-svg .front.f1 { transform: scale(0.66); }
+  .fig-svg .front.f2 { transform: scale(0.33); }
+}
 .widget-svg .area { font-family: var(--body); font-size: 18px; fill: var(--ink); }
 .widget-svg .edge { font-family: var(--body); font-style: italic; font-size: 15px; fill: var(--ink); }
 .widget .controls {
@@ -320,6 +348,7 @@ h1 {
 .widget-svg.square .axis { font-size: 18px; }
 .widget .controls input[type=range] { flex: 1 1 10rem; min-width: 0; accent-color: var(--ink); }
 .widget .controls output { color: var(--ink); font-variant-numeric: tabular-nums; white-space: nowrap; }
+#sv-out { white-space: normal; flex: 1 1 100%; }
 .widget .controls input:focus-visible { outline: 2px solid var(--ink); outline-offset: 3px; }
 
 .ladders { padding: 1.1rem 1.4rem 1.3rem; overflow-x: auto; }
@@ -885,31 +914,38 @@ mjx-container[display="true"] { margin: 0 !important; }
 
   <div class="prose">
     <p>Indeed, something would have to give in this picture, either how the 3-sphere is “sliced” or the nature of inner earth (or both).</p>
+    <p>We suggested visualizing a 3-sphere as a shrinking 2-sphere and its hidden compensation. These parts complement each other to achieve the full radius. Note, however, they do not combine via pure addition, since they don't align with each other. In fact, they are as far from alignment as possible, in that the line from the origin to the 2-sphere meets the hidden compensation at a right angle. This relationship implies “quadrature,” or the calculation of the hypotenuse of a right triangle. For this we need the pythagorean theorem.</p>
     <h3 class="section">The pythagorean theorem</h3>
-    <p>In our 3-sphere, we suggested a visualization of two components – the shrinking 2-sphere and the hidden compensation. We furthermore suggested these two parts combine to achieve the full radius. Note, however, they do not combine via pure addition, since they don't align with each other. In fact, they are as far from alignment as possible, in that the components meet at a right angle, as shown in the interactive diagram above. This relationship implies they combine in “quadrature.” That's the calculation of the hypotenuse of a right triangle, which calls for use of the pythagorean theorem – \(a^2 + b^2 = c^2\).</p>
+    <p>The pythagorean theorem is this one:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$a^2 + b^2 = c^2$$</div>
+  </section>
+
+  <div class="prose">
+    <p>Here's a diagram that sort of shows why it works – note the 4 triangles around the c square and the two triangle pairs that meet where the a and b squares do account for the same area deficit to the overall square, thus support the equality:</p>
   </div>
 
   <figure class="widget" id="pythagoras">
-    <div class="spectrum-scroll">
-      <svg viewBox="0 0 720 320" role="img" aria-labelledby="py-title py-desc" class="widget-svg" id="py-svg">
-        <title id="py-title">Pythagoras by rearrangement</title>
-        <desc id="py-desc">Two equal squares of side a plus b. On the left, four copies of the same right triangle sit in the corners, each turned 90 degrees from the last, leaving a tilted square of area c squared in the middle. On the right, the same four triangles are paired into two rectangles in opposite corners, leaving squares of area a squared and b squared. Dragging the meeting point changes the triangle's proportions.</desc>
-        <g id="py-left"></g>
-        <g id="py-right"></g>
-        <circle id="py-h" r="7" class="handle"/>
-      </svg>
-    </div>
+    <svg viewBox="0 0 400 400" role="img" aria-labelledby="py-title py-desc" class="widget-svg square" id="py-svg">
+      <title id="py-title">Pythagoras, both arrangements at once</title>
+      <desc id="py-desc">One square of side a plus b holding both classic arrangements of the same right triangle, overlaid. The tilted square of area c squared is formed by four triangles in the corners, each turned 90 degrees from the last. The squares of area a squared and b squared sit on the diagonal, with the same triangles paired into two rectangles in the remaining corners; one triangle is shared by both arrangements. The squares are translucent, so where c squared overlaps a squared and b squared the colors mix. The handle sits where a meets b and slides along the diagonal, changing the triangle's proportions.</desc>
+      <g id="py-g"></g>
+      <circle id="py-h" r="8" class="handle"/>
+    </svg>
     <div class="controls">
-      <label for="py-range">Meeting point</label>
+      <label for="py-range">Where a meets b</label>
       <input type="range" id="py-range" min="12" max="88" step="any" value="42.857">
       <output id="py-out" for="py-range"></output>
     </div>
   </figure>
 
   <div class="prose">
+    <p>This works for a and b of any length, but we tend to focus on a simple pattern reliant upon a very simple base leg length – 1.</p>
     <h3 class="section">√n and 1 / √n</h3>
-    <p>A unit vector is a vector of length 1. It is commonly used to simplify math involving vectors – just factor out the real length of the vector, do all the math, then multiply the original length back in later. Or, in the case of ratios, where true values cancel, there's no need to carry true values through the calculations at all.</p>
-    <p>In the case that no direction is preferred, the math suggests combining unit vectors in quadrature in the number of available dimensions to obtain the magnitude of the overall vector, otherwise known as the “norm.”</p>
+    <p>A unit vector is a vector of length 1. It is commonly used to simplify math involving vectors – just factor out the real length of the vector, do all the math, then multiply the original length back in later. Or, in the case of ratios, where true values effectively cancel, there's no need to carry values at all – units appear naturally.</p>
+    <p>Combining unit vectors in quadrature has a special application – systems that combine many vectors but prefer no direction. In this setup, directionality washes out, leaving only a vector magnitude, or norm, dictated by the number of available directions. Each direction counts once equally, and so the norm is calculated by adding one unit vector per dimension.</p>
     <p>Here are the norms in n dimensions for n in 1 through 9. Because each component of each overall vector is just one extra, orthogonal appendage of length 1, these can be constructed iteratively – start with 1, then calculate \(\sqrt{1^2 + 1^2} = \sqrt{2}\), then, similarly, \(\sqrt{(\sqrt{2})^2 + 1^2} = \sqrt{3}\), and so on:</p>
   </div>
 
@@ -946,7 +982,7 @@ mjx-container[display="true"] { margin: 0 !important; }
   </section>
 
   <div class="prose">
-    <p>Another way to visualize is to note that the full extent of combining unit vectors end on end can be divided by the number of unit vectors, yielding a sort of “wavelength” as \(\sqrt{n} / n = 1 / \sqrt{n}\) in n dimensions:</p>
+    <p>A way to visualize this relationship is to note that the full extent of combining unit vectors end on end can be divided by the number of unit vectors. This means every √n has an inverse with geometric implications – \(\sqrt{n} / n = 1 / \sqrt{n}\) in n dimensions:</p>
   </div>
 
   <figure class="drawing-fig" id="1-2-3-vectors">
@@ -957,11 +993,157 @@ mjx-container[display="true"] { margin: 0 !important; }
     </div>
   </figure>
 
+  <figure class="widget" id="spin-vectors">
+    <canvas id="sv-canvas" width="1280" height="800" role="img" aria-label="Side view of an n-dimensional cube of unit edges spinning about its long diagonal, which lies horizontal. A highlighted path of n unit edges, one per dimension, runs end to end along the diagonal of length √n; each edge projects onto the diagonal with length 1/√n, marked by ticks. Choose n from 1 to 9."></canvas>
+    <div class="controls">
+      <label for="sv-n">Dimensions</label>
+      <input type="range" id="sv-n" min="1" max="9" step="1" value="3">
+      <button type="button" class="play" id="sv-play" aria-pressed="true">Pause</button>
+      <output id="sv-out" for="sv-n"></output>
+    </div>
+  </figure>
+
   <div class="prose">
-    <p class="draft">Need to describe how contributing dimensions go in the numerator, frame dimensions go in the denominator, how this enables changing speeds, changing frequencies, curvatures, etc.</p>
-    <p class="draft">Also need to describe how local coherence can occur once local conditions are pinned down from the global incoherence.</p>
+    <p>This pattern continues forever – large counts of dimensions produce ever larger norms and ever smaller norm contributions per dimension.</p>
 
     <h3 class="section">The golden ratio</h3>
+    <p>We mentioned that the golden ratio is crucial to our proposal. But what is it, like, mathematically ? Put simply, it's the ratio of rectangular sides that, when a square forms off the larger of the two sides, results in a larger rectangle, containing the original and the square, that has the same ratio of sides. This can be drawn:</p>
+  </div>
+
+  <figure class="widget" id="golden-rects">
+    <canvas id="gr-canvas" width="1280" height="824" role="img" aria-label="Golden rectangles nested forever: each golden rectangle splits into a square and a smaller golden rectangle turned a quarter turn, with a quarter-circle arc in each square tracing the golden spiral. The view zooms endlessly into the spiral's center."></canvas>
+    <div class="controls">
+      <button type="button" class="play" id="gr-play" aria-pressed="true">Pause</button>
+      <span class="hint">each quarter turn zooms in by a factor of φ</span>
+    </div>
+  </figure>
+
+  <div class="prose">
+    <p>And easily expressed algebraically, assuming here a is the short side and b is the long one:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$\frac{b}{a} = \frac{a + b}{b}$$</div>
+  </section>
+
+  <div class="prose">
+    <p>This can be solved algebraically exactly:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="steps">
+      <div class="step"><div>Call the ratio \(x = b / a\). The right side splits as \(\dfrac{a + b}{b} = \dfrac{a}{b} + 1 = \dfrac{1}{x} + 1\).</div></div>
+      <div class="step"><div>So \(x = \dfrac{1}{x} + 1\), and multiplying through by \(x\) gives \(x^2 = 1 + x\).</div></div>
+      <div class="step"><div>Rearranged: \(x^2 - x - 1 = 0\).</div></div>
+      <div class="step"><div>The quadratic formula: \(x = \dfrac{1 \pm \sqrt{1 + 4}}{2} = \dfrac{1 \pm \sqrt{5}}{2}\).</div></div>
+    </div>
+  </section>
+
+  <div class="prose">
+    <p>Note there are two solutions – the golden ratio and its conjugate (the “minus” version):</p>
+  </div>
+
+  <section class="card inline">
+    <div class="terms">
+      <span class="sym">\(\varphi\)</span><span class="def">\((1 + \sqrt{5}) / 2\)</span><span class="val">~1.618</span>
+      <span class="sym">\(\bar{\varphi}\)</span><span class="def">\((1 - \sqrt{5}) / 2\)</span><span class="val">~-0.618</span>
+    </div>
+  </section>
+
+  <div class="prose">
+    <p>Now due to its formulation, it also has a continuing fraction form:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$\begin{aligned} \varphi &= 1 + \frac{1}{\varphi} \\[4pt] \varphi &= 1 + \cfrac{1}{1 + \cfrac{1}{\varphi}} \\[4pt] \varphi &= 1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{\varphi}}} \\ &\;\;\vdots \end{aligned}$$</div>
+  </section>
+
+  <div class="prose">
+    <p>This is sometimes written as:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$\varphi = [1; 1, 1, 1, 1, \ldots]$$</div>
+    <div class="terms">
+      <span class="sym">\([a_0; a_1, a_2, \ldots]\)</span><span class="def">shorthand for \(a_0 + 1 / (a_1 + 1 / (a_2 + \cdots))\)</span><span class="val"></span>
+    </div>
+  </section>
+
+  <div class="prose">
+    <p>And this number is famously what the Fibonacci series converges to if we alternately add and subtract:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$\varphi = 1 + \frac{1}{1 \cdot 1} - \frac{1}{1 \cdot 2} + \frac{1}{2 \cdot 3} - \frac{1}{3 \cdot 5} + \frac{1}{5 \cdot 8} - \frac{1}{8 \cdot 13} + \cdots$$</div>
+    <div class="terms">
+      <span class="sym">\(F_n\)</span><span class="def">Fibonacci numbers, each the sum of the two before</span><span class="val">1, 1, 2, 3, 5, 8, 13, …</span>
+      <span class="sym">partial sums</span><span class="def">the ratios \(F_{n+1} / F_n\), landing alternately above and below \(\varphi\)</span><span class="val">2, 3/2, 5/3, 8/5, …</span>
+    </div>
+  </section>
+
+  <div class="prose">
+    <p>One more cool way to understand the golden ratio is that if you draw a succession of points each φ times further from the origin than the last, the separation between two adjacent points (n and n+1) equals the separation between the first of the two and its predecessor's predecessor (n and n-2):</p>
+  </div>
+
+  <figure class="fig-svg" id="phi-points">
+    <div class="spectrum-scroll">
+      <svg viewBox="0 0 720 196" role="img" aria-labelledby="pp-title pp-desc">
+        <title id="pp-title">Points spaced by powers of φ</title>
+        <desc id="pp-desc">Points along a ray from the origin, each φ times farther out than the last. Brackets show that the gap between point n and point n plus 1 equals the gap between point n and point n minus 2; both equal φ to the power n minus 1.</desc>
+        <defs><marker id="pp-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" class="arrowhead"/></marker></defs>
+        <line x1="36" y1="104" x2="704" y2="104" class="ray" marker-end="url(#pp-arrow)"/><circle cx="36" cy="104" r="3.5" class="pt-muted"/><text x="36" y="126" class="axis" text-anchor="middle">0</text><circle cx="94.0" cy="104" r="5" class="pt-muted"/><circle cx="129.8" cy="104" r="5" class="pt"/><text x="129.8" y="128" class="axis" text-anchor="middle">p(n−2)</text><circle cx="187.8" cy="104" r="5" class="pt"/><text x="187.8" y="128" class="axis" text-anchor="middle">p(n−1)</text><circle cx="281.7" cy="104" r="5" class="pt"/><text x="281.7" y="128" class="axis" text-anchor="middle">p(n)</text><circle cx="433.5" cy="104" r="5" class="pt"/><text x="433.5" y="128" class="axis" text-anchor="middle">p(n+1)</text><circle cx="679.2" cy="104" r="5" class="pt-muted"/><path d="M281.7,87.0 Q281.7,78.0 290.7,78.0 L348.6,78.0 Q357.6,78.0 357.6,69.0 Q357.6,78.0 366.6,78.0 L424.5,78.0 Q433.5,78.0 433.5,87.0" class="brace"/><text x="357.6" y="60" class="axis" text-anchor="middle">p(n+1) − p(n)</text><path d="M129.8,135.0 Q129.8,144.0 138.8,144.0 L196.8,144.0 Q205.8,144.0 205.8,153.0 Q205.8,144.0 214.8,144.0 L272.7,144.0 Q281.7,144.0 281.7,135.0" class="brace"/><text x="205.8" y="174" class="axis" text-anchor="middle">p(n) − p(n−2)</text><text x="566.4" y="174" class="axis" text-anchor="middle">both = φ<tspan dy="-6" font-size="10">n−1</tspan></text>
+      </svg>
+    </div>
+  </figure>
+
+  <div class="prose">
+    <p>As a formula:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$\varphi = \frac{p(n + 1)}{p(n)}, \qquad p(n + 1) - p(n) = p(n) - p(n - 2)$$</div>
+    <div class="terms">
+      <span class="sym">\(p(n)\)</span><span class="def">distance of point n from the origin, \(\varphi^n\)</span><span class="val"></span>
+    </div>
+  </section>
+
+  <div class="prose">
+    <h3 class="section">Piecing it all together</h3>
+    <p>We don't take a strong or formal position on the dynamics that lend to the “spin sea” on our sphere, but spin is a fairly intuitive concept, so we'll use it for now. We tend to say that each orthogonal 2-plane – each 1-sphere, or circle, in other words, accounting for 2 dimensions of space, even if we don't ultimately care about the surrounding space – spins at the same rate as all others. And since we don't care about the surrounding space, the only way these spins register is in relation to another spin on the sphere. Now spins can combine and they can separate at seams, or nodes, thereby giving the appearance of speeding up or slowing down, and if we assume all spins are orthogonal, then we can use our unit vector math to simplify analysis. Spins that converge or “sink” into a frame will contribute to making it move faster relative to a frame; spins that spread or “source” from a frame will slow the separation of points on that frame.</p>
+  </div>
+
+  <figure class="fig-svg" id="sink-source">
+    <div class="spectrum-scroll">
+      <svg viewBox="0 0 720 300" role="img" aria-labelledby="ss-title ss-desc">
+        <title id="ss-title">Sink and source</title>
+        <desc id="ss-desc">Left: four orthogonal arrows pushing together into a single point, with circular fronts contracting toward it, labeled sink. Right: four orthogonal arrows flowering apart from a center, with circular fronts expanding outward and four translucent points around the center marking where the fronts separate, labeled source.</desc>
+        <defs><marker id="ss-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" class="arrowhead"/></marker></defs>
+        <circle cx="190" cy="150" r="120" class="front sink-front f0" style="animation-delay:0.0s"/><circle cx="190" cy="150" r="120" class="front sink-front f1" style="animation-delay:-1.2s"/><circle cx="190" cy="150" r="120" class="front sink-front f2" style="animation-delay:-2.4s"/><circle cx="530" cy="150" r="120" class="front source-front f0" style="animation-delay:0.0s"/><circle cx="530" cy="150" r="120" class="front source-front f1" style="animation-delay:-1.2s"/><circle cx="530" cy="150" r="120" class="front source-front f2" style="animation-delay:-2.4s"/>
+        <line x1="308.0" y1="150.0" x2="224.0" y2="150.0" class="vec" marker-end="url(#ss-arrow)"/><line x1="190.0" y1="268.0" x2="190.0" y2="184.0" class="vec" marker-end="url(#ss-arrow)"/><line x1="72.0" y1="150.0" x2="156.0" y2="150.0" class="vec" marker-end="url(#ss-arrow)"/><line x1="190.0" y1="32.0" x2="190.0" y2="116.0" class="vec" marker-end="url(#ss-arrow)"/><line x1="564.0" y1="150.0" x2="648.0" y2="150.0" class="vec" marker-end="url(#ss-arrow)"/><line x1="530.0" y1="184.0" x2="530.0" y2="268.0" class="vec" marker-end="url(#ss-arrow)"/><line x1="496.0" y1="150.0" x2="412.0" y2="150.0" class="vec" marker-end="url(#ss-arrow)"/><line x1="530.0" y1="116.0" x2="530.0" y2="32.0" class="vec" marker-end="url(#ss-arrow)"/>
+        <circle cx="190" cy="150" r="6" class="pt"/>
+        <circle cx="544.0" cy="150.0" r="6" class="front-pt"/><circle cx="530.0" cy="164.0" r="6" class="front-pt"/><circle cx="516.0" cy="150.0" r="6" class="front-pt"/><circle cx="530.0" cy="136.0" r="6" class="front-pt"/>
+        <text x="190" y="290" class="axis" text-anchor="middle">sink</text>
+        <text x="530" y="290" class="axis" text-anchor="middle">source</text>
+      </svg>
+    </div>
+  </figure>
+
+  <div class="prose">
+    <p>We mentioned earlier that the golden ratio is a member of the class of most irrational numbers. This class includes any that have continuing fractions of the same form as the golden ratio and whose numerator sequence ends in all 1s.</p>
+  </div>
+
+  <section class="card inline">
+    <h2><span>Hurwitz's theorem</span></h2>
+    <div class="equation">$$\left| \, x - \frac{p}{q} \, \right| < \frac{1}{\sqrt{5}\; q^2}$$</div>
+    <div class="terms">
+      <span class="sym">\(x\)</span><span class="def">any irrational number</span><span class="val"></span>
+      <span class="sym">\(p / q\)</span><span class="def">infinitely many fractions meet the bound</span><span class="val"></span>
+      <span class="sym">\(\sqrt{5}\)</span><span class="def">can't be raised for the noble numbers, \([a_0; a_1, \ldots, a_k, 1, 1, 1, \ldots]\)</span><span class="val">~2.236</span>
+      <span class="sym">\(\sqrt{8}\)</span><span class="def">the next constant, once the noble numbers are set aside, e.g. \(\sqrt{2} = [1; 2, 2, 2, \ldots]\)</span><span class="val">~2.828</span>
+    </div>
+  </section>
+
+  <div class="prose">
     <p>The golden ratio is the norm of the sphere – the radius is phi. Need a radial potential that puts minima at phi and phi bar:</p>
   </div>
 
@@ -1223,58 +1405,218 @@ mjx-container[display="true"] { margin: 0 !important; }
     draw(+range.value);
   })();
 
-  /* ---- Pythagoras by rearrangement ---- */
+  /* ---- Pythagoras: both arrangements overlaid in one square ---- */
   (function () {
     var svg = document.getElementById('py-svg'); if (!svg) return;
-    var L = document.getElementById('py-left'), Rg = document.getElementById('py-right');
-    var H = document.getElementById('py-h'), range = document.getElementById('py-range'), out = document.getElementById('py-out');
-    var S = 240, LX = 60, RX = 420, Y = 34, UNITS = 7, NS = 'http://www.w3.org/2000/svg';
+    var G = document.getElementById('py-g'), H = document.getElementById('py-h');
+    var range = document.getElementById('py-range'), out = document.getElementById('py-out');
+    var S = 300, X = 50, Y = 50, UNITS = 7, NS = 'http://www.w3.org/2000/svg';
     function el(tag, attrs, text) {
       var e = document.createElementNS(NS, tag);
       for (var k in attrs) e.setAttribute(k, attrs[k]);
       if (text != null) e.textContent = text;
       return e;
     }
-    function poly(g, ox, pts, cls) {
-      g.appendChild(el('polygon', { points: pts.map(function (p) { return (ox + p[0]) + ',' + (Y + p[1]); }).join(' '), 'class': cls }));
-    }
-    function label(g, x, y, txt, cls) { g.appendChild(el('text', { x: x, y: y, 'class': cls, 'text-anchor': 'middle' }, txt)); }
+    function P(p) { return (X + p[0]) + ',' + (Y + p[1]); }
+    function poly(pts, cls) { G.appendChild(el('polygon', { points: pts.map(P).join(' '), 'class': cls })); }
+    function line(p, q, cls) { G.appendChild(el('line', { x1: X + p[0], y1: Y + p[1], x2: X + q[0], y2: Y + q[1], 'class': cls })); }
+    function label(x, y, txt, cls, anchor) { G.appendChild(el('text', { x: X + x, y: Y + y, 'class': cls, 'text-anchor': anchor || 'middle' }, txt)); }
     function draw(pct) {
       var a = S * pct / 100, b = S - a;
-      L.textContent = ''; Rg.textContent = '';
-      // left: four triangles turned 90° each time, c² in the middle
-      var P1 = [a, 0], P2 = [S, a], P3 = [S - a, S], P4 = [0, S - a];
-      poly(L, LX, [P1, P2, P3, P4], 'sq-c');
-      poly(L, LX, [[0, 0], P1, P4], 'pt-tri');
-      poly(L, LX, [[S, 0], P2, P1], 'pt-tri');
-      poly(L, LX, [[S, S], P3, P2], 'pt-tri');
-      poly(L, LX, [[0, S], P4, P3], 'pt-tri');
-      L.appendChild(el('rect', { x: LX, y: Y, width: S, height: S, 'class': 'frame' }));
-      label(L, LX + S / 2, Y + S / 2 + 7, 'c²', 'area');
-      label(L, LX + a / 2, Y - 10, 'a', 'edge'); label(L, LX + a + b / 2, Y - 10, 'b', 'edge');
-      // right: same triangles paired into two rectangles, leaving a² and b²
-      poly(Rg, RX, [[0, 0], [a, 0], [a, a], [0, a]], 'sq-a');
-      poly(Rg, RX, [[a, a], [S, a], [S, S], [a, S]], 'sq-b');
-      poly(Rg, RX, [[a, 0], [S, 0], [a, a]], 'pt-tri');
-      poly(Rg, RX, [[S, 0], [S, a], [a, a]], 'pt-tri');
-      poly(Rg, RX, [[0, a], [a, a], [0, S]], 'pt-tri');
-      poly(Rg, RX, [[a, a], [a, S], [0, S]], 'pt-tri');
-      Rg.appendChild(el('rect', { x: RX, y: Y, width: S, height: S, 'class': 'frame' }));
-      if (a > 34) label(Rg, RX + a / 2, Y + a / 2 + 7, 'a²', 'area');
-      if (b > 34) label(Rg, RX + a + b / 2, Y + a + b / 2 + 7, 'b²', 'area');
-      label(Rg, RX + a / 2, Y - 10, 'a', 'edge'); label(Rg, RX + a + b / 2, Y - 10, 'b', 'edge');
-      label(L, LX + S / 2, Y + S + 30, 'c² in the middle', 'axis');
-      label(Rg, RX + S / 2, Y + S + 30, 'a² and b² in the gaps', 'axis');
-      H.setAttribute('cx', LX + a); H.setAttribute('cy', Y);
+      G.textContent = '';
+      // a² and b² on the diagonal (second arrangement)
+      poly([[0, 0], [a, 0], [a, a], [0, a]], 'ov-a');
+      poly([[a, a], [S, a], [S, S], [a, S]], 'ov-b');
+      // c², the tilted square left by the four corner triangles (first arrangement)
+      poly([[a, 0], [S, a], [b, S], [0, b]], 'ov-c');
+      // the second arrangement's rectangles split into triangles; the top-right split
+      // runs along an edge of c², so that triangle is shared by both arrangements
+      line([0, a], [a, S], 'ov-diag');
+      G.appendChild(el('rect', { x: X, y: Y, width: S, height: S, 'class': 'frame' }));
+      // labels
+      if (a > 46) label(a / 2, a / 2 + 7, 'a²', 'area');
+      if (b > 46) label(a + b / 2, a + b / 2 + 7, 'b²', 'area');
+      if (a > 46 && b > 60) label((2 * a + S) / 3, 2 * a / 3 + 7, 'c²', 'area');
+      label(a / 2, -12, 'a', 'edge'); label(a + b / 2, -12, 'b', 'edge');
+      label(S + 12, a / 2 + 5, 'a', 'edge', 'start'); label(S + 12, a + b / 2 + 5, 'b', 'edge', 'start');
+      H.setAttribute('cx', X + a); H.setAttribute('cy', Y + a);
       var ua = UNITS * pct / 100, ub = UNITS - ua;
-      out.textContent = 'a² + b² = c² \u2003 ' + (ua * ua).toFixed(1) + ' + ' + (ub * ub).toFixed(1) + ' = ' + (ua * ua + ub * ub).toFixed(1);
+      out.textContent = 'a² + b² = c²   ' + (ua * ua).toFixed(1) + ' + ' + (ub * ub).toFixed(1) + ' = ' + (ua * ua + ub * ub).toFixed(1);
     }
+    function svgPoint(e) {
+      var pt = svg.createSVGPoint(); pt.x = e.clientX; pt.y = e.clientY;
+      return pt.matrixTransform(svg.getScreenCTM().inverse());
+    }
+    var on = false;
+    function move(e) {
+      if (!on) return;
+      var q = svgPoint(e);
+      // drag freely; the handle follows the nearest point on the diagonal
+      var t = ((q.x - X) + (q.y - Y)) / 2;
+      var pct = Math.min(88, Math.max(12, t / S * 100));
+      range.value = pct; draw(pct); e.preventDefault();
+    }
+    H.addEventListener('pointerdown', function (e) { on = true; try { H.setPointerCapture(e.pointerId); } catch (_) {} e.preventDefault(); });
+    H.addEventListener('pointermove', move);
+    H.addEventListener('pointerup', function () { on = false; });
+    H.addEventListener('pointercancel', function () { on = false; });
     range.addEventListener('input', function () { draw(+range.value); });
-    drag(svg, H, function (x) {
-      var pct = Math.min(88, Math.max(12, (x - LX) / S * 100));
-      range.value = pct; draw(pct);
-    });
     draw(+range.value);
+  })();
+
+  /* ---- shared: theme colors, reduced motion, run-only-when-visible ---- */
+  function themeVar(name) { return getComputedStyle(document.documentElement).getPropertyValue(name).trim(); }
+  var reduceMotion = false;
+  try { reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches; } catch (_) {}
+  function animator(canvas, button, step, render) {
+    var playing = !reduceMotion, visible = true, last = 0, raf = 0;
+    function setLabel() { button.textContent = playing ? 'Pause' : 'Play'; button.setAttribute('aria-pressed', playing ? 'true' : 'false'); }
+    function frame(ts) {
+      raf = 0;
+      var dt = last ? Math.min(0.1, (ts - last) / 1000) : 0; last = ts;
+      step(dt); render();
+      if (playing && visible) raf = requestAnimationFrame(frame); else last = 0;
+    }
+    function kick() { if (!raf && playing && visible) raf = requestAnimationFrame(frame); }
+    button.addEventListener('click', function () { playing = !playing; setLabel(); if (playing) kick(); else render(); });
+    if ('IntersectionObserver' in window) {
+      new IntersectionObserver(function (es) { visible = es[0].isIntersecting; if (visible) kick(); }).observe(canvas);
+    }
+    try { window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', render); } catch (_) {}
+    setLabel(); render(); kick();
+    return { render: render };
+  }
+
+  /* ---- Unit vectors end on end: an n-cube spinning about its long diagonal ---- */
+  (function () {
+    var canvas = document.getElementById('sv-canvas'); if (!canvas) return;
+    var ctx = canvas.getContext('2d'), Wc = 640, Hc = 400;
+    var nIn = document.getElementById('sv-n'), out = document.getElementById('sv-out'), btn = document.getElementById('sv-play');
+    var X0 = 150, W = 340, YC = 205, PHI = (1 + Math.sqrt(5)) / 2;
+    var n, verts, edges, theta = 0.9;
+    function setup() {
+      n = +nIn.value;
+      var N = 1 << n; verts = []; edges = [];
+      for (var v = 0; v < N; v++) {
+        var bits = [], k = 0;
+        for (var i = 0; i < n; i++) { bits.push((v >> i) & 1); k += (v >> i) & 1; }
+        // Helmert basis for the directions perpendicular to the diagonal
+        var perp = [];
+        for (var j = 1; j < n; j++) {
+          var s = 0; for (var i2 = 0; i2 < j; i2++) s += bits[i2];
+          perp.push((s - j * bits[j]) / Math.sqrt(j * (j + 1)));
+        }
+        verts.push({ k: k, perp: perp });
+        for (var i3 = 0; i3 < n; i3++) if (!((v >> i3) & 1)) edges.push([v, v | (1 << i3)]);
+      }
+      var r = Math.sqrt(n);
+      out.textContent = n === 1 ? 'n = 1 · the vector itself, length 1'
+        : 'n = ' + n + ' · diagonal √' + n + ' ≈ ' + r.toFixed(3) + ' · each step 1/√' + n + ' ≈ ' + (1 / r).toFixed(3);
+    }
+    function viewVector() {
+      // unit vector in the n−1 perpendicular directions plus one depth direction,
+      // turned by plane rotations at golden-ratio-spaced rates so it never repeats
+      var w = []; for (var i = 0; i < n; i++) w.push(i === 0 ? 1 : 0);
+      for (var j = 0; j < n - 1; j++) {
+        var a = theta * Math.pow(PHI, -j), c = Math.cos(a), s = Math.sin(a), x = w[j], y = w[j + 1];
+        w[j] = c * x - s * y; w[j + 1] = s * x + c * y;
+      }
+      return w;
+    }
+    function brace(x1, x2, y, up) {
+      var d = up ? -1 : 1, h = 8, m = (x1 + x2) / 2;
+      ctx.beginPath(); ctx.moveTo(x1, y - d * h);
+      ctx.quadraticCurveTo(x1, y, x1 + h, y); ctx.lineTo(m - h, y);
+      ctx.quadraticCurveTo(m, y, m, y + d * h); ctx.quadraticCurveTo(m, y, m + h, y);
+      ctx.lineTo(x2 - h, y); ctx.quadraticCurveTo(x2, y, x2, y - d * h); ctx.stroke();
+    }
+    function text(t, x, y, font, ink, halo) {
+      ctx.font = font; ctx.textAlign = 'center'; ctx.lineJoin = 'round';
+      ctx.lineWidth = 5; ctx.strokeStyle = halo; ctx.strokeText(t, x, y);
+      ctx.fillStyle = ink; ctx.fillText(t, x, y);
+    }
+    function render() {
+      var ink = themeVar('--ink'), card = themeVar('--card'), muted = themeVar('--muted'), acc = themeVar('--py-c');
+      var body = themeVar('--body') || 'serif';
+      ctx.setTransform(canvas.width / Wc, 0, 0, canvas.height / Hc, 0, 0);
+      ctx.fillStyle = card; ctx.fillRect(0, 0, Wc, Hc);
+      var unit = W / Math.sqrt(n), stepX = W / n, w = viewVector();
+      var P = verts.map(function (v) {
+        var y = 0; for (var j = 0; j < n - 1; j++) y += w[j] * v.perp[j];
+        return [X0 + v.k * stepX, YC - y * unit];
+      });
+      // the whole cube, faint
+      var a0 = Math.max(0.05, Math.min(0.45, 2.2 / Math.sqrt(Math.max(1, edges.length))));
+      ctx.strokeStyle = muted; ctx.globalAlpha = a0; ctx.lineWidth = 1; ctx.beginPath();
+      edges.forEach(function (e) { ctx.moveTo(P[e[0]][0], P[e[0]][1]); ctx.lineTo(P[e[1]][0], P[e[1]][1]); });
+      ctx.stroke(); ctx.globalAlpha = 1;
+      // the diagonal and its 1/√n ticks
+      ctx.strokeStyle = ink; ctx.lineWidth = 1.5;
+      ctx.beginPath(); ctx.moveTo(X0, YC); ctx.lineTo(X0 + W, YC); ctx.stroke();
+      for (var t = 0; t <= n; t++) { ctx.beginPath(); ctx.moveTo(X0 + t * stepX, YC - 4); ctx.lineTo(X0 + t * stepX, YC + 4); ctx.stroke(); }
+      // one unit vector per dimension, end on end
+      var path = [0]; for (var i = 0; i < n; i++) path.push(path[i] | (1 << i));
+      ctx.strokeStyle = acc; ctx.lineWidth = 2.75; ctx.lineJoin = 'round'; ctx.beginPath();
+      path.forEach(function (v, idx) { if (idx) ctx.lineTo(P[v][0], P[v][1]); else ctx.moveTo(P[v][0], P[v][1]); });
+      ctx.stroke();
+      ctx.fillStyle = acc; path.forEach(function (v) { ctx.beginPath(); ctx.arc(P[v][0], P[v][1], 3.5, 0, 2 * Math.PI); ctx.fill(); });
+      // brackets
+      ctx.strokeStyle = ink; ctx.lineWidth = 1.25;
+      brace(X0, X0 + W, YC - 16, true);
+      brace(X0, X0 + stepX, YC + 16, false);
+      var big = n === 1 ? '1' : '√' + n, small = n === 1 ? '1' : '1/√' + n;
+      text(big, X0 + W / 2, YC - 34, 'italic 22px ' + body, ink, card);
+      text(small, X0 + stepX / 2, YC + 48, 'italic 20px ' + body, ink, card);
+    }
+    setup();
+    var anim = animator(canvas, btn, function (dt) { theta += dt * 0.55; }, render);
+    nIn.addEventListener('input', function () { setup(); anim.render(); });
+  })();
+
+  /* ---- Golden rectangles, zooming forever into the spiral ---- */
+  (function () {
+    var canvas = document.getElementById('gr-canvas'); if (!canvas) return;
+    var ctx = canvas.getContext('2d'), Wc = 640, Hc = 412, btn = document.getElementById('gr-play');
+    var PHI = (1 + Math.sqrt(5)) / 2, M = 18, S0 = (Wc - 2 * M) / PHI;
+    // complex helpers: [re, im]
+    function mul(a, b) { return [a[0] * b[0] - a[1] * b[1], a[0] * b[1] + a[1] * b[0]]; }
+    function add(a, b) { return [a[0] + b[0], a[1] + b[1]]; }
+    function sub(a, b) { return [a[0] - b[0], a[1] - b[1]]; }
+    function cpow(r, ang) { return [r * Math.cos(ang), r * Math.sin(ang)]; }
+    // T(z) = φ + (i/φ)·z maps the big rectangle onto the leftover one; its fixed point is the spiral's eye
+    var den = [1, -1 / PHI], dd = den[0] * den[0] + den[1] * den[1];
+    var EYE = [PHI * den[0] / dd, -PHI * den[1] / dd];
+    var t = 0, cycle = 0;
+    function Tk(z, k) { return add(EYE, mul(cpow(Math.pow(PHI, -k), k * Math.PI / 2), sub(z, EYE))); }
+    function render() {
+      var ink = themeVar('--ink'), card = themeVar('--card');
+      var fills = [themeVar('--fig-a'), themeVar('--fig-b'), themeVar('--fig-c')], acc = themeVar('--py-c');
+      ctx.setTransform(canvas.width / Wc, 0, 0, canvas.height / Hc, 0, 0);
+      ctx.fillStyle = card; ctx.fillRect(0, 0, Wc, Hc);
+      var g = cpow(Math.pow(PHI, t), -t * Math.PI / 2);
+      function scr(z) { var w = add(EYE, mul(sub(z, EYE), g)); return [M + S0 * w[0], Hc - M - S0 * w[1]]; }
+      var sq = [[0, 0], [1, 0], [1, 1], [0, 1]];
+      for (var k = -4; k < 26; k++) {
+        if (S0 * Math.pow(PHI, t - k) < 0.6) break;
+        var pts = sq.map(function (z) { return scr(Tk(z, k)); });
+        ctx.beginPath(); pts.forEach(function (p, i) { if (i) ctx.lineTo(p[0], p[1]); else ctx.moveTo(p[0], p[1]); }); ctx.closePath();
+        ctx.fillStyle = fills[(((k + cycle) % 3) + 3) % 3]; ctx.fill();
+        ctx.strokeStyle = ink; ctx.lineWidth = 1.1; ctx.stroke();
+      }
+      // the spiral: a quarter circle in each square
+      ctx.strokeStyle = acc; ctx.lineWidth = 2.5; ctx.lineJoin = 'round'; ctx.beginPath();
+      var first = true;
+      for (var k2 = -4; k2 < 26; k2++) {
+        if (S0 * Math.pow(PHI, t - k2) < 0.6) break;
+        for (var s = 0; s <= 16; s++) {
+          var a = -(16 - s) / 16 * Math.PI / 2, z = add([1, 1], mul([0, -1], [Math.cos(a), Math.sin(a)]));
+          var p = scr(Tk(z, k2));
+          if (first) { ctx.moveTo(p[0], p[1]); first = false; } else ctx.lineTo(p[0], p[1]);
+        }
+      }
+      ctx.stroke();
+    }
+    animator(canvas, btn, function (dt) { t += dt / 4; if (t >= 1) { t -= 1; cycle++; } }, render);
   })();
 })();
 </script>
