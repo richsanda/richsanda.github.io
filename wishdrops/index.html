@@ -318,17 +318,11 @@ h1 {
 .fig-svg .pt { fill: var(--ink); }
 .fig-svg .pt-muted { fill: var(--muted); }
 .fig-svg .vec { stroke: var(--ink); stroke-width: 2.25; }
-.fig-svg .front { fill: none; stroke: var(--py-c); stroke-width: 1.5; transform-box: fill-box; transform-origin: center; }
-.fig-svg .front-pt { fill: var(--py-b); fill-opacity: 0.4; }
-.fig-svg .sink-front { animation: sink-front 3.6s linear infinite; }
-.fig-svg .source-front { animation: source-front 3.6s linear infinite; }
-@keyframes sink-front { from { transform: scale(1); opacity: 0; } 15% { opacity: 0.55; } to { transform: scale(0.08); opacity: 0.1; } }
-@keyframes source-front { from { transform: scale(0.08); opacity: 0.1; } 85% { opacity: 0.55; } to { transform: scale(1); opacity: 0; } }
-@media (prefers-reduced-motion: reduce) {
-  .fig-svg .sink-front, .fig-svg .source-front { animation: none; opacity: 0.45; }
-  .fig-svg .front.f1 { transform: scale(0.66); }
-  .fig-svg .front.f2 { transform: scale(0.33); }
-}
+.widget-svg .ghost { fill: none; stroke: var(--muted); stroke-width: 1; stroke-dasharray: 3 4; opacity: 0.6; }
+.widget-svg .vec { stroke: var(--ink); stroke-width: 2; }
+.widget-svg .arrowhead { fill: var(--ink); }
+.widget-svg .ss-dot { fill: var(--py-c); }
+#ss-out { white-space: normal; }
 .widget-svg .area { font-family: var(--body); font-size: 18px; fill: var(--ink); }
 .widget-svg .edge { font-family: var(--body); font-style: italic; font-size: 15px; fill: var(--ink); }
 .widget .controls {
@@ -394,7 +388,7 @@ mjx-container[display="true"] { margin: 0 !important; }
 
   <div class="prose">
     <h2 class="part">The wishdrops conjecture</h2>
-    <p><em>That were the universe but one spinning sphere</em>. A belief and a lament simultaneously. The belief is that a single sphere of infinite dimension, spinning forever with no preferred direction, is the energetic wellspring of the universe we experience. We call this <em>the wishdrops conjecture</em>. A simple, elegant, latent geometry underpins our vast, complex physical universe – that's our guess, at least. Particles, constellations, time, physics, even the sensory apparatus, right up to the <em>spirit window</em>, the <em>experiential aperture</em>, the seat of consciousness, whatever you want to call it, all <em>the unfolding shadow of a dynamic, holographic sphere</em>. Think of it as a very literal interpretation of the oft cited <em>“God is an infinite sphere whose center is everywhere and whose circumference is nowhere.”</em> This concept first appears around the 12th century, in the Latin text <em>The Book of Twenty-four Philosophers</em>, though it perhaps hovered in the contemplative ether for a long time before that. We wonder whether modern history misunderstands that it was meant as more than a metaphor. Like maybe the ancients knew something we have since lost.</p>
+    <p><em>That were the universe but one spinning sphere</em>. A belief and a lament simultaneously. The belief is that a single sphere of infinite dimension, spinning forever with no preferred direction, is the energetic wellspring of the universe we experience. We call this <em>the wishdrops conjecture</em>. A simple, elegant, latent geometry underpins our vast, complex physical universe – that's our guess, at least. Particles, constellations, time, physics, even the sensory apparatus, right up to the <em>spirit window</em>, the <em>experiential aperture</em>, the <em>seat of consciousness</em>, whatever you want to call it, all <em>the unfolding shadow of a dynamic, holographic sphere</em>. Think of it as a very literal interpretation of the oft cited <em>“God is an infinite sphere whose center is everywhere and whose circumference is nowhere.”</em> This concept first appears around the 12th century, in the Latin text <em>The Book of Twenty-four Philosophers</em>, though it perhaps hovered in the contemplative ether for a long time before that. We wonder whether modern history misunderstands that it was meant as more than a metaphor. Like maybe the ancients knew something we have since lost.</p>
     <p>The lament is how ineffective our explanation will be. At least we think so.</p>
     <p>Only one way to find out !</p>
     <p>We'll use math (mostly high school level), physics, and intuition to elaborate on our <em>pet ratios</em> – not dogs over cats, but principled comparisons between energies, lengths, and masses that give us a warm feeling inside when we think about the secret geometry behind them, even as we might have made it up. Hopefully that will break the ice. The idea is that these ratios are fingerprints of the otherwise unobservable, with suggestive, recurring signatures offering explanatory power, perhaps, but probably not much else. That is to say, there may be no new physics here – or maybe there is, but who cares, since we take real physics at face value and treat it as <em>evidence</em>, not something to overturn – nor proof of anything <em>true</em>, as it were, so let's be right up front about how we want the reader to treat the following semi-metaphysical discourse:</p>
@@ -1051,7 +1045,7 @@ mjx-container[display="true"] { margin: 0 !important; }
   </section>
 
   <div class="prose">
-    <p>Now due to its formulation, it also has a continuing fraction form:</p>
+    <p>Now due to its formulation, it also has a continued fraction form:</p>
   </div>
 
   <section class="card inline">
@@ -1059,11 +1053,11 @@ mjx-container[display="true"] { margin: 0 !important; }
   </section>
 
   <div class="prose">
-    <p>This is sometimes written as:</p>
+    <p>A continued fraction can be written as a number as a whole number plus 1 over (a whole number plus 1 over (…)), forever. For the golden ratio this looks like:</p>
   </div>
 
   <section class="card inline">
-    <div class="equation">$$\varphi = [1; 1, 1, 1, 1, \ldots]$$</div>
+    <div class="equation">$$\varphi = 1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \cdots}}} = [1; 1, 1, 1, \ldots]$$</div>
     <div class="terms">
       <span class="sym">\([a_0; a_1, a_2, \ldots]\)</span><span class="def">shorthand for \(a_0 + 1 / (a_1 + 1 / (a_2 + \cdots))\)</span><span class="val"></span>
     </div>
@@ -1101,7 +1095,7 @@ mjx-container[display="true"] { margin: 0 !important; }
   </div>
 
   <section class="card inline">
-    <div class="equation">$$\varphi = \frac{p(n + 1)}{p(n)}, \qquad p(n + 1) - p(n) = p(n) - p(n - 2)$$</div>
+    <div class="equation">$$p(n + 1) - p(n) = p(n) - p(n - 2)$$</div>
     <div class="terms">
       <span class="sym">\(p(n)\)</span><span class="def">distance of point n from the origin, \(\varphi^n\)</span><span class="val"></span>
     </div>
@@ -1112,24 +1106,30 @@ mjx-container[display="true"] { margin: 0 !important; }
     <p>We don't take a strong or formal position on the dynamics that lend to the “spin sea” on our sphere, but spin is a fairly intuitive concept, so we'll use it for now. We tend to say that each orthogonal 2-plane – each 1-sphere, or circle, in other words, accounting for 2 dimensions of space, even if we don't ultimately care about the surrounding space – spins at the same rate as all others. And since we don't care about the surrounding space, the only way these spins register is in relation to another spin on the sphere. Now spins can combine and they can separate at seams, or nodes, thereby giving the appearance of speeding up or slowing down, and if we assume all spins are orthogonal, then we can use our unit vector math to simplify analysis. Spins that converge or “sink” into a frame will contribute to making it move faster relative to a frame; spins that spread or “source” from a frame will slow the separation of points on that frame.</p>
   </div>
 
-  <figure class="fig-svg" id="sink-source">
+  <figure class="widget" id="sink-source">
     <div class="spectrum-scroll">
-      <svg viewBox="0 0 720 300" role="img" aria-labelledby="ss-title ss-desc">
+      <svg viewBox="0 0 720 300" role="img" aria-labelledby="ss-title ss-desc" class="widget-svg" id="ss-svg">
         <title id="ss-title">Sink and source</title>
-        <desc id="ss-desc">Left: four orthogonal arrows pushing together into a single point, with circular fronts contracting toward it, labeled sink. Right: four orthogonal arrows flowering apart from a center, with circular fronts expanding outward and four translucent points around the center marking where the fronts separate, labeled source.</desc>
-        <defs><marker id="ss-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0 L10 5 L0 10 z" class="arrowhead"/></marker></defs>
-        <circle cx="190" cy="150" r="120" class="front sink-front f0" style="animation-delay:0.0s"/><circle cx="190" cy="150" r="120" class="front sink-front f1" style="animation-delay:-1.2s"/><circle cx="190" cy="150" r="120" class="front sink-front f2" style="animation-delay:-2.4s"/><circle cx="530" cy="150" r="120" class="front source-front f0" style="animation-delay:0.0s"/><circle cx="530" cy="150" r="120" class="front source-front f1" style="animation-delay:-1.2s"/><circle cx="530" cy="150" r="120" class="front source-front f2" style="animation-delay:-2.4s"/>
-        <line x1="308.0" y1="150.0" x2="224.0" y2="150.0" class="vec" marker-end="url(#ss-arrow)"/><line x1="190.0" y1="268.0" x2="190.0" y2="184.0" class="vec" marker-end="url(#ss-arrow)"/><line x1="72.0" y1="150.0" x2="156.0" y2="150.0" class="vec" marker-end="url(#ss-arrow)"/><line x1="190.0" y1="32.0" x2="190.0" y2="116.0" class="vec" marker-end="url(#ss-arrow)"/><line x1="564.0" y1="150.0" x2="648.0" y2="150.0" class="vec" marker-end="url(#ss-arrow)"/><line x1="530.0" y1="184.0" x2="530.0" y2="268.0" class="vec" marker-end="url(#ss-arrow)"/><line x1="496.0" y1="150.0" x2="412.0" y2="150.0" class="vec" marker-end="url(#ss-arrow)"/><line x1="530.0" y1="116.0" x2="530.0" y2="32.0" class="vec" marker-end="url(#ss-arrow)"/>
-        <circle cx="190" cy="150" r="6" class="pt"/>
-        <circle cx="544.0" cy="150.0" r="6" class="front-pt"/><circle cx="530.0" cy="164.0" r="6" class="front-pt"/><circle cx="516.0" cy="150.0" r="6" class="front-pt"/><circle cx="530.0" cy="136.0" r="6" class="front-pt"/>
-        <text x="190" y="290" class="axis" text-anchor="middle">sink</text>
-        <text x="530" y="290" class="axis" text-anchor="middle">source</text>
+        <desc id="ss-desc">Left, labeled sink: n vectors spread evenly around the left half of a faint circle, the sphere seen edge on, all pointing in to a single point at its center. Right, labeled source: the mirror image, n vectors spread evenly around the right half, all pointing out from the center. On each side a single dot swings laterally through the center in a sine pattern, fastest at the center, fading to nothing halfway around and fully dark each time it comes back, like a point going around a sphere seen edge on. As n grows, the sink's dot speeds up by a factor of the square root of n and the source's slows down by the same factor, so they end up n times apart. Choose n from 1 to 9.</desc>
+        <defs><marker id="ss-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 z" class="arrowhead"/></marker></defs>
+        <g id="ss-left"></g>
+        <g id="ss-right"></g>
+        <circle id="ss-dot-l" r="7" class="ss-dot"/>
+        <circle id="ss-dot-r" r="7" class="ss-dot"/>
+        <text x="200" y="288" class="axis" text-anchor="middle">sink</text>
+        <text x="520" y="288" class="axis" text-anchor="middle">source</text>
       </svg>
+    </div>
+    <div class="controls">
+      <label for="ss-n">Dimensions</label>
+      <input type="range" id="ss-n" min="1" max="9" step="1" value="3">
+      <button type="button" class="play" id="ss-play" aria-pressed="true">Pause</button>
+      <output id="ss-out" for="ss-n"></output>
     </div>
   </figure>
 
   <div class="prose">
-    <p>We mentioned earlier that the golden ratio is a member of the class of most irrational numbers. This class includes any that have continuing fractions of the same form as the golden ratio and whose numerator sequence ends in all 1s.</p>
+    <p>We mentioned earlier that the golden ratio is a member of the class of most irrational numbers. This class includes any that have continued fractions which likewise end in a series of 1s as quotients. These are called the noble numbers.</p>
   </div>
 
   <section class="card inline">
@@ -1479,9 +1479,6 @@ mjx-container[display="true"] { margin: 0 !important; }
     }
     function kick() { if (!raf && playing && visible) raf = requestAnimationFrame(frame); }
     button.addEventListener('click', function () { playing = !playing; setLabel(); if (playing) kick(); else render(); });
-    if ('IntersectionObserver' in window) {
-      new IntersectionObserver(function (es) { visible = es[0].isIntersecting; if (visible) kick(); }).observe(canvas);
-    }
     try { window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', render); } catch (_) {}
     setLabel(); render(); kick();
     return { render: render };
@@ -1570,6 +1567,53 @@ mjx-container[display="true"] { margin: 0 !important; }
     }
     setup();
     var anim = animator(canvas, btn, function (dt) { theta += dt * 0.55; }, render);
+    nIn.addEventListener('input', function () { setup(); anim.render(); });
+  })();
+
+  /* ---- Sink and source: n legs in or out, a dot going around n times faster at the sink ---- */
+  (function () {
+    var svg = document.getElementById('ss-svg'); if (!svg) return;
+    var NS = 'http://www.w3.org/2000/svg', nIn = document.getElementById('ss-n'), out = document.getElementById('ss-out');
+    var GL = document.getElementById('ss-left'), GR = document.getElementById('ss-right');
+    var DL = document.getElementById('ss-dot-l'), DR = document.getElementById('ss-dot-r');
+    var CL = [200, 140], CR = [520, 140], R = 100, PERIOD = 1.6, n = 3, P = 0;
+    function el(tag, a) { var e = document.createElementNS(NS, tag); for (var k in a) e.setAttribute(k, a[k]); return e; }
+    function dirs(n, side) {
+      // n legs spread evenly over a half circle: the left half for the sink, mirrored to the right for the source
+      var d = [];
+      for (var k = 0; k < n; k++) {
+        var a = Math.PI + (k - (n - 1) / 2) * Math.PI / n;
+        d.push([side * Math.cos(a), Math.sin(a)]);
+      }
+      return d;
+    }
+    function build(G, C, inward) {
+      G.textContent = '';
+      // the sphere seen edge on, with n orthogonal legs meeting at its center
+      G.appendChild(el('circle', { cx: C[0], cy: C[1], r: R, 'class': 'ghost' }));
+      var Lg = R * 0.8, rin = n > 4 ? 12 + 3 * n : 12;
+      dirs(n, inward ? 1 : -1).forEach(function (q) {
+        var far = [C[0] + q[0] * Lg, C[1] + q[1] * Lg], near = [C[0] + q[0] * rin, C[1] + q[1] * rin];
+        var a = inward ? far.concat(near) : near.concat(far);
+        G.appendChild(el('line', { x1: a[0].toFixed(1), y1: a[1].toFixed(1), x2: a[2].toFixed(1), y2: a[3].toFixed(1), 'class': 'vec', 'marker-end': 'url(#ss-arrow)' }));
+      });
+      G.appendChild(el('circle', { cx: C[0], cy: C[1], r: 5, 'class': 'pt' }));
+      return C;
+    }
+    var cl, cr;
+    function setup() {
+      n = +nIn.value; P = 0; cl = build(GL, CL, true); cr = build(GR, CR, false);
+      var r = Math.sqrt(n), rs = Number.isInteger(r) ? String(r) : '≈ ' + r.toFixed(2);
+      out.textContent = n === 1 ? 'n = 1 · both go around at the base rate'
+        : 'n = ' + n + ' · the sink speeds up √' + n + ' ' + (Number.isInteger(r) ? '= ' : '') + rs + '×, the source slows down by the same, ' + n + '× apart';
+    }
+    function place(D, c, th) {
+      D.setAttribute('cx', (c[0] + R * Math.sin(th)).toFixed(2)); D.setAttribute('cy', c[1]);
+      D.setAttribute('opacity', ((1 + Math.cos(th)) / 2).toFixed(3));
+    }
+    function render() { var w = 2 * Math.PI * P; place(DL, cl, n * w); place(DR, cr, w); }
+    setup();
+    var anim = animator(svg, document.getElementById('ss-play'), function (dt) { P = (P + dt / (Math.sqrt(n) * PERIOD)) % 1; }, render);
     nIn.addEventListener('input', function () { setup(); anim.render(); });
   })();
 
