@@ -322,7 +322,13 @@ h1 {
 .widget-svg .vec { stroke: var(--ink); stroke-width: 2; }
 .widget-svg .arrowhead { fill: var(--ink); }
 .widget-svg .ss-dot { fill: var(--py-c); }
-#ss-out { white-space: normal; }
+#ss-out { white-space: normal; flex: 1 1 100%; }
+.widget-svg .vec.thin { stroke-width: 1.5; }
+.widget .controls fieldset.seg { display: flex; flex-wrap: wrap; gap: 0.25rem; border: 0; padding: 0; margin: 0; }
+.widget .controls fieldset.seg legend { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+.widget .controls fieldset.seg label { display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.25rem 0.7rem; border: 1px solid var(--rule); border-radius: 999px; cursor: pointer; color: var(--muted); }
+.widget .controls fieldset.seg input { accent-color: var(--ink); margin: 0; }
+.widget .controls fieldset.seg label:has(input:checked) { color: var(--ink); border-color: var(--muted); }
 .widget-svg .area { font-family: var(--body); font-size: 18px; fill: var(--ink); }
 .widget-svg .edge { font-family: var(--body); font-style: italic; font-size: 15px; fill: var(--ink); }
 .widget .controls {
@@ -388,13 +394,14 @@ mjx-container[display="true"] { margin: 0 !important; }
 
   <div class="prose">
     <h2 class="part">The wishdrops conjecture</h2>
-    <p><em>That were the universe but one spinning sphere</em>. A belief and a lament simultaneously. The belief is that a single sphere of infinite dimension, spinning forever with no preferred direction, is the energetic wellspring of the universe we experience. We call this <em>the wishdrops conjecture</em>. A simple, elegant, latent geometry underpins our vast, complex physical universe – that's our guess, at least. Particles, constellations, time, physics, even the sensory apparatus, right up to the <em>spirit window</em>, the <em>experiential aperture</em>, the <em>seat of consciousness</em>, whatever you want to call it, all <em>the unfolding shadow of a dynamic, holographic sphere</em>. Think of it as a very literal interpretation of the oft cited <em>“God is an infinite sphere whose center is everywhere and whose circumference is nowhere.”</em> This concept first appears around the 12th century, in the Latin text <em>The Book of Twenty-four Philosophers</em>, though it perhaps hovered in the contemplative ether for a long time before that. We wonder whether modern history misunderstands that it was meant as more than a metaphor. Like maybe the ancients knew something we have since lost.</p>
+    <p><em>That were the universe but one spinning sphere</em>. A belief and a lament simultaneously. The belief is that a single sphere of infinite dimension – always spinning, no preferred direction – is the energetic wellspring of the universe we experience. We call this <em>the wishdrops conjecture</em>. A simple, elegant, latent geometry underpins our vast, complex physical universe – that's our guess, at least. Particles, constellations, time, physics, even the sensory apparatus, right up to the <em>spirit window</em>, the <em>experiential aperture</em>, the <em>seat of consciousness</em>, whatever you want to call it, all <em>the unfolding shadow of a dynamic, holographic sphere</em>. Think of it as a very literal interpretation of the oft cited <em>“God is an infinite sphere whose center is everywhere and whose circumference is nowhere.”</em> This concept first appears around the 12th century, in the Latin text <em>The Book of Twenty-four Philosophers</em>, though it perhaps hovered in the contemplative ether for a long time before that. We wonder whether modern history misunderstands that it was meant as more than a metaphor. Like maybe the ancients knew something we have since lost.</p>
     <p>The lament is how ineffective our explanation will be. At least we think so.</p>
     <p>Only one way to find out !</p>
-    <p>We'll use math (mostly high school level), physics, and intuition to elaborate on our <em>pet ratios</em> – not dogs over cats, but principled comparisons between energies, lengths, and masses that give us a warm feeling inside when we think about the secret geometry behind them, even as we might have made it up. Hopefully that will break the ice. The idea is that these ratios are fingerprints of the otherwise unobservable, with suggestive, recurring signatures offering explanatory power, perhaps, but probably not much else. That is to say, there may be no new physics here – or maybe there is, but who cares, since we take real physics at face value and treat it as <em>evidence</em>, not something to overturn – nor proof of anything <em>true</em>, as it were, so let's be right up front about how we want the reader to treat the following semi-metaphysical discourse:</p>
+    <p>We'll use math (mostly high school level), physics, and intuition to elaborate on our <em>pet ratios</em> – not dogs over cats, but principled comparisons between energies, lengths, and masses that give us a warm feeling inside when we think about the secret geometry behind them, even as we might have made it up. Hopefully that will break the ice. The idea is that these ratios are fingerprints of the otherwise unobservable, with suggestive, recurring signatures, offering explanatory power perhaps, but probably not much else. That is to say, there may be no new physics here – or maybe there is, but who cares, since we take real physics at face value and treat it as <em>evidence</em>, not something to overturn – nor proof of anything <em>true</em>, as it were, so let's be right up front about how we want the reader to treat the following semi-metaphysical discourse:</p>
     <p>Take it or leave it ! :)</p>
     <h2 class="part">Pet ratios</h2>
-    <p>We'll lead with the ratios, to give some sense of where this is headed, and in order to have something to project back over the origin story as it unfolds. The concepts will be familiar to some and not to others, it's ok to skim past them because we will go into much more detail afterwards. Note that anything labeled “wishdrops” is a convenience we invented to ascribe significance we imagined.</p>
+    <p>We'll lead with the ratios, to give some sense of where this is headed, and in order to have something to project back over the origin story as it unfolds. The concepts will be familiar to some and not to others, it's ok to skim past them because we will go into much more detail afterwards.</p>
+    <p><em>Note that anything labeled “wishdrops” is a convenience we invented, to ascribe a significance we imagined.</em></p>
   </div>
 
   <div class="cards">
@@ -753,7 +760,7 @@ mjx-container[display="true"] { margin: 0 !important; }
     <h3 class="section">The golden ratio is woo</h3>
     <p>It's true, the golden ratio is a fav of the new age. It's renowned for being pretty, vaguely appearing in nature, cool for drawing spirals inside nested rectangles, but generally the laughing stock of physics. Still, it's not like it appears <em>nowhere</em> in physics – it appears in KAM theory, Siegel disks, critical circle maps, and phyllotaxis (reproduced in the lab with magnetized droplets), all for essentially the same mathematical reason we want to use it – it is a member of the class of numbers that is provably the most difficult to approximate using exclusively rational numbers. Natural frequencies like oscillations and orbits that bear this ratio are, for this reason, the least susceptible to <em>resonance</em>, which is precisely what destroys stability. Rational and near-rational frequencies resonate, and resonance destroys stability – that's it. So the golden ratio has this sort of super power as a frequency – it's immortal. Well, not quite, but still.</p>
     <p>Consider tapping a record as it rotates around a turntable, basically supplying some small amount of vertical motion at regular intervals. If you do this precisely once for every time around, the record will, subject to compounding influence, wobble out of control. Same for twice, half, and any other rational such frequency. Irrational frequencies – the square root of 2, for example – are more resistant because the taps never quite align – the influence doesn't compound as much. But even irrational frequencies can come <em>close</em> to combinations of rational ones, and that can have the same effect.</p>
-    <p>Then there's the golden ratio. The golden ratio is among a class of the <em>most irrational</em> numbers, per Hurwitz's theorem. It is the last frequency to destabilize because the taps are so well distributed – alignment is extremely slow to accumulate. That's why this number is important to us – our spinning sphere creates an unfathomable sea of interference, in which pretty much all frequencies occur simultaneously, and resonance destroys almost all patterns. So what survives ? We expect the stable images that arise from our sea of interference to carry the golden ratio as a signature. Indeed, the golden ratio is everywhere; we mean it absolutely literally.</p>
+    <p>Then there's the golden ratio. The golden ratio is among a class of the <em>most irrational</em> numbers, per Hurwitz's theorem. It is the last frequency to destabilize because the taps are so well distributed – alignment is extremely slow to accumulate. That's why this number is important to us – our spinning sphere creates an unfathomable sea of interference, in which pretty much all frequencies occur simultaneously, and resonance destroys almost all patterns. So what survives ? We expect the stable images that arise from our sea of interference to carry the golden ratio as a signature. Indeed, the golden ratio is everywhere in the manifest universe; we mean it absolutely literally.</p>
 
     <h3 class="section">How can the human-defined volt have anything to do with the hidden geometry of the universe ?</h3>
     <p>We'll be honest – this still confounds us. The electron volt is defined as the work required to move an electric charge across one volt of electric potential. That means the work required to move an electric charge directly toward or away from another source charge. Now the volt is a completely arbitrary measurement invented by humans. It's not like the speed of light or Planck's constant or anything else intrinsic to the universe. So how on earth is it ok to use it in our pet ratios ?</p>
@@ -768,8 +775,8 @@ mjx-container[display="true"] { margin: 0 !important; }
 
     <h2 class="part">The sphere</h2>
     <p>We mentioned at the beginning that we suspect the underpinning form of the universe to be:</p>
-    <p class="echo"><em>a single sphere of infinite dimension, spinning forever with no preferred direction</em></p>
-    <p>In theory a description of this device would constitute the only input required to define the laws of physics. This may seem ambitious, given there are “no free parameters” here – no lengths, no durations, no masses, no coupling strengths, no raw numbers anywhere. The setup is expressly void of external markers of time and space, given “forever” and “no preferred direction.” So where and when does the universe make its grand entrance ?</p>
+    <p class="echo"><em>a single sphere of infinite dimension – always spinning, no preferred direction</em></p>
+    <p>In theory a description of this device would constitute the only input to the laws of physics. This may seem ambitious, given there are “no free parameters” here – no bestowed lengths, durations, masses, coupling strengths, or raw numbers anywhere. The setup is expressly void of external markers of time and space, given “always” and “no preferred direction.” So where and when does the universe make its grand entrance ?</p>
     <p>Our proposal is that it <em>emerges</em> from this setup. Let's be very clear about this – the sphere doesn't live in space, doesn't experience time, and very much doesn't care about its background. That makes the sphere <em>intrinsic</em> – all that matters are the relations between points on it. The universe we know, including time, is essentially painted onto the sphere, however holographically. The ontology is unambiguously sphere first, then universe.</p>
     <p>Still, all that said, how do we get numbers from no preferred anything ? Let's carefully walk through how they are conjured, then make the leap to some physics parallels before revisiting our pet ratios to explain them in more detail with greater context.</p>
 
@@ -1110,8 +1117,8 @@ mjx-container[display="true"] { margin: 0 !important; }
     <div class="spectrum-scroll">
       <svg viewBox="0 0 720 300" role="img" aria-labelledby="ss-title ss-desc" class="widget-svg" id="ss-svg">
         <title id="ss-title">Sink and source</title>
-        <desc id="ss-desc">Left, labeled sink: n vectors spread evenly around the left half of a faint circle, the sphere seen edge on, all pointing in to a single point at its center. Right, labeled source: the mirror image, n vectors spread evenly around the right half, all pointing out from the center. On each side a single dot swings laterally through the center in a sine pattern, fastest at the center, fading to nothing halfway around and fully dark each time it comes back, like a point going around a sphere seen edge on. As n grows, the sink's dot speeds up by a factor of the square root of n and the source's slows down by the same factor, so they end up n times apart. Choose n from 1 to 9.</desc>
-        <defs><marker id="ss-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 z" class="arrowhead"/></marker></defs>
+        <desc id="ss-desc">Left, labeled sink: n vectors spread evenly around the left half of a faint circle, the sphere seen edge on, all pointing in to a single point at its center. Right, labeled source: the mirror image, n vectors spread evenly around the right half, all pointing out from the center. On each side a single dot swings laterally through the center in a sine pattern, fastest at the center, fading to nothing halfway around and fully dark each time it comes back, like a point going around a sphere seen edge on. Two equivalent views can be toggled. Holding the radius fixed, as n grows the sink's dot speeds up by a factor of the square root of n and the source's slows down by the same factor, so they end up n times apart. Holding the timing fixed instead, both dots go around in the same time, while the sink's circle grows by the square root of n and the source's shrinks by the same factor. Choose n from 1 to 9.</desc>
+        <defs><marker id="ss-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 z" class="arrowhead"/></marker><marker id="ss-arrow-sm" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0 0 L10 5 L0 10 z" class="arrowhead"/></marker></defs>
         <g id="ss-left"></g>
         <g id="ss-right"></g>
         <circle id="ss-dot-l" r="7" class="ss-dot"/>
@@ -1124,6 +1131,11 @@ mjx-container[display="true"] { margin: 0 !important; }
       <label for="ss-n">Dimensions</label>
       <input type="range" id="ss-n" min="1" max="9" step="1" value="3">
       <button type="button" class="play" id="ss-play" aria-pressed="true">Pause</button>
+      <fieldset class="seg">
+        <legend>View</legend>
+        <label><input type="radio" name="ss-mode" value="timing" checked> same radius, different timing</label>
+        <label><input type="radio" name="ss-mode" value="size"> same timing, different radius</label>
+      </fieldset>
       <output id="ss-out" for="ss-n"></output>
     </div>
   </figure>
@@ -1570,13 +1582,14 @@ mjx-container[display="true"] { margin: 0 !important; }
     nIn.addEventListener('input', function () { setup(); anim.render(); });
   })();
 
-  /* ---- Sink and source: n legs in or out, a dot going around n times faster at the sink ---- */
+  /* ---- Sink and source: n legs in or out; two equivalent views of the same motion ---- */
   (function () {
     var svg = document.getElementById('ss-svg'); if (!svg) return;
     var NS = 'http://www.w3.org/2000/svg', nIn = document.getElementById('ss-n'), out = document.getElementById('ss-out');
     var GL = document.getElementById('ss-left'), GR = document.getElementById('ss-right');
     var DL = document.getElementById('ss-dot-l'), DR = document.getElementById('ss-dot-r');
-    var CL = [200, 140], CR = [520, 140], R = 100, PERIOD = 1.6, n = 3, P = 0;
+    var CL = [200, 140], CR = [520, 140], R = 100, U = 40, PERIOD = 1.6, n = 3, P = 0, mode = 'timing';
+    var radL = R, radR = R;
     function el(tag, a) { var e = document.createElementNS(NS, tag); for (var k in a) e.setAttribute(k, a[k]); return e; }
     function dirs(n, side) {
       // n legs spread evenly over a half circle: the left half for the sink, mirrored to the right for the source
@@ -1587,34 +1600,50 @@ mjx-container[display="true"] { margin: 0 !important; }
       }
       return d;
     }
-    function build(G, C, inward) {
+    function build(G, C, inward, rad) {
       G.textContent = '';
-      // the sphere seen edge on, with n orthogonal legs meeting at its center
-      G.appendChild(el('circle', { cx: C[0], cy: C[1], r: R, 'class': 'ghost' }));
-      var Lg = R * 0.8, rin = n > 4 ? 12 + 3 * n : 12;
+      // the sphere seen edge on, with n orthogonal legs meeting at its center; everything scales with the radius
+      G.appendChild(el('circle', { cx: C[0], cy: C[1], r: rad.toFixed(1), 'class': 'ghost' }));
+      var Lg = rad * 0.8, rin = rad * (n > 4 ? (12 + 3 * n) / 100 : 0.12), mk = rad < 50 ? 'url(#ss-arrow-sm)' : 'url(#ss-arrow)';
       dirs(n, inward ? 1 : -1).forEach(function (q) {
         var far = [C[0] + q[0] * Lg, C[1] + q[1] * Lg], near = [C[0] + q[0] * rin, C[1] + q[1] * rin];
         var a = inward ? far.concat(near) : near.concat(far);
-        G.appendChild(el('line', { x1: a[0].toFixed(1), y1: a[1].toFixed(1), x2: a[2].toFixed(1), y2: a[3].toFixed(1), 'class': 'vec', 'marker-end': 'url(#ss-arrow)' }));
+        G.appendChild(el('line', { x1: a[0].toFixed(1), y1: a[1].toFixed(1), x2: a[2].toFixed(1), y2: a[3].toFixed(1), 'class': rad < 50 ? 'vec thin' : 'vec', 'marker-end': mk }));
       });
-      G.appendChild(el('circle', { cx: C[0], cy: C[1], r: 5, 'class': 'pt' }));
-      return C;
+      G.appendChild(el('circle', { cx: C[0], cy: C[1], r: rad < 30 ? 3.5 : 5, 'class': 'pt' }));
     }
-    var cl, cr;
     function setup() {
-      n = +nIn.value; P = 0; cl = build(GL, CL, true); cr = build(GR, CR, false);
-      var r = Math.sqrt(n), rs = Number.isInteger(r) ? String(r) : '≈ ' + r.toFixed(2);
-      out.textContent = n === 1 ? 'n = 1 · both go around at the base rate'
-        : 'n = ' + n + ' · the sink speeds up √' + n + ' ' + (Number.isInteger(r) ? '= ' : '') + rs + '×, the source slows down by the same, ' + n + '× apart';
+      n = +nIn.value; P = 0;
+      var r = Math.sqrt(n), rs = Number.isInteger(r) ? '= ' + r : '≈ ' + r.toFixed(2);
+      if (mode === 'timing') {
+        radL = radR = R;
+        out.textContent = n === 1 ? 'n = 1 · both go around at the base rate'
+          : 'n = ' + n + ' · same radius: the sink goes around √' + n + ' ' + rs + '× faster, the source √' + n + '× slower, ' + n + '× apart';
+      } else {
+        radL = U * r; radR = U / r;
+        out.textContent = n === 1 ? 'n = 1 · both trace the unit circle in the same time'
+          : 'n = ' + n + ' · same timing: the sink\'s circle is √' + n + ' ' + rs + '× wider, the source\'s √' + n + '× narrower, ' + n + '× apart';
+      }
+      build(GL, CL, true, radL); build(GR, CR, false, radR);
+      var dr = mode === 'timing' ? 7 : 6; DL.setAttribute('r', dr); DR.setAttribute('r', mode === 'timing' ? 7 : Math.max(3, Math.min(6, radR / 3)));
     }
-    function place(D, c, th) {
-      D.setAttribute('cx', (c[0] + R * Math.sin(th)).toFixed(2)); D.setAttribute('cy', c[1]);
+    function place(D, c, rad, th) {
+      D.setAttribute('cx', (c[0] + rad * Math.sin(th)).toFixed(2)); D.setAttribute('cy', c[1]);
       D.setAttribute('opacity', ((1 + Math.cos(th)) / 2).toFixed(3));
     }
-    function render() { var w = 2 * Math.PI * P; place(DL, cl, n * w); place(DR, cr, w); }
+    function render() {
+      var w = 2 * Math.PI * P;
+      // one shared clock: in the timing view the sink makes n turns per source turn; in the size view both make one
+      place(DL, CL, radL, mode === 'timing' ? n * w : w); place(DR, CR, radR, w);
+    }
     setup();
-    var anim = animator(svg, document.getElementById('ss-play'), function (dt) { P = (P + dt / (Math.sqrt(n) * PERIOD)) % 1; }, render);
+    var anim = animator(svg, document.getElementById('ss-play'), function (dt) {
+      P = (P + dt / (mode === 'timing' ? Math.sqrt(n) * PERIOD : PERIOD)) % 1;
+    }, render);
     nIn.addEventListener('input', function () { setup(); anim.render(); });
+    Array.prototype.forEach.call(document.querySelectorAll('input[name="ss-mode"]'), function (r) {
+      r.addEventListener('change', function () { if (r.checked) { mode = r.value; setup(); anim.render(); } });
+    });
   })();
 
   /* ---- Golden rectangles, zooming forever into the spiral ---- */
