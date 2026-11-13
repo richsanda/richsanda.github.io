@@ -47,10 +47,10 @@ window.MathJax = {
   --card: #FFFFFF;
   --card-edge: #C9CEDF;
   --drawing-blend: multiply;
-  --fig-a: #D9E1F8;
-  --fig-b: #ECE1F7;
-  --fig-c: #DCEDEA;
-  --py-a: #3B6FD8; --py-b: #8A4FC8; --py-c: #1F9A80;
+  --fig-a: #EED6D3;
+  --fig-b: #EFE2C6;
+  --fig-c: #F4DCC8;
+  --py-a: #8C2F39; --py-b: #A47A2C; --py-c: #C2622D;
   --drawing-filter: none;
 
   --display: "Bodoni Moda", "Didot", "Bodoni 72", Georgia, serif;
@@ -62,7 +62,7 @@ window.MathJax = {
     --paper: #0F1222; --ink: #E4E6F2; --muted: #9AA0C0; --rule: #2A2F4A;
     --card: #171B30; --card-edge: #2F3556;
     --drawing-blend: screen; --drawing-filter: invert(1);
-    --fig-a: #27325C; --fig-b: #3A2D57; --fig-c: #1E3B3B; --py-a: #7FA2F0; --py-b: #B98BEA; --py-c: #5CC9B0;
+    --fig-a: #4A2A2E; --fig-b: #463A22; --fig-c: #4D3122; --py-a: #D98C95; --py-b: #D6B36A; --py-c: #F0955A;
     color-scheme: dark;
   }
 }
@@ -70,7 +70,7 @@ window.MathJax = {
   --paper: #0F1222; --ink: #E4E6F2; --muted: #9AA0C0; --rule: #2A2F4A;
   --card: #171B30; --card-edge: #2F3556;
     --drawing-blend: screen; --drawing-filter: invert(1);
-    --fig-a: #27325C; --fig-b: #3A2D57; --fig-c: #1E3B3B; --py-a: #7FA2F0; --py-b: #B98BEA; --py-c: #5CC9B0;
+    --fig-a: #4A2A2E; --fig-b: #463A22; --fig-c: #4D3122; --py-a: #D98C95; --py-b: #D6B36A; --py-c: #F0955A;
   color-scheme: dark;
 }
 
@@ -324,6 +324,17 @@ h1 {
 .widget-svg .ss-dot { fill: var(--py-c); }
 #ss-out { white-space: normal; flex: 1 1 100%; }
 .widget-svg .vec.thin { stroke-width: 1.5; }
+.widget-svg .gr-ghost { fill: var(--py-c); fill-opacity: 0.1; stroke: var(--ink); stroke-width: 2; stroke-opacity: 0.55; stroke-linejoin: round; }
+.widget-svg .gr-sq { stroke: var(--ink); stroke-width: 1.25; stroke-linejoin: round; }
+.card .deriv { display: grid; grid-template-columns: max-content 1fr; gap: 0.55rem 1.4rem; align-items: center; padding: 1rem 1.25rem; }
+.card .deriv .note { color: var(--muted); font-size: 0.92em; }
+@media (max-width: 560px) { .card .deriv { grid-template-columns: 1fr; gap: 0.15rem; } .card .deriv .note:not(:empty) { margin-bottom: 0.5rem; } }
+.widget-svg .gr-brace { fill: none; stroke: var(--ink); stroke-width: 1.5; stroke-linejoin: round; stroke-linecap: round; }
+.widget-svg .gr-edge { fill: none; stroke: var(--ink); stroke-width: 1.25; stroke-linejoin: round; }
+.widget-svg .gr-f0 { fill: var(--fig-a); }
+.widget-svg .gr-f1 { fill: var(--fig-b); }
+.widget-svg .gr-f2 { fill: var(--fig-c); }
+
 .widget .controls fieldset.seg { display: flex; flex-wrap: wrap; gap: 0.25rem; border: 0; padding: 0; margin: 0; }
 .widget .controls fieldset.seg legend { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
 .widget .controls fieldset.seg label { display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.25rem 0.7rem; border: 1px solid var(--rule); border-radius: 999px; cursor: pointer; color: var(--muted); }
@@ -394,7 +405,7 @@ mjx-container[display="true"] { margin: 0 !important; }
 
   <div class="prose">
     <h2 class="part">The wishdrops conjecture</h2>
-    <p><em>That were the universe but one spinning sphere</em>. A belief and a lament simultaneously. The belief is that a single sphere of infinite dimension – always spinning, no preferred direction – is the energetic wellspring of the universe we experience. We call this <em>the wishdrops conjecture</em>. A simple, elegant, latent geometry underpins our vast, complex physical universe – that's our guess, at least. Particles, constellations, time, physics, even the sensory apparatus, right up to the <em>spirit window</em>, the <em>experiential aperture</em>, the <em>seat of consciousness</em>, whatever you want to call it, all <em>the unfolding shadow of a dynamic, holographic sphere</em>. Think of it as a very literal interpretation of the oft cited <em>“God is an infinite sphere whose center is everywhere and whose circumference is nowhere.”</em> This concept first appears around the 12th century, in the Latin text <em>The Book of Twenty-four Philosophers</em>, though perhaps hovered in the contemplative ether for a long time before that. We wonder whether modern history misunderstands that it was meant as more than a metaphor. Like maybe the ancients knew something we have since lost.</p>
+    <p><em>That were the universe but one spinning sphere</em>. A belief and a lament simultaneously. The belief is that a single sphere of infinite dimension – always spinning, no preferred direction – is the energetic wellspring of the universe we experience. We call this <em>the wishdrops conjecture</em>. A simple, elegant, latent geometry underpins our vast, complex physical universe – that's our guess, at least. Particles, constellations, time, physics, even the sensory apparatus, right up to the <em>spirit window</em>, the <em>experiential aperture</em>, the <em>seat of consciousness</em>, whatever you want to call it, all <em>the unfolding shadow of a dynamic, holographic sphere</em>. Think of it as a very literal interpretation of the oft cited <em>“God is an infinite sphere whose center is everywhere and whose circumference is nowhere.”</em> This first appears around the 12th century, in the Latin text <em>The Book of Twenty-four Philosophers</em>, though perhaps hovered in contemplative ether for a long time before that. We wonder whether modern history misunderstands that it was meant as more than a metaphor. Like maybe the ancients knew something we have since lost.</p>
     <p>The lament is how ineffective our explanation will be. At least we think so.</p>
     <p>Only one way to find out !</p>
     <p>We'll use math (mostly high school level), physics, and intuition to elaborate on our <em>pet ratios</em> – not dogs over cats, but principled comparisons between energies, lengths, and masses that give us a warm feeling inside when we think about the secret geometry behind them, even as we might have made it up. Hopefully that will break the ice. The idea is that these ratios are fingerprints of the otherwise unobservable, with suggestive, recurring signatures, offering explanatory power perhaps, but probably not much else. That is to say, there may be no new physics here – or maybe there is, but who cares, since we take real physics at face value and treat it as <em>evidence</em>, not something to overturn – nor proof of anything <em>true</em>, as it were, so let's be right up front about how we want the reader to treat the following semi-metaphysical discourse:</p>
@@ -696,7 +707,7 @@ mjx-container[display="true"] { margin: 0 !important; }
     <p>What is not widely known is how the visible range is set by any other physics, nevermind the pure color assignments. There may not even be consensus that such a connection exists, given the experience of color is at least in part subjective, and generally assumed accidental. Still, this visible range is testable to some extent, and people repeatedly report the same wavelengths correspond to the same colors, more or less. Yellow is <em>around</em> 580 nm, or <em>somewhere in the range of</em> 570-590 nm. Our suggestion is that this isn't some magical coincidence, rather that the associated energies bear a direct relationship to basic atomic physics. These wavelengths are “harmonic” expressly because they correspond to natural atomic phenomena, we propose, and as such, animal bodies <em>evolved to tune in to them</em>, not the other way around. The physics exists; adaptation follows.</p>
     <p>So what are the pure colors ?</p>
     <p>Isaac Newton in his now famous light experiments tried some three hundred plus years ago to get to the bottom of this scientifically. He used a prism to separate white light into individual colors and then back again, taking note of the per color angles and related phenomena, detailing it all in his seminal treatise,  <em>Opticks</em>. He initially counted five colors – red, yellow, green, blue (suspected to be close to what is commonly referred to as cyan today, but there's really no way to know), and violet. Only later did he insert orange and indigo to achieve the seven he imagined would correspond better to musical scales.</p>
-    <p>Perhaps it is a stroke of luck that we accommodate both of Newton's visions – our proposal anticipates seven harmonies, five of which land in the visible range. Indeed, the five visibles hew close to Newton's original proposal, and so we hereby promote its restoration. We furthermore add the two extra invisibles – silver and platinum, perhaps, or some shades of metallic, we suppose.</p>
+    <p>Perhaps it is a stroke of luck that we accommodate both of Newton's visions – our proposal anticipates seven harmonies, five of which land in the visible range. Indeed, the five visibles hew close to Newton's original proposal, and so we hereby promote its reinstatement. We furthermore add the two extra invisibles – silver and platinum, perhaps, or some made up shades of sleek metallic, we suppose.</p>
     <p>Written in invisible ink, of course.</p>
     <p>Here's another formula we propose that could probably headline our list of spurious claims:</p>
   </div>
@@ -770,29 +781,30 @@ mjx-container[display="true"] { margin: 0 !important; }
     <div class="equation">$$\frac{Ry / \text{eV}}{w_0} = \frac{\sqrt{8}}{\sqrt{7} \cdot \varphi^{\frac{1}{160}\cdot\frac{1}{7}}} \cdot \text{QED corrections}$$</div>
     <div class="terms">
       <span class="sym">\(Ry / \text{eV}\)</span><span class="def">Rydberg energy <em>value</em></span><span class="val">~13.606</span>
-      <span class="sym">\(w_0\)</span><span class="def">wishdrops ratio</span><span class="val">~12.73</span>
+      <span class="sym">\(w_0\)</span><span class="def">wishdrops ratio, \(160 / 4\pi\)</span><span class="val">~12.73</span>
       <span class="sym">\(\varphi\)</span><span class="def">the golden ratio</span><span class="val">~1.618</span>
     </div>
   </section>
 
   <div class="prose">
     <p>The electron volt (eV) is defined as the work required to move an electric charge across one volt of electric potential. That means the work required to move an electric charge directly toward or away from another source charge. Now the volt is a completely arbitrary measurement invented by humans. It's not like the speed of light or Planck's constant or anything else intrinsic to the universe. So how on earth is it ok to use it in our pet ratios ?</p>
-    <p>We're still not sure. We have strong feelings about the geometry behind the wishdrops ratio and how it comports with the components of atomic energy – Planck's constant, the speed of light, the Rydberg wavelength, and QED corrections. Taken together, if we're thinking about it right, it <em>should</em> produce a ratio that matches the number of electron volts that characterizes the ground state – indeed, without the units. It's so altogether convincing that we just can't let it go. Still, it's kind of mind-bending to imagine quite simply that if the volt were 1.1 times as large, the unitless value of the Rydberg energy would drop commensurately.</p>
-    <p>Like, it would, right ?</p>
-    <p>As such, we're still looking for the truly satisfying geometric explanation that causes the volt either to drop out completely or diminish to insignificance. In the meantime we're compelled to hold the wishdrops conjecture in superposition with delusion.</p>
+    <p>We're still not sure. We have strong feelings about the geometry behind the wishdrops ratio and how it comports with the components of atomic energy – Planck's constant, the speed of light, the Rydberg wavelength, and QED corrections. Taken together, if we're thinking about it right, it <em>should</em> produce a ratio that matches the number of electron volts that characterizes the ground state – indeed, without the units. It's altogether so convincing that we just can't let it go. Still, it's kind of mind-bending to imagine quite simply that if the volt were 1.1 times as large, the unitless value of the Rydberg energy would drop commensurately.</p>
+    <p>It would, right ?</p>
+    <p>So we're still holding out for the truly satisfying geometric explanation that causes the volt either to drop out completely or diminish to insignificance. In the meantime we're compelled to hold the wishdrops conjecture in superposition with delusion.</p>
     <p>Part of the justification for persisting is that incoherent light-like energy is precisely the “content” that our underpinning geometry represents without units. So if any values are going to carry over the boundary from real physics to wishdropland, electromagnetic energies like the ground state energy are strong candidates. And it's not like the electron volt has <em>nothing</em> to do with intrinsic physics – moving precisely one electron's charge along electric field lines, perpendicular to the tangential shells that shape electron orbitals and form null arcs along which light travels, at precisely the range where this balancing act occurs, comports very well with the radial versus tangential quotients that characterize the math we use. So perhaps the combination of Planck's constant and the Rydberg wave number <em>aligns</em> with binding energy in our geometry in such a way that the ground state energy has a pure ratio for a shadow ?</p>
     <p>Consider it a challenge – help us prove it :) Or deliver us disillusionment ;)</p>
 
     <h3 class="section">An explanation for the fine structure constant ? Large number hypotheses ? Seriously ? They already tried that</h3>
     <p>It wouldn't be unheard of to spend a decade or more chasing down numerical coincidences about the universe unsuccessfully. Some guy named Eddington famously did so in search of a geometric explanation for the fine structure constant, the dimensionless ratio around 1/137 that shows up all over nature, including the speed ratio between an electron in the ground state of an atom and light in a vacuum. He never decisively landed a satisfying conclusion. Paul Dirac, an otherwise brilliant physicist, sunk a lot of time on what is now known as his large number hypothesis, the idea that nature's largest ratios – the strength of gravity versus the strength of electromagnetism, for example, or atomic-scale radii versus that of the whole universe – must be related somehow. These efforts are usually labeled numerology, a derogatory term about a cautionary tale regarding a decidedly unscientific endeavor that yeah, go ahead, call it whatever you want, is definitely not physics.</p>
-    <p>We want in ! Let's abide by this time honored tradition :)</p>
+    <p>We want in.</p>
+    <p>Let's follow in the footsteps of these giants. This is a time honored tradition ! :)</p>
 
     <h2 class="part">The sphere</h2>
     <p>We mentioned at the beginning that we suspect the underpinning form of the universe to be:</p>
     <p class="echo"><em>a single sphere of infinite dimension – always spinning, no preferred direction</em></p>
-    <p>In theory a description of this device would constitute the only input to the laws of physics. This may seem ambitious, given there are “no free parameters” here – no bestowed lengths, durations, masses, coupling strengths, or raw numbers anywhere. The setup is expressly void of external markers of time and space, given “always” and “no preferred direction.” So where and when does the universe make its grand entrance ?</p>
-    <p>Our proposal is that it <em>emerges</em> from this setup. Let's be very clear about this – the sphere doesn't live in space, doesn't experience time, and very much doesn't care about its background. That makes the sphere <em>intrinsic</em> – all that matters are the relations between points on it. The universe we know, including time, is essentially painted onto the sphere, however holographically. The ontology is unambiguously sphere first, then universe.</p>
-    <p>Still, all that said, how do we get numbers from no preferred anything ? Let's carefully walk through how they are conjured, then make the leap to some physics parallels before revisiting our pet ratios to explain them in more detail with greater context.</p>
+    <p>The subtext of our conjecture is that a description of this device would constitute the only input required to render the laws of physics. This may seem ambitious, given there are “no free parameters” here – no bestowed lengths, durations, masses, coupling strengths, or raw numbers anywhere. The setup is expressly void of external markers of time and space, given “always” and “no preferred direction.” So where do the numbers come from ? Where and when does the universe we know make its grand entrance ?</p>
+    <p>Our proposal is that it <em>emerges</em> from this setup. Let's be very clear about this – the sphere doesn't live in space, doesn't experience time, and very much doesn't care about its background. That makes the sphere <em>intrinsic</em> – all that matters are the relations between points on it. The universe we know, including time, is essentially painted onto the sphere, however holographically, from within the sphere. The ontology is unambiguously sphere first, then universe.</p>
+    <p>Still, how do we get numbers from no preferred anything ? Let's introduce a few mathematical concepts first, to help us conjure the numbers. Then we'll make the leap to some physics parallels before revisiting our pet ratios to demonstrate the numbers in action.</p>
 
     <h3 class="section">What is a sphere ?</h3>
     <p>A sphere is all points at a set radius from a center point. It contains none of the points inside – that would be a ball. A sphere is always of one fewer dimension than the ball it is the surface of, or the space it exists in, so the dimension count between spheres and their correspondences are always off by one. Here, from left to right, are depictions of a 0-sphere, a 1-sphere, a 2-sphere (the usual kind), and a 3-sphere (sort of):</p>
@@ -877,7 +889,7 @@ mjx-container[display="true"] { margin: 0 !important; }
         <defs>
           <clipPath id="ht-clip"><circle id="ht-clipc" cx="360" cy="360" r="192"/></clipPath>
           <radialGradient id="ht-shade" cx="50%" cy="50%" r="50%">
-            <stop offset="0%" style="stop-color:var(--ink);stop-opacity:0.550"/><stop offset="5%" style="stop-color:var(--ink);stop-opacity:0.549"/><stop offset="10%" style="stop-color:var(--ink);stop-opacity:0.547"/><stop offset="15%" style="stop-color:var(--ink);stop-opacity:0.543"/><stop offset="20%" style="stop-color:var(--ink);stop-opacity:0.539"/><stop offset="25%" style="stop-color:var(--ink);stop-opacity:0.532"/><stop offset="30%" style="stop-color:var(--ink);stop-opacity:0.525"/><stop offset="35%" style="stop-color:var(--ink);stop-opacity:0.515"/><stop offset="40%" style="stop-color:var(--ink);stop-opacity:0.504"/><stop offset="45%" style="stop-color:var(--ink);stop-opacity:0.491"/><stop offset="50%" style="stop-color:var(--ink);stop-opacity:0.476"/><stop offset="55%" style="stop-color:var(--ink);stop-opacity:0.460"/><stop offset="60%" style="stop-color:var(--ink);stop-opacity:0.440"/><stop offset="65%" style="stop-color:var(--ink);stop-opacity:0.418"/><stop offset="70%" style="stop-color:var(--ink);stop-opacity:0.392"/><stop offset="75%" style="stop-color:var(--ink);stop-opacity:0.364"/><stop offset="80%" style="stop-color:var(--ink);stop-opacity:0.330"/><stop offset="85%" style="stop-color:var(--ink);stop-opacity:0.290"/><stop offset="90%" style="stop-color:var(--ink);stop-opacity:0.240"/><stop offset="95%" style="stop-color:var(--ink);stop-opacity:0.172"/><stop offset="100%" style="stop-color:var(--ink);stop-opacity:0.000"/>
+            <stop offset="0%" style="stop-color:var(--py-a);stop-opacity:0.550"/><stop offset="5%" style="stop-color:var(--py-a);stop-opacity:0.549"/><stop offset="10%" style="stop-color:var(--py-a);stop-opacity:0.547"/><stop offset="15%" style="stop-color:var(--py-a);stop-opacity:0.543"/><stop offset="20%" style="stop-color:var(--py-a);stop-opacity:0.539"/><stop offset="25%" style="stop-color:var(--py-a);stop-opacity:0.532"/><stop offset="30%" style="stop-color:var(--py-a);stop-opacity:0.525"/><stop offset="35%" style="stop-color:var(--py-a);stop-opacity:0.515"/><stop offset="40%" style="stop-color:var(--py-a);stop-opacity:0.504"/><stop offset="45%" style="stop-color:var(--py-a);stop-opacity:0.491"/><stop offset="50%" style="stop-color:var(--py-a);stop-opacity:0.476"/><stop offset="55%" style="stop-color:var(--py-a);stop-opacity:0.460"/><stop offset="60%" style="stop-color:var(--py-a);stop-opacity:0.440"/><stop offset="65%" style="stop-color:var(--py-a);stop-opacity:0.418"/><stop offset="70%" style="stop-color:var(--py-a);stop-opacity:0.392"/><stop offset="75%" style="stop-color:var(--py-a);stop-opacity:0.364"/><stop offset="80%" style="stop-color:var(--py-a);stop-opacity:0.330"/><stop offset="85%" style="stop-color:var(--py-a);stop-opacity:0.290"/><stop offset="90%" style="stop-color:var(--py-a);stop-opacity:0.240"/><stop offset="95%" style="stop-color:var(--py-a);stop-opacity:0.172"/><stop offset="100%" style="stop-color:var(--py-a);stop-opacity:0.000"/>
           </radialGradient>
         </defs>
         <circle cx="360" cy="360" r="320" fill="url(#ht-shade)" clip-path="url(#ht-clip)"/>
@@ -929,7 +941,7 @@ mjx-container[display="true"] { margin: 0 !important; }
 
   <div class="prose">
     <p>Indeed, something would have to give in this picture, either how the 3-sphere is “sliced” or the nature of inner earth (or both).</p>
-    <p>We suggested visualizing a 3-sphere as a shrinking 2-sphere and its hidden compensation. These parts complement each other to achieve the full radius. Note, however, they do not combine via pure addition, since they don't align with each other. In fact, they are as far from alignment as possible, in that the line from the origin to the 2-sphere meets the hidden compensation at a right angle. This relationship implies “quadrature,” or the calculation of the hypotenuse of a right triangle. For this we need the pythagorean theorem.</p>
+    <p>Let's analyze our visualization of a 3-sphere as a shrinking 2-sphere and its hidden compensation. These parts complement each other to achieve the full radius. Note, however, they do not combine via pure addition, since they do not align with each other. In fact, they are as far from alignment as possible, in that the line from the origin to the 2-sphere meets the hidden compensation at a right angle. This relationship implies “quadrature,” or addition via the calculation of the hypotenuse of a right triangle. For this we need the pythagorean theorem.</p>
     <h3 class="section">The pythagorean theorem</h3>
     <p>The pythagorean theorem is this one:</p>
   </div>
@@ -939,7 +951,7 @@ mjx-container[display="true"] { margin: 0 !important; }
   </section>
 
   <div class="prose">
-    <p>Here's a diagram that sort of shows why it works – note the 4 triangles around the c square and the two triangle pairs that meet where the a and b squares do account for the same area deficit to the overall square, thus support the equality:</p>
+    <p>Here's a diagram that sort of shows why it works – note the 4 triangles outside the c square match the symmetric rectangles excluded from the a and b squares:</p>
   </div>
 
   <figure class="widget" id="pythagoras">
@@ -957,10 +969,10 @@ mjx-container[display="true"] { margin: 0 !important; }
   </figure>
 
   <div class="prose">
-    <p>This works for a and b of any length, but we tend to focus on a simple pattern reliant upon a very simple base leg length – 1.</p>
+    <p>We'll use this liberally, but one pattern is ubiquitous – combinations of unit vectors.</p>
     <h3 class="section">√n and 1 / √n</h3>
     <p>A unit vector is a vector of length 1. It is commonly used to simplify math involving vectors – just factor out the real length of the vector, do all the math, then multiply the original length back in later. Or, in the case of ratios, where true values effectively cancel, there's no need to carry values at all – units appear naturally.</p>
-    <p>Combining unit vectors in quadrature has a special application – systems that combine many vectors but prefer no direction. In this setup, directionality washes out, leaving only a vector magnitude, or norm, dictated by the number of available directions. Each direction counts once equally, and so the norm is calculated by adding one unit vector per dimension.</p>
+    <p>Combining unit vectors in quadrature has a special application. In systems that combine many vectors but prefer no direction, the directionality washes out, leaving only a vector magnitude, or norm. It is a scalar value dictated by the number of available directions. Each direction counts once equally, and so the norm is calculated by adding one unit vector per dimension.</p>
     <p>Here are the norms in n dimensions for n in 1 through 9. Because each component of each overall vector is just one extra, orthogonal appendage of length 1, these can be constructed iteratively – start with 1, then calculate \(\sqrt{1^2 + 1^2} = \sqrt{2}\), then, similarly, \(\sqrt{(\sqrt{2})^2 + 1^2} = \sqrt{3}\), and so on:</p>
   </div>
 
@@ -979,6 +991,7 @@ mjx-container[display="true"] { margin: 0 !important; }
   </section>
 
   <div class="prose">
+    <p>n dimensions implies a norm of √n.</p>
     <p>An inverse pattern develops if you pin the overall vector length to 1 and distribute it into n dimensions:</p>
   </div>
 
@@ -997,16 +1010,8 @@ mjx-container[display="true"] { margin: 0 !important; }
   </section>
 
   <div class="prose">
-    <p>A way to visualize this relationship is to note that the full extent of combining unit vectors end on end can be divided by the number of unit vectors. This means every √n has an inverse with geometric implications – \(\sqrt{n} / n = 1 / \sqrt{n}\) in n dimensions:</p>
+    <p>In this case, the norm is 1, no matter how many dimensions, but a related length of 1 / √n applies both to the projection of a single direction's contribution to the norm and similarly to the positional center of n unit vectors outstretched from a common origin.</p>
   </div>
-
-  <figure class="drawing-fig" id="1-2-3-vectors">
-    <div class="spectrum-scroll">
-      <div class="drawing nolabels">
-        <img src="vectors-drawing.jpg" width="1854" height="708" alt="Pencil drawing in three parts. Left: a line of length 1, bracketed above and below with 1. Middle: a square standing on its corner with a horizontal diagonal of length √2, its half-diagonal bracketed as 1/√2. Right: overlapping projected cube edges around a horizontal diagonal of length √3, its partial segment bracketed as 1/√3.">
-      </div>
-    </div>
-  </figure>
 
   <figure class="widget" id="spin-vectors">
     <canvas id="sv-canvas" width="1280" height="800" role="img" aria-label="Side view of an n-dimensional cube of unit edges spinning about its long diagonal, which lies horizontal. A highlighted path of n unit edges, one per dimension, runs end to end along the diagonal of length √n; each edge projects onto the diagonal with length 1/√n, marked by ticks. Choose n from 1 to 9."></canvas>
@@ -1019,22 +1024,33 @@ mjx-container[display="true"] { margin: 0 !important; }
   </figure>
 
   <div class="prose">
-    <p>This pattern continues forever – large counts of dimensions produce ever larger norms and ever smaller norm contributions per dimension.</p>
+    <p>This pattern continues forever – more dimensions produce ever larger norms, diminishingly so, and norm contributions per dimension approach but never reach zero.</p>
 
     <h3 class="section">The golden ratio</h3>
-    <p>We mentioned that the golden ratio is crucial to our proposal. But what is it, like, mathematically ? Put simply, it's the ratio of rectangular sides that, when a square forms off the larger of the two sides, results in a larger rectangle, containing the original and the square, that has the same ratio of sides. This can be drawn:</p>
+    <p>We've already mentioned the golden ratio and its extremal irrationality, but what is it numerically ? Put simply, it's the ratio of rectangular sides that, when a square forms off the larger of the two sides, results in a larger rectangle, containing the original and the square, that has the same ratio of sides as the original:</p>
   </div>
 
   <figure class="widget" id="golden-rects">
-    <canvas id="gr-canvas" width="1280" height="824" role="img" aria-label="Golden rectangles nested forever: each golden rectangle splits into a square and a smaller golden rectangle turned a quarter turn, with a quarter-circle arc in each square tracing the golden spiral. The view zooms endlessly into the spiral's center."></canvas>
+    <div class="spectrum-scroll">
+      <svg viewBox="0 0 560 356" role="img" aria-labelledby="gr-title gr-desc" class="widget-svg" id="gr-svg">
+        <title id="gr-title">A square on the long side makes the same shape again</title>
+        <desc id="gr-desc">A golden rectangle stands upright, short side a across the bottom and long side b up the side, already divided into squares that spiral inward toward a point. A translucent pane in front marks its outline. A square of side b fades in against its right side, making a larger rectangle of sides a plus b and b. The larger rectangle then turns upright while shrinking, its bottom left corner sliding right, until it fits the pane exactly: the same proportions again, with one more square in the spiral. It repeats forever.</desc>
+        <g id="gr-anim"></g>
+        <polygon id="gr-ghost" class="gr-ghost"/>
+        <path id="gr-ba" class="gr-brace"/>
+        <path id="gr-bb" class="gr-brace"/>
+        <text id="gr-la" class="axis" text-anchor="middle">a</text>
+        <text id="gr-lb" class="axis" text-anchor="middle">b</text>
+        <g id="gr-qlab"><path id="gr-bq" class="gr-brace"/><text id="gr-lq" class="axis" text-anchor="middle">b</text></g>
+      </svg>
+    </div>
     <div class="controls">
       <button type="button" class="play" id="gr-play" aria-pressed="true">Pause</button>
-      <span class="hint">each quarter turn zooms in by a factor of φ</span>
     </div>
   </figure>
 
   <div class="prose">
-    <p>And easily expressed algebraically, assuming here a is the short side and b is the long one:</p>
+    <p>This is its algebraic expression, assuming a to be the short side and b the long one:</p>
   </div>
 
   <section class="card inline">
@@ -1042,31 +1058,36 @@ mjx-container[display="true"] { margin: 0 !important; }
   </section>
 
   <div class="prose">
-    <p>This can be solved algebraically exactly:</p>
+    <p>This expression can be solved exactly:</p>
   </div>
 
   <section class="card inline">
-    <div class="steps">
-      <div class="step"><div>Call the ratio \(x = b / a\). The right side splits as \(\dfrac{a + b}{b} = \dfrac{a}{b} + 1 = \dfrac{1}{x} + 1\).</div></div>
-      <div class="step"><div>So \(x = \dfrac{1}{x} + 1\), and multiplying through by \(x\) gives \(x^2 = 1 + x\).</div></div>
-      <div class="step"><div>Rearranged: \(x^2 - x - 1 = 0\).</div></div>
-      <div class="step"><div>The quadratic formula: \(x = \dfrac{1 \pm \sqrt{1 + 4}}{2} = \dfrac{1 \pm \sqrt{5}}{2}\).</div></div>
+    <div class="deriv">
+      <div class="eq">\(\dfrac{b}{a} = \dfrac{a + b}{b}\)</div><div class="note"></div>
+      <div class="eq">\(x = \dfrac{b}{a}\)</div><div class="note">call the ratio \(x\)</div>
+      <div class="eq">\(\dfrac{a + b}{b} = \dfrac{a}{b} + 1 = \dfrac{1}{x} + 1\)</div><div class="note">split the right side</div>
+      <div class="eq">\(x = \dfrac{1}{x} + 1\)</div><div class="note"></div>
+      <div class="eq">\(x^2 = x + 1\)</div><div class="note">multiply through by \(x\)</div>
+      <div class="eq">\(x^2 - x - 1 = 0\)</div><div class="note">rearrange</div>
+      <div class="eq">\(x = \dfrac{1 \pm \sqrt{1 + 4}}{2}\)</div><div class="note">quadratic formula</div>
+      <div class="eq">\(x = \dfrac{1 \pm \sqrt{5}}{2}\)</div><div class="note"></div>
     </div>
-  </section>
-
-  <div class="prose">
-    <p>Note there are two solutions – the golden ratio and its conjugate (the “minus” version):</p>
-  </div>
-
-  <section class="card inline">
     <div class="terms">
-      <span class="sym">\(\varphi\)</span><span class="def">\((1 + \sqrt{5}) / 2\)</span><span class="val">~1.618</span>
-      <span class="sym">\(\bar{\varphi}\)</span><span class="def">\((1 - \sqrt{5}) / 2\)</span><span class="val">~-0.618</span>
+      <span class="sym">\(\varphi\)</span><span class="def">\((1 + \sqrt{5}) / 2\), the golden ratio (phi)</span><span class="val">~1.618</span>
+      <span class="sym">\(\bar{\varphi}\)</span><span class="def">\((1 - \sqrt{5}) / 2\), the golden ratio conjugate (phi bar)</span><span class="val">~-0.618</span>
     </div>
   </section>
 
   <div class="prose">
-    <p>Now due to its formulation, it also has a continued fraction form:</p>
+    <p>That's where the number comes from. Now notice the intermediate form of the solution:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$x = \frac{1}{x} + 1$$</div>
+  </section>
+
+  <div class="prose">
+    <p>This means the golden ratio can also be represented as a <em>continued fraction</em>:</p>
   </div>
 
   <section class="card inline">
@@ -1074,7 +1095,7 @@ mjx-container[display="true"] { margin: 0 !important; }
   </section>
 
   <div class="prose">
-    <p>A continued fraction can be written as a number as a whole number plus 1 over (a whole number plus 1 over (…)), forever. For the golden ratio this looks like:</p>
+    <p>A continued fraction can be written as a whole number plus 1 over (a whole number plus 1 over (…)), forever. For the golden ratio this looks like:</p>
   </div>
 
   <section class="card inline">
@@ -1085,14 +1106,14 @@ mjx-container[display="true"] { margin: 0 !important; }
   </section>
 
   <div class="prose">
-    <p>And this number is famously what the Fibonacci series converges to if we alternately add and subtract:</p>
+    <p>And this number is famously what the ratio of consecutive numbers in the Fibonacci series converges to in the infinite limit:</p>
   </div>
 
   <section class="card inline">
-    <div class="equation">$$\varphi = 1 + \frac{1}{1 \cdot 1} - \frac{1}{1 \cdot 2} + \frac{1}{2 \cdot 3} - \frac{1}{3 \cdot 5} + \frac{1}{5 \cdot 8} - \frac{1}{8 \cdot 13} + \cdots$$</div>
+    <div class="equation">$$\frac{1}{1},\ \frac{2}{1},\ \frac{3}{2},\ \frac{5}{3},\ \frac{8}{5},\ \frac{13}{8},\ \frac{21}{13},\ \ldots \;\longrightarrow\; \varphi$$</div>
     <div class="terms">
       <span class="sym">\(F_n\)</span><span class="def">Fibonacci numbers, each the sum of the two before</span><span class="val">1, 1, 2, 3, 5, 8, 13, …</span>
-      <span class="sym">partial sums</span><span class="def">the ratios \(F_{n+1} / F_n\), landing alternately above and below \(\varphi\)</span><span class="val">2, 3/2, 5/3, 8/5, …</span>
+      <span class="sym">\(F_{n+1} / F_n\)</span><span class="def">consecutive ratios, landing alternately above and below \(\varphi\)</span><span class="val">1, 2, 1.5, 1.667, 1.6, …</span>
     </div>
   </section>
 
@@ -1123,8 +1144,8 @@ mjx-container[display="true"] { margin: 0 !important; }
   </section>
 
   <div class="prose">
-    <h3 class="section">Piecing it all together</h3>
-    <p>We don't take a strong or formal position on the dynamics that lend to the “spin sea” on our sphere, but spin is a fairly intuitive concept, so we'll use it for now. We tend to say that each orthogonal 2-plane – each 1-sphere, or circle, in other words, accounting for 2 dimensions of space, even if we don't ultimately care about the surrounding space – spins at the same rate as all others. And since we don't care about the surrounding space, the only way these spins register is in relation to another spin on the sphere. Now spins can combine and they can separate at seams, or nodes, thereby giving the appearance of speeding up or slowing down, and if we assume all spins are orthogonal, then we can use our unit vector math to simplify analysis. Spins that converge or “sink” into a frame will contribute to making it move faster relative to a frame; spins that spread or “source” from a frame will slow the separation of points on that frame.</p>
+    <h3 class="section">Making the argument</h3>
+    <p>We don't take a strong or formal position on the dynamics that lend to the “spin sea” on our sphere, but spin is a fairly intuitive concept, and it works for our purposes. We tend to say that each orthogonal 2-plane – each 1-sphere, or circle, in other words, accounting for 2 dimensions of space, even if we don't ultimately care about the surrounding space – spins at the same rate as all others. And since we don't care about the surrounding space, the only way these spins register is in relation to another spin on the sphere. Now spins can combine and they can separate at seams, or nodes, thereby giving the appearance of speeding up or slowing down, and if we assume all spins are orthogonal, then we can use our unit vector math to simplify analysis. Spins that converge or “sink” into a frame will contribute to making it move faster relative to a frame; spins that spread or “source” from a frame will slow the separation of points on that frame.</p>
   </div>
 
   <figure class="widget" id="sink-source">
@@ -1462,7 +1483,9 @@ mjx-container[display="true"] { margin: 0 !important; }
       // labels
       if (a > 46) label(a / 2, a / 2 + 7, 'a²', 'area');
       if (b > 46) label(a + b / 2, a + b / 2 + 7, 'b²', 'area');
-      if (a > 46 && b > 60) label((2 * a + S) / 3, 2 * a / 3 + 7, 'c²', 'area');
+      // c² sits at the center of the tilted square, which is always the middle of the frame;
+      // when the handle passes through the middle, the label steps just above it
+      label(S / 2, S / 2 + 7 - (Math.abs(a - S / 2) < 22 ? 30 : 0), 'c²', 'area');
       label(a / 2, -12, 'a', 'edge'); label(a + b / 2, -12, 'b', 'edge');
       label(S + 12, a / 2 + 5, 'a', 'edge', 'start'); label(S + 12, a + b / 2 + 5, 'b', 'edge', 'start');
       H.setAttribute('cx', X + a); H.setAttribute('cy', Y + a);
@@ -1660,51 +1683,63 @@ mjx-container[display="true"] { margin: 0 !important; }
     });
   })();
 
-  /* ---- Golden rectangles, zooming forever into the spiral ---- */
+  /* ---- Golden rectangle: add a square on the long side, then turn and shrink it back onto the original, forever ---- */
   (function () {
-    var canvas = document.getElementById('gr-canvas'); if (!canvas) return;
-    var ctx = canvas.getContext('2d'), Wc = 640, Hc = 412, btn = document.getElementById('gr-play');
-    var PHI = (1 + Math.sqrt(5)) / 2, M = 18, S0 = (Wc - 2 * M) / PHI;
-    // complex helpers: [re, im]
-    function mul(a, b) { return [a[0] * b[0] - a[1] * b[1], a[0] * b[1] + a[1] * b[0]]; }
-    function add(a, b) { return [a[0] + b[0], a[1] + b[1]]; }
-    function sub(a, b) { return [a[0] - b[0], a[1] - b[1]]; }
-    function cpow(r, ang) { return [r * Math.cos(ang), r * Math.sin(ang)]; }
-    // T(z) = φ + (i/φ)·z maps the big rectangle onto the leftover one; its fixed point is the spiral's eye
-    var den = [1, -1 / PHI], dd = den[0] * den[0] + den[1] * den[1];
-    var EYE = [PHI * den[0] / dd, -PHI * den[1] / dd];
-    var t = 0, cycle = 0;
-    function Tk(z, k) { return add(EYE, mul(cpow(Math.pow(PHI, -k), k * Math.PI / 2), sub(z, EYE))); }
-    function render() {
-      var ink = themeVar('--ink'), card = themeVar('--card');
-      var fills = [themeVar('--fig-a'), themeVar('--fig-b'), themeVar('--fig-c')], acc = themeVar('--py-c');
-      ctx.setTransform(canvas.width / Wc, 0, 0, canvas.height / Hc, 0, 0);
-      ctx.fillStyle = card; ctx.fillRect(0, 0, Wc, Hc);
-      var g = cpow(Math.pow(PHI, t), -t * Math.PI / 2);
-      function scr(z) { var w = add(EYE, mul(sub(z, EYE), g)); return [M + S0 * w[0], Hc - M - S0 * w[1]]; }
-      var sq = [[0, 0], [1, 0], [1, 1], [0, 1]];
-      for (var k = -4; k < 26; k++) {
-        if (S0 * Math.pow(PHI, t - k) < 0.6) break;
-        var pts = sq.map(function (z) { return scr(Tk(z, k)); });
-        ctx.beginPath(); pts.forEach(function (p, i) { if (i) ctx.lineTo(p[0], p[1]); else ctx.moveTo(p[0], p[1]); }); ctx.closePath();
-        ctx.fillStyle = fills[(((k + cycle) % 3) + 3) % 3]; ctx.fill();
-        ctx.strokeStyle = ink; ctx.lineWidth = 1.1; ctx.stroke();
-      }
-      // the spiral: a quarter circle in each square
-      ctx.strokeStyle = acc; ctx.lineWidth = 2.5; ctx.lineJoin = 'round'; ctx.beginPath();
-      var first = true;
-      for (var k2 = -4; k2 < 26; k2++) {
-        if (S0 * Math.pow(PHI, t - k2) < 0.6) break;
-        for (var s = 0; s <= 16; s++) {
-          var a = -(16 - s) / 16 * Math.PI / 2, z = add([1, 1], mul([0, -1], [Math.cos(a), Math.sin(a)]));
-          var p = scr(Tk(z, k2));
-          if (first) { ctx.moveTo(p[0], p[1]); first = false; } else ctx.lineTo(p[0], p[1]);
-        }
-      }
-      ctx.stroke();
+    var svg = document.getElementById('gr-svg'); if (!svg) return;
+    var NS = 'http://www.w3.org/2000/svg', PHI = (1 + Math.sqrt(5)) / 2, K = 100, X0 = 150, Y0 = 300, N = 15;
+    var G = document.getElementById('gr-anim'), ghost = document.getElementById('gr-ghost');
+    var rectA = [[0, 0], [1, 0], [1, PHI], [0, PHI]], Q0 = [[1, 0], [1 + PHI, 0], [1 + PHI, PHI], [1, PHI]];
+    // M: turn a quarter, slide right by φ, shrink by 1/φ. It carries the big rectangle (A plus the square) onto A,
+    // so the squares already inside A are M(Q), M(M(Q)), … spiralling into the center
+    function M(p) { return [(PHI - p[1]) / PHI, p[0] / PHI]; }
+    var squares = [Q0]; for (var k = 1; k <= N; k++) squares.push(squares[k - 1].map(M));
+    function scr(p) { return [X0 + K * p[0], Y0 - K * p[1]]; }
+    function str(poly) { return poly.map(function (p) { var q = scr(p); return q[0].toFixed(2) + ',' + q[1].toFixed(2); }).join(' '); }
+    ghost.setAttribute('points', str(rectA));
+    // curly braces marking which spans are a and b: under the rectangle, up its left side, and under the new square
+    function hBrace(x1, x2, y) {
+      var h = 8, m = (x1 + x2) / 2;
+      return 'M' + x1 + ',' + (y - h) + ' Q' + x1 + ',' + y + ' ' + (x1 + h) + ',' + y + ' L' + (m - h) + ',' + y +
+        ' Q' + m + ',' + y + ' ' + m + ',' + (y + h) + ' Q' + m + ',' + y + ' ' + (m + h) + ',' + y +
+        ' L' + (x2 - h) + ',' + y + ' Q' + x2 + ',' + y + ' ' + x2 + ',' + (y - h);
     }
-    animator(canvas, btn, function (dt) { t += dt / 4; if (t >= 1) { t -= 1; cycle++; } }, render);
+    function vBrace(x, y1, y2) {
+      var h = 8, m = (y1 + y2) / 2;
+      return 'M' + (x + h) + ',' + y1 + ' Q' + x + ',' + y1 + ' ' + x + ',' + (y1 - h) + ' L' + x + ',' + (m + h) +
+        ' Q' + x + ',' + m + ' ' + (x - h) + ',' + m + ' Q' + x + ',' + m + ' ' + x + ',' + (m - h) +
+        ' L' + x + ',' + (y2 + h) + ' Q' + x + ',' + y2 + ' ' + (x + h) + ',' + y2;
+    }
+    function put(id, x, y) { var e = document.getElementById(id); e.setAttribute('x', x); e.setAttribute('y', y); }
+    var o = scr([0, 0]), r1 = scr([1, 0]), rq = scr([1 + PHI, 0]), top = scr([0, PHI]);
+    document.getElementById('gr-ba').setAttribute('d', hBrace(o[0] + 2, r1[0] - 2, o[1] + 13));
+    document.getElementById('gr-bb').setAttribute('d', vBrace(o[0] - 13, o[1] - 2, top[1] + 2));
+    document.getElementById('gr-bq').setAttribute('d', hBrace(r1[0] + 2, rq[0] - 2, o[1] + 13));
+    put('gr-la', (o[0] + r1[0]) / 2, o[1] + 44); put('gr-lb', o[0] - 36, (o[1] + top[1]) / 2 + 5); put('gr-lq', (r1[0] + rq[0]) / 2, o[1] + 44);
+    var qlab = document.getElementById('gr-qlab');
+    var polys = [];
+    for (var i = 0; i <= N; i++) { var e = document.createElementNS(NS, 'polygon'); G.appendChild(e); polys.push(e); }
+    var outline = document.createElementNS(NS, 'polygon'); outline.setAttribute('class', 'gr-edge'); G.appendChild(outline);
+    var fills = ['gr-f0', 'gr-f1', 'gr-f2'];
+    function ease(x) { x = Math.max(0, Math.min(1, x)); return x < 0.5 ? 2 * x * x : 1 - Math.pow(-2 * x + 2, 2) / 2; }
+    function ramp(t, a, b) { return Math.max(0, Math.min(1, (t - a) / (b - a))); }
+    var T = 6, t = 0, cycle = 0;
+    function render() {
+      var sq = ease(ramp(t, 0.6, 1.6)), m = ease(ramp(t, 2.0, 4.6));
+      var th = m * Math.PI / 2, c = Math.cos(th), s = Math.sin(th), slide = m * PHI, sc = 1 + (1 / PHI - 1) * m;
+      function W(p) { return [(c * p[0] - s * p[1] + slide) * sc, (s * p[0] + c * p[1]) * sc]; }
+      for (var i = 0; i <= N; i++) {
+        polys[i].setAttribute('points', str(squares[i].map(W)));
+        // colour by i − cycle so every square keeps its colour as it moves one step inward each cycle
+        polys[i].setAttribute('class', 'gr-sq ' + fills[(((i - cycle) % 3) + 3) % 3]);
+        if (i === 0) polys[i].setAttribute('opacity', sq.toFixed(3));
+      }
+      outline.setAttribute('points', str(rectA.map(W)));
+      qlab.setAttribute('opacity', (sq * (1 - ramp(t, 1.8, 2.1))).toFixed(3));
+    }
+    animator(svg, document.getElementById('gr-play'), function (dt) { t += dt; if (t >= T) { t -= T; cycle++; } }, render);
   })();
+
+
 })();
 </script>
 
