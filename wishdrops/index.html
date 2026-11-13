@@ -197,13 +197,13 @@ h1 {
 .prose h2.part {
   font-family: var(--display); font-weight: 500; font-size: 1.85rem; line-height: 1.15;
   margin: 4rem 0 1.25rem; padding-top: 1.5rem; border-top: 1px solid var(--rule);
-  text-wrap: balance;
+  text-wrap: wrap;
 }
 .prose h2.part:first-child { margin-top: 0; }
 .prose.after h2.part:first-child { margin-top: 0; }
 .prose h3.section {
   font-family: var(--display); font-weight: 500; font-size: 1.3rem; line-height: 1.3;
-  margin: 2.75rem 0 0.9rem; text-wrap: balance;
+  margin: 2.75rem 0 0.9rem; text-wrap: wrap;
 }
 .card.inline { margin: 1.5rem 0 2rem; }
 .cases {
@@ -322,6 +322,43 @@ h1 {
 .widget-svg .vec { stroke: var(--ink); stroke-width: 2; }
 .widget-svg .arrowhead { fill: var(--ink); }
 .widget-svg .ss-dot { fill: var(--py-c); }
+#pv-svg { min-width: 0; max-width: 34rem; margin: 0 auto; }
+.fig-svg .pv-axis { stroke: var(--muted); stroke-width: 1.25; }
+.fig-svg .pv-tick { stroke: var(--muted); stroke-width: 1.25; }
+.fig-svg .pv-curve { fill: none; stroke: var(--ink); stroke-width: 2.5; stroke-linejoin: round; }
+.fig-svg .pv-osc { fill: none; stroke: var(--py-c); stroke-width: 1.5; stroke-dasharray: 5 4; }
+.fig-svg .pv-min { fill: var(--py-c); }
+.fig-svg .pv-max { fill: var(--card); stroke: var(--ink); stroke-width: 1.75; }
+.fig-svg .pv-lab { font-family: var(--body); font-size: 17px; fill: var(--ink); }
+.fig-svg .pv-key { font-style: italic; font-size: 20px; }
+.fig-svg .pv-axislab { font-family: var(--mono); font-size: 12px; fill: var(--muted); }
+.fig-svg .pv-note { font-family: var(--mono); font-size: 12px; fill: var(--muted); }
+#rt-svg { min-width: 0; max-width: 26rem; margin: 0 auto; }
+.fig-svg .rt-fill { fill: var(--fig-c); fill-opacity: 0.45; }
+.fig-svg .rt-corner { fill: none; stroke: var(--ink); stroke-width: 1.25; }
+.fig-svg .rt-a { stroke: var(--py-a); stroke-width: 4; stroke-linecap: round; }
+.fig-svg .rt-b { stroke: var(--py-b); stroke-width: 4; stroke-linecap: round; }
+.fig-svg .rt-c { stroke: var(--py-c); stroke-width: 4; stroke-linecap: round; }
+.fig-svg .rt-lab { font-family: var(--body); font-style: italic; font-size: 26px; fill: var(--ink); }
+#tr-svg { min-width: 0; }
+.widget-svg .tr-vinyl { fill: var(--card); stroke: var(--ink); stroke-width: 1.75; }
+.widget-svg .tr-ring { fill: none; stroke: var(--py-c); stroke-width: 3; }
+.widget-svg .tr-label { fill: var(--fig-b); stroke: var(--ink); stroke-width: 1; }
+.widget-svg .tr-notch { stroke: var(--py-a); stroke-width: 3; stroke-linecap: round; }
+.widget-svg .tr-mark { fill: var(--py-c); }
+.widget-svg .tr-tapper { stroke: var(--py-c); stroke-width: 4; }
+.widget-svg .tr-arrowhead { fill: var(--py-c); }
+.widget-svg .tr-name { font-family: var(--body); font-style: italic; font-size: 22px; fill: var(--ink); }
+.widget-svg .tr-g0 { stop-color: #FFFFFF; stop-opacity: 0.55; }
+.widget-svg .tr-g1 { stop-color: var(--py-a); stop-opacity: 0.12; }
+.widget-svg .tr-g2 { stop-color: var(--py-a); stop-opacity: 0.6; }
+#ss-svg, #ps-svg { min-width: 0; max-width: 30rem; margin: 0 auto; }
+#sf-canvas { max-width: 34rem; margin: 0 auto; }
+#ss-svg .axis { font-size: 15px; }
+#ps-svg .axis { font-family: var(--body); font-style: italic; font-size: 20px; fill: var(--ink); }
+.widget .controls .ss-slider { display: flex; align-items: center; gap: 0.6rem; flex: 1 1 13rem; min-width: 0; }
+.widget .controls .ss-slider label { white-space: nowrap; }
+.widget-svg .ss-ghost-dot { fill: var(--card); fill-opacity: 0.6; stroke: var(--muted); stroke-width: 1.75; }
 #ss-out { white-space: normal; flex: 1 1 100%; }
 .widget-svg .vec.thin { stroke-width: 1.5; }
 .widget-svg .gr-ghost { fill: var(--py-c); fill-opacity: 0.1; stroke: var(--ink); stroke-width: 2; stroke-opacity: 0.55; stroke-linejoin: round; }
@@ -400,16 +437,17 @@ mjx-container[display="true"] { margin: 0 !important; }
 <div class="page">
   <header>
     <h1>That were the universe but one spinning sphere</h1>
-    <p class="subtitle">No free parameters</p>
+    <p class="subtitle">Dispensing with free parameters</p>
   </header>
 
   <div class="prose">
     <h2 class="part">The wishdrops conjecture</h2>
-    <p><em>That were the universe but one spinning sphere</em>. A belief and a lament simultaneously. The belief is that a single sphere of infinite dimension – always spinning, no preferred direction – is the energetic wellspring of the universe we experience. We call this <em>the wishdrops conjecture</em>. A simple, elegant, latent geometry underpins our vast, complex physical universe – that's our guess, at least. Particles, constellations, time, physics, even the sensory apparatus, right up to the <em>spirit window</em>, the <em>experiential aperture</em>, the <em>seat of consciousness</em>, whatever you want to call it, all <em>the unfolding shadow of a dynamic, holographic sphere</em>. Think of it as a very literal interpretation of the oft cited <em>“God is an infinite sphere whose center is everywhere and whose circumference is nowhere.”</em> This first appears around the 12th century, in the Latin text <em>The Book of Twenty-four Philosophers</em>, though perhaps hovered in contemplative ether for a long time before that. We wonder whether modern history misunderstands that it was meant as more than a metaphor. Like maybe the ancients knew something we have since lost.</p>
+    <p><em>That were the universe but one spinning sphere</em>. A belief and a lament simultaneously. The belief is that a single sphere of infinite dimension – always spinning, no preferred direction – is the energetic wellspring of the universe we experience. We call this <em>the wishdrops conjecture</em>. A simple, elegant, latent geometry underpins our vast, complex physical universe – that's our guess, at least. Particles, constellations, physics, time, the arc of history, even the sensory and psychic apparati, right up to the <em>spirit window</em>, the <em>seat of consciousness</em>, the <em>experiential aperture</em>, whatever you want to call it, all the unfolding shadow of a dynamic, holographic sphere. Think of it as a very literal interpretation of the oft cited <em>“God is an infinite sphere whose center is everywhere and whose circumference is nowhere”</em>, first appearing in the Latin text <em>The Book of Twenty-four Philosophers</em> around the 12th century, though perhaps hovering in the contemplative ether for a long time before that. We wonder whether modern history misunderstands that it was meant as more than a metaphor. Like maybe the ancients knew something we have since lost.</p>
     <p>The lament is how ineffective our explanation will be. At least we think so.</p>
     <p>Only one way to find out !</p>
-    <p>We'll use math (mostly high school level), physics, and intuition to elaborate on our <em>pet ratios</em> – not dogs over cats, but principled comparisons between energies, lengths, and masses that give us a warm feeling inside when we think about the secret geometry behind them, even as we might have made it up. Hopefully that will break the ice. The idea is that these ratios are fingerprints of the otherwise unobservable, with suggestive, recurring signatures, offering explanatory power perhaps, but probably not much else. That is to say, there may be no new physics here – or maybe there is, but who cares, since we take real physics at face value and treat it as <em>evidence</em>, not something to overturn – nor proof of anything <em>true</em>, as it were, so let's be right up front about how we want the reader to treat the following semi-metaphysical discourse:</p>
-    <p>Take it or leave it ! :)</p>
+    <p>We'll use math (mostly high school level), physics, and intuition to elaborate on our <em>pet ratios</em> – not dogs over cats, but principled comparisons between energies, lengths, and masses that give us a warm feeling inside when we think about the secret geometry behind them, even as we might have made it up. Hopefully that will break the ice. The idea is that these ratios are fingerprints of the otherwise unobservable, with suggestive, recurring signatures, offering explanatory power perhaps, but probably not much else. All of which is to say, there may be no new physics here – or maybe there is, but who cares, since we take real physics at face value and treat it as <em>evidence</em>, not something to overturn – nor proof of anything <em>true</em>, as it were, so here's how we hope the reader will treat the following semi-metaphysical discourse:</p>
+    <p>Take it or leave it !</p>
+    <p>:)</p>
     <h2 class="part">Pet ratios</h2>
     <p>We'll lead with the ratios, to give some sense of where this is headed, and in order to have something to project back over the origin story as it unfolds. The concepts will be familiar to some and not to others, it's ok to skim past them because we will go into much more detail afterwards.</p>
     <p><em>Note that anything labeled “wishdrops” is a convenience we invented, to ascribe a significance we imagined.</em></p>
@@ -704,9 +742,9 @@ mjx-container[display="true"] { margin: 0 !important; }
   </figure>
 
   <div class="prose">
-    <p>What is not widely known is how the visible range is set by any other physics, nevermind the pure color assignments. There may not even be consensus that such a connection exists, given the experience of color is at least in part subjective, and generally assumed accidental. Still, this visible range is testable to some extent, and people repeatedly report the same wavelengths correspond to the same colors, more or less. Yellow is <em>around</em> 580 nm, or <em>somewhere in the range of</em> 570-590 nm. Our suggestion is that this isn't some magical coincidence, rather that the associated energies bear a direct relationship to basic atomic physics. These wavelengths are “harmonic” expressly because they correspond to natural atomic phenomena, we propose, and as such, animal bodies <em>evolved to tune in to them</em>, not the other way around. The physics exists; adaptation follows.</p>
+    <p>What is not widely known is how the visible range is set by any other physics, nevermind the pure color assignments. There may not even be consensus that such a connection exists, given the experience of color is at least in part subjective, and generally assumed accidental. Still, this visible range is testable to some extent, and people repeatedly report the same wavelengths correspond to the same colors, more or less. Yellow is <em>around</em> 580 nm, or <em>somewhere in the range of</em> 570-590 nm. Our suggestion is that this isn't some magical coincidence, rather that the associated energies bear a direct relationship to atomic physics. These wavelengths are “harmonic” expressly because they correspond to natural atomic phenomena, we propose, and as such, animal bodies <em>evolved to tune in to them</em>, not the other way around. The physics exists; adaptation follows.</p>
     <p>So what are the pure colors ?</p>
-    <p>Isaac Newton in his now famous light experiments tried some three hundred plus years ago to get to the bottom of this scientifically. He used a prism to separate white light into individual colors and then back again, taking note of the per color angles and related phenomena, detailing it all in his seminal treatise,  <em>Opticks</em>. He initially counted five colors – red, yellow, green, blue (suspected to be close to what is commonly referred to as cyan today, but there's really no way to know), and violet. Only later did he insert orange and indigo to achieve the seven he imagined would correspond better to musical scales.</p>
+    <p>Isaac Newton in his now famous light experiments some three hundred plus years ago tried to get to the bottom of this scientifically. He used a prism to separate white light into individual colors and then back again, taking note of the per color angles and related phenomena, detailing it all in his seminal treatise,  <em>Opticks</em>. He initially counted five colors – red, yellow, green, blue (suspected to be close to what is commonly referred to as cyan today, but there's really no way to know), and violet. Only later did he insert orange and indigo to achieve the seven he imagined would correspond better to musical scales.</p>
     <p>Perhaps it is a stroke of luck that we accommodate both of Newton's visions – our proposal anticipates seven harmonies, five of which land in the visible range. Indeed, the five visibles hew close to Newton's original proposal, and so we hereby promote its reinstatement. We furthermore add the two extra invisibles – silver and platinum, perhaps, or some made up shades of sleek metallic, we suppose.</p>
     <p>Written in invisible ink, of course.</p>
     <p>Here's another formula we propose that could probably headline our list of spurious claims:</p>
@@ -761,17 +799,67 @@ mjx-container[display="true"] { margin: 0 !important; }
       <li>\(R = 1/\alpha\)</li>
     </ul>
     <p>And the two fluxes match exactly when \(v_s / c = \alpha^3 \cdot 3\). This is not proof, of course, of a relationship between color and sound, rather it is meant only as an illustration of our suggestion. We'll further elaborate on the role of the fine structure constant and light and color ratios in later sections.</p>
-    <p>Now the medium matters <em>a lot</em> when it comes to the speed of sound – even the temperature of the air matters, assuming we're talking about air at all, since solids and liquids can yield significantly different speeds. Our proposed “idealized” conditions correspond to earthly air at just shy of 90 degrees Fahrenheit at low humidity and perhaps other less important details, not to mention a built-in assumption that the “bounciness” of air molecules, the primary driver of pressure wave mechanics, matches our formula in the first place. Still, the idea is the same – some physical process that lives inside the final terminal way at the bottom of inner ear biology is resonating with fundamental atomic physical processes. That's the idea.</p>
-    <p>Perhaps it is obvious that, given the breadth of our proposal, we need to account for the sensory apparatus somehow. Well, there it is, and please forgive us. Regardless, we're happy to consider this “evidence” inadmissible in a court of whether any of this is real or not – it's just a nice sidebar that we decided to start with, probably because it's how we got hooked.</p>
+    <p>Now the medium matters <em>a lot</em> when it comes to the speed of sound – even the temperature of the air matters, assuming we're talking about air at all, since solids and liquids can yield significantly different speeds. Our proposed “idealized” conditions correspond to earthly air at just shy of 90 degrees Fahrenheit at low humidity and perhaps other less important details, not to mention a built-in assumption that the “bounciness” of air molecules, the primary driver of pressure wave mechanics, matches our formula in the first place. Still, the idea is the same – some physical process that lives inside the final terminal way at the bottom of inner ear biology is resonating with fundamental atomic structure.</p>
+    <p>Perhaps it is obvious that, given the breadth of our proposal, we are obligated to account for the sensory apparatus somehow. Well, there it is, and please forgive us. Regardless, we're happy to consider this “evidence” inadmissible in a court of whether any of this is real or not – it's just a nice sidebar that we decided to start with, probably because it's how we got hooked.</p>
 
     <h3 class="section">Even if we buy color and sound, om, historically, was never pinpointed</h3>
     <p>Our calculation for om is very close to 138 Hertz. Om, however, in ancient times at least, had no set frequency. It was generally thought of in ancient Hindu and Vedic traditions as “the primordial sound,” the comfortable background hum of everything that one could chant over while meditating among other things. In the 1970s the concept was “modernized” and a precise frequency was birthed based on some earthly calculations, like the “sound” corresponding to the slow orbit of the earth then raised by doubling until reaching somewhere in the actual auditory range. Our value is intended more in the tradition of the former, and it is in fact somewhat inconvenient that it lands so close to the earthly version – that's not a coincidence we want to highlight !</p>
-    <p>What we're proposing is that there is, in fact, a comfortable background hum built into atomic structure that registers as the primordial sound, and that this frequency existed well in advance of voices and hearing developing like tuning forks around it.</p>
+    <p>What we're proposing is that there is, in fact, a comfortable background hum built into atomic structure that registers as the primordial sound, and that this frequency is ontologically prior to the biological tuning forks of voice and hearing.</p>
 
     <h3 class="section">The golden ratio is woo</h3>
-    <p>It's true, the golden ratio is a fav of the new age. It's renowned for being pretty, vaguely appearing in nature, cool for drawing spirals inside nested rectangles, but generally the laughing stock of physics. Still, it's not like it appears <em>nowhere</em> in physics – it appears in KAM theory, Siegel disks, critical circle maps, and phyllotaxis (reproduced in the lab with magnetized droplets), all for essentially the same mathematical reason we want to use it – it is a member of the class of numbers that is provably the most difficult to approximate using exclusively rational numbers. Natural frequencies like oscillations and orbits that bear this ratio are, for this reason, the least susceptible to <em>resonance</em>, which is precisely what destroys stability. Rational and near-rational frequencies resonate, and resonance destroys stability – that's it. So the golden ratio has this sort of super power as a frequency – it's immortal. Well, not quite, but still.</p>
-    <p>Consider tapping a record as it rotates around a turntable, basically supplying some small amount of vertical motion at regular intervals. If you do this precisely once for every time around, the record will, subject to compounding influence, wobble out of control. Same for twice, half, and any other rational such frequency. Irrational frequencies – the square root of 2, for example – are more resistant because the taps never quite align – the influence doesn't compound as much. But even irrational frequencies can come <em>close</em> to combinations of rational ones, and that can have the same effect.</p>
-    <p>Then there's the golden ratio. The golden ratio is among a class of the <em>most irrational</em> numbers, per Hurwitz's theorem. It is the last frequency to destabilize because the taps are so well distributed – alignment is extremely slow to accumulate. That's why this number is important to us – our spinning sphere creates an unfathomable sea of interference, in which pretty much all frequencies occur simultaneously, and resonance destroys almost all patterns. So what survives ? We expect the stable images that arise from our sea of interference to carry the golden ratio as a signature. Indeed, the golden ratio is everywhere in the manifest universe; we mean it absolutely literally.</p>
+    <p>It's true, the golden ratio is a fav of the new age. It's renowned for being pretty, vaguely appearing in nature, cool for drawing spirals inside nested rectangles, but generally the laughing stock of physics. Still, it's not like it appears <em>nowhere</em> in physics – it appears in KAM theory, Siegel disks, critical circle maps, and phyllotaxis (reproduced in the lab with magnetized droplets), all for essentially the same mathematical reason we want to use it – it is a member of the class of numbers that is provably the most difficult to approximate using exclusively rational numbers. Natural frequencies like oscillations and orbits that bear this ratio are, for this reason, the least susceptible to <em>resonance</em>, which is precisely what destroys stability. Rational and near-rational frequency ratios resonate, and resonance destroys stability – that's it. So the golden ratio has this sort of super power as a frequency ratio – it's immortal. Well, not quite, but still.</p>
+    <p>Consider tapping a record as it rotates around a turntable, basically supplying some small amount of vertical motion at regular intervals. If you do this precisely once for every time around, the record will, subject to compounding influence, wobble out of control. Same for twice, half, and any other rational such frequency. Irrational frequencies – the square root of two, for example – are more resistant because the taps never quite align – the influence doesn't compound as much. But even irrational frequencies can come <em>close</em> to combinations of rational ones, and that can have the same effect.</p>
+    <p>Then there's the golden ratio.</p>
+  </div>
+
+  <figure class="widget" id="turntable">
+    <div class="spectrum-scroll">
+      <svg viewBox="0 0 720 344" role="img" aria-labelledby="tr-title tr-desc" class="widget-svg" id="tr-svg">
+        <title id="tr-title">Tapping two spinning records</title>
+        <desc id="tr-desc">Two records spin side by side while a tapper above each strikes at a steady beat, every couple of seconds, with a ring bursting from the point of impact. The left record turns exactly once per tap, so every tap lands on the same spot: the marks pile up into a single blinking point, and the record's tilt, shown as shading from light on the struck side to dark on the opposite side and as a squashing of the disc, keeps building. The right record turns φ times per tap, so each tap lands about 222 degrees further around: the marks spread evenly around the rim and the tilt stays faint, since the pushes point every which way and largely cancel. Each mark and each push fades over about ten taps.</desc>
+        <defs>
+          <marker id="tr-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 z" class="tr-arrowhead"/></marker>
+          <linearGradient id="tr-L-grad" gradientUnits="userSpaceOnUse"><stop offset="0" class="tr-g0"/><stop offset="0.5" class="tr-g1"/><stop offset="1" class="tr-g2"/></linearGradient>
+          <linearGradient id="tr-R-grad" gradientUnits="userSpaceOnUse"><stop offset="0" class="tr-g0"/><stop offset="0.5" class="tr-g1"/><stop offset="1" class="tr-g2"/></linearGradient>
+        </defs>
+        <g id="tr-L">
+          <g id="tr-L-disc">
+            <circle cx="190" cy="170" r="128" class="tr-vinyl"/>
+            <circle cx="190" cy="170" r="128" id="tr-L-tilt" fill="url(#tr-L-grad)"/>
+            <circle cx="190" cy="170" r="40" class="tr-label"/>
+            <line id="tr-L-notch" class="tr-notch"/>
+            <circle cx="190" cy="170" r="3.5" class="pt"/>
+            <g id="tr-L-marks"></g>
+            <circle id="tr-L-ring" cx="190" cy="52" r="6" class="tr-ring" opacity="0"/>
+          </g>
+          <line x1="190" y1="8" x2="190" y2="34" id="tr-L-tap" class="tr-tapper" marker-end="url(#tr-arrow)"/>
+          <text x="190" y="332" class="tr-name" text-anchor="middle">1</text>
+        </g>
+        <g id="tr-R">
+          <g id="tr-R-disc">
+            <circle cx="530" cy="170" r="128" class="tr-vinyl"/>
+            <circle cx="530" cy="170" r="128" id="tr-R-tilt" fill="url(#tr-R-grad)"/>
+            <circle cx="530" cy="170" r="40" class="tr-label"/>
+            <line id="tr-R-notch" class="tr-notch"/>
+            <circle cx="530" cy="170" r="3.5" class="pt"/>
+            <g id="tr-R-marks"></g>
+            <circle id="tr-R-ring" cx="530" cy="52" r="6" class="tr-ring" opacity="0"/>
+          </g>
+          <line x1="530" y1="8" x2="530" y2="34" id="tr-R-tap" class="tr-tapper" marker-end="url(#tr-arrow)"/>
+          <text x="530" y="332" class="tr-name" text-anchor="middle">φ</text>
+        </g>
+      </svg>
+    </div>
+    <div class="controls">
+      <button type="button" class="play" id="tr-play" aria-pressed="true">Pause</button>
+      <button type="button" class="play" id="tr-restart">Restart</button>
+    </div>
+  </figure>
+
+  <div class="prose">
+    <p>The golden ratio is among a class of the <em>most irrational</em> numbers, per Hurwitz's theorem. It is the last frequency to destabilize because the taps are so well distributed – alignment is extremely slow to accumulate. That's why this number is important to us – our spinning sphere creates an unfathomable sea of interference, in which pretty much all frequencies occur simultaneously, and resonance destroys almost all patterns.</p>
+    <p>So what survives ?</p>
+    <p>Loosely speaking, stable structure will <em>condense</em> around golden ratio frequencies – that's the idea. And so we expect the stable images that arise from our sea of interference to carry the golden ratio as a signature. Indeed, the golden ratio is so finely interwoven into the manifest universe that it appears everywhere. We mean this absolutely literally.</p>
 
     <h3 class="section">How can the human-defined volt have anything to do with the hidden geometry of the universe ?</h3>
     <p>We'll be honest – this still confounds us. Here's the ratio we're stuck on:</p>
@@ -788,14 +876,14 @@ mjx-container[display="true"] { margin: 0 !important; }
 
   <div class="prose">
     <p>The electron volt (eV) is defined as the work required to move an electric charge across one volt of electric potential. That means the work required to move an electric charge directly toward or away from another source charge. Now the volt is a completely arbitrary measurement invented by humans. It's not like the speed of light or Planck's constant or anything else intrinsic to the universe. So how on earth is it ok to use it in our pet ratios ?</p>
-    <p>We're still not sure. We have strong feelings about the geometry behind the wishdrops ratio and how it comports with the components of atomic energy – Planck's constant, the speed of light, the Rydberg wavelength, and QED corrections. Taken together, if we're thinking about it right, it <em>should</em> produce a ratio that matches the number of electron volts that characterizes the ground state – indeed, without the units. It's altogether so convincing that we just can't let it go. Still, it's kind of mind-bending to imagine quite simply that if the volt were 1.1 times as large, the unitless value of the Rydberg energy would drop commensurately.</p>
+    <p>We're still not sure. We have strong feelings about the geometry behind the wishdrops ratio and how it comports with the components of atomic energy – Planck's constant, the speed of light, the Rydberg wavelength, and QED corrections. Taken together, if we're thinking about it right, it <em>should</em> produce a ratio that matches the number of electron volts that characterizes the ground state – indeed, without the units. It's altogether so convincing that we just can't let it go. Still, it's kind of mind-bending to imagine that if the volt were simply 1.1 times as large, the unitless value of the Rydberg energy would drop commensurately.</p>
     <p>It would, right ?</p>
     <p>So we're still holding out for the truly satisfying geometric explanation that causes the volt either to drop out completely or diminish to insignificance. In the meantime we're compelled to hold the wishdrops conjecture in superposition with delusion.</p>
-    <p>Part of the justification for persisting is that incoherent light-like energy is precisely the “content” that our underpinning geometry represents without units. So if any values are going to carry over the boundary from real physics to wishdropland, electromagnetic energies like the ground state energy are strong candidates. And it's not like the electron volt has <em>nothing</em> to do with intrinsic physics – moving precisely one electron's charge along electric field lines, perpendicular to the tangential shells that shape electron orbitals and form null arcs along which light travels, at precisely the range where this balancing act occurs, comports very well with the radial versus tangential quotients that characterize the math we use. So perhaps the combination of Planck's constant and the Rydberg wave number <em>aligns</em> with binding energy in our geometry in such a way that the ground state energy has a pure ratio for a shadow ?</p>
+    <p>Part of the justification for persisting is that incoherent light-like energy is precisely the “content” that our underpinning geometry represents without units. So if any values are going to carry across the boundary from real physics to wishdropland, electromagnetic energies like the ground state energy are among the most likely. And it's not like the electron volt has <em>nothing</em> to do with intrinsic physics – moving precisely one electron's charge along electric field lines, perpendicular to the tangential shells of electron orbitals and null arcs along which light travels, at precisely the range where this balancing act occurs, comports very well with the radial versus tangential quotients that characterize the math we use. So perhaps Planck's constant and the Rydberg wave number align with the concept of binding energy in our unitless geometry such that the ground state has a pure ratio as a shadow ?</p>
     <p>Consider it a challenge – help us prove it :) Or deliver us disillusionment ;)</p>
 
     <h3 class="section">An explanation for the fine structure constant ? Large number hypotheses ? Seriously ? They already tried that</h3>
-    <p>It wouldn't be unheard of to spend a decade or more chasing down numerical coincidences about the universe unsuccessfully. Some guy named Eddington famously did so in search of a geometric explanation for the fine structure constant, the dimensionless ratio around 1/137 that shows up all over nature, including the speed ratio between an electron in the ground state of an atom and light in a vacuum. He never decisively landed a satisfying conclusion. Paul Dirac, an otherwise brilliant physicist, sunk a lot of time on what is now known as his large number hypothesis, the idea that nature's largest ratios – the strength of gravity versus the strength of electromagnetism, for example, or atomic-scale radii versus that of the whole universe – must be related somehow. These efforts are usually labeled numerology, a derogatory term about a cautionary tale regarding a decidedly unscientific endeavor that yeah, go ahead, call it whatever you want, is definitely not physics.</p>
+    <p>It wouldn't be unheard of to spend a decade or more chasing down numerical coincidences about the universe unsuccessfully. Some guy named Eddington famously did so in search of a geometric explanation for the fine structure constant, the dimensionless ratio around 1/137 that shows up all over nature, including the speed ratio between an electron in the ground state of an atom and light in a vacuum. He never landed a decisive conclusion. Paul Dirac, an otherwise brilliant physicist, sunk a lot of time on what is now known as his large number hypothesis, the idea that nature's largest ratios – the strength of gravity versus the strength of electromagnetism, for example, or atomic-scale radii versus that of the whole universe – must be related somehow. These efforts are usually labeled numerology, a derogatory term about a cautionary tale regarding a decidedly unscientific endeavor that yeah, go ahead, call it whatever you want, is definitely not physics.</p>
     <p>We want in.</p>
     <p>Let's follow in the footsteps of these giants. This is a time honored tradition ! :)</p>
 
@@ -803,7 +891,7 @@ mjx-container[display="true"] { margin: 0 !important; }
     <p>We mentioned at the beginning that we suspect the underpinning form of the universe to be:</p>
     <p class="echo"><em>a single sphere of infinite dimension – always spinning, no preferred direction</em></p>
     <p>The subtext of our conjecture is that a description of this device would constitute the only input required to render the laws of physics. This may seem ambitious, given there are “no free parameters” here – no bestowed lengths, durations, masses, coupling strengths, or raw numbers anywhere. The setup is expressly void of external markers of time and space, given “always” and “no preferred direction.” So where do the numbers come from ? Where and when does the universe we know make its grand entrance ?</p>
-    <p>Our proposal is that it <em>emerges</em> from this setup. Let's be very clear about this – the sphere doesn't live in space, doesn't experience time, and very much doesn't care about its background. That makes the sphere <em>intrinsic</em> – all that matters are the relations between points on it. The universe we know, including time, is essentially painted onto the sphere, however holographically, from within the sphere. The ontology is unambiguously sphere first, then universe.</p>
+    <p>Our proposal is that it <em>emerges</em> from this setup. Let's be very clear about this – the sphere doesn't live in space, doesn't experience time, and very much doesn't care about its background. That makes the sphere <em>intrinsic</em> – all that matters are the relations between points on it – and globally <em>incoherent</em> – it has no distinguishing features as a whole. The universe we know, including time, is essentially painted onto the sphere, however holographically, from within the sphere, cohering only <em>locally</em>. So the ontology is unambiguously sphere first, then universe, and the universe is a relative, local phenomenon within the sphere.</p>
     <p>Still, how do we get numbers from no preferred anything ? Let's introduce a few mathematical concepts first, to help us conjure the numbers. Then we'll make the leap to some physics parallels before revisiting our pet ratios to demonstrate the numbers in action.</p>
 
     <h3 class="section">What is a sphere ?</h3>
@@ -917,7 +1005,7 @@ mjx-container[display="true"] { margin: 0 !important; }
   </figure>
 
   <div class="prose">
-    <p>Another interesting effect in this setup is that a whole three dimensional space exists <em>at the radius</em>. In other words, you can move in 3 directions – like a rocket launched from the flats that parachutes back in a spiral to the salty floor – without ever getting any closer to the center of the 4-ball. The center of the earth is not the true center in this setup – it's just as far away from the true center as the flats, the north pole, or anywhere on or inside earth. The hidden radius stretches away from all earthly points equally in this case, converging on a common center in 4-space.</p>
+    <p>Another interesting effect in this setup is that a whole three dimensional space exists <em>at the radius</em>. In other words, you can move in 3 directions – like drilling through the salty floor to middle earth – without ever getting any closer to the center of the 4-ball. The center of the earth is not the true center in this setup – it's just as far away from the true center as the flats, the north pole, or anywhere on or inside earth. The hidden radius stretches away from all earthly points equally in this case, converging on a common center in 4-space.</p>
     <p>The final point we'll make about the 3-sphere for now is that, in our setup, where Utah, middle earth, and the north pole are all on the same 3-sphere, <em>all lines are curved</em>, at least those that remain in the 3-sphere. Straight lines depart the sphere, and those that depart perpendicularly are radial. This would sort of mean the earth's axis itself would need be curved, but here it gets hard to carry on the analogy, because if the sphere was the same size as earth and yet carrying an extra, third dimension, the “round trip” off the salt flats that ultimately returns to the salt flats would be just as long as the trip around any great circle – one full equator-sized cycle in our idealized, spherical globe.</p>
   </div>
 
@@ -941,7 +1029,7 @@ mjx-container[display="true"] { margin: 0 !important; }
 
   <div class="prose">
     <p>Indeed, something would have to give in this picture, either how the 3-sphere is “sliced” or the nature of inner earth (or both).</p>
-    <p>Let's analyze our visualization of a 3-sphere as a shrinking 2-sphere and its hidden compensation. These parts complement each other to achieve the full radius. Note, however, they do not combine via pure addition, since they do not align with each other. In fact, they are as far from alignment as possible, in that the line from the origin to the 2-sphere meets the hidden compensation at a right angle. This relationship implies “quadrature,” or addition via the calculation of the hypotenuse of a right triangle. For this we need the pythagorean theorem.</p>
+    <p>In our visualization of the 3-sphere, the shrinking 2-sphere and its hidden compensation complement each other to achieve the full radius. Note, however, they do not combine via pure addition, since they do not align with each other. In fact, they are as far from alignment as possible, in that the line from the origin to the 2-sphere meets the hidden compensation at a right angle. This relationship implies “quadrature,” or addition via the calculation of the hypotenuse of a right triangle. For this we need the pythagorean theorem.</p>
     <h3 class="section">The pythagorean theorem</h3>
     <p>The pythagorean theorem is this one:</p>
   </div>
@@ -951,7 +1039,26 @@ mjx-container[display="true"] { margin: 0 !important; }
   </section>
 
   <div class="prose">
-    <p>Here's a diagram that sort of shows why it works – note the 4 triangles outside the c square match the symmetric rectangles excluded from the a and b squares:</p>
+    <p>It measures the distance between two lengths in quadrature because the hypotenuse of the implied right triangle is the straight line distance:</p>
+  </div>
+
+  <figure class="fig-svg" id="right-triangle">
+    <svg viewBox="20 32 440 196" role="img" aria-labelledby="rt-title rt-desc" id="rt-svg">
+      <title id="rt-title">A right triangle</title>
+      <desc id="rt-desc">A right triangle with leg a running across the bottom, the shorter leg b standing vertically at the right end, and the hypotenuse c running straight from the start of a to the top of b, the straight line distance spanned by the two legs.</desc>
+      <polygon points="50,185 400,185 400,55" class="rt-fill"/>
+      <path d="M384 185 V169 H400" class="rt-corner"/>
+      <line x1="50" y1="185" x2="400" y2="185" class="rt-a"/>
+      <line x1="400" y1="185" x2="400" y2="55" class="rt-b"/>
+      <line x1="50" y1="185" x2="400" y2="55" class="rt-c"/>
+      <text x="225" y="215" class="rt-lab" text-anchor="middle">a</text>
+      <text x="420" y="127" class="rt-lab" text-anchor="start">b</text>
+      <text x="216" y="106" class="rt-lab" text-anchor="middle">c</text>
+    </svg>
+  </figure>
+
+  <div class="prose">
+    <p>Here's a diagram that sort of shows why it works – note the 4 triangles outside the c square match the size of the symmetric rectangles excluded from the a and b squares:</p>
   </div>
 
   <figure class="widget" id="pythagoras">
@@ -969,11 +1076,11 @@ mjx-container[display="true"] { margin: 0 !important; }
   </figure>
 
   <div class="prose">
-    <p>We'll use this liberally, but one pattern is ubiquitous – combinations of unit vectors.</p>
+    <p>Two sets of “negative spaces” within the outer square – outside \(c^2\) and outside \(a^2 + b^2\), respectively – are equal, hence the formula. We'll use this liberally, and in one pattern ubiquitously – combinations of unit vectors.</p>
     <h3 class="section">√n and 1 / √n</h3>
-    <p>A unit vector is a vector of length 1. It is commonly used to simplify math involving vectors – just factor out the real length of the vector, do all the math, then multiply the original length back in later. Or, in the case of ratios, where true values effectively cancel, there's no need to carry values at all – units appear naturally.</p>
-    <p>Combining unit vectors in quadrature has a special application. In systems that combine many vectors but prefer no direction, the directionality washes out, leaving only a vector magnitude, or norm. It is a scalar value dictated by the number of available directions. Each direction counts once equally, and so the norm is calculated by adding one unit vector per dimension.</p>
-    <p>Here are the norms in n dimensions for n in 1 through 9. Because each component of each overall vector is just one extra, orthogonal appendage of length 1, these can be constructed iteratively – start with 1, then calculate \(\sqrt{1^2 + 1^2} = \sqrt{2}\), then, similarly, \(\sqrt{(\sqrt{2})^2 + 1^2} = \sqrt{3}\), and so on:</p>
+    <p>A unit vector is a vector of length 1. It is commonly used to simplify math involving vectors – just factor out the real length of the vector, do all the math, then multiply the original length back in later. Or, in the case of ratios, where true values cancel, there's no need to carry those values at all – units become natural.</p>
+    <p>Combining unit vectors in quadrature has a special application. In systems that combine many vectors with no directional preference, the directionality washes out, leaving only a scalar vector magnitude, or <em>norm</em>. The norm in this case is dictated by the number of available directions. Each direction counts once equally, and so the norm is calculated by adding one unit vector per dimension.</p>
+    <p>Here are the norms for combinations of unit vectors in n dimensions (for n in 1 through 9). Because each component of each overall vector is just one additional, orthogonal appendage of length 1, these can be constructed iteratively – start with 1, then calculate \(\sqrt{1^2 + 1^2} = \sqrt{2}\), then, similarly, \(\sqrt{(\sqrt{2})^2 + 1^2} = \sqrt{3}\), and so on:</p>
   </div>
 
   <section class="card inline ladders">
@@ -991,7 +1098,7 @@ mjx-container[display="true"] { margin: 0 !important; }
   </section>
 
   <div class="prose">
-    <p>n dimensions implies a norm of √n.</p>
+    <p>A very nice pattern emerges – n dimensions implies a norm of √n.</p>
     <p>An inverse pattern develops if you pin the overall vector length to 1 and distribute it into n dimensions:</p>
   </div>
 
@@ -1010,7 +1117,7 @@ mjx-container[display="true"] { margin: 0 !important; }
   </section>
 
   <div class="prose">
-    <p>In this case, the norm is 1, no matter how many dimensions, but a related length of 1 / √n applies both to the projection of a single direction's contribution to the norm and similarly to the positional center of n unit vectors outstretched from a common origin.</p>
+    <p>In this case, the norm is 1, no matter how many dimensions, but a related length of 1 / √n applies to the projection of a single direction's contribution to the norm. Interestingly, this length also measures the distance to the positional center of n unit vectors outstretched from a common origin.</p>
   </div>
 
   <figure class="widget" id="spin-vectors">
@@ -1024,15 +1131,59 @@ mjx-container[display="true"] { margin: 0 !important; }
   </figure>
 
   <div class="prose">
-    <p>This pattern continues forever – more dimensions produce ever larger norms, diminishingly so, and norm contributions per dimension approach but never reach zero.</p>
+    <p>This pattern continues forever – more dimensions produce ever larger norms, diminishingly so, and norm contributions per dimension approach but never reach zero. We tend to refer to these counts as p and f, for the contributing dimensions that “push” together and the “frame” dimensions that “flower” apart. These are composable, resulting in an overall “projection”:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$P = \frac{\sqrt{p}}{\sqrt{f}}$$</div>
+    <div class="terms">
+      <span class="sym">\(P\)</span><span class="def">overall projection (norm)</span><span class="val"></span>
+      <span class="sym">\(p\)</span><span class="def">push dimension count</span><span class="val"></span>
+      <span class="sym">\(f\)</span><span class="def">frame dimension count</span><span class="val"></span>
+    </div>
+  </section>
+
+  <div class="prose">
+    <p>Taking the mnemonic further, p is like the “pistil” of the “flower” in this metaphor.</p>
+    <p>In the case that the projection represents a velocity, such as the surface of a spinning sphere from a radial vantage, contributing dimensions speed it up and frame dimensions slow it down.</p>
+  </div>
+
+  <figure class="widget" id="sink-source">
+    <div class="spectrum-scroll">
+      <svg viewBox="150 0 420 380" role="img" aria-labelledby="ss-title ss-desc" class="widget-svg" id="ss-svg">
+        <title id="ss-title">Push and frame</title>
+        <desc id="ss-desc">A faint circle, the sphere seen edge on. On its left half, p vectors spread evenly and all point in to the center point, the push dimensions. On its right half, f vectors spread evenly and all point out from the same center, the frame dimensions, like a flower around its pistil. A hollow ghost dot swings vertically through the center at rate 1, fading to nothing halfway around and fully dark each time it comes back, like a point going around a sphere seen edge on. A solid dot swings side to side through the center at the overall projection P, the square root of p over the square root of f. Two equivalent views can be toggled. Holding the radius fixed, the solid dot goes around P times as fast as the ghost; the two start together at the center and only line up again if P is a ratio of whole numbers. Holding the timing fixed instead, both go around in the same time and always cross the center together, while the solid dot's circle is P times the ghost's. Choose p and f from 1 to 9.</desc>
+        <defs><marker id="ss-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 z" class="arrowhead"/></marker></defs>
+        <g id="ss-legs"></g>
+        <circle id="ss-ghost" r="7" class="ss-ghost-dot"/>
+        <circle id="ss-dot" r="7" class="ss-dot"/>
+        <text x="162" y="26" class="axis" text-anchor="start">push (p)</text>
+        <text x="558" y="26" class="axis" text-anchor="end">frame (f)</text>
+      </svg>
+    </div>
+    <div class="controls">
+      <span class="ss-slider"><label for="ss-p">Push p</label><input type="range" id="ss-p" min="1" max="9" step="1" value="4"></span>
+      <span class="ss-slider"><label for="ss-f">Frame f</label><input type="range" id="ss-f" min="1" max="9" step="1" value="1"></span>
+      <button type="button" class="play" id="ss-play" aria-pressed="true">Pause</button>
+      <fieldset class="seg">
+        <legend>View</legend>
+        <label><input type="radio" name="ss-mode" value="timing" checked> same radius, different timing</label>
+        <label><input type="radio" name="ss-mode" value="size"> same timing, different radius</label>
+      </fieldset>
+      <output id="ss-out" for="ss-p ss-f"></output>
+    </div>
+  </figure>
+
+  <div class="prose">
+    <p>This is how velocities, frequencies, radii, and circumferences can <em>effectively</em> vary, and potentially significantly – it's a trick of perspective. The true radius never changes; the effective or <em>felt</em> radius depends on perspective.</p>
 
     <h3 class="section">The golden ratio</h3>
-    <p>We've already mentioned the golden ratio and its extremal irrationality, but what is it numerically ? Put simply, it's the ratio of rectangular sides that, when a square forms off the larger of the two sides, results in a larger rectangle, containing the original and the square, that has the same ratio of sides as the original:</p>
+    <p>We've already cited the golden ratio for its extremal irrationality, but we didn't really explain what it is. Like, numerically. Put simply, it's the proportions of a rectangle that, when a square forms off the larger of the two sides, results in a larger rectangle of the same proportions, incorporating both the original rectangle and the square.</p>
   </div>
 
   <figure class="widget" id="golden-rects">
     <div class="spectrum-scroll">
-      <svg viewBox="0 0 560 356" role="img" aria-labelledby="gr-title gr-desc" class="widget-svg" id="gr-svg">
+      <svg viewBox="0 45 560 311" role="img" aria-labelledby="gr-title gr-desc" class="widget-svg" id="gr-svg">
         <title id="gr-title">A square on the long side makes the same shape again</title>
         <desc id="gr-desc">A golden rectangle stands upright, short side a across the bottom and long side b up the side, already divided into squares that spiral inward toward a point. A translucent pane in front marks its outline. A square of side b fades in against its right side, making a larger rectangle of sides a plus b and b. The larger rectangle then turns upright while shrinking, its bottom left corner sliding right, until it fits the pane exactly: the same proportions again, with one more square in the spiral. It repeats forever.</desc>
         <g id="gr-anim"></g>
@@ -1050,7 +1201,7 @@ mjx-container[display="true"] { margin: 0 !important; }
   </figure>
 
   <div class="prose">
-    <p>This is its algebraic expression, assuming a to be the short side and b the long one:</p>
+    <p>This is its algebraic expression, assuming a to be the short side and b to be the long one:</p>
   </div>
 
   <section class="card inline">
@@ -1058,7 +1209,7 @@ mjx-container[display="true"] { margin: 0 !important; }
   </section>
 
   <div class="prose">
-    <p>This expression can be solved exactly:</p>
+    <p>Which can be solved exactly:</p>
   </div>
 
   <section class="card inline">
@@ -1079,7 +1230,7 @@ mjx-container[display="true"] { margin: 0 !important; }
   </section>
 
   <div class="prose">
-    <p>That's where the number comes from. Now notice the intermediate form of the solution:</p>
+    <p>So that's where the number comes from. Now notice the intermediate form of the solution:</p>
   </div>
 
   <section class="card inline">
@@ -1106,7 +1257,34 @@ mjx-container[display="true"] { margin: 0 !important; }
   </section>
 
   <div class="prose">
-    <p>And this number is famously what the ratio of consecutive numbers in the Fibonacci series converges to in the infinite limit:</p>
+    <p>We mentioned earlier that the golden ratio is a member of the class of most irrational numbers. This class is called the noble numbers. It includes any that, when represented this way, end in a series of 1s as quotients. Not all irrationals do:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$\begin{aligned} \sqrt{2} &= 1 + \cfrac{1}{2 + \cfrac{1}{2 + \cfrac{1}{2 + \cdots}}} \\[4pt] &= [1; 2, 2, 2, \ldots] \\[14pt] \pi &= 3 + \cfrac{1}{7 + \cfrac{1}{15 + \cfrac{1}{1 + \cfrac{1}{292 + \cdots}}}} \\[4pt] &= [3; 7, 15, 1, 292, 1, 1, 1, 2, \ldots] \end{aligned}$$</div>
+    <div class="terms">
+      <span class="sym">\(\sqrt{2}\)</span><span class="def">2s forever, never settling into 1s</span><span class="val">~1.414</span>
+      <span class="sym">\(\pi\)</span><span class="def">no pattern at all; the early 292 is why \(355/113\) approximates it so well</span><span class="val">~3.14159</span>
+    </div>
+  </section>
+
+  <div class="prose">
+    <p>Hurwitz's theorem formalizes why the noble numbers are the most irrational:</p>
+  </div>
+
+  <section class="card inline">
+    <h2><span>Hurwitz's theorem</span></h2>
+    <div class="equation">$$\left| \, x - \frac{p}{q} \, \right| < \frac{1}{\sqrt{5}\; q^2}$$</div>
+    <div class="terms">
+      <span class="sym">\(x\)</span><span class="def">any irrational number</span><span class="val"></span>
+      <span class="sym">\(p / q\)</span><span class="def">infinitely many fractions meet the bound</span><span class="val"></span>
+      <span class="sym">\(\sqrt{5}\)</span><span class="def">can't be raised for the noble numbers, \([a_0; a_1, \ldots, a_k, 1, 1, 1, \ldots]\)</span><span class="val">~2.236</span>
+      <span class="sym">\(\sqrt{8}\)</span><span class="def">the next constant, once the noble numbers are set aside, e.g. \(\sqrt{2} = [1; 2, 2, 2, \ldots]\)</span><span class="val">~2.828</span>
+    </div>
+  </section>
+
+  <div class="prose">
+    <p>The golden ratio has some other cool things about it. It's famously what the ratio of consecutive numbers in the Fibonacci series converges to in the infinite limit, for example:</p>
   </div>
 
   <section class="card inline">
@@ -1118,7 +1296,7 @@ mjx-container[display="true"] { margin: 0 !important; }
   </section>
 
   <div class="prose">
-    <p>One more cool way to understand the golden ratio is that if you draw a succession of points each φ times further from the origin than the last, the separation between two adjacent points (n and n+1) equals the separation between the first of the two and its predecessor's predecessor (n and n-2):</p>
+    <p>Or, if you draw a succession of points each φ times further from the origin than the last, the separation between two adjacent points (n and n+1) equals the separation between the first of the two and its predecessor's predecessor (n and n-2):</p>
   </div>
 
   <figure class="fig-svg" id="phi-points">
@@ -1144,54 +1322,59 @@ mjx-container[display="true"] { margin: 0 !important; }
   </section>
 
   <div class="prose">
+    <p>Ok, enough fun, let's try putting some of this together.</p>
     <h3 class="section">Making the argument</h3>
-    <p>We don't take a strong or formal position on the dynamics that lend to the “spin sea” on our sphere, but spin is a fairly intuitive concept, and it works for our purposes. We tend to say that each orthogonal 2-plane – each 1-sphere, or circle, in other words, accounting for 2 dimensions of space, even if we don't ultimately care about the surrounding space – spins at the same rate as all others. And since we don't care about the surrounding space, the only way these spins register is in relation to another spin on the sphere. Now spins can combine and they can separate at seams, or nodes, thereby giving the appearance of speeding up or slowing down, and if we assume all spins are orthogonal, then we can use our unit vector math to simplify analysis. Spins that converge or “sink” into a frame will contribute to making it move faster relative to a frame; spins that spread or “source” from a frame will slow the separation of points on that frame.</p>
+    <p>We know what a sphere is, we understand the pythagorean theorem, we see how norms work in the absence of direction, and we love the golden ratio sort of. Where do we go next ?</p>
+    <p>Let's see if we can piece some of this together.</p>
+    <p>We said that our sphere spins. Honestly, we don't take a strong position on that. We're more concerned about setting up a unit sphere (radius equals 1, everything else is a ratio) that has an effective radius at φ (and its conjugate at φ̄, even if it's negative) due to some symmetric dynamism that prefers nothing. We suspect spin is a way to accomplish this. Plus it's beautiful imagery.</p>
+    <p>The spherical content is our vector space. Spin ratios are our frequencies. A norm emerges because no direction is preferred. The noble numbers model the most stable norms. The golden ratio stands out from among the noble numbers because it not only ends with all 1s in its quotient series but only ever contains 1s (a nod to “always,” in that there's no preferred moment, either).</p>
+    <p>Strictly speaking, we expect φ and φ̄ to be frequency ratios, or “winding numbers,” a ratio of one rate of spin against another. In this setup, however, we get φ as an effective radius for free, since surface speed equals rate times radius. If the timing is shared, the ratio has to show up somewhere – it does so in the (effective) radius.</p>
   </div>
 
-  <figure class="widget" id="sink-source">
+  <figure class="widget" id="phi-spin">
     <div class="spectrum-scroll">
-      <svg viewBox="0 0 720 300" role="img" aria-labelledby="ss-title ss-desc" class="widget-svg" id="ss-svg">
-        <title id="ss-title">Sink and source</title>
-        <desc id="ss-desc">Left, labeled sink: n vectors spread evenly around the left half of a faint circle, the sphere seen edge on, all pointing in to a single point at its center. Right, labeled source: the mirror image, n vectors spread evenly around the right half, all pointing out from the center. On each side a single dot swings laterally through the center in a sine pattern, fastest at the center, fading to nothing halfway around and fully dark each time it comes back, like a point going around a sphere seen edge on. Two equivalent views can be toggled. Holding the radius fixed, as n grows the sink's dot speeds up by a factor of the square root of n and the source's slows down by the same factor, so they end up n times apart. Holding the timing fixed instead, both dots go around in the same time, while the sink's circle grows by the square root of n and the source's shrinks by the same factor. Choose n from 1 to 9.</desc>
-        <defs><marker id="ss-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0 0 L10 5 L0 10 z" class="arrowhead"/></marker><marker id="ss-arrow-sm" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="4" markerHeight="4" orient="auto"><path d="M0 0 L10 5 L0 10 z" class="arrowhead"/></marker></defs>
-        <g id="ss-left"></g>
-        <g id="ss-right"></g>
-        <circle id="ss-dot-l" r="7" class="ss-dot"/>
-        <circle id="ss-dot-r" r="7" class="ss-dot"/>
-        <text x="200" y="288" class="axis" text-anchor="middle">sink</text>
-        <text x="520" y="288" class="axis" text-anchor="middle">source</text>
+      <svg viewBox="150 0 420 340" role="img" aria-labelledby="ps-title ps-desc" class="widget-svg" id="ps-svg">
+        <title id="ps-title">1 against φ</title>
+        <desc id="ps-desc">A faint circle, the sphere seen edge on, with a point at its center. A hollow ghost dot swings vertically through the center at rate 1, fading to nothing halfway around and fully dark each time it comes back. A solid dot swings side to side through the center. Two equivalent views can be toggled. Holding the radius fixed, the solid dot goes around φ times as fast as the ghost, and because φ is irrational the two never line up exactly again after starting together. Holding the timing fixed instead, both go around in the same time and always cross the center together, while the solid dot's circle is φ times the ghost's.</desc>
+        <g id="ps-g"></g>
+        <circle id="ps-ghost" r="7" class="ss-ghost-dot"/>
+        <circle id="ps-dot" r="7" class="ss-dot"/>
+        <text id="ps-l1" class="axis" text-anchor="middle">1</text>
+        <text id="ps-lphi" class="axis" text-anchor="start">φ</text>
       </svg>
     </div>
     <div class="controls">
-      <label for="ss-n">Dimensions</label>
-      <input type="range" id="ss-n" min="1" max="9" step="1" value="3">
-      <button type="button" class="play" id="ss-play" aria-pressed="true">Pause</button>
+      <button type="button" class="play" id="ps-play" aria-pressed="true">Pause</button>
       <fieldset class="seg">
         <legend>View</legend>
-        <label><input type="radio" name="ss-mode" value="timing" checked> same radius, different timing</label>
-        <label><input type="radio" name="ss-mode" value="size"> same timing, different radius</label>
+        <label><input type="radio" name="ps-mode" value="timing" checked> radial ratio: 1, timing ratio: φ</label>
+        <label><input type="radio" name="ps-mode" value="size"> radial ratio: φ, timing ratio: 1</label>
       </fieldset>
-      <output id="ss-out" for="ss-n"></output>
     </div>
   </figure>
 
   <div class="prose">
-    <p>We mentioned earlier that the golden ratio is a member of the class of most irrational numbers. This class includes any that have continued fractions which likewise end in a series of 1s as quotients. These are called the noble numbers.</p>
+    <h3 class="section">The radial potential</h3>
+    <p>Now the effective sphere is by no means rigid – far from it. It's highly fluid, with points effectively <em>pushed</em> toward and therefore oscillating around the stable norms. This sets up a radial <em>potential</em> – a function that describes how things behave at different radii. This is a big step forward – it doesn't look so much like a sphere anymore, more like a uniform field around a point.</p>
+  </div>
+
+  <figure class="widget" id="shell-field">
+    <canvas id="sf-canvas" width="1280" height="800" role="img" aria-label="A cloud of points around a central point, seen in slow rotation. The points crowd into a fuzzy spherical shell at radius φ and thin out quickly both inside and outside it, the way particles settle into the bottom of a potential well. Faint arrows inside the shell point outward and faint arrows outside it point inward, all toward the shell at φ, which is marked with a dashed circle."></canvas>
+    <div class="controls">
+      <button type="button" class="play" id="sf-play" aria-pressed="true">Pause</button>
+    </div>
+  </figure>
+
+  <div class="prose">
+    <p>Our system has two stability targets – φ and φ̄  – and so our goal is to find a function that will land these values as minima. The algebraic solution helps:</p>
   </div>
 
   <section class="card inline">
-    <h2><span>Hurwitz's theorem</span></h2>
-    <div class="equation">$$\left| \, x - \frac{p}{q} \, \right| < \frac{1}{\sqrt{5}\; q^2}$$</div>
-    <div class="terms">
-      <span class="sym">\(x\)</span><span class="def">any irrational number</span><span class="val"></span>
-      <span class="sym">\(p / q\)</span><span class="def">infinitely many fractions meet the bound</span><span class="val"></span>
-      <span class="sym">\(\sqrt{5}\)</span><span class="def">can't be raised for the noble numbers, \([a_0; a_1, \ldots, a_k, 1, 1, 1, \ldots]\)</span><span class="val">~2.236</span>
-      <span class="sym">\(\sqrt{8}\)</span><span class="def">the next constant, once the noble numbers are set aside, e.g. \(\sqrt{2} = [1; 2, 2, 2, \ldots]\)</span><span class="val">~2.828</span>
-    </div>
+    <div class="equation">$$x^2 - x - 1 = 0$$</div>
   </section>
 
   <div class="prose">
-    <p>The golden ratio is the norm of the sphere – the radius is phi. Need a radial potential that puts minima at phi and phi bar:</p>
+    <p>Setting our potential to the square of this expression is straight out of a physics textbook – it matches the shape of the Higgs potential. This will give us the simplest monic quartic function with the minima we want:</p>
   </div>
 
   <section class="card inline">
@@ -1199,40 +1382,79 @@ mjx-container[display="true"] { margin: 0 !important; }
   </section>
 
   <div class="prose">
-    <p>Simplest monic function that does this.</p>
-    <p>Physics says take the second derivative and evaluate at the minima then square root to obtain the stiffness, which in our case turns out to be sqrt(10).</p>
+    <p>Here's what our radial graph looks like:</p>
+  </div>
+
+  <figure class="fig-svg" id="potential">
+    <svg viewBox="0 0 580 290" role="img" aria-labelledby="pv-title pv-desc" id="pv-svg">
+      <title id="pv-title">The radial potential</title>
+      <desc id="pv-desc">A plot of V = (x² − x − 1)² against the radius x. The curve is a symmetric double well centered at x = ½: it falls to zero at two minima, x = φ̄ ≈ −0.618 and x = φ ≈ 1.618, with a hump between them at x = ½ where V = 25/16 and the second derivative is −5. Dashed parabolas hugging each well show the curvature there, a second derivative of 10.</desc>
+      <defs><clipPath id="pv-clip"><rect x="60" y="20" width="480" height="230"/></clipPath></defs>
+      <line x1="60" y1="250" x2="548" y2="250" class="pv-axis"/>
+      <line x1="231.4" y1="250" x2="231.4" y2="22" class="pv-axis"/>
+      <text x="223.4" y="32" class="pv-lab" text-anchor="end">V</text>
+      <text x="548" y="240" class="pv-axislab" text-anchor="end">radius</text>
+      <line x1="146.7" y1="250" x2="146.7" y2="256" class="pv-tick"/><text x="146.7" y="276" class="pv-lab pv-key" text-anchor="middle">φ̄</text><line x1="231.4" y1="250" x2="231.4" y2="256" class="pv-tick"/><text x="231.4" y="276" class="pv-lab" text-anchor="middle">0</text><line x1="300.0" y1="250" x2="300.0" y2="256" class="pv-tick"/><text x="300.0" y="276" class="pv-lab" text-anchor="middle">½</text><line x1="368.6" y1="250" x2="368.6" y2="256" class="pv-tick"/><text x="368.6" y="276" class="pv-lab" text-anchor="middle">1</text><line x1="453.3" y1="250" x2="453.3" y2="256" class="pv-tick"/><text x="453.3" y="276" class="pv-lab pv-key" text-anchor="middle">φ</text>
+      <g clip-path="url(#pv-clip)">
+        <path d="M89.1,169.4 L91.9,177.2 L94.8,184.7 L97.7,191.7 L100.6,198.4 L103.5,204.6 L106.3,210.5 L109.2,215.9 L112.1,221.0 L115.0,225.6 L117.9,229.8 L120.7,233.7 L123.6,237.1 L126.5,240.1 L129.4,242.7 L132.3,245.0 L135.1,246.8 L138.0,248.2 L140.9,249.2 L143.8,249.8 L146.7,250.0 L149.5,249.8 L152.4,249.2 L155.3,248.2 L158.2,246.8 L161.1,245.0 L163.9,242.7 L166.8,240.1 L169.7,237.1 L172.6,233.7 L175.5,229.8 L178.3,225.6 L181.2,221.0 L184.1,215.9 L187.0,210.5 L189.9,204.6 L192.7,198.4 L195.6,191.7 L198.5,184.7 L201.4,177.2 L204.3,169.4" class="pv-osc"/><path d="M395.7,169.4 L398.6,177.2 L401.5,184.7 L404.4,191.7 L407.3,198.4 L410.1,204.6 L413.0,210.5 L415.9,215.9 L418.8,221.0 L421.7,225.6 L424.5,229.8 L427.4,233.7 L430.3,237.1 L433.2,240.1 L436.1,242.7 L438.9,245.0 L441.8,246.8 L444.7,248.2 L447.6,249.2 L450.5,249.8 L453.3,250.0 L456.2,249.8 L459.1,249.2 L462.0,248.2 L464.9,246.8 L467.7,245.0 L470.6,242.7 L473.5,240.1 L476.4,237.1 L479.3,233.7 L482.1,229.8 L485.0,225.6 L487.9,221.0 L490.8,215.9 L493.7,210.5 L496.5,204.6 L499.4,198.4 L502.3,191.7 L505.2,184.7 L508.1,177.2 L510.9,169.4" class="pv-osc"/>
+        <path d="M60.0,-50.4 L61.2,-40.3 L62.4,-30.5 L63.6,-20.9 L64.8,-11.5 L66.0,-2.3 L67.2,6.6 L68.4,15.4 L69.6,23.9 L70.8,32.3 L72.0,40.5 L73.2,48.4 L74.4,56.2 L75.6,63.7 L76.8,71.1 L78.0,78.3 L79.2,85.3 L80.4,92.1 L81.6,98.8 L82.8,105.2 L84.0,111.5 L85.2,117.7 L86.4,123.6 L87.6,129.4 L88.8,135.0 L90.0,140.4 L91.2,145.7 L92.4,150.8 L93.6,155.8 L94.8,160.6 L96.0,165.3 L97.2,169.8 L98.4,174.1 L99.6,178.4 L100.8,182.4 L102.0,186.3 L103.2,190.1 L104.4,193.8 L105.6,197.3 L106.8,200.7 L108.0,203.9 L109.2,207.0 L110.4,210.0 L111.6,212.9 L112.8,215.6 L114.0,218.2 L115.2,220.7 L116.4,223.1 L117.6,225.4 L118.8,227.5 L120.0,229.6 L121.2,231.5 L122.4,233.3 L123.6,235.0 L124.8,236.7 L126.0,238.2 L127.2,239.6 L128.4,240.9 L129.6,242.1 L130.8,243.2 L132.0,244.3 L133.2,245.2 L134.4,246.0 L135.6,246.8 L136.8,247.5 L138.0,248.1 L139.2,248.6 L140.4,249.0 L141.6,249.4 L142.8,249.6 L144.0,249.8 L145.2,249.9 L146.4,250.0 L147.6,250.0 L148.8,249.9 L150.0,249.7 L151.2,249.5 L152.4,249.2 L153.6,248.9 L154.8,248.5 L156.0,248.0 L157.2,247.5 L158.4,246.9 L159.6,246.3 L160.8,245.6 L162.0,244.8 L163.2,244.1 L164.4,243.2 L165.6,242.3 L166.8,241.4 L168.0,240.4 L169.2,239.4 L170.4,238.3 L171.6,237.2 L172.8,236.1 L174.0,234.9 L175.2,233.7 L176.4,232.5 L177.6,231.2 L178.8,229.9 L180.0,228.5 L181.2,227.2 L182.4,225.8 L183.6,224.4 L184.8,222.9 L186.0,221.4 L187.2,219.9 L188.4,218.4 L189.6,216.9 L190.8,215.3 L192.0,213.7 L193.2,212.1 L194.4,210.5 L195.6,208.9 L196.8,207.3 L198.0,205.6 L199.2,203.9 L200.4,202.3 L201.6,200.6 L202.8,198.9 L204.0,197.2 L205.2,195.5 L206.4,193.8 L207.6,192.1 L208.8,190.3 L210.0,188.6 L211.2,186.9 L212.4,185.2 L213.6,183.5 L214.8,181.7 L216.0,180.0 L217.2,178.3 L218.4,176.6 L219.6,174.9 L220.8,173.2 L222.0,171.5 L223.2,169.8 L224.4,168.2 L225.6,166.5 L226.8,164.8 L228.0,163.2 L229.2,161.6 L230.4,159.9 L231.6,158.3 L232.8,156.8 L234.0,155.2 L235.2,153.6 L236.4,152.1 L237.6,150.5 L238.8,149.0 L240.0,147.5 L241.2,146.1 L242.4,144.6 L243.6,143.2 L244.8,141.8 L246.0,140.4 L247.2,139.0 L248.4,137.7 L249.6,136.3 L250.8,135.0 L252.0,133.8 L253.2,132.5 L254.4,131.3 L255.6,130.1 L256.8,128.9 L258.0,127.8 L259.2,126.7 L260.4,125.6 L261.6,124.5 L262.8,123.5 L264.0,122.5 L265.2,121.5 L266.4,120.5 L267.6,119.6 L268.8,118.7 L270.0,117.9 L271.2,117.0 L272.4,116.3 L273.6,115.5 L274.8,114.8 L276.0,114.1 L277.2,113.4 L278.4,112.8 L279.6,112.2 L280.8,111.6 L282.0,111.1 L283.2,110.6 L284.4,110.1 L285.6,109.7 L286.8,109.3 L288.0,108.9 L289.2,108.6 L290.4,108.3 L291.6,108.0 L292.8,107.8 L294.0,107.6 L295.2,107.4 L296.4,107.3 L297.6,107.2 L298.8,107.2 L300.0,107.1 L301.2,107.2 L302.4,107.2 L303.6,107.3 L304.8,107.4 L306.0,107.6 L307.2,107.8 L308.4,108.0 L309.6,108.3 L310.8,108.6 L312.0,108.9 L313.2,109.3 L314.4,109.7 L315.6,110.1 L316.8,110.6 L318.0,111.1 L319.2,111.6 L320.4,112.2 L321.6,112.8 L322.8,113.4 L324.0,114.1 L325.2,114.8 L326.4,115.5 L327.6,116.3 L328.8,117.0 L330.0,117.9 L331.2,118.7 L332.4,119.6 L333.6,120.5 L334.8,121.5 L336.0,122.5 L337.2,123.5 L338.4,124.5 L339.6,125.6 L340.8,126.7 L342.0,127.8 L343.2,128.9 L344.4,130.1 L345.6,131.3 L346.8,132.5 L348.0,133.8 L349.2,135.0 L350.4,136.3 L351.6,137.7 L352.8,139.0 L354.0,140.4 L355.2,141.8 L356.4,143.2 L357.6,144.6 L358.8,146.1 L360.0,147.5 L361.2,149.0 L362.4,150.5 L363.6,152.1 L364.8,153.6 L366.0,155.2 L367.2,156.8 L368.4,158.3 L369.6,159.9 L370.8,161.6 L372.0,163.2 L373.2,164.8 L374.4,166.5 L375.6,168.2 L376.8,169.8 L378.0,171.5 L379.2,173.2 L380.4,174.9 L381.6,176.6 L382.8,178.3 L384.0,180.0 L385.2,181.7 L386.4,183.5 L387.6,185.2 L388.8,186.9 L390.0,188.6 L391.2,190.3 L392.4,192.1 L393.6,193.8 L394.8,195.5 L396.0,197.2 L397.2,198.9 L398.4,200.6 L399.6,202.3 L400.8,203.9 L402.0,205.6 L403.2,207.3 L404.4,208.9 L405.6,210.5 L406.8,212.1 L408.0,213.7 L409.2,215.3 L410.4,216.9 L411.6,218.4 L412.8,219.9 L414.0,221.4 L415.2,222.9 L416.4,224.4 L417.6,225.8 L418.8,227.2 L420.0,228.5 L421.2,229.9 L422.4,231.2 L423.6,232.5 L424.8,233.7 L426.0,234.9 L427.2,236.1 L428.4,237.2 L429.6,238.3 L430.8,239.4 L432.0,240.4 L433.2,241.4 L434.4,242.3 L435.6,243.2 L436.8,244.1 L438.0,244.8 L439.2,245.6 L440.4,246.3 L441.6,246.9 L442.8,247.5 L444.0,248.0 L445.2,248.5 L446.4,248.9 L447.6,249.2 L448.8,249.5 L450.0,249.7 L451.2,249.9 L452.4,250.0 L453.6,250.0 L454.8,249.9 L456.0,249.8 L457.2,249.6 L458.4,249.4 L459.6,249.0 L460.8,248.6 L462.0,248.1 L463.2,247.5 L464.4,246.8 L465.6,246.0 L466.8,245.2 L468.0,244.3 L469.2,243.2 L470.4,242.1 L471.6,240.9 L472.8,239.6 L474.0,238.2 L475.2,236.7 L476.4,235.0 L477.6,233.3 L478.8,231.5 L480.0,229.6 L481.2,227.5 L482.4,225.4 L483.6,223.1 L484.8,220.7 L486.0,218.2 L487.2,215.6 L488.4,212.9 L489.6,210.0 L490.8,207.0 L492.0,203.9 L493.2,200.7 L494.4,197.3 L495.6,193.8 L496.8,190.1 L498.0,186.3 L499.2,182.4 L500.4,178.4 L501.6,174.1 L502.8,169.8 L504.0,165.3 L505.2,160.6 L506.4,155.8 L507.6,150.8 L508.8,145.7 L510.0,140.4 L511.2,135.0 L512.4,129.4 L513.6,123.6 L514.8,117.7 L516.0,111.5 L517.2,105.2 L518.4,98.8 L519.6,92.1 L520.8,85.3 L522.0,78.3 L523.2,71.1 L524.4,63.7 L525.6,56.2 L526.8,48.4 L528.0,40.5 L529.2,32.3 L530.4,23.9 L531.6,15.4 L532.8,6.6 L534.0,-2.3 L535.2,-11.5 L536.4,-20.9 L537.6,-30.5 L538.8,-40.3 L540.0,-50.4" class="pv-curve"/>
+      </g>
+      <circle cx="146.7" cy="250" r="6" class="pv-min"/><circle cx="453.3" cy="250" r="6" class="pv-min"/>
+      <circle cx="300.0" cy="107.1" r="5" class="pv-max"/>
+      <text x="300.0" y="93.1" class="pv-note" text-anchor="middle">V″ = −5</text>
+      <text x="146.7" y="135.7" class="pv-note" text-anchor="middle">V″ = 10</text>
+      <text x="453.3" y="135.7" class="pv-note" text-anchor="middle">V″ = 10</text>
+    </svg>
+  </figure>
+
+  <div class="prose">
+    <p>The first and second derivative of our potential yield the slope and the curvature, respectively.</p>
   </div>
 
   <section class="card inline">
-    <h2><span>Where the 10 comes from</span></h2>
-    <div class="steps">
-      <div class="step"><div>Write the potential as a square, using \(x\) for the radial coordinate: \(V = f^2\), with \(f(x) = x^2 - x - 1\).</div></div>
-      <div class="step"><div>Differentiate twice: \(V' = 2 f f'\), and \(V'' = 2 (f')^2 + 2 f f''\).</div></div>
-      <div class="step"><div>At the minima \(f = 0\), so the second term drops out: \(V'' = 2 (f')^2 = 2 (2x - 1)^2\).</div></div>
-      <div class="step"><div>At \(x = \varphi\): \(2\varphi - 1 = \sqrt{5}\), so \(V'' = 2 \cdot 5 = 10\). At \(x = \bar{\varphi} = 1 - \varphi\): \(2\bar{\varphi} - 1 = -\sqrt{5}\), so again \(V'' = 10\).</div></div>
-      <div class="step"><div>Square root: \(\sqrt{V''} = \sqrt{10}\).</div></div>
+    <div class="deriv">
+      <div class="eq">\(V(x) = (x^2 - x - 1)^2\)</div><div class="note">the potential, with \(x\) for the radius</div>
+      <div class="eq">\(V'(x) = 2\,(x^2 - x - 1)(2x - 1)\)</div><div class="note">slope – chain rule</div>
+      <div class="eq">\(V'(x) = 0 \;\text{at}\; x = \varphi,\ \bar{\varphi},\ \tfrac{1}{2}\)</div><div class="note">three flat spots – where either factor is 0</div>
+      <div class="eq">\(V''(x) = 2\,(2x - 1)^2 + 4\,(x^2 - x - 1)\)</div><div class="note">curvature – product rule</div>
+      <div class="eq">\(V''(\tfrac{1}{2}) = 0 + 4 \cdot (-\tfrac{5}{4}) = -5\)</div><div class="note">negative, curving down – the hump, a maximum</div>
+      <div class="eq">\(V''(\varphi) = 2\,(2\varphi - 1)^2 = 2\,(\sqrt{5})^2 = 10\)</div><div class="note">positive, curving up – a minimum (\(x^2 - x - 1 = 0\) there, and \(2\varphi - 1 = \sqrt{5}\))</div>
+      <div class="eq">\(V''(\bar{\varphi}) = 2\,(-\sqrt{5})^2 = 10\)</div><div class="note">the same for the conjugate</div>
+      <div class="eq">\(\sqrt{V''} = \sqrt{10}\)</div><div class="note">the square root at either minimum</div>
     </div>
   </section>
 
   <div class="prose">
-    <p class="draft">Need to explain how the 10 factors out and gives us our master formula:</p>
+    <p>The solutions to the first derivative show where the slope is 0 – three places. The evaluation of the second derivative at those radii indicates which are maxima and which are minima – negative values curve down and positive values curve up.</p>
+    <p>The second derivative evaluated at the minima gives the “stiffness” of the potential well – its curvature, or restoring force (per unit of displacement). The square root of the stiffness gives the natural oscillating frequency – again, textbook physics. In our wells that value is √10.</p>
+    <h3 class="section">The master formula</h3>
+    <p>φ, we propose, is where the manifest universe “condenses.” What we see and experience as the familiar universe is entirely within that condensate. The geometry of the energetic sphere remains hidden, but for a translation the conditions inherited from our potential well.</p>
+    <p>We promised we would conjure numbers from the sphere; well, these are they. The only way we can conjure phi as a frequency ratio is by some count of dimensions – recall that is the only material means of dictating particular effective radii. φ is not an integer under a radical – it does offer a simple count of dimensions – but conveniently it can be expressed as two such sums:</p>
   </div>
 
   <section class="card inline">
-    <div class="equation">$$\sqrt{10} \cdot \left(\frac{1}{\sqrt{40}} \pm \frac{1}{\sqrt{8}}\right)$$</div>
+    <div class="equation">$$\begin{aligned} \varphi &= \frac{1 + \sqrt{5}}{2} \\[4pt] \varphi &= \frac{1}{2} + \frac{\sqrt{5}}{2} \\[4pt] \varphi &= \frac{1}{\sqrt{4}} + \frac{\sqrt{5}}{\sqrt{4}} \end{aligned}$$</div>
   </section>
 
   <div class="prose">
-    <p>This implies 10 ambient dimensions, a “field” with transverse speed of 40 : 1 dimensions, and a causal envelope with transverse speed of 8 : 1 dimensions.</p>
-    <p>Now, from no preferred anything on a globally incoherent sphere – a rather elegant starting point – we've arrived at:</p>
+    <p>Those are two independent p and f combinations stacked – a totally legitimate move. Now consider the oscillatory frequency also contributes to the conditions in the well. At this point we factor out that value from the radial position:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$\varphi = \sqrt{10} \left(\frac{1}{\sqrt{40}} + \frac{1}{\sqrt{8}}\right)$$</div>
+  </section>
+
+  <div class="prose">
+    <p>This is our master formula, leaving us with what we can only interpret as dimension counts, given the makeup and dynamism of the sphere:</p>
     <ul class="arrived">
-      <li><span>\(\varphi\)</span><span>the radius</span></li>
-      <li><span>10</span><span>ambient dimensions (radial)</span></li>
-      <li><span>40d</span><span>a transverse field (tangential)</span></li>
-      <li><span>8d</span><span>a relative transverse field (tangential)</span></li>
+      <li><span>10</span><span>the ambient, radial dimension count</span></li>
+      <li><span>40</span><span>a transverse velocity; a dimension count we consider the “field seed”</span></li>
+      <li><span>8</span><span>a separate transverse velocity; a dimension count we consider the “causal seed”</span></li>
     </ul>
+    <p>We went from a completely incoherent and symmetric object to three separate dimension counts with a particular orientation to each other, not to mention a relationship to φ itself. Not bad. Our suggestion is that this establishes the bed upon which the physics of the known universe rests. The hidden geometries we have come to know and accept – the curvature of space, spin without spin, the fibers of force, the polarizations unseen – all of it finds its footing in our hidden sphere.</p>
 
     <h3 class="section">The fine ladder</h3>
+    <p>The next thing we are going to do, before we get back to our ratios, is to talk about the fine structure constant and its associated cascade, or ladder.</p>
     <p class="draft">Big explanation of how this looks like a 3-sphere.</p>
   </div>
 
@@ -1533,6 +1755,60 @@ mjx-container[display="true"] { margin: 0 !important; }
     return { render: render };
   }
 
+  /* ---- The fuzzy shell: points settle around radius φ, density ∝ e^(−V/T), arrows down the slope toward the shell ---- */
+  (function () {
+    var canvas = document.getElementById('sf-canvas'); if (!canvas) return;
+    var ctx = canvas.getContext('2d'), Wc = 640, Hc = 400, C = [320, 200], S = 84, PHI = (1 + Math.sqrt(5)) / 2;
+    var N = 2400, T = 0.12, pts = [], spin = 0.6, tilt = 0.38, seed = 7;
+    function rnd() { seed = (seed * 16807) % 2147483647; return (seed - 1) / 2147483646; }
+    function V(r) { var f = r * r - r - 1; return f * f; }
+    // sample radii from r² e^(−V/T) by rejection, directions uniform on the sphere
+    var wmax = 0; for (var r0 = 0; r0 < 2.6; r0 += 0.005) wmax = Math.max(wmax, r0 * r0 * Math.exp(-V(r0) / T));
+    while (pts.length < N) {
+      var r = 2.6 * rnd(); if (rnd() * wmax > r * r * Math.exp(-V(r) / T)) continue;
+      var z = 2 * rnd() - 1, a = 2 * Math.PI * rnd(), q = Math.sqrt(1 - z * z);
+      pts.push([r * q * Math.cos(a), r * z, r * q * Math.sin(a)]);
+    }
+    var proj = new Array(N);
+    function arrow(x1, y1, x2, y2) {
+      var dx = x2 - x1, dy = y2 - y1, L = Math.hypot(dx, dy), ux = dx / L, uy = dy / L;
+      ctx.beginPath(); ctx.moveTo(x1, y1); ctx.lineTo(x2 - ux * 5, y2 - uy * 5); ctx.stroke();
+      ctx.beginPath(); ctx.moveTo(x2, y2); ctx.lineTo(x2 - ux * 7 - uy * 3.5, y2 - uy * 7 + ux * 3.5); ctx.lineTo(x2 - ux * 7 + uy * 3.5, y2 - uy * 7 - ux * 3.5); ctx.closePath(); ctx.fill();
+    }
+    function render() {
+      ctx.setTransform(canvas.width / Wc, 0, 0, canvas.height / Hc, 0, 0);
+      ctx.clearRect(0, 0, Wc, Hc);
+      var ink = themeVar('--ink'), dot = themeVar('--py-c'), muted = themeVar('--muted');
+      var cs = Math.cos(spin), sn = Math.sin(spin), ct = Math.cos(tilt), st = Math.sin(tilt);
+      for (var i = 0; i < N; i++) {
+        var p = pts[i], x = p[0] * cs + p[2] * sn, z = -p[0] * sn + p[2] * cs, y = p[1] * ct - z * st, zz = p[1] * st + z * ct;
+        proj[i] = [C[0] + S * x, C[1] - S * y, zz];
+      }
+      proj.sort(function (a, b) { return a[2] - b[2]; });
+      // arrows: inside the shell they point out, outside they point in
+      ctx.strokeStyle = muted; ctx.fillStyle = muted; ctx.lineWidth = 1.2; ctx.globalAlpha = 0.55;
+      for (var k = 0; k < 16; k++) {
+        var a = (k + 0.5) * Math.PI / 8, ux = Math.cos(a), uy = Math.sin(a);
+        arrow(C[0] + S * 0.78 * ux, C[1] + S * 0.78 * uy, C[0] + S * 1.2 * ux, C[1] + S * 1.2 * uy);
+        arrow(C[0] + S * 2.3 * ux, C[1] + S * 2.3 * uy, C[0] + S * 2.0 * ux, C[1] + S * 2.0 * uy);
+      }
+      ctx.fillStyle = dot;
+      for (var j = 0; j < N; j++) {
+        var d = (proj[j][2] / 2.2 + 1) / 2;
+        ctx.globalAlpha = 0.18 + 0.62 * d;
+        var rr = 0.9 + 1.1 * d;
+        ctx.beginPath(); ctx.arc(proj[j][0], proj[j][1], rr, 0, 2 * Math.PI); ctx.fill();
+      }
+      ctx.globalAlpha = 0.7; ctx.strokeStyle = ink; ctx.lineWidth = 1; ctx.setLineDash([3, 4]);
+      ctx.beginPath(); ctx.arc(C[0], C[1], S * PHI, 0, 2 * Math.PI); ctx.stroke(); ctx.setLineDash([]);
+      ctx.globalAlpha = 1; ctx.fillStyle = ink;
+      ctx.beginPath(); ctx.arc(C[0], C[1], 3.5, 0, 2 * Math.PI); ctx.fill();
+      ctx.font = 'italic 20px ' + themeVar('--body'); ctx.textBaseline = 'middle';
+      ctx.fillText('φ', C[0] + S * PHI + 8, C[1] - 12);
+    }
+    animator(canvas, document.getElementById('sf-play'), function (dt) { spin += dt * 0.25; }, render);
+  })();
+
   /* ---- Unit vectors end on end: an n-cube spinning about its long diagonal ---- */
   (function () {
     var canvas = document.getElementById('sv-canvas'); if (!canvas) return;
@@ -1619,17 +1895,16 @@ mjx-container[display="true"] { margin: 0 !important; }
     nIn.addEventListener('input', function () { setup(); anim.render(); });
   })();
 
-  /* ---- Sink and source: n legs in or out; two equivalent views of the same motion ---- */
+  /* ---- Push and frame: p legs in, f legs out, one projection P = √p / √f against a ghost at rate 1 ---- */
   (function () {
     var svg = document.getElementById('ss-svg'); if (!svg) return;
-    var NS = 'http://www.w3.org/2000/svg', nIn = document.getElementById('ss-n'), out = document.getElementById('ss-out');
-    var GL = document.getElementById('ss-left'), GR = document.getElementById('ss-right');
-    var DL = document.getElementById('ss-dot-l'), DR = document.getElementById('ss-dot-r');
-    var CL = [200, 140], CR = [520, 140], R = 100, U = 40, PERIOD = 1.6, n = 3, P = 0, mode = 'timing';
-    var radL = R, radR = R;
+    var NS = 'http://www.w3.org/2000/svg', pIn = document.getElementById('ss-p'), fIn = document.getElementById('ss-f'), out = document.getElementById('ss-out');
+    var G = document.getElementById('ss-legs'), D = document.getElementById('ss-dot'), GD = document.getElementById('ss-ghost');
+    var C = [360, 185], R = 110, U = 60, PERIOD = 1.6, p = 4, f = 1, P = 2, T = 0, mode = 'timing';
+    var radBase = R, radDot = R;
     function el(tag, a) { var e = document.createElementNS(NS, tag); for (var k in a) e.setAttribute(k, a[k]); return e; }
     function dirs(n, side) {
-      // n legs spread evenly over a half circle: the left half for the sink, mirrored to the right for the source
+      // n legs spread evenly over a half circle: the left half for push, mirrored to the right for frame
       var d = [];
       for (var k = 0; k < n; k++) {
         var a = Math.PI + (k - (n - 1) / 2) * Math.PI / n;
@@ -1637,50 +1912,144 @@ mjx-container[display="true"] { margin: 0 !important; }
       }
       return d;
     }
-    function build(G, C, inward, rad) {
+    function build() {
       G.textContent = '';
-      // the sphere seen edge on, with n orthogonal legs meeting at its center; everything scales with the radius
-      G.appendChild(el('circle', { cx: C[0], cy: C[1], r: rad.toFixed(1), 'class': 'ghost' }));
-      var Lg = rad * 0.8, rin = rad * (n > 4 ? (12 + 3 * n) / 100 : 0.12), mk = rad < 50 ? 'url(#ss-arrow-sm)' : 'url(#ss-arrow)';
-      dirs(n, inward ? 1 : -1).forEach(function (q) {
-        var far = [C[0] + q[0] * Lg, C[1] + q[1] * Lg], near = [C[0] + q[0] * rin, C[1] + q[1] * rin];
-        var a = inward ? far.concat(near) : near.concat(far);
-        G.appendChild(el('line', { x1: a[0].toFixed(1), y1: a[1].toFixed(1), x2: a[2].toFixed(1), y2: a[3].toFixed(1), 'class': rad < 50 ? 'vec thin' : 'vec', 'marker-end': mk }));
+      // the sphere seen edge on; in the size view the solid dot gets its own circle, P times the ghost's
+      G.appendChild(el('circle', { cx: C[0], cy: C[1], r: radBase.toFixed(1), 'class': 'ghost' }));
+      if (mode === 'size' && p !== f) G.appendChild(el('circle', { cx: C[0], cy: C[1], r: radDot.toFixed(1), 'class': 'circ' }));
+      var Lg = 0.8 * radBase, rin = Math.max(10, radBase * (Math.max(p, f) > 4 ? (12 + 3 * Math.max(p, f)) / 100 : 0.12));
+      [[p, 1, true], [f, -1, false]].forEach(function (g) {
+        dirs(g[0], g[1]).forEach(function (q) {
+          var far = [C[0] + q[0] * Lg, C[1] + q[1] * Lg], near = [C[0] + q[0] * rin, C[1] + q[1] * rin];
+          var a = g[2] ? far.concat(near) : near.concat(far);
+          G.appendChild(el('line', { x1: a[0].toFixed(1), y1: a[1].toFixed(1), x2: a[2].toFixed(1), y2: a[3].toFixed(1), 'class': 'vec', 'marker-end': 'url(#ss-arrow)' }));
+        });
       });
-      G.appendChild(el('circle', { cx: C[0], cy: C[1], r: rad < 30 ? 3.5 : 5, 'class': 'pt' }));
+      G.appendChild(el('circle', { cx: C[0], cy: C[1], r: 5, 'class': 'pt' }));
     }
     function setup() {
-      n = +nIn.value; P = 0;
-      var r = Math.sqrt(n), rs = Number.isInteger(r) ? '= ' + r : '≈ ' + r.toFixed(2);
-      if (mode === 'timing') {
-        radL = radR = R;
-        out.textContent = n === 1 ? 'n = 1 · both go around at the base rate'
-          : 'n = ' + n + ' · same radius: the sink goes around √' + n + ' ' + rs + '× faster, the source √' + n + '× slower, ' + n + '× apart';
-      } else {
-        radL = U * r; radR = U / r;
-        out.textContent = n === 1 ? 'n = 1 · both trace the unit circle in the same time'
-          : 'n = ' + n + ' · same timing: the sink\'s circle is √' + n + ' ' + rs + '× wider, the source\'s √' + n + '× narrower, ' + n + '× apart';
-      }
-      build(GL, CL, true, radL); build(GR, CR, false, radR);
-      var dr = mode === 'timing' ? 7 : 6; DL.setAttribute('r', dr); DR.setAttribute('r', mode === 'timing' ? 7 : Math.max(3, Math.min(6, radR / 3)));
+      p = +pIn.value; f = +fIn.value; P = Math.sqrt(p) / Math.sqrt(f); T = 0;
+      out.textContent = 'p = ' + p + ', f = ' + f + ' · P = √' + p + ' / √' + f;
+      if (mode === 'timing') { radBase = radDot = R; } else { radBase = U; radDot = U * P; }
+      build();
     }
-    function place(D, c, rad, th) {
-      D.setAttribute('cx', (c[0] + rad * Math.sin(th)).toFixed(2)); D.setAttribute('cy', c[1]);
-      D.setAttribute('opacity', ((1 + Math.cos(th)) / 2).toFixed(3));
+    function place(Dot, rad, th, vertical) {
+      // the ghost swings up and down, the dot side to side, so they cross at the center point without covering each other
+      Dot.setAttribute('cx', vertical ? C[0] : (C[0] + rad * Math.sin(th)).toFixed(2));
+      Dot.setAttribute('cy', vertical ? (C[1] - rad * Math.sin(th)).toFixed(2) : C[1]);
+      Dot.setAttribute('opacity', ((1 + Math.cos(th)) / 2).toFixed(3));
     }
     function render() {
-      var w = 2 * Math.PI * P;
-      // one shared clock: in the timing view the sink makes n turns per source turn; in the size view both make one
-      place(DL, CL, radL, mode === 'timing' ? n * w : w); place(DR, CR, radR, w);
+      var w = 2 * Math.PI * T;
+      // one shared clock in ghost turns: the ghost runs at rate 1; in the timing view the dot runs at rate P
+      place(GD, radBase, w, true); place(D, radDot, mode === 'timing' ? P * w : w);
     }
     setup();
-    var anim = animator(svg, document.getElementById('ss-play'), function (dt) {
-      P = (P + dt / (mode === 'timing' ? Math.sqrt(n) * PERIOD : PERIOD)) % 1;
-    }, render);
-    nIn.addEventListener('input', function () { setup(); anim.render(); });
+    var anim = animator(svg, document.getElementById('ss-play'), function (dt) { T += dt / PERIOD; }, render);
+    [pIn, fIn].forEach(function (i) { i.addEventListener('input', function () { setup(); anim.render(); }); });
     Array.prototype.forEach.call(document.querySelectorAll('input[name="ss-mode"]'), function (r) {
       r.addEventListener('change', function () { if (r.checked) { mode = r.value; setup(); anim.render(); } });
     });
+  })();
+
+  /* ---- 1 against φ: the ghost at rate 1 up and down, the dot at φ side to side (or on a circle φ times as wide) ---- */
+  (function () {
+    var svg = document.getElementById('ps-svg'); if (!svg) return;
+    var NS = 'http://www.w3.org/2000/svg', PHI = (1 + Math.sqrt(5)) / 2;
+    var G = document.getElementById('ps-g'), D = document.getElementById('ps-dot'), GD = document.getElementById('ps-ghost');
+    var L1 = document.getElementById('ps-l1'), LP = document.getElementById('ps-lphi');
+    var C = [360, 170], R = 110, U = 80, PERIOD = 1.6, T = 0, mode = 'timing', radBase = R, radDot = R;
+    function el(tag, a) { var e = document.createElementNS(NS, tag); for (var k in a) e.setAttribute(k, a[k]); return e; }
+    function setup() {
+      T = 0;
+      if (mode === 'timing') { radBase = radDot = R; } else { radBase = U; radDot = U * PHI; }
+      G.textContent = '';
+      G.appendChild(el('circle', { cx: C[0], cy: C[1], r: radBase.toFixed(1), 'class': 'ghost' }));
+      if (mode === 'size') G.appendChild(el('circle', { cx: C[0], cy: C[1], r: radDot.toFixed(1), 'class': 'circ' }));
+      G.appendChild(el('circle', { cx: C[0], cy: C[1], r: 5, 'class': 'pt' }));
+      L1.setAttribute('x', C[0] + 18); L1.setAttribute('y', C[1] - radBase - 10);
+      LP.setAttribute('x', C[0] + radDot + 12); LP.setAttribute('y', C[1] - 10);
+    }
+    function place(Dot, rad, th, vertical) {
+      Dot.setAttribute('cx', vertical ? C[0] : (C[0] + rad * Math.sin(th)).toFixed(2));
+      Dot.setAttribute('cy', vertical ? (C[1] - rad * Math.sin(th)).toFixed(2) : C[1]);
+      Dot.setAttribute('opacity', ((1 + Math.cos(th)) / 2).toFixed(3));
+    }
+    function render() {
+      var w = 2 * Math.PI * T;
+      place(GD, radBase, w, true); place(D, radDot, mode === 'timing' ? PHI * w : w);
+    }
+    setup();
+    var anim = animator(svg, document.getElementById('ps-play'), function (dt) { T += dt / PERIOD; }, render);
+    Array.prototype.forEach.call(document.querySelectorAll('input[name="ps-mode"]'), function (r) {
+      r.addEventListener('change', function () { if (r.checked) { mode = r.value; setup(); anim.render(); } });
+    });
+  })();
+
+  /* ---- Tapping two records: once per turn piles up, once per φ turns spreads out ---- */
+  (function () {
+    var svg = document.getElementById('tr-svg'); if (!svg) return;
+    var NS = 'http://www.w3.org/2000/svg', PHI = (1 + Math.sqrt(5)) / 2, R = 128, RM = 118, TAP = 3, TAU = -TAP / Math.log(0.8), KEEP = 14, HIT = 0.7;
+    function el(tag, a) { var e = document.createElementNS(NS, tag); for (var k in a) e.setAttribute(k, a[k]); return e; }
+    function make(side, cx, rate) {
+      return { cx: cx, cy: 170, rate: rate, disc: document.getElementById('tr-' + side + '-disc'), grad: document.getElementById('tr-' + side + '-grad'),
+               tilt: document.getElementById('tr-' + side + '-tilt'), notch: document.getElementById('tr-' + side + '-notch'),
+               marks: document.getElementById('tr-' + side + '-marks'), tap: document.getElementById('tr-' + side + '-tap'), ring: document.getElementById('tr-' + side + '-ring'), dots: [] };
+    }
+    var recs = [make('L', 190, 1), make('R', 530, PHI)], t, nextTap, flash;
+    function reset() {
+      t = 0; nextTap = 0.8; flash = 0;
+      recs.forEach(function (r) { r.T = [0, 0]; r.dots = []; r.marks.textContent = ''; });
+    }
+    function step(dt) {
+      // the tilt (a push in the record's own frame) decays continuously, to 0.8 of itself per tap
+      var k = Math.exp(-dt / TAU);
+      t += dt; flash = Math.max(0, flash - dt / HIT);
+      recs.forEach(function (r) { r.T[0] *= k; r.T[1] *= k; r.dots.forEach(function (d) { d.age += dt; }); });
+      while (t >= nextTap) {
+        // the tapper is fixed at the top; where it lands on the record depends on how far the record has turned
+        recs.forEach(function (r) {
+          var a = -Math.PI / 2 - 2 * Math.PI * r.rate * nextTap / TAP;
+          r.T[0] += Math.cos(a); r.T[1] += Math.sin(a);
+          r.dots.push({ a: a, age: t - nextTap }); if (r.dots.length > KEEP) r.dots.shift();
+        });
+        nextTap += TAP; flash = 1;
+      }
+    }
+    function render() {
+      recs.forEach(function (r) {
+        var rot = 2 * Math.PI * r.rate * t / TAP, c = Math.cos(rot), s = Math.sin(rot);
+        // the push, turned into the lab frame
+        var Tx = r.T[0] * c - r.T[1] * s, Ty = r.T[0] * s + r.T[1] * c, mag = Math.hypot(Tx, Ty), m = Math.min(1, mag / 5);
+        var ang = mag > 1e-6 ? Math.atan2(Ty, Tx) : 0, deg = ang * 180 / Math.PI, sq = 1 - 0.32 * m;
+        r.disc.setAttribute('transform', 'translate(' + r.cx + ' ' + r.cy + ') rotate(' + deg.toFixed(2) + ') scale(' + sq.toFixed(4) + ' 1) rotate(' + (-deg).toFixed(2) + ') translate(' + (-r.cx) + ' ' + (-r.cy) + ')');
+        var ux = Math.cos(ang), uy = Math.sin(ang);
+        r.grad.setAttribute('x1', (r.cx + R * ux).toFixed(1)); r.grad.setAttribute('y1', (r.cy + R * uy).toFixed(1));
+        r.grad.setAttribute('x2', (r.cx - R * ux).toFixed(1)); r.grad.setAttribute('y2', (r.cy - R * uy).toFixed(1));
+        r.tilt.setAttribute('opacity', m.toFixed(3));
+        r.notch.setAttribute('x1', (r.cx + 14 * Math.cos(rot)).toFixed(1)); r.notch.setAttribute('y1', (r.cy + 14 * Math.sin(rot)).toFixed(1));
+        r.notch.setAttribute('x2', (r.cx + 38 * Math.cos(rot)).toFixed(1)); r.notch.setAttribute('y2', (r.cy + 38 * Math.sin(rot)).toFixed(1));
+        while (r.marks.childNodes.length < r.dots.length) r.marks.appendChild(el('circle', { r: 6, 'class': 'tr-mark' }));
+        while (r.marks.childNodes.length > r.dots.length) r.marks.removeChild(r.marks.lastChild);
+        r.dots.forEach(function (d, i) {
+          var a = d.a + rot, e = r.marks.childNodes[i];
+          e.setAttribute('cx', (r.cx + RM * Math.cos(a)).toFixed(1)); e.setAttribute('cy', (r.cy + RM * Math.sin(a)).toFixed(1));
+          e.setAttribute('opacity', Math.exp(-d.age / TAU).toFixed(3));
+          // the newest mark pops on impact, then settles
+          e.setAttribute('r', (i === r.dots.length - 1 ? 6 + 6 * flash * flash : 6).toFixed(2));
+        });
+        // the tapper strikes down to the rim and lifts back off; a ring bursts out from the newest mark, riding along with it
+        var strike = flash > 0.85 ? (1 - flash) / 0.15 : flash / 0.85;
+        r.tap.setAttribute('transform', 'translate(0 ' + (14 * strike).toFixed(2) + ')');
+        r.tap.setAttribute('style', 'stroke-opacity:' + (0.4 + 0.6 * flash).toFixed(2));
+        if (r.dots.length) { var nd = r.dots[r.dots.length - 1], na = nd.a + rot; r.ring.setAttribute('cx', (r.cx + RM * Math.cos(na)).toFixed(1)); r.ring.setAttribute('cy', (r.cy + RM * Math.sin(na)).toFixed(1)); }
+        r.ring.setAttribute('r', (8 + 30 * (1 - flash)).toFixed(2));
+        r.ring.setAttribute('opacity', flash < 1e-3 ? 0 : (flash * flash).toFixed(3));
+      });
+    }
+    reset();
+    var anim = animator(svg, document.getElementById('tr-play'), step, render);
+    document.getElementById('tr-restart').addEventListener('click', function () { reset(); anim.render(); });
   })();
 
   /* ---- Golden rectangle: add a square on the long side, then turn and shrink it back onto the original, forever ---- */
