@@ -334,6 +334,9 @@ h1 {
 .fig-svg .pv-axislab { font-family: var(--mono); font-size: 12px; fill: var(--muted); }
 .fig-svg .pv-note { font-family: var(--mono); font-size: 12px; fill: var(--muted); }
 #rt-svg { min-width: 0; max-width: 26rem; margin: 0 auto; }
+#st-svg { min-width: 0; max-width: 32rem; margin: 0 auto; }
+.fig-svg .st-lab { font-family: var(--body); font-size: 21px; fill: var(--ink); }
+.fig-svg .st-sup { font-size: 14px; }
 .fig-svg .rt-fill { fill: var(--fig-c); fill-opacity: 0.45; }
 .fig-svg .rt-corner { fill: none; stroke: var(--ink); stroke-width: 1.25; }
 .fig-svg .rt-a { stroke: var(--py-a); stroke-width: 4; stroke-linecap: round; }
@@ -410,7 +413,7 @@ h1 {
 .prose ul.fields { margin: 0 0 1.15em; padding-left: 1.2rem; }
 .prose ul.fields li { margin: 0.2em 0; }
 .prose h4.subsec { font-family: var(--display); font-weight: 500; font-size: 1.12rem; margin: 2.2rem 0 0.7rem; }
-.card > .terms.rungs:first-child { border-top: 0; }
+.card > .terms:first-child { border-top: 0; }
 .terms.rungs .def .rung { display: block; color: var(--muted); font-size: 0.93rem; }
 #nest-svg { min-width: 0; max-width: 26rem; margin: 0 auto; touch-action: auto; }
 .widget-svg .ns-bubble { stroke: var(--py-c); stroke-width: 1.25; stroke-opacity: 0.55; }
@@ -438,6 +441,9 @@ h1 {
 .prose p.draft { color: var(--muted); font-style: italic; border-left: 2px dashed var(--card-edge); padding-left: 0.9rem; }
 .arrived { list-style: none; padding: 0; margin: 0 0 1.15em; display: grid; grid-template-columns: auto 1fr; column-gap: 1.2rem; row-gap: 0.35rem; }
 .arrived li { display: contents; }
+.deriv .eq.deriv-sub { padding-left: 1.4rem; }
+.prose ul.upshot { margin: 0 0 1.15em; padding-left: 1.3em; }
+.prose ul.upshot li { margin: 0.25em 0; }
 .arrived li span:first-child { text-align: right; font-family: var(--mono); font-size: 0.95rem; }
 .steps { padding: 1.2rem 1.4rem 1.4rem; display: grid; gap: 0.9rem; counter-reset: step; }
 .step { display: grid; grid-template-columns: 1.6rem minmax(0, 1fr); gap: 0.6rem; align-items: start; font-size: 1rem; }
@@ -463,6 +469,25 @@ mjx-container[display="true"] { margin: 0 !important; }
   .card h2 { grid-template-columns: 1fr; }
 }
 
+
+
+/* three fibers figure */
+#fib-svg { max-width: 26rem; min-width: 0; margin: 0 auto; }
+#fibers .fib-ball { fill: url(#fib-shade); stroke: var(--ink); stroke-width: 1.5; stroke-opacity: 0.55; }
+#fibers .fib-g0 { stop-color: var(--card); stop-opacity: 0.9; }
+#fibers .fib-g1 { stop-color: var(--fig-c); stop-opacity: 0.55; }
+#fibers .fib-g2 { stop-color: var(--py-c); stop-opacity: 0.35; }
+#fibers .fib-radius { stroke: var(--ink); stroke-width: 1; opacity: 0.3; }
+#fibers .fib-gc { fill: none; stroke: var(--ink); stroke-width: 1; opacity: 0.25; }
+#fibers .fib-gc-back { fill: none; stroke: var(--ink); stroke-width: 1; opacity: 0.09; }
+#fibers .fib-center { fill: var(--ink); opacity: 0.4; }
+#fibers .fib-10, #fibers .fib-40, #fibers .fib-8 { fill: none; stroke-width: 3; stroke-linecap: round; }
+#fibers .fib-10 { stroke: var(--py-a); } #fibers .fib-ah-a { fill: var(--py-a); }
+#fibers .fib-40 { stroke: var(--py-b); } #fibers .fib-ah-b { fill: var(--py-b); }
+#fibers .fib-8 { stroke: var(--py-c); } #fibers .fib-ah-c { fill: var(--py-c); }
+#fibers .fib-pt { fill: var(--ink); }
+#fibers .fib-lab { font-family: var(--mono); font-size: 15px; }
+#fibers .fib-l10 { fill: var(--py-a); } #fibers .fib-l40 { fill: var(--py-b); } #fibers .fib-l8 { fill: var(--py-c); }
 
 /* ladder rungs table */
 .rung-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; line-height: 1.4; }
@@ -977,8 +1002,8 @@ mjx-container[display="true"] { margin: 0 !important; }
     <p>Part of the justification for persisting is that incoherent light-like energy is precisely the “content” that our underpinning geometry represents without units. So if any values are going to carry across the boundary from real physics to wishdropland, electromagnetic energies like the ground state energy are among the most likely. And it's not like the electron volt has <em>nothing</em> to do with intrinsic physics – moving precisely one electron's charge along electric field lines, perpendicular to the tangential shells of electron orbitals and null arcs along which light travels, at precisely the range where this balancing act occurs, comports very well with the radial versus tangential quotients that characterize the math we use. So perhaps Planck's constant and the Rydberg wave number align with the concept of binding energy in our unitless geometry such that the ground state has a pure ratio as a shadow ?</p>
     <p>Consider it a challenge – help us prove it ! :) Else please help break the spell that <em>binds</em> us ;)</p>
 
-    <h3 class="section">An explanation for the fine structure constant ? Large number hypotheses ? Seriously ? They already tried that</h3>
-    <p>It wouldn't be unheard of to spend a decade or more chasing down numerical coincidences about the universe unsuccessfully. Some guy named Eddington famously did so in search of a geometric explanation for the fine structure constant, the dimensionless ratio around 1/137 that shows up all over nature, including the speed ratio between an electron in the ground state of an atom and light in a vacuum. He never landed a decisive conclusion. Paul Dirac, an otherwise brilliant physicist, sunk a lot of time on what is now known as his large number hypothesis, the idea that nature's largest ratios – the strength of gravity versus the strength of electromagnetism, for example, or atomic-scale radii versus that of the whole universe – must be related somehow. These efforts are usually labeled numerology, a derogatory term about a cautionary tale regarding a decidedly unscientific endeavor that yeah, go ahead, call it whatever you want, is definitely not physics.</p>
+    <h3 class="section">An explanation for the fine structure constant ? Large numbers hypothesis ? Seriously ? They already tried that</h3>
+    <p>It wouldn't be unheard of to spend a decade or more chasing down numerical coincidences about the universe unsuccessfully. Some guy named Eddington famously did so in search of a geometric explanation for the fine structure constant, the dimensionless ratio around 1/137 that shows up all over nature, including the speed ratio between an electron in the ground state of an atom and light in a vacuum. He never landed a decisive conclusion. Paul Dirac, an otherwise brilliant physicist, sunk a lot of time on what is now known as his large numbers hypothesis, the idea that nature's largest ratios – the strength of gravity versus the strength of electromagnetism, for example, or atomic-scale radii versus that of the whole universe – must be related somehow. These efforts are usually labeled numerology, a derogatory term about a cautionary tale regarding a decidedly unscientific endeavor that yeah, go ahead, call it whatever you want, is definitely not physics.</p>
     <p>We want in.</p>
     <p>Let's follow in the footsteps of these giants. This is a time honored tradition ! :)</p>
 
@@ -1270,7 +1295,7 @@ mjx-container[display="true"] { margin: 0 !important; }
   </figure>
 
   <div class="prose">
-    <p>This is how velocities, frequencies, radii, and circumferences can <em>effectively</em> vary, and potentially significantly – it's a trick of perspective. The true radius never changes; the effective or <em>felt</em> radius depends on perspective.</p>
+    <p>This is how velocities, frequencies, radii, and circumferences can <em>effectively</em> vary, and potentially significantly – it's a trick of perspective. The true radius never changes; the effective radius depends on perspective.</p>
 
     <h3 class="section">The golden ratio</h3>
     <p>We've already cited the golden ratio for its extreme irrationality, but we didn't really explain what it is. Like, numerically. Put simply, it's the proportions of a rectangle that, when a square forms off the larger of the two sides, results in a larger rectangle of the same proportions, incorporating both the original rectangle and the square.</p>
@@ -1569,7 +1594,7 @@ mjx-container[display="true"] { margin: 0 !important; }
     <h2 class="part">The leap to physics</h2>
     <p>We expect the dimension counts 10 : 40 : 8 to be omnipresent in the manifest universe. Every single point in spacetime should carry these counts and orientations in its energies, volumes, fields, fibers, ranges, strengths, and so on. That the sphere bestows these properties unto the manifest universe is the idea – everywhere, uniformly – thereby seeding the laws of physics.</p>
     <p>Our pet ratios demonstrate this concept to some extent. Of course they represent only an insignificant fraction of all of physics, but the conjecture is that the remainder would require no input beyond the formalized description of the sphere. We're imagining there is a way to <em>map</em> our geometry onto major themes in physics, like relativity, the standard model, QED, chromodynamics, and so on, to extend the reach of the sphere significantly. Maybe it can even lend a solution to string theory's <em>landscape problem</em>, by suggesting the one in 10<sup>500</sup> possible universes that actually works. Maybe it offers an intuition about all the hidden geometries we have come to know and love – the curvature of space, spin without spin, the fibers of force carriers, polarizations – not to mention all the free parameters like coupling strengths and masses and what not. These should all find footing in the sphere is the claim, even as there's more than a lifetime's worth of side quests pending to prove it.</p>
-    <p>Let's do one quick lesson in physics before we let our ratios drive the remainder of the curriculum.</p>
+    <p>Let's do a couple of quick pseudo lessons in physics before we let our ratios drive the remainder of the curriculum.</p>
     <h3 class="section">The fine structure constant and ladder</h3>
     <p>The fine structure constant is a dimensionless ratio from real physics:</p>
   </div>
@@ -1719,7 +1744,7 @@ mjx-container[display="true"] { margin: 0 !important; }
     <p>“Bulk” and “boundary” are concepts from holography. The idea is that everything that happens in a space can be described on a surface of one fewer dimension than the space occupies. A sphere can speak for the ball of stuff it contains, in other words, no information lost. Perhaps surprisingly, this is pretty mainstream physics.</p>
     <p>We could be living in a hologram and not even know it.</p>
     <p>The bulk space would be what we think of as the familiar three dimensions we live in, with ordinary physics that leverages ordinary geometry and expresses relationships that are for the most part intuitive. Here dimension counts enter as exponents, thus volumes are familiar. And importantly, <em>directions matter</em>. Arrows that are aligned add, arrows that point towards each other subtract, arrows that are perpendicular to each other are independent. All of these are features of “coherence” – a clear, unscrambled state of affairs.</p>
-    <p>The bulk space may be somewhat of an illusion. Despite appearances, we may be looking at – even living in – the boundary of a bulk space. Apparently radial activity – moving at less than the speed of light; toward or away from a mass source – can correspond instead to a <em>change of phase</em>. This refers to an alteration of perspective within the sphere, thereby evolving the shape of space itself in <em>time</em>. This would be tantamount to shrinking and expanding the boundary by slicing through it differently. The spatial background would tighten or expand its curvature, thereby making it <em>seem</em> like a mass is drawing closer or drifting apart; in truth, however, there would be “nothing there” along gravitational field lines. Staring at a mass would be staring into the void. Moving towards it is shrinking the boundary.</p>
+    <p>The bulk space may be somewhat of an illusion. Despite appearances, we may be looking at – even living in – the boundary of a bulk space. Apparently radial activity – moving at less than the speed of light; toward or away from a mass source – can correspond instead to a <em>change of phase</em>. This refers to an alteration of perspective within the sphere, thereby evolving the shape of space itself in <em>time</em>. This would be tantamount to shrinking and expanding the boundary by slicing through it differently. The spatial background would tighten or expand its curvature, thereby making it <em>seem</em> like a mass is drawing closer or drifting away; in truth, however, there would be “nothing there” along gravitational field lines. Staring at a mass would be staring into the void. Moving towards it is shrinking the boundary.</p>
   </div>
 
   <figure class="fig-svg" id="bulk-boundary">
@@ -1757,7 +1782,38 @@ mjx-container[display="true"] { margin: 0 !important; }
       <li><span>8</span><span>a separate transverse velocity; dimension count of the “causal seed”</span></li>
     </ul>
     <p>The meta claim is that this relationship characterizes every point in manifest spacetime. The more specific claim is that the fine structure constant reveals how.</p>
-    <p>Imagine a radial perspective, looking <em>outward</em>, with the two transverse fibers racing by in the surface tangent. By virtue of this perspective, the ambient 10 dimensions register coherently, thus volumetrically, and the fibers, of 40 and 8 dimensions, register incoherently, as norms. This means they are treated as exponents and square roots, respectively. Furthermore, what is perceived of the transverse fibers from this perspective is an <em>intensity</em> – the values square, thus entering not as square roots but as square roots squared, or plain integers – 40 and 8. Note as well that these intensities are orthogonal to each other, thus will add in quadrature.</p>
+    <p>Imagine a radial perspective, looking <em>outward</em>, with the two transverse fibers racing by in the surface tangent.</p>
+  </div>
+
+  <figure class="fig-svg" id="fibers">
+    <svg viewBox="5 40 410 360" role="img" aria-labelledby="fib-title fib-desc" id="fib-svg">
+      <title id="fib-title">Three fibers converging on a surface point</title>
+      <desc id="fib-desc">A shaded sphere seen from outside, with two faint great circles crossing at one surface point, and a faint center point and radius out to that point. Two arrows trace the sphere's surface along orthogonal great circles and meet at that point: the longer one, of length square root of 40, labeled 40d, and the shorter one, of length square root of 8, labeled 8d. A third arrow, of length square root of 10, labeled 10d, runs outward along the radius to the same point, stopping well short of the center.</desc>
+      <defs>
+        <radialGradient id="fib-shade" cx="155" cy="150" r="248" gradientUnits="userSpaceOnUse">
+          <stop offset="0" class="fib-g0"/><stop offset="0.55" class="fib-g1"/><stop offset="1" class="fib-g2"/>
+        </radialGradient>
+        <marker id="fib-ah-a" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto"><path d="M0 0 L10 5 L0 10 z" class="fib-ah-a"/></marker>
+        <marker id="fib-ah-b" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto"><path d="M0 0 L10 5 L0 10 z" class="fib-ah-b"/></marker>
+        <marker id="fib-ah-c" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5.5" markerHeight="5.5" orient="auto"><path d="M0 0 L10 5 L0 10 z" class="fib-ah-c"/></marker>
+      </defs>
+      <circle cx="210" cy="220" r="160" class="fib-ball"/>
+      <path d="M78.3 129.2 L77.2 130.7 L76.2 132.3 L75.2 134.0 L74.2 135.6 L73.3 137.3 L72.5 139.0 L71.6 140.7 L70.9 142.5 L70.1 144.3 L69.4 146.1 L68.8 147.9 L68.1 149.8 L67.6 151.6 L67.0 153.5 L66.6 155.4 L66.1 157.4 L65.7 159.3 L65.4 161.3 L65.1 163.3 L64.8 165.3 L64.6 167.3 L64.4 169.3 L64.3 171.4 L64.2 173.4 L64.1 175.5 L64.1 177.6 L64.2 179.7 L64.3 181.8 L64.4 184.0 L64.6 186.1 L64.8 188.2 L65.1 190.4 L65.4 192.6 L65.8 194.8 L66.2 196.9 L66.6 199.1 L67.1 201.3 L67.6 203.5 L68.2 205.7 L68.8 208.0 L69.5 210.2 L70.2 212.4 L70.9 214.6 L71.7 216.8 L72.6 219.1 L73.4 221.3 L74.3 223.5 L75.3 225.7 L76.3 228.0 L77.3 230.2 L78.4 232.4 L79.5 234.6 L80.7 236.8 L81.9 239.0 L83.1 241.2 L84.4 243.4 L85.7 245.6 L87.1 247.8 L88.4 250.0 L89.9 252.1 L91.3 254.3 L92.8 256.4 L94.4 258.5 L95.9 260.6 L97.5 262.7 L99.2 264.8 L100.8 266.9 L102.6 269.0 L104.3 271.0 L106.1 273.1 L107.9 275.1 L109.7 277.1 L111.6 279.1 L113.4 281.0 L115.4 283.0 L117.3 284.9 L119.3 286.8 L121.3 288.7 L123.3 290.6 L125.4 292.4 L127.5 294.2 L129.6 296.0 L131.7 297.8 L133.9 299.5 L136.1 301.3 L138.3 303.0 L140.5 304.7 L142.8 306.3 L145.0 307.9 L147.3 309.5 L149.6 311.1 L152.0 312.6 L154.3 314.2 L156.7 315.6 L159.0 317.1 L161.4 318.5 L163.8 319.9 L166.3 321.3 L168.7 322.6 L171.1 323.9 L173.6 325.2 L176.1 326.5 L178.6 327.7 L181.0 328.8 L183.5 330.0 L186.1 331.1 L188.6 332.2 L191.1 333.2 L193.6 334.2 L196.2 335.2 L198.7 336.1 L201.2 337.0 L203.8 337.9 L206.3 338.7 L208.9 339.5 L211.4 340.3 L213.9 341.0 L216.5 341.7 L219.0 342.3 L221.6 343.0 L224.1 343.5 L226.6 344.1 L229.2 344.6 L231.7 345.0 L234.2 345.4 L236.7 345.8 L239.2 346.2 L241.7 346.5 L244.2 346.7 L246.6 347.0 L249.1 347.2 L251.6 347.3 L254.0 347.4 L256.4 347.5 L258.8 347.5 L261.2 347.5 L263.6 347.5 L265.9 347.4 L268.3 347.3 L270.6 347.1 L272.9 346.9 L275.2 346.7 L277.5 346.4 L279.7 346.1 L281.9 345.8 L284.1 345.4 L286.3 344.9 L288.5 344.5 L290.6 344.0 L292.7 343.4 L294.8 342.9 L296.9 342.2 L298.9 341.6 L300.9 340.9 L302.9 340.2 L304.8 339.4 L306.7 338.6 L308.6 337.8 L310.5 336.9 L312.3 336.0 L314.1 335.0 L315.9 334.1 L317.6 333.0 L319.3 332.0 L321.0 330.9 L322.6 329.8 L324.2 328.7 L325.8 327.5 L327.3 326.3 L328.8 325.0 L330.3 323.7 L331.7 322.4 L333.1 321.1 L334.4 319.7 L335.7 318.3 L337.0 316.9 L338.2 315.4 L339.4 313.9 L340.6 312.4 L341.7 310.8 M98.3 334.6 L98.0 334.2 L97.6 333.8 L97.4 333.3 L97.1 332.9 L96.9 332.4 L96.7 331.8 L96.6 331.2 L96.5 330.6 L96.4 330.0 L96.4 329.3 L96.4 328.6 L96.4 327.8 L96.5 327.0 L96.6 326.2 L96.7 325.4 L96.9 324.5 L97.1 323.6 L97.3 322.6 L97.6 321.7 L97.9 320.7 L98.2 319.6 L98.6 318.6 L99.0 317.5 L99.4 316.4 L99.9 315.2 L100.4 314.0 L101.0 312.8 L101.5 311.6 L102.1 310.3 L102.8 309.0 L103.5 307.7 L104.2 306.3 L104.9 305.0 L105.7 303.6 L106.5 302.1 L107.3 300.7 L108.2 299.2 L109.1 297.7 L110.0 296.2 L111.0 294.6 L111.9 293.1 L113.0 291.5 L114.0 289.9 L115.1 288.2 L116.2 286.6 L117.3 284.9 L118.5 283.2 L119.7 281.5 L120.9 279.7 L122.1 278.0 L123.4 276.2 L124.7 274.4 L126.0 272.6 L127.4 270.8 L128.8 269.0 L130.2 267.1 L131.6 265.3 L133.0 263.4 L134.5 261.5 L136.0 259.6 L137.5 257.7 L139.0 255.8 L140.6 253.8 L142.2 251.9 L143.8 249.9 L145.4 247.9 L147.0 246.0 L148.7 244.0 L150.4 242.0 L152.1 240.0 L153.8 238.0 L155.5 236.0 L157.3 234.0 L159.0 231.9 L160.8 229.9 L162.6 227.9 L164.4 225.9 L166.3 223.8 L168.1 221.8 L169.9 219.8 L171.8 217.7 L173.7 215.7 L175.6 213.7 L177.5 211.7 L179.4 209.6 L181.3 207.6 L183.2 205.6 L185.1 203.6 L187.1 201.6 L189.0 199.6 L191.0 197.6 L192.9 195.6 L194.9 193.6 L196.9 191.6 L198.8 189.7 L200.8 187.7 L202.8 185.8 L204.8 183.8 L206.7 181.9 L208.7 180.0 L210.7 178.1 L212.7 176.2 L214.7 174.3 L216.7 172.5 L218.6 170.6 L220.6 168.8 L222.6 167.0 L224.6 165.2 L226.5 163.4 L228.5 161.6 L230.4 159.9 L232.4 158.1 L234.3 156.4 L236.3 154.7 L238.2 153.1 L240.1 151.4 L242.0 149.8 L243.9 148.2 L245.8 146.6 L247.7 145.0 L249.5 143.5 L251.4 142.0 L253.2 140.5 L255.1 139.0 L256.9 137.6 L258.7 136.1 L260.5 134.7 L262.2 133.4 L264.0 132.0 L265.7 130.7 L267.4 129.4 L269.1 128.2 L270.8 126.9 L272.5 125.7 L274.1 124.5 L275.8 123.4 L277.4 122.3 L279.0 121.2 L280.5 120.1 L282.1 119.1 L283.6 118.1 L285.1 117.1 L286.6 116.2 L288.0 115.3 L289.5 114.4 L290.9 113.6 L292.2 112.8 L293.6 112.0 L294.9 111.3 L296.2 110.6 L297.5 109.9 L298.8 109.3 L300.0 108.6 L301.2 108.1 L302.4 107.5 L303.5 107.0 L304.6 106.6 L305.7 106.1 L306.7 105.7 L307.8 105.4 L308.8 105.0 L309.7 104.7 L310.7 104.5 L311.6 104.2 L312.5 104.0 L313.3 103.9 L314.1 103.8 L314.9 103.7 L315.6 103.6 L316.3 103.6 L317.0 103.6 L317.7 103.7 L318.3 103.8 L318.9 103.9 L319.4 104.1 L320.0 104.3 L320.4 104.5 L320.9 104.8 L321.3 105.1 L321.7 105.4" class="fib-gc-back"/>
+      <path d="M302.7 155.1 L300.7 153.2 L298.7 151.3 L296.7 149.4 L294.6 147.6 L292.5 145.8 L290.4 144.0 L288.3 142.2 L286.1 140.5 L283.9 138.7 L281.7 137.0 L279.5 135.3 L277.2 133.7 L275.0 132.1 L272.7 130.5 L270.4 128.9 L268.0 127.4 L265.7 125.8 L263.3 124.4 L261.0 122.9 L258.6 121.5 L256.2 120.1 L253.7 118.7 L251.3 117.4 L248.9 116.1 L246.4 114.8 L243.9 113.5 L241.4 112.3 L239.0 111.2 L236.5 110.0 L233.9 108.9 L231.4 107.8 L228.9 106.8 L226.4 105.8 L223.8 104.8 L221.3 103.9 L218.8 103.0 L216.2 102.1 L213.7 101.3 L211.1 100.5 L208.6 99.7 L206.1 99.0 L203.5 98.3 L201.0 97.7 L198.4 97.0 L195.9 96.5 L193.4 95.9 L190.8 95.4 L188.3 95.0 L185.8 94.6 L183.3 94.2 L180.8 93.8 L178.3 93.5 L175.8 93.3 L173.4 93.0 L170.9 92.8 L168.4 92.7 L166.0 92.6 L163.6 92.5 L161.2 92.5 L158.8 92.5 L156.4 92.5 L154.1 92.6 L151.7 92.7 L149.4 92.9 L147.1 93.1 L144.8 93.3 L142.5 93.6 L140.3 93.9 L138.1 94.2 L135.9 94.6 L133.7 95.1 L131.5 95.5 L129.4 96.0 L127.3 96.6 L125.2 97.1 L123.1 97.8 L121.1 98.4 L119.1 99.1 L117.1 99.8 L115.2 100.6 L113.3 101.4 L111.4 102.2 L109.5 103.1 L107.7 104.0 L105.9 105.0 L104.1 105.9 L102.4 107.0 L100.7 108.0 L99.0 109.1 L97.4 110.2 L95.8 111.3 L94.2 112.5 L92.7 113.7 L91.2 115.0 L89.7 116.3 L88.3 117.6 L86.9 118.9 L85.6 120.3 L84.3 121.7 L83.0 123.1 L81.8 124.6 L80.6 126.1 L79.4 127.6 L78.3 129.2 M341.7 310.8 L342.8 309.3 L343.8 307.7 L344.8 306.0 L345.8 304.4 L346.7 302.7 L347.5 301.0 L348.4 299.3 L349.1 297.5 L349.9 295.7 L350.6 293.9 L351.2 292.1 L351.9 290.2 L352.4 288.4 L353.0 286.5 L353.4 284.6 L353.9 282.6 L354.3 280.7 L354.6 278.7 L354.9 276.7 L355.2 274.7 L355.4 272.7 L355.6 270.7 L355.7 268.6 L355.8 266.6 L355.9 264.5 L355.9 262.4 L355.8 260.3 L355.7 258.2 L355.6 256.0 L355.4 253.9 L355.2 251.8 L354.9 249.6 L354.6 247.4 L354.2 245.2 L353.8 243.1 L353.4 240.9 L352.9 238.7 L352.4 236.5 L351.8 234.3 L351.2 232.0 L350.5 229.8 L349.8 227.6 L349.1 225.4 L348.3 223.2 L347.4 220.9 L346.6 218.7 L345.7 216.5 L344.7 214.3 L343.7 212.0 L342.7 209.8 L341.6 207.6 L340.5 205.4 L339.3 203.2 L338.1 201.0 L336.9 198.8 L335.6 196.6 L334.3 194.4 L332.9 192.2 L331.6 190.0 L330.1 187.9 L328.7 185.7 L327.2 183.6 L325.6 181.5 L324.1 179.4 L322.5 177.3 L320.8 175.2 L319.2 173.1 L317.4 171.0 L315.7 169.0 L313.9 166.9 L312.1 164.9 L310.3 162.9 L308.4 160.9 L306.6 159.0 L304.6 157.0 L302.7 155.1 M302.7 155.1 L301.5 156.8 L300.3 158.5 L299.1 160.3 L297.9 162.0 L296.6 163.8 L295.3 165.6 L294.0 167.4 L292.6 169.2 L291.2 171.0 L289.8 172.9 L288.4 174.7 L287.0 176.6 L285.5 178.5 L284.0 180.4 L282.5 182.3 L281.0 184.2 L279.4 186.2 L277.8 188.1 L276.2 190.1 L274.6 192.1 L273.0 194.0 L271.3 196.0 L269.6 198.0 L267.9 200.0 L266.2 202.0 L264.5 204.0 L262.7 206.0 L261.0 208.1 L259.2 210.1 L257.4 212.1 L255.6 214.1 L253.7 216.2 L251.9 218.2 L250.1 220.2 L248.2 222.3 L246.3 224.3 L244.4 226.3 L242.5 228.3 L240.6 230.4 L238.7 232.4 L236.8 234.4 L234.9 236.4 L232.9 238.4 L231.0 240.4 L229.0 242.4 L227.1 244.4 L225.1 246.4 L223.1 248.4 L221.2 250.3 L219.2 252.3 L217.2 254.2 L215.2 256.2 L213.3 258.1 L211.3 260.0 L209.3 261.9 L207.3 263.8 L205.3 265.7 L203.3 267.5 L201.4 269.4 L199.4 271.2 L197.4 273.0 L195.4 274.8 L193.5 276.6 L191.5 278.4 L189.6 280.1 L187.6 281.9 L185.7 283.6 L183.7 285.3 L181.8 286.9 L179.9 288.6 L178.0 290.2 L176.1 291.8 L174.2 293.4 L172.3 295.0 L170.5 296.5 L168.6 298.0 L166.8 299.5 L164.9 301.0 L163.1 302.4 L161.3 303.9 L159.5 305.3 L157.8 306.6 L156.0 308.0 L154.3 309.3 L152.6 310.6 L150.9 311.8 L149.2 313.1 L147.5 314.3 L145.9 315.5 L144.2 316.6 L142.6 317.7 L141.0 318.8 L139.5 319.9 L137.9 320.9 L136.4 321.9 L134.9 322.9 L133.4 323.8 L132.0 324.7 L130.5 325.6 L129.1 326.4 L127.8 327.2 L126.4 328.0 L125.1 328.7 L123.8 329.4 L122.5 330.1 L121.2 330.7 L120.0 331.4 L118.8 331.9 L117.6 332.5 L116.5 333.0 L115.4 333.4 L114.3 333.9 L113.3 334.3 L112.2 334.6 L111.2 335.0 L110.3 335.3 L109.3 335.5 L108.4 335.8 L107.5 336.0 L106.7 336.1 L105.9 336.2 L105.1 336.3 L104.4 336.4 L103.7 336.4 L103.0 336.4 L102.3 336.3 L101.7 336.2 L101.1 336.1 L100.6 335.9 L100.0 335.7 L99.6 335.5 L99.1 335.2 L98.7 334.9 L98.3 334.6 M321.7 105.4 L322.0 105.8 L322.4 106.2 L322.6 106.7 L322.9 107.1 L323.1 107.6 L323.3 108.2 L323.4 108.8 L323.5 109.4 L323.6 110.0 L323.6 110.7 L323.6 111.4 L323.6 112.2 L323.5 113.0 L323.4 113.8 L323.3 114.6 L323.1 115.5 L322.9 116.4 L322.7 117.4 L322.4 118.3 L322.1 119.3 L321.8 120.4 L321.4 121.4 L321.0 122.5 L320.6 123.6 L320.1 124.8 L319.6 126.0 L319.0 127.2 L318.5 128.4 L317.9 129.7 L317.2 131.0 L316.5 132.3 L315.8 133.7 L315.1 135.0 L314.3 136.4 L313.5 137.9 L312.7 139.3 L311.8 140.8 L310.9 142.3 L310.0 143.8 L309.0 145.4 L308.1 146.9 L307.0 148.5 L306.0 150.1 L304.9 151.8 L303.8 153.4 L302.7 155.1" class="fib-gc"/>
+      <line x1="210.0" y1="220.0" x2="302.7" y2="155.1" class="fib-radius"/>
+      <circle cx="210.0" cy="220.0" r="3" class="fib-center"/>
+      <line x1="249.4" y1="192.4" x2="301.0" y2="156.3" class="fib-10" marker-end="url(#fib-ah-a)"/>
+      <path d="M350.7 293.7 L351.2 292.2 L351.7 290.7 L352.2 289.2 L352.6 287.7 L353.0 286.2 L353.4 284.6 L353.8 283.1 L354.1 281.5 L354.4 279.9 L354.7 278.3 L354.9 276.7 L355.2 275.1 L355.3 273.5 L355.5 271.8 L355.6 270.2 L355.7 268.5 L355.8 266.9 L355.8 265.2 L355.9 263.5 L355.8 261.8 L355.8 260.1 L355.7 258.4 L355.6 256.7 L355.5 254.9 L355.3 253.2 L355.1 251.5 L354.9 249.7 L354.7 248.0 L354.4 246.2 L354.1 244.4 L353.8 242.7 L353.4 240.9 L353.0 239.1 L352.6 237.3 L352.1 235.6 L351.7 233.8 L351.2 232.0 L350.6 230.2 L350.1 228.4 L349.5 226.6 L348.9 224.8 L348.2 223.0 L347.5 221.2 L346.8 219.4 L346.1 217.6 L345.4 215.8 L344.6 214.0 L343.8 212.2 L343.0 210.4 L342.1 208.6 L341.2 206.8 L340.3 205.0 L339.4 203.2 L338.4 201.5 L337.4 199.7 L336.4 197.9 L335.3 196.1 L334.3 194.4 L333.2 192.6 L332.1 190.8 L330.9 189.1 L329.8 187.4 L328.6 185.6 L327.4 183.9 L326.1 182.2 L324.9 180.4 L323.6 178.7 L322.3 177.0 L321.0 175.4 L319.6 173.7 L318.3 172.0 L316.9 170.3 L315.5 168.7 L314.0 167.0 L312.6 165.4 L311.1 163.8 L309.6 162.2 L308.1 160.6 L306.6 159.0" class="fib-40" marker-end="url(#fib-ah-b)"/>
+      <path d="M323.0 116.0 L323.0 116.3 L322.9 116.6 L322.8 116.9 L322.7 117.3 L322.6 117.6 L322.5 117.9 L322.4 118.3 L322.3 118.6 L322.2 119.0 L322.1 119.3 L322.0 119.7 L321.9 120.1 L321.8 120.4 L321.6 120.8 L321.5 121.2 L321.4 121.5 L321.2 121.9 L321.1 122.3 L320.9 122.7 L320.8 123.1 L320.6 123.5 L320.5 123.9 L320.3 124.2 L320.2 124.7 L320.0 125.1 L319.8 125.5 L319.6 125.9 L319.4 126.3 L319.3 126.7 L319.1 127.1 L318.9 127.6 L318.7 128.0 L318.5 128.4 L318.3 128.9 L318.0 129.3 L317.8 129.8 L317.6 130.2 L317.4 130.7 L317.2 131.1 L316.9 131.6 L316.7 132.0 L316.4 132.5 L316.2 133.0 L316.0 133.4 L315.7 133.9 L315.5 134.4 L315.2 134.9 L314.9 135.3 L314.7 135.8 L314.4 136.3 L314.1 136.8 L313.8 137.3 L313.6 137.8 L313.3 138.3 L313.0 138.8 L312.7 139.3 L312.4 139.8 L312.1 140.3 L311.8 140.9 L311.5 141.4 L311.2 141.9 L310.8 142.4 L310.5 143.0 L310.2 143.5 L309.9 144.0 L309.5 144.6 L309.2 145.1 L308.9 145.6 L308.5 146.2 L308.2 146.7 L307.8 147.3 L307.5 147.8 L307.1 148.4 L306.8 148.9 L306.4 149.5 L306.0 150.1 L305.7 150.6 L305.3 151.2 L304.9 151.8" class="fib-8" marker-end="url(#fib-ah-c)"/>
+      <circle cx="302.7" cy="155.1" r="4" class="fib-pt"/>
+      <text x="267" y="168" class="fib-lab fib-l10" text-anchor="end">10d</text>
+      <text x="336" y="236" class="fib-lab fib-l40" text-anchor="end">40d</text>
+      <text x="306" y="131" class="fib-lab fib-l8" text-anchor="end">8d</text>
+    </svg>
+  </figure>
+
+  <div class="prose">
+    <p>By virtue of this perspective, the ambient 10 dimensions register coherently, thus volumetrically, and the fibers, of 40 and 8 dimensions, register incoherently, as norms. This means they are treated as exponents and square roots, respectively. Furthermore, what is perceived of the transverse fibers from this perspective is an <em>intensity</em> – the values square, thus entering not as square roots but as square roots squared, or plain integers – 40 and 8. Note as well that these intensities are orthogonal to each other, thus will add in quadrature.</p>
     <p>Now we're not totally sure why this works, but we are going to distribute our 10 available dimensions to the two transverse fibers – 4 dimensions go to the 40, 6 dimensions go to the 8:</p>
   </div>
 
@@ -1766,7 +1822,26 @@ mjx-container[display="true"] { margin: 0 !important; }
   </section>
 
   <div class="prose">
-    <p>For what it's worth, that is the most equitable distribution possible – a 9 : 1 split, for example, draws a right triangle where the hypotenuse is all but indistinguishable from the long leg. 40<sup>4</sup> and 8<sup>6</sup> are less than a 10 : 1 ratio, and that's as good as we can do (with integers anyway, which is usually how dimensions count).</p>
+    <p>For what it's worth, that is the most equitable distribution possible:</p>
+  </div>
+
+  <figure class="fig-svg" id="split-triangle">
+    <svg viewBox="15 50 520 120" role="img" aria-labelledby="st-title st-desc" id="st-svg">
+      <title id="st-title">The 4 : 6 split as a right triangle</title>
+      <desc id="st-desc">A long, flat right triangle drawn to scale: 40 to the 4th across the bottom, 8 to the 6th as the short vertical leg on the right, about a tenth as long, and the hypotenuse, about 2,573,387, barely longer than the bottom leg.</desc>
+      <polygon points="40,130 480,130 480,84.9" class="rt-fill"/>
+      <path d="M470 130 V120 H480" class="rt-corner"/>
+      <line x1="40" y1="130" x2="480" y2="130" class="rt-a"/>
+      <line x1="480" y1="130" x2="480" y2="84.9" class="rt-b"/>
+      <line x1="40" y1="130" x2="480" y2="84.9" class="rt-c"/>
+      <text x="260" y="156" class="st-lab" text-anchor="middle">40<tspan class="st-sup" dy="-9">4</tspan></text>
+      <text x="492" y="113" class="st-lab" text-anchor="start">8<tspan class="st-sup" dy="-9">6</tspan></text>
+      <text x="260" y="95" class="st-lab" text-anchor="middle" transform="rotate(-5.85 260 95)">≈ 2,573,387</text>
+    </svg>
+  </figure>
+
+  <div class="prose">
+    <p>A 9 : 1 split, for example, draws a right triangle where the hypotenuse is all but indistinguishable from the long leg. 40<sup>4</sup> and 8<sup>6</sup> are less than a 10 : 1 ratio, and that's as good as we can do (with integers anyway, which is usually how dimensions count).</p>
     <p>Here is an expression of what we've built up so far:</p>
   </div>
 
@@ -1775,7 +1850,7 @@ mjx-container[display="true"] { margin: 0 !important; }
   </section>
 
   <div class="prose">
-    <p>Now keep in mind this happens on a sphere, thus is subject to curvature. The hypotenuse of this right triangle will be less, however slightly, than the value of the flat hypotenuse. We denote this with an R (subject to curvature of a sphere of <em>felt</em> radius R, which we don't yet know):</p>
+    <p>Now keep in mind this happens on a sphere, thus is subject to curvature. The hypotenuse of this right triangle will be less, however slightly, than the value of the flat hypotenuse. We denote this with an R (subject to curvature of a sphere of <em>felt</em> radius R, a value we don't yet know):</p>
   </div>
 
   <section class="card inline">
@@ -1803,7 +1878,7 @@ mjx-container[display="true"] { margin: 0 !important; }
   <section class="card inline">
     <div class="equation">$$L^3 \leg{R} S_7 = 40^4 \hyp{R} 8^6$$</div>
     <div class="derived">
-      <div class="tex">$$\begin{aligned} S_7 &= \frac{1}{\varphi\,(\ell_1 + \ell_2 + \cdots + \ell_7)} \\[4pt] S_7 &= \frac{4\pi \cdot L}{2\,\varphi} + \frac{1}{\varphi\,\ell_2} + \cdots + \frac{1}{\varphi\,\ell_7} \end{aligned}$$</div>
+      <div class="tex">$$\begin{aligned} S_7 &= \frac{1}{\varphi\,(\ell_1 + \ell_2 + \cdots + \ell_7)} \\[4pt] S_7 &= \frac{1}{\frac{2\,\varphi}{4\pi \cdot L} + \varphi\,(\ell_2 + \cdots + \ell_7)} \\[4pt] S_7 &\approx \frac{4\pi \cdot L}{2\,\varphi} \end{aligned}$$</div>
     </div>
     <div class="derived">
       <span class="lead">simplified by showing curved term L³ in isolation</span>
@@ -1848,7 +1923,43 @@ mjx-container[display="true"] { margin: 0 !important; }
   </div>
 
   <section class="card inline">
-    <div class="equation">$$\begin{aligned} L &\approx 137.035999176 \\[4pt] R &\approx 68.11 \times 10^{6} \end{aligned}$$</div>
+    <div class="part">
+      <h3>the two relations</h3>
+      <div class="deriv">
+        <div class="eq">\(L^3 = 40^4 \hyp{R} 8^6 \hyp{R} S_7\)</div><div class="note">curved quadrature, from the projection</div>
+        <div class="eq">\(R = \tfrac{3\varphi}{8\pi} \cdot L^4\)</div><div class="note">felt radius, from the bulk mass</div>
+      </div>
+    </div>
+    <div class="part">
+      <h3>unfold the curved quadrature</h3>
+      <div class="deriv">
+        <div class="eq">\(a \hyp{R} b = R \cdot \arccos\!\left(\cos\tfrac{a}{R} \cdot \cos\tfrac{b}{R}\right)\)</div><div class="note">spherical pythagorean theorem</div>
+        <div class="eq">\(\cos\tfrac{L^3}{R} = \cos\tfrac{40^4}{R} \cdot \cos\tfrac{8^6}{R} \cdot \cos\tfrac{S_7}{R}\)</div><div class="note">applied twice, the cosines simply multiply</div>
+      </div>
+    </div>
+    <div class="part">
+      <h3>substitute R</h3>
+      <div class="deriv">
+        <div class="eq">\(\tfrac{L^3}{R} = \tfrac{8\pi}{3\varphi L}\)</div><div class="note">the hypotenuse as an angle, about 0.038 (≈ 2.2°)</div>
+        <div class="eq">\(\cos\tfrac{8\pi}{3\varphi L} = \cos\tfrac{8\pi \cdot 40^4}{3\varphi L^4} \cdot \cos\tfrac{8\pi \cdot 8^6}{3\varphi L^4} \cdot \cos\tfrac{8\pi \cdot S_7}{3\varphi L^4}\)</div><div class="note">one equation, one unknown – \(S_7\) depends on \(L\) too, via \(\ell_n = |C_n| \cdot (1/\pi L)^n\)</div>
+      </div>
+    </div>
+    <div class="part">
+      <h3>solve numerically</h3>
+      <div class="deriv">
+        <div class="eq">\(L^6 = 40^8 + 8^{12} + S_7^2\)</div><div class="note">flat start, ignoring curvature</div>
+        <div class="eq">\(L \approx 137.036111\)</div><div class="note">about 5,300σ from CODATA</div>
+        <div class="eq">\(L \approx 137.035999175\)</div><div class="note">one step of Newton’s method on the curved equation</div>
+        <div class="eq">\(L \approx 137.0359991758\)</div><div class="note">second step – converged</div>
+      </div>
+    </div>
+    <div class="part">
+      <h3>result</h3>
+      <div class="deriv">
+        <div class="eq">\(L \approx 137.035999176\)</div><div class="note"></div>
+        <div class="eq">\(R \approx 68.11 \times 10^{6}\)</div><div class="note"></div>
+      </div>
+    </div>
   </section>
 
   <div class="prose">
@@ -1874,95 +1985,227 @@ mjx-container[display="true"] { margin: 0 !important; }
   </section>
 
   <div class="prose">
-    <p>The CODATA 2022 value for the fine structure constant is within 0.06σ of our result:</p>
+    <p>The result is within 0.06σ of the CODATA 2022 value for the fine structure constant:</p>
   </div>
 
   <section class="card inline">
-    <div class="equation">$$137.035999177(21)$$</div>
+    <div class="terms">
+      <span class="sym">result</span><span class="def">\(\approx 137.035999176\)</span><span class="val"></span>
+      <span class="sym">CODATA</span><span class="def">\(137.035999177(21)\)</span><span class="val"></span>
+    </div>
   </section>
 
   <div class="prose">
-    <h2 class="part">Appendix: notation under review</h2>
-    <p class="draft">Candidate ways of writing the fine structure card, for comparison in context. Not yet part of the argument.</p>
+    <p>Even if none of that made any sense, here's the upshot:</p>
+    <ul class="upshot">
+      <li>Think of the universe as 10 dimensional</li>
+      <li>Think of 3 of the 10 as the bulk, which is ordinary space</li>
+      <li>Think of 2 of those 3 as the boundary, like invisible bubbles around invisible balls everywhere</li>
+      <li>Think of the leftover 7 or 8 dimensions as the energetic textures of balls and bubbles respectively</li>
+    </ul>
+    <p>Furthermore, consider that our “left hand side” to the equation, \(L^3\), a volumetric projection of the inverse fine structure constant – the three bulk dimensions, as it were – indeed corresponds to the fine ladder. This enables us to think of r<sub>e</sub> as the unit in our system, as it is the basis of our unitless multiplication by the fine structure constant to produce the other rungs of the ladder.</p>
   </div>
 
   <section class="card inline">
-    <h2><span>Current: anchor as the third leg</span></h2>
-    <div class="equation">$$L^3 = 40^4 \hyp{R} 8^6 \hyp{R} \frac{4\pi \cdot L}{2\,\varphi}$$</div>
+    <div class="equation">$$r_e = 1$$</div>
   </section>
 
+  <div class="prose">
+    <h3 class="section">The wishdrops ratio</h3>
+    <p>This is the wishdrops ratio:</p>
+  </div>
+
   <section class="card inline">
-    <h2><span>Anchor moved across: bulk with the 7d infusion removed, equals boundary content</span></h2>
-    <div class="equation">$$L^3 \leg{R} \frac{4\pi \cdot L}{2\,\varphi} = 40^4 \hyp{R} 8^6$$</div>
+    <div class="equation">$$w_0 = \frac{160}{4\pi} \approx 12.73$$</div>
+  </section>
+
+  <div class="prose">
+    <p>That the 160 appears on top is historic; its preferred form is inverted:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$\frac{1}{w_0} = \frac{4\pi}{160}$$</div>
+  </section>
+
+  <div class="prose">
+    <p>This value pervades our ratios. It is essentially a <em>conversion tax</em> for translating incoherent energy into coherent energy.</p>
+    <p>The 4π is basic, 3 dimensional geometry – it's the surface area of the unit sphere, and in turn the number of <em>steradians</em> around a point emitter into a 3 dimensional space. It shows up whenever a point source emits into 3 dimensions – Gauss's law strikes again.</p>
+    <p>The 160 is a dimension count from our field seed. Recall our field seed is the 40 dimensional bundle. When its intensity is seen coherently, or in phase, the value of 40 becomes the norm, representing a 1600 dimensional space:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$40 = \sqrt{1600}$$</div>
+  </section>
+
+  <div class="prose">
+    <p>That space is in the tangent. It is orthogonal to, thus distributes into, the ambient 10 dimensional space, hence we commonly see 160 dimensions:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$1600 / 10 = 160$$</div>
+  </section>
+
+  <div class="prose">
+    <h3 class="section">The causal seed</h3>
+    <p>The causal seed is the bare 8 dimensional tangential bundle originating in our master formula. This, we suspect, is the incoherent energy behind the speed of light, c. It shows up in three forms:</p>
+    <ul class="arrived">
+      <li><span>\(\sqrt{8}\)</span><span>incoherent energy associated with \(c\)</span></li>
+      <li><span>\(8\)</span><span>incoherent energy associated with \(c^2\)</span></li>
+      <li><span>\(64\)</span><span>incoherent energy associated with \(c^4\)</span></li>
+    </ul>
+  </div>
+
+  <div class="prose">
+    <h3 class="section">The speed ball</h3>
+    <p>Notice this form throughout:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$\frac{1}{160 \cdot n} \cdot \left(\frac{\sqrt{8}}{3}\right)^{160 \cdot n}$$</div>
+  </section>
+
+  <div class="prose">
+    <p>That's a radial integral:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$\int_0^{\sqrt{8}/3} r^{\,160 \cdot n - 1}\, dr$$</div>
+  </section>
+
+  <div class="prose">
+    <p>We see \(n\) in three denominations:</p>
+    <ul class="arrived">
+      <li><span>\(n = 1\)</span><span>160 – 1600 tangential dimensions distributed into 10 radial</span></li>
+      <li><span>\(n = 3\)</span><span>480 – 1600 tangential dimensions distributed into 10 radial and tripled (the bulk space)</span></li>
+      <li><span>\(n = 10\)</span><span>1600 – 1600 tangential dimensions undiluted</span></li>
+    </ul>
+    <p>The base represents the volume of a ball over its spherical cover, using the causal seed as a radius:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="part">
+      <div class="deriv">
+        <div class="eq">\(V = \tfrac{4\pi}{3} \cdot R^3,\; R = \sqrt{8}\)</div><div class="note">volume of a ball of radius \(\sqrt{8}\)</div>
+        <div class="eq">\(S = 4\pi \cdot R^2,\; R = \sqrt{8}\)</div><div class="note">area of a sphere of radius \(\sqrt{8}\)</div>
+        <div class="eq">\(V / S = \sqrt{8} / 3\)</div><div class="note">volume per surface area in 3 dimensions</div>
+      </div>
+    </div>
+  </section>
+
+  <div class="prose">
+    <p>And so the “speed ball” – volume per surface area, radius equals √8 – embedded within a 160, 480, or 1600 dimensional sphere, represents energetic content.</p>
+  </div>
+
+  <div class="prose">
+    <h3 class="section">Phi distribution</h3>
+    <p>Here is another recurring form of a term in our ratios:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$\varphi^{\frac{1}{160}\cdot\frac{1}{n}}$$</div>
+  </section>
+
+  <div class="prose">
+    <p>This also appears in a strict subset of denominations dictated by the field seed distributed into ambient radial dimensions:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="part">
+      <div class="deriv">
+        <div class="eq">\(n = 10 \;:\; \varphi^{\frac{1}{160}\cdot\frac{1}{10}}\)</div><div class="note">1600d undiluted, associated with the vacuum</div>
+        <div class="eq deriv-sub">\(\varphi^{\frac{1}{160}\cdot\frac{1}{10}\cdot\frac{1}{3}}\)</div><div class="note">4800d, spread in the bulk dimensions</div>
+        <div class="eq">\(n = 7 \;:\; \varphi^{\frac{1}{160}\cdot\frac{1}{7}}\)</div><div class="note">1120d, associated with light and the atomic ground state</div>
+        <div class="eq">\(n = 3 \;:\; \varphi^{\frac{1}{160}\cdot\frac{1}{3}}\)</div><div class="note">480d, associated with the weak force</div>
+        <div class="eq">\(n = 1 \;:\; \varphi^{\frac{1}{160}}\)</div><div class="note">160d – sees all 10 radial dimensions, associated with gravity</div>
+        <div class="eq deriv-sub">\(\varphi^{\frac{1}{160}\cdot 3}\)</div><div class="note">this cubes when it saturates the bulk space, as it does for the Higgs boson and sound</div>
+      </div>
+    </div>
+  </section>
+
+  <div class="prose">
+    <h3 class="section">Sight and sound</h3>
+    <p>Let's revisit our sight and sound ratios, in relation to r<sub>e</sub> this time:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$\frac{r_e}{\lambda_n} = \alpha^3 \cdot \frac{1}{160} \cdot \sqrt{n} \cdot \varphi^{\frac{1}{160}\cdot\frac{1}{7}}$$</div>
     <div class="terms">
-      <span class="sym">\(\hyp{R}\)</span><span class="def">hypotenuse on a sphere of felt radius \(R\)</span><span class="val"></span>
-      <span class="sym">\(\leg{R}\)</span><span class="def">leg on a sphere of felt radius \(R\), \(a \leg{R} b = R \cdot \arccos\left(\frac{\cos(a/R)}{\cos(b/R)}\right)\)</span><span class="val"></span>
-      <span class="sym">flat</span><span class="def">\(a \leg{} b = \sqrt{a^2 - b^2}\)</span><span class="val"></span>
+      <span class="sym">\(\lambda_n\)</span><span class="def">color wavelength for \(n\) in 7..3</span><span class="val"></span>
+      <div class="sub">
+        <span class="n">n = 7</span><span class="dot" style="background:#7B3FE4"></span><span>violet</span><span class="val">~438 nm</span>
+        <span class="n">n = 6</span><span class="dot" style="background:#2F6BFF"></span><span>blue</span><span class="val">~473 nm</span>
+        <span class="n">n = 5</span><span class="dot" style="background:#1FAE5C"></span><span>green</span><span class="val">~519 nm</span>
+        <span class="n">n = 4</span><span class="dot" style="background:#E8C400"></span><span>yellow</span><span class="val">~580 nm</span>
+        <span class="n">n = 3</span><span class="dot" style="background:#E0301E"></span><span>red</span><span class="val">~670 nm</span>
+      </div>
     </div>
   </section>
 
   <section class="card inline">
-    <h2><span>Option A: the seven infusions as the loop series</span></h2>
-    <div class="equation">$$L^3 \leg{R} \frac{1}{\varphi\,(\ell_1 + \ell_2 + \cdots + \ell_7)} = 40^4 \hyp{R} 8^6$$</div>
+    <div class="equation">$$\frac{r_e}{\lambda_0} = \frac{1}{480} \cdot \left(\frac{\sqrt{8}}{3}\right)^{480} \cdot \varphi^{\frac{1}{160}\cdot 3}$$</div>
     <div class="terms">
-      <span class="sym">\(L\)</span><span class="def">inverse fine structure constant, \(1/\alpha\)</span><span class="val">~137.036</span>
-      <span class="sym">\(\ell_n\)</span><span class="def">n-loop QED correction, \(|C_n| \cdot (\alpha/\pi)^n\)</span><span class="val"></span>
+      <span class="sym">\(\lambda_0\)</span><span class="def">central auditory wavelength at \(v_s\)</span><span class="val">~253 cm</span>
+      <span class="sym">\(v_s\)</span><span class="def">speed of sound</span><span class="val">~349 m/s</span>
+    </div>
+  </section>
+
+  <div class="prose">
+    <p>Notice the sight ratio uses the “accumulation term” 1 / 160 from the radial integral but skips out on the speed ball. That's because the light wave is entirely relegated to the boundary – null arcs. The opposite is true of sound waves – they propagate entirely within the bulk space, hence the 480 dimensions of integration.</p>
+    <p>The phi terms are equally revealing. In the case of light waves, the 7 boundary dimensions (out of the 10 radial dimensions) are spread into. In the case of sound waves, the 3 bulk dimensions saturate.</p>
+  </div>
+
+  <div class="prose">
+    <h3 class="section">The Higgs sector</h3>
+    <p>Notice how much in common these have with the sight and sound ratios:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$\begin{aligned} \frac{m_e}{m_W} &= 4\pi \cdot \frac{1}{160} \cdot \left(\frac{\sqrt{8}}{3}\right)^{160} \cdot \varphi^{\frac{1}{160}\cdot\frac{1}{3}} \\[6pt] \frac{m_e}{m_H} &= 8 \cdot \frac{1}{160} \cdot \left(\frac{\sqrt{8}}{3}\right)^{160} \cdot \varphi^{\frac{1}{160}\cdot 3} \end{aligned}$$</div>
+    <div class="terms">
+      <span class="sym">\(m_e\)</span><span class="def">electron mass</span><span class="val">~.511 MeV/c²</span>
+      <span class="sym">\(m_W\)</span><span class="def">W boson mass</span><span class="val">~80.37 GeV/c²</span>
+      <span class="sym">\(m_H\)</span><span class="def">Higgs boson mass</span><span class="val">~125.2 GeV/c²</span>
       <span class="sym">\(\varphi\)</span><span class="def">phi, the golden ratio</span><span class="val">~1.618</span>
-      <span class="sym">\(\leg{R}\)</span><span class="def">leg on a sphere of felt radius \(R\)</span><span class="val"></span>
-      <span class="sym">\(\hyp{R}\)</span><span class="def">hypotenuse on a sphere of felt radius \(R\)</span><span class="val"></span>
     </div>
-    <div class="derived">
-      <span class="lead">with one loop alone, the term is the Schwinger correction, inverted, over φ</span>
-      <div class="tex">$$\frac{4\pi \cdot L}{2\,\varphi} = \frac{1}{\varphi\,\ell_1}, \qquad \ell_1 = \frac{\alpha}{2\pi}$$</div>
-    </div>
-    <div class="loop-wrap">
-      <table class="loop-table">
-        <thead><tr><th>\(k\)</th><th>QED coefficient \(C_k\)</th><th>\(\ell_k = |C_k| (\alpha/\pi)^k\)</th></tr></thead>
-        <tbody>
-          <tr><td>1</td><td>+0.5</td><td>1.16 × 10⁻³</td></tr>
-          <tr><td>2</td><td>−0.328</td><td>1.77 × 10⁻⁶</td></tr>
-          <tr><td>3</td><td>+1.181</td><td>1.48 × 10⁻⁸</td></tr>
-          <tr><td>4</td><td>−1.912</td><td>5.57 × 10⁻¹¹</td></tr>
-          <tr><td>5</td><td>≈ +6.7</td><td>4.6 × 10⁻¹³</td></tr>
-          <tr class="est"><td>6</td><td>not yet computed</td><td>~10⁻¹⁶</td></tr>
-          <tr class="est"><td>7</td><td>not yet computed</td><td>~10⁻¹⁹</td></tr>
-        </tbody>
-      </table>
-    </div>
-    <div class="loop-note">Solving for L: one loop alone gives 0.08σ from CODATA; all five computed loops summed with |C<sub>k</sub>|, as in the ground state card, give 0.06σ; with signed C<sub>k</sub>, 0.23σ.</div>
   </section>
+
+  <div class="prose">
+    <p>They differ from each other in only two ways:</p>
+    <ul class="upshot">
+      <li>The W boson mass multiplies by 4π – the signature of a broadcast into 3d – whereas the Higgs boson mass multiplies by 8 – the signature of an enfolded c<sup>2</sup></li>
+      <li>The phi term differs in that one is cubed and one is cube rooted; the W boson sees 3 of 10 radial dimensions, the Higgs Boson sees 1 <em>per each direction in the bulk space</em></li>
+    </ul>
+    <p>There is a telling distinction between the two that becomes obvious with algebraic rearrangement. The W boson mass scales with electron rest energy:</p>
+  </div>
 
   <section class="card inline">
-    <h2><span>Option B: the same, as a sum</span></h2>
-    <div class="equation">$$L^3 \leg{R} \left( \varphi \sum_{k=1}^{7} \ell_k \right)^{-1} = 40^4 \hyp{R} 8^6$$</div>
-    <div class="terms">
-      <span class="sym">\(\ell_k\)</span><span class="def">k-loop QED correction, \(|C_k|(\alpha/\pi)^k\)</span><span class="val"></span>
-      <span class="sym">\(\sum_{k=1}^{7}\)</span><span class="def">the corrections accumulate; their total, inverted over φ, is the leg</span><span class="val"></span>
+    <div class="part">
+      <div class="deriv">
+        <div class="eq">\(\frac{m_e}{m_W} = 4\pi \cdot \frac{1}{160} \cdot \left(\frac{\sqrt{8}}{3}\right)^{160} \cdot \varphi^{\frac{1}{480}}\)</div><div class="note"></div>
+        <div class="eq">\(\frac{m_e}{m_W} = 4\pi \cdot \frac{1}{160} \cdot \frac{V^{160}}{S^{160}} \cdot \varphi^{\frac{1}{480}}\)</div><div class="note">separate the speed ball</div>
+        <div class="eq">\(\frac{m_e}{m_W} = 4\pi \cdot \frac{1}{160} \cdot \frac{V^{160}}{S^{159}} \cdot \frac{1}{4\pi \cdot c^2} \cdot \varphi^{\frac{1}{480}}\)</div><div class="note">peel off one shell</div>
+        <div class="eq">\(m_e \cdot c^2 = m_W \cdot \frac{1}{160} \cdot \frac{V^{160}}{S^{159}} \cdot \varphi^{\frac{1}{480}}\)</div><div class="note">simplify and rearrange</div>
+      </div>
     </div>
   </section>
+
+  <div class="prose">
+    <p>And the electron mass scales with Higgs boson rest energy:</p>
+  </div>
 
   <section class="card inline">
-    <h2><span>Ground state energy ratio, expanded</span><span class="ratio">~1.0000027 : 1</span></h2>
-    <div class="equation">$$\frac{h \cdot c}{\underbrace{4\pi \cdot r_e \cdot L^3}_{\lambda_r} \cdot \frac{160}{4\pi} \cdot \frac{1}{\sqrt{7}} \cdot \frac{1}{\varphi^{\frac{1}{160}\cdot\frac{1}{7}}} \cdot \sqrt{8} \cdot \text{eV}} = 1 \hyp{} 2\,(\ell_1 + \ell_2 + \cdots + \ell_7)$$</div>
-    <div class="derived">
-      <span class="lead">the 4π's cancel, so the wishdrops wavelength is 160 classical electron radii, times L³</span>
-      <div class="tex">$$\lambda_w = 160 \cdot r_e \cdot L^3 \qquad\Longrightarrow\qquad \frac{h \cdot c \cdot \sqrt{7} \cdot \varphi^{\frac{1}{160}\cdot\frac{1}{7}}}{160 \cdot r_e \cdot L^3 \cdot \sqrt{8} \cdot \text{eV}} = 1 \hyp{} 2\,(\ell_1 + \ell_2 + \cdots + \ell_7)$$</div>
-    </div>
-    <div class="terms">
-      <span class="sym">\(h\)</span><span class="def">Planck's constant</span><span class="val"></span>
-      <span class="sym">\(c\)</span><span class="def">speed of light</span><span class="val"></span>
-      <span class="sym">\(r_e\)</span><span class="def">classical electron radius</span><span class="val">2.82 × 10⁻¹⁵ m</span>
-      <span class="sym">\(L\)</span><span class="def">inverse fine structure constant, \(1/\alpha\)</span><span class="val"></span>
-      <span class="sym">\(\lambda_r\)</span><span class="def">Rydberg wavelength, \(1/R_\infty = 4\pi \cdot r_e \cdot L^3\)</span><span class="val">~91 nm</span>
-      <span class="sym">\(\varphi\)</span><span class="def">phi, the golden ratio</span><span class="val">~1.618</span>
-      <span class="sym">\(\text{eV}\)</span><span class="def">one electron volt</span><span class="val"></span>
-      <span class="sym">\(\ell_n\)</span><span class="def">n-loop QED correction, \(|C_n| \cdot (\alpha/\pi)^n\)</span><span class="val"></span>
+    <div class="part">
+      <div class="deriv">
+        <div class="eq">\(\frac{m_e}{m_H} = 8 \cdot \frac{1}{160} \cdot \left(\frac{\sqrt{8}}{3}\right)^{160} \cdot \varphi^{\frac{3}{160}}\)</div><div class="note"></div>
+        <div class="eq">\(\frac{m_e}{m_H} = c^2 \cdot \frac{1}{160} \cdot \left(\frac{\sqrt{8}}{3}\right)^{160} \cdot \varphi^{\frac{3}{160}}\)</div><div class="note">substitute \(c\)</div>
+        <div class="eq">\(m_e = m_H \cdot c^2 \cdot \frac{1}{160} \cdot \left(\frac{\sqrt{8}}{3}\right)^{160} \cdot \varphi^{\frac{3}{160}}\)</div><div class="note">rearrange</div>
+      </div>
     </div>
   </section>
 
-
-
-
+  <div class="prose">
+    <p>The electron serves as a sort of energetic pivot between the W boson and the Higgs boson. And perhaps it is suggestive that the W boson – spin 1 – ends up with one fewer shell than volume, whereas the Higgs boson – spin 0 – maintains an equal number.</p>
+  </div>
 </div>
 
 <script>
