@@ -376,6 +376,7 @@ h1 {
 .widget-svg .gr-f2 { fill: var(--fig-c); }
 
 .widget .controls fieldset.seg { display: flex; flex-wrap: wrap; gap: 0.25rem; border: 0; padding: 0; margin: 0; }
+#turntable .controls { justify-content: center; }
 .widget .controls fieldset.seg .seg-lead { align-self: center; color: var(--muted); }
 .widget .controls fieldset.seg legend { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
 .widget .controls fieldset.seg label { display: inline-flex; align-items: center; gap: 0.35rem; padding: 0.25rem 0.7rem; border: 1px solid var(--rule); border-radius: 999px; cursor: pointer; color: var(--muted); }
@@ -692,15 +693,18 @@ mjx-container[display="true"] { margin: 0 !important; }
 
       <div class="part">
         <h3>felt radius from “electric mass”</h3>
-        <div class="equation">$$M = \frac{4\pi}{3} \cdot R^3 \cdot \rho = \frac{\varphi}{2}$$</div>
+        <div class="equation">$$M = \frac{\varphi}{2} = \frac{4\pi}{3} \cdot R^3 \cdot \rho$$</div>
         <div class="terms">
           <span class="sym">\(M\)</span><span class="def">electric mass</span><span class="val"></span>
-          <span class="sym">\(R\)</span><span class="def">felt radius (due to spherical curvature)</span><span class="val"></span>
+          <span class="sym">\(\varphi\)</span><span class="def">phi, the golden ratio</span><span class="val">~1.618</span>
+          <span class="sym">\(\frac{4\pi}{3} \cdot R^3\)</span><span class="def">volume of a ball of radius \(R\)</span><span class="val"></span>
+          <div class="nest">
+            <span class="sym">\(R\)</span><span class="def">felt radius (due to spherical curvature)</span><span class="val"></span>
+          </div>
           <span class="sym">\(\rho\)</span><span class="def">density, \(\left(\frac{1}{R\,L^2}\right)^2\)</span><span class="val"></span>
           <div class="nest">
             <span class="sym">\(L\)</span><span class="def">inverse fine structure constant, \(1/\alpha\)</span><span class="val"></span>
           </div>
-          <span class="sym">\(\varphi\)</span><span class="def">phi, the golden ratio</span><span class="val">~1.618</span>
         </div>
         <div class="derived">
           <span class="lead">felt radius in terms of L</span>
@@ -971,8 +975,8 @@ mjx-container[display="true"] { margin: 0 !important; }
       </svg>
     </div>
     <div class="controls">
-      <button type="button" class="play" id="tr-play" aria-pressed="true">Pause</button>
       <button type="button" class="play" id="tr-restart">Restart</button>
+      <button type="button" class="play" id="tr-play" aria-pressed="false">Play</button>
     </div>
   </figure>
 
@@ -1903,7 +1907,7 @@ mjx-container[display="true"] { margin: 0 !important; }
     <div class="terms">
       <span class="sym">\(M\)</span><span class="def">mass</span><span class="val"></span>
       <span class="sym">\(\varphi\)</span><span class="def">phi, the golden ratio</span><span class="val">~1.618</span>
-      <span class="sym">\(\frac{4\pi}{3} \cdot R^3\)</span><span class="def">volume of radius \(R\)</span><span class="val"></span>
+      <span class="sym">\(\frac{4\pi}{3} \cdot R^3\)</span><span class="def">volume of a ball of radius \(R\)</span><span class="val"></span>
       <span class="sym">\(R\)</span><span class="def">felt radius (due to spherical curvature)</span><span class="val"></span>
       <span class="sym">\(\rho\)</span><span class="def">density, \(\left(\frac{1}{R \cdot L^2}\right)^2\)</span><span class="val"></span>
       <span class="sym">\(L\)</span><span class="def">surface vector length</span><span class="val"></span>
@@ -2339,8 +2343,8 @@ mjx-container[display="true"] { margin: 0 !important; }
   function themeVar(name) { return getComputedStyle(document.documentElement).getPropertyValue(name).trim(); }
   var reduceMotion = false;
   try { reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches; } catch (_) {}
-  function animator(canvas, button, step, render) {
-    var playing = !reduceMotion, visible = true, last = 0, raf = 0;
+  function animator(canvas, button, step, render, opts) {
+    var playing = !reduceMotion && !(opts && opts.paused), visible = true, last = 0, raf = 0;
     function setLabel() { button.textContent = playing ? 'Pause' : 'Play'; button.setAttribute('aria-pressed', playing ? 'true' : 'false'); }
     function frame(ts) {
       raf = 0;
@@ -2352,7 +2356,7 @@ mjx-container[display="true"] { margin: 0 !important; }
     button.addEventListener('click', function () { playing = !playing; setLabel(); if (playing) kick(); else render(); });
     try { window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', render); } catch (_) {}
     setLabel(); render(); kick();
-    return { render: render };
+    return { render: render, play: function () { playing = true; setLabel(); kick(); } };
   }
 
   /* ---- The fuzzy shell: points settle around radius φ, density ∝ e^(−V/T), arrows down the slope toward the shell ---- */
@@ -2647,9 +2651,10 @@ mjx-container[display="true"] { margin: 0 !important; }
         r.ring.setAttribute('opacity', flash < 1e-3 ? 0 : (flash * flash).toFixed(3));
       });
     }
-    reset();
-    var anim = animator(svg, document.getElementById('tr-play'), step, render);
-    document.getElementById('tr-restart').addEventListener('click', function () { reset(); anim.render(); });
+    // open on a still frame just after the 10th tap, so the pattern is already visible before anyone presses play
+    reset(); for (var i = 0, n = Math.round((0.8 + 9 * TAP + 1.0) * 60); i < n; i++) step(1 / 60);
+    var anim = animator(svg, document.getElementById('tr-play'), step, render, { paused: true });
+    document.getElementById('tr-restart').addEventListener('click', function () { reset(); anim.render(); anim.play(); });
   })();
 
   /* ---- Nested spheres: each rung pinned inside the one around it, tumbling at unrelated rates ---- */
