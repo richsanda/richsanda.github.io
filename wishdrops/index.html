@@ -462,8 +462,73 @@ mjx-container[display="true"] { margin: 0 !important; }
   .equation { font-size: 1rem; }
   .card h2 { grid-template-columns: 1fr; }
 }
+
+
+/* ladder rungs table */
+.rung-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; line-height: 1.4; }
+.rung-table th, .rung-table td { text-align: left; vertical-align: top; padding: 0.7rem 0.55rem; border-top: 1px dashed var(--rule); }
+.rung-table thead th { border-top: 0; font-family: var(--mono); font-size: 0.7rem; font-weight: 400; color: var(--muted); padding-bottom: 0.4rem; white-space: nowrap; }
+.rung-table tr > :first-child { padding-left: 1.2rem; }
+.rung-table tr > :last-child { padding-right: 1.2rem; }
+.rung-table tbody th { font-weight: 400; width: 9.5rem; }
+.rung-table .rt-sym { display: block; font-size: 1.05rem; margin-bottom: 0.2rem; }
+.rung-table .rt-name { display: block; color: var(--ink); }
+.rung-table td { color: var(--muted); }
+.rung-table td.num { text-align: center; font-family: var(--mono); color: var(--ink); }
+.rung-table thead th:nth-child(3), .rung-table thead th:nth-child(4) { text-align: center; }
+.rung-table td.rad { white-space: nowrap; color: var(--ink); }
+.rung-table td.undef { font-style: italic; }
+.rung-table td.num.undef { font-family: var(--body); color: var(--muted); }
+@media (min-width: 641px) { .rung-table td.num, .rung-table thead th:nth-child(3), .rung-table thead th:nth-child(4) { width: 1%; padding-inline: 0.4rem; } }
+.vh { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+@media (max-width: 640px) {
+  .rung-table thead { display: none; }
+  .rung-table, .rung-table tbody, .rung-table tr, .rung-table th, .rung-table td { display: block; width: auto; }
+  .rung-table tr { padding: 0.9rem 1.1rem; border-top: 1px dashed var(--rule); }
+  .rung-table tr:first-child { border-top: 0; }
+  .rung-table th, .rung-table td, .rung-table tr > :first-child, .rung-table tr > :last-child { border: 0; padding: 0.12rem 0; }
+  .rung-table tbody th { width: auto; margin-bottom: 0.35rem; }
+  .rung-table td { display: grid; grid-template-columns: 5.2rem 1fr; gap: 0.6rem; }
+  .rung-table td.num { text-align: left; }
+  .rung-table td::before { content: attr(data-l); font-family: var(--mono); font-size: 0.7rem; color: var(--muted); font-style: normal; padding-top: 0.15rem; }
+}
+
+/* ---------- contents rail (trial) ---------- */
+.ovl { text-decoration: overline; text-decoration-thickness: 1px; }
+.prose h2.part, .prose h3.section, .cards > .card { scroll-margin-top: 1.5rem; }
+#toc li.ratio > a { font-size: 0.76rem; font-style: italic; }
+#toc { font-family: var(--body); font-size: 0.82rem; line-height: 1.35; }
+#toc ol { list-style: none; margin: 0; padding: 0; }
+#toc a { display: block; color: var(--muted); text-decoration: none; padding: 0.22rem 0 0.22rem 0.75rem; border-left: 2px solid var(--rule); transition: color .2s, border-color .2s; }
+#toc a:hover { color: var(--ink); }
+#toc li.l2 > a { font-family: var(--display); font-size: 0.95rem; font-weight: 500; color: var(--ink); opacity: 0.6; padding-top: 0.6rem; }
+#toc li.l2:first-child > a { padding-top: 0.22rem; }
+#toc li.l3 > a { padding-left: 1.4rem; }
+#toc a.on { color: var(--py-a); border-left-color: var(--py-a); opacity: 1; }
+#toc li.l2 > a.within { opacity: 1; }
+#toc .toc-head { font-family: var(--mono); font-size: 0.72rem; letter-spacing: 0.08em; color: var(--muted); margin: 0 0 0.6rem 0.75rem; }
+#toc-btn { display: none; }
+@media (min-width: 1180px) {
+  #toc { position: fixed; top: 3.5rem; width: 12.5rem; left: max(1rem, calc((100vw - 44rem) / 2 - 15rem));
+    max-height: calc(100vh - 7rem); overflow-y: auto; scrollbar-width: thin; }
+}
+@media (max-width: 1179.98px) {
+  #toc { position: fixed; left: max(12px, env(safe-area-inset-left, 0px)); bottom: 4.2rem; z-index: 20;
+    width: min(18rem, calc(100vw - 24px)); max-height: min(70vh, 32rem); overflow-y: auto;
+    background: var(--card); border: 1px solid var(--card-edge); border-radius: 10px; padding: 0.9rem 0.9rem 0.9rem 0.4rem;
+    box-shadow: 0 8px 28px rgba(20, 24, 50, 0.18); display: none; }
+  #toc.open { display: block; }
+  #toc-btn { display: block; position: fixed; left: max(12px, env(safe-area-inset-left, 0px)); bottom: 1rem; z-index: 21;
+    font-family: var(--mono); font-size: 0.78rem; color: var(--ink); background: var(--card);
+    border: 1px solid var(--card-edge); border-radius: 999px; padding: 0.45rem 0.9rem; cursor: pointer;
+    box-shadow: 0 2px 10px rgba(20, 24, 50, 0.12); }
+  #toc-btn[aria-expanded="true"] { border-color: var(--py-a); color: var(--py-a); }
+}
+@media print { #toc, #toc-btn { display: none !important; } }
 </style>
 
+<nav id="toc" aria-label="Contents"><p class="toc-head">contents</p><ol></ol></nav>
+<button id="toc-btn" type="button" aria-controls="toc" aria-expanded="false">contents</button>
 <div class="page">
   <header>
     <h1>That were the universe but one spinning sphere</h1>
@@ -472,7 +537,7 @@ mjx-container[display="true"] { margin: 0 !important; }
 
   <div class="prose">
     <h2 class="part">Pet ratios</h2>
-    <p><em>That were the universe but one spinning sphere</em>. A belief and a lament simultaneously. The belief is that a single sphere of infinite dimension – always spinning, no preferred direction – is the energetic wellspring of the universe we experience. We call this <em>the wishdrops conjecture</em>. A simple, elegant, latent geometry underpins our vast, complex physical universe – that's our guess, at least. Particles, constellations, physics, time, the arc of the cosmos, even the sensory and psychic apparati, right up to the <em>spirit window</em>, the <em>experiential aperture</em>, the <em>seat of consciousness</em>, whatever you want to call it, all the unfolding shadow of a dynamic, holographic sphere. Think of it as a very literal interpretation of the oft cited <em>“God is an infinite sphere whose center is everywhere and whose circumference is nowhere”</em>, which first appeared around the 12th century in the Latin text <em>The Book of Twenty-four Philosophers</em>, though perhaps hovered in the contemplative ether for a long time before that. We wonder whether modern history misunderstands that it was meant as more than a metaphor. Like maybe the ancients knew something we have since lost.</p>
+    <p><em>That were the universe but one spinning sphere</em>. A belief and a lament simultaneously. The belief is that a single sphere of infinite dimension – always spinning, no preferred direction – is the energetic wellspring of the universe we experience. We call this <em>the wishdrops conjecture</em>. A simple, elegant, latent geometry underpins our vast, complex physical universe – that's our guess, at least. Particles, constellations, physics, time, the arc of the cosmos, even the sensory and psychic apparati, right up to the <em>spirit window</em>, the <em>experiential aperture</em>, the <em>seat of consciousness</em>, whatever you want to call it, all the unfolding shadow of a dynamic, holographic sphere. Think of it as a very literal interpretation of the oft cited <em>“God is an infinite sphere whose center is everywhere and whose circumference is nowhere.”</em> This first appears around the 12th century in the Latin text <em>The Book of Twenty-four Philosophers</em>, though perhaps hovered in the contemplative ether for a long time before that. We wonder whether modern history misunderstands that it was meant as more than a metaphor. Like maybe the ancients knew something we have since lost.</p>
     <p>The lament is how ineffective our explanation will be. At least we think so.</p>
     <p>Only one way to find out !</p>
     <p>We'll use math (mostly high school level), physics, and intuition to elaborate on our <em>pet ratios</em> – not dogs over cats, but principled comparisons between energies, lengths, and masses that give us a warm feeling inside when we think about the secret geometry behind them, even as we might have made it up. Hopefully that will break the ice. The idea is that these ratios are fingerprints of the otherwise unobservable, with suggestive, recurring signatures, offering explanatory power perhaps, but probably not much else. All of which is to say, there may be no new physics here – or maybe there is, but who cares, since we take real physics at face value and treat it as <em>evidence</em>, not something to overturn – nor proof of anything <em>true</em>, as it were, so we hope the reader will treat the following semi-metaphysical discourse accordingly:</p>
@@ -1502,8 +1567,8 @@ mjx-container[display="true"] { margin: 0 !important; }
 
     <p>The controversy kicks in when we make the leap to physics.</p>
     <h2 class="part">The leap to physics</h2>
-    <p>We expect the dimension counts 10 : 40 : 8 to be omnipresent in the manifest universe. Every single point in spacetime carries these counts and orientations in its energies, volumes, fields, fibers, ranges, strengths, and so on. That the sphere bestows these properties unto the manifest universe is the idea – everywhere, uniformly – thereby seeding the laws of physics.</p>
-    <p>Our pet ratios demonstrate this concept to some extent. Of course they represent only an insignificant fraction of all of physics, but the conjecture is that the remainder would require no input beyond the formalized description of the sphere. We're imagining there is a way to <em>map</em> our geometry onto major themes in physics, like relativity, the standard model, QED, chromodynamics, and so on, to extend the reach of the sphere significantly. Maybe it can even lend a solution to string theory's <em>landscape problem</em>, by suggesting the one in 10^500 possible universes that actually works. Maybe it offers an intuition about all the hidden geometries we have come to know and love – the curvature of space, spin without spin, the fibers of force carriers, polarizations – not to mention all the free parameters like coupling strengths and masses and what not. These should all find footing in the sphere is the claim, even as there's more than a lifetime's worth of side quests pending to prove it.</p>
+    <p>We expect the dimension counts 10 : 40 : 8 to be omnipresent in the manifest universe. Every single point in spacetime should carry these counts and orientations in its energies, volumes, fields, fibers, ranges, strengths, and so on. That the sphere bestows these properties unto the manifest universe is the idea – everywhere, uniformly – thereby seeding the laws of physics.</p>
+    <p>Our pet ratios demonstrate this concept to some extent. Of course they represent only an insignificant fraction of all of physics, but the conjecture is that the remainder would require no input beyond the formalized description of the sphere. We're imagining there is a way to <em>map</em> our geometry onto major themes in physics, like relativity, the standard model, QED, chromodynamics, and so on, to extend the reach of the sphere significantly. Maybe it can even lend a solution to string theory's <em>landscape problem</em>, by suggesting the one in 10<sup>500</sup> possible universes that actually works. Maybe it offers an intuition about all the hidden geometries we have come to know and love – the curvature of space, spin without spin, the fibers of force carriers, polarizations – not to mention all the free parameters like coupling strengths and masses and what not. These should all find footing in the sphere is the claim, even as there's more than a lifetime's worth of side quests pending to prove it.</p>
     <p>Let's do one quick lesson in physics before we let our ratios drive the remainder of the curriculum.</p>
     <h3 class="section">The fine structure constant and ladder</h3>
     <p>The fine structure constant is a dimensionless ratio from real physics:</p>
@@ -1514,7 +1579,7 @@ mjx-container[display="true"] { margin: 0 !important; }
   </section>
 
   <div class="prose">
-    <p>It's a number around 1/137, it has no units, and it shows up in electromagnetic formulas to do with velocities, radii, force, plus whatever else:</p>
+    <p>It's a number around 1/137. It has no units. It shows up in electromagnetic formulas to do with velocities, radii, forces, whatever, all while notoriously defying explanation:</p>
   </div>
 
   <section class="card inline">
@@ -1528,11 +1593,11 @@ mjx-container[display="true"] { margin: 0 !important; }
       </div>
       <div class="part">
         <h3>radius</h3>
-        <div class="equation">$$\begin{aligned} a_0 &= \frac{1}{4\pi R_\infty} \cdot \alpha \\[4pt] \frac{\lambda_C}{2\pi} &= a_0 \cdot \alpha \\[4pt] r_e &= \frac{\lambda_C}{2\pi} \cdot \alpha \end{aligned}$$</div>
+        <div class="equation">$$\begin{aligned} a_0 &= \frac{1}{4\pi R_\infty} \cdot \alpha \\[4pt] \bar{\lambda}_C &= a_0 \cdot \alpha \\[4pt] r_e &= \bar{\lambda}_C \cdot \alpha \end{aligned}$$</div>
         <div class="terms">
-          <span class="sym">\(a_0\)</span><span class="def">Bohr radius (the most probable radius of an electron in the ground state)</span><span class="val"></span>
           <span class="sym">\(R_\infty\)</span><span class="def">the Rydberg wavenumber (the inverse Rydberg wavelength), relating photons to the ground state</span><span class="val"></span>
-          <span class="sym">\(\lambda_C / 2\pi\)</span><span class="def">reduced Compton wavelength of an electron</span><span class="val"></span>
+          <span class="sym">\(a_0\)</span><span class="def">Bohr radius (the most probable radius of an electron in the ground state)</span><span class="val"></span>
+          <span class="sym">\(\bar{\lambda}_C\)</span><span class="def">reduced Compton wavelength of an electron, \(\lambda_C / 2\pi\)</span><span class="val"></span>
           <span class="sym">\(r_e\)</span><span class="def">classical electron radius</span><span class="val"></span>
         </div>
       </div>
@@ -1571,84 +1636,28 @@ mjx-container[display="true"] { margin: 0 !important; }
   </section>
 
   <div class="prose">
-    <p>It notoriously defies explanation. It works, like, as an observation, all over the place, obviously, but, well, that's all it is – an observation. Not a derivation.</p>
     <p>Let's focus on the radii. Taken together they constitute a sort of cascade, or <em>ladder</em>:</p>
   </div>
 
   <section class="card inline">
-    <div class="equation">$$r_e \;\xrightarrow{\times 137}\; \frac{\lambda_C}{2\pi} \;\xrightarrow{\times 137}\; a_0 \;\xrightarrow{\times 137}\; \frac{1}{4\pi R_\infty}$$</div>
+    <div class="equation">$$r_e \;\xrightarrow{\,\cdot\;{\sim}137\,}\; \bar{\lambda}_C \;\xrightarrow{\,\cdot\;{\sim}137\,}\; a_0 \;\xrightarrow{\,\cdot\;{\sim}137\,}\; \frac{1}{4\pi R_\infty}$$</div>
     <div class="terms">
       <span class="sym">\(r_e\)</span><span class="def">classical electron radius</span><span class="val">2.818 × 10⁻¹⁵ m</span>
-      <span class="sym">\(\lambda_C / 2\pi\)</span><span class="def">reduced Compton wavelength of an electron</span><span class="val">3.862 × 10⁻¹³ m</span>
+      <span class="sym">\(\bar{\lambda}_C\)</span><span class="def">reduced Compton wavelength of an electron</span><span class="val">3.862 × 10⁻¹³ m</span>
       <span class="sym">\(a_0\)</span><span class="def">Bohr radius</span><span class="val">5.292 × 10⁻¹¹ m</span>
       <span class="sym">\(1 / 4\pi R_\infty\)</span><span class="def">Rydberg wavelength over 4π</span><span class="val">7.252 × 10⁻⁹ m</span>
     </div>
   </section>
 
   <div class="prose">
-    <p>Each subsequent radius, from re up to 1 / 4pi / R(inf), is about 137 times bigger than its predecessor, though they tend not to be considered as such because they're generally studied in isolation:</p>
+    <p>Each subsequent radius, from r<sub>e</sub> up to 1 / 4π / R<sub>∞</sub>, is about 137 times bigger than its predecessor. They tend not to be considered together, however, since they are generally isolated within different fields of study:</p>
     <ul class="fields">
       <li>classical electron radius – relativity and classical electromagnetism</li>
       <li>reduced Compton wavelength of an electron – quantum physics</li>
       <li>Bohr radius – chemistry</li>
-      <li>Rydberg wavelength (over 4pi) – spectroscopy</li>
+      <li>Rydberg wavelength distributed over 4π – spectroscopy</li>
     </ul>
-    <p>Considering them together, however, paints a suggestive picture from which we can make an intuitive leap.</p>
-    <h4 class="subsec">The classical electron radius</h4>
-  </div>
-
-  <section class="card inline">
-    <div class="equation">$$r_e = \frac{e^2}{4\pi\varepsilon_0\, m_e c^2} \approx 2.818 \times 10^{-15}\ \text{m}$$</div>
-  </section>
-
-  <div class="prose">
-    <p>This is the range at which the electron's classical self energy offsets the electro-magnetic potential precisely – a sort of resonance point shared by relativity and classical electromagnetism.</p>
-    <h4 class="subsec">The reduced Compton wavelength</h4>
-  </div>
-
-  <section class="card inline">
-    <div class="equation">$$\frac{\lambda_C}{2\pi} = \frac{r_e}{\alpha} = \frac{\hbar}{m_e c} \approx 3.862 \times 10^{-13}\ \text{m}$$</div>
-  </section>
-
-  <div class="prose">
-    <p>We know photons have wavelengths, but it turns out particles do too.</p>
-    <h4 class="subsec">The Bohr radius</h4>
-  </div>
-
-  <section class="card inline">
-    <div class="equation">$$a_0 = \frac{\lambda_C}{2\pi\,\alpha} = \frac{4\pi\varepsilon_0\,\hbar^2}{m_e e^2} \approx 5.292 \times 10^{-11}\ \text{m}$$</div>
-  </section>
-
-  <div class="prose">
-    <p>This is the most probable range for an electron in the ground state of the atom. The ground state is the lowest energy level. An electron doesn't orbit the nucleus of the atom like a planet does a star, rather it distributes like a cloud around the nucleus – that's why its position must be expressed in terms of probabilities. When it's ejected from an atom it looks like a particle, when it shrouds an atomic nucleus it looks like a wave. The only way we know how to calculate its speed, range, and in turn momentum is by running experiments that observe the trajectories of the electrons when they get kicked out.</p>
-    <h4 class="subsec">The Rydberg wavelength</h4>
-  </div>
-
-  <section class="card inline">
-    <div class="equation">$$\begin{aligned} \lambda_r &= \frac{4\pi\, a_0}{\alpha} = \frac{1}{R_\infty} \approx 91.13\ \text{nm} \\[4pt] \frac{\lambda_r}{4\pi} &= \frac{a_0}{\alpha} \approx 7.252\ \text{nm} \end{aligned}$$</div>
-  </section>
-
-  <div class="prose">
-    <p>This is the light wavelength associated with ground state binding.</p>
-    <p>Normally these topics are considered hard to intuit. Quantum mechanics are weird because there's nothing gradual about them – everything lives in countable energy levels and there's no way to tell precisely where something is and which way it's headed at the same time. The intuitive leap we make about this ladder is that (1) it's all a singular construct and (2) it takes the form of an unseen sphere. Indeed, each rung of the ladder seems to add a dimension, both in content and in quality:</p>
-  </div>
-
-  <section class="card inline">
-    <div class="terms rungs">
-      <span class="sym">\(r_e\)</span><span class="def">classical electron radius<span class="rung">no manifestation in 0-space</span><span class="rung">the baseline, functions as a point (the center)</span></span><span class="val"></span>
-      <span class="sym">\(\lambda_C / 2\pi\)</span><span class="def">the reduced Compton radius of the electron<span class="rung">0-sphere in 1-space</span><span class="rung">localization, a point in space, pair production – adds hidden phase</span></span><span class="val"></span>
-      <span class="sym">\(a_0\)</span><span class="def">Bohr radius<span class="rung">1-sphere in 2-space</span><span class="rung">orbital – a circle like an orbit – adds chirality</span></span><span class="val"></span>
-      <span class="sym">\(1 / 4\pi R_\infty\)</span><span class="def">Rydberg wavelength distributed over a sphere<span class="rung">2-sphere in 3-space – a spherical cover – adds closure</span></span><span class="val"></span>
-    </div>
-  </section>
-
-  <div class="prose">
-    <p>The classical electron is treated as a point charge. That means it acts like it takes up no space. So while balancing self energy and electrostatic potential naturally sets up a radius, this particular radius has no distinguishing features. The classical laws speak only of a center</p>
-    <p class="draft">(wait though, does the force formula suggest via 4pi that there <em>is</em> a sphere ? that'd be ok, since we do suspect a sphere at the radius, just wondering how to present it).</p>
-    <p>The (reduced) Compton wavelength is the wavelength associated with a particle. It doesn't manifest obviously but rather works in calculations. It is often reduced (divided by 2pi)</p>
-    <p class="draft">Something about a0</p>
-    <p class="draft">Something about 1 / 4pi / R(inf)</p>
-    <p>In the ground state, the whole structure is present, like a Russian doll of partial spheres:</p>
+    <p>Considering them together, however, paints a suggestive picture from which we can make an intuitive leap – they look like a 2-sphere, with each rung on the ladder dedicated to a different <em>slice</em> – one per spatial dimension.</p>
   </div>
 
   <figure class="widget" id="nested-spheres">
@@ -1674,7 +1683,7 @@ mjx-container[display="true"] { margin: 0 !important; }
         <span class="seg-lead">hold still:</span>
         <label><input type="radio" name="ns-hold" value="bubble" checked> 1 / 4πR<sub>∞</sub></label>
         <label><input type="radio" name="ns-hold" value="ring"> a<sub>0</sub></label>
-        <label><input type="radio" name="ns-hold" value="dots"> λ<sub>C</sub> / 2π</label>
+        <label><input type="radio" name="ns-hold" value="dots"> <span class="ovl">λ</span><sub>C</sub></label>
         <label><input type="radio" name="ns-hold" value="hole"> r<sub>e</sub></label>
       </fieldset>
       <fieldset class="seg">
@@ -1686,13 +1695,31 @@ mjx-container[display="true"] { margin: 0 !important; }
     </div>
   </figure>
 
+  <div class="prose">
+    <p>The graphic is meant to depict the four rungs separated by three equal leaps, however not to scale (they should size by a factor of ~137). This table elaborates on treating them as components of a holistic ground state:</p>
+  </div>
+
+  <section class="card inline">
+    <table class="rung-table">
+      <thead><tr><th scope="col"><span class="vh">symbol – name</span></th><th scope="col">physics</th><th scope="col">n-sphere</th><th scope="col">n-space</th><th scope="col">shape</th><th scope="col">adds</th><th scope="col">radius</th></tr></thead>
+      <tbody>
+        <tr><th scope="row"><span class="rt-sym">\(r_e\)</span><span class="rt-name">classical electron radius</span></th><td data-l="physics">3d electric field emitter</td><td data-l="n-sphere" class="num undef">undefined</td><td data-l="n-space" class="num">0</td><td data-l="shape">the center point (itself pinned at a radius)</td><td data-l="adds" class="undef">undefined</td><td data-l="radius" class="rad">\(r_e\)</td></tr>
+        <tr><th scope="row"><span class="rt-sym">\(\bar{\lambda}_C\)</span><span class="rt-name">the reduced Compton wavelength of the electron</span></th><td data-l="physics">localization (confinement) and pair production</td><td data-l="n-sphere" class="num">0</td><td data-l="n-space" class="num">1</td><td data-l="shape">a point (and perhaps its opposite) – a 0‑sphere</td><td data-l="adds">hidden phase</td><td data-l="radius" class="rad">\(r_e \cdot \alpha^{-1}\)</td></tr>
+        <tr><th scope="row"><span class="rt-sym">\(a_0\)</span><span class="rt-name">Bohr radius</span></th><td data-l="physics">most probable radius of the ground state orbital</td><td data-l="n-sphere" class="num">1</td><td data-l="n-space" class="num">2</td><td data-l="shape">a circle – a 1‑sphere</td><td data-l="adds">chirality</td><td data-l="radius" class="rad">\(r_e \cdot \alpha^{-2}\)</td></tr>
+        <tr><th scope="row"><span class="rt-sym">\(1 / 4\pi R_\infty\)</span><span class="rt-name">Rydberg wavelength distributed over a sphere</span></th><td data-l="physics">distributed light energy; wavelength scalar</td><td data-l="n-sphere" class="num">2</td><td data-l="n-space" class="num">3</td><td data-l="shape">a spherical cover – a 2‑sphere</td><td data-l="adds">closure</td><td data-l="radius" class="rad">\(r_e \cdot \alpha^{-3}\)</td></tr>
+      </tbody>
+    </table>
+  </section>
 
   <div class="prose">
+    <p>Only the highest rung matches the spatial dimensions of familiar spacetime – as such, the “partial” structures manifest incompletely. The electron in the ground state exists only probabilistically. It can only be “localized” to a confined area, never pinpointed. And good luck with the surface of the electron.</p>
+    <p>The overarching idea is that the ground state of the atom is a single object – a 2-sphere in familiar 3-space. The electron and its orbital are “partial views” of this structure.</p>
+    <p>Ok, we're just about ready to go back to the ratios, where we can talk more about this. But first, a quick lesson on holography, because it sort of pervades our ratios and our proposal in general.</p>
     <h3 class="section">Bulk and boundary</h3>
-    <p>Part of the story these ratios tell is that of “bulk” and “boundary”. These are concepts from holography, which is actually pretty mainstream physics. Put simply, the idea is that everything that happens in a space can be described on a surface of one fewer dimension than the space occupies. A bulk space of n dimensions is indistinguishable from a boundary of n - 1 dimensions, essentially. We could be living in a hologram and not even know it.</p>
-    <p>We buy the notion of a three dimensional bulk space and a two dimensional boundary. But we also subscribe to a picture that accounts for ten total ambient dimensions. How do we reconcile this ? Indeed, from among ten dimensions total, the bulk space openly carries three. The boundary, which accounts for two of those three, subtly infuses the remaining seven. We furthermore propose that the three dimensions of bulk are the domain of pressure waves and sound. The seven dimensions of the boundary contribute to electromagnetic and sight phenomena.</p>
-    <p>Bulk space is what we perhaps think of as the familiar three dimensional space of our universe, with ordinary physics that leverages ordinary geometry and expresses relationships that are for the most part intuitive. Here dimension counts enter as exponents, thus representing familiar volumes, and importantly, <em>directions matter</em>. Arrows that are aligned add, arrows that point towards each other subtract, arrows that are perpendicular to each other are independent. All of these are features of “coherence” – a clear, unscrambled state of affairs.</p>
-    <p>The bulk space is somewhat of an illusion. It's a hologram, as we suggested earlier. That is because, despite appearances, everything still lives on a spherical surface, we propose. Apparently radial activity – traveling at less than light speed, for example, or even slightly toward or away from a mass center – actually represents a <em>change of phase</em>, meaning the shape of space itself evolving in time, which in our case is tantamount to shrinking and expanding the “effective sphere” by slicing through the true sphere differently. The spatial background tightens or expands in its curvature, in other words, thereby making it <em>seem</em> like a mass draws closer or drifts apart, when in truth there is “nothing there” along gravitational field lines emanating from a mass source. Staring at a mass is staring into the void.</p>
+    <p>“Bulk” and “boundary” are concepts from holography. The idea is that everything that happens in a space can be described on a surface of one fewer dimension than the space occupies. A sphere can speak for the ball of stuff it contains, in other words, no information lost. Perhaps surprisingly, this is pretty mainstream physics.</p>
+    <p>We could be living in a hologram and not even know it.</p>
+    <p>The bulk space would be what we think of as the familiar three dimensions we live in, with ordinary physics that leverages ordinary geometry and expresses relationships that are for the most part intuitive. Here dimension counts enter as exponents, thus volumes are familiar. And importantly, <em>directions matter</em>. Arrows that are aligned add, arrows that point towards each other subtract, arrows that are perpendicular to each other are independent. All of these are features of “coherence” – a clear, unscrambled state of affairs.</p>
+    <p>The bulk space may be somewhat of an illusion. Despite appearances, we may be looking at – even living in – the boundary of a bulk space. Apparently radial activity – moving at less than the speed of light; toward or away from a mass source – can correspond instead to a <em>change of phase</em>. This refers to an alteration of perspective within the sphere, thereby evolving the shape of space itself in <em>time</em>. This would be tantamount to shrinking and expanding the boundary by slicing through it differently. The spatial background would tighten or expand its curvature, thereby making it <em>seem</em> like a mass is drawing closer or drifting apart; in truth, however, there would be “nothing there” along gravitational field lines. Staring at a mass would be staring into the void. Moving towards it is shrinking the boundary.</p>
   </div>
 
   <figure class="fig-svg" id="bulk-boundary">
@@ -1719,27 +1746,140 @@ mjx-container[display="true"] { margin: 0 !important; }
   </figure>
 
   <div class="prose">
-    <p>The boundary is the sphere itself. Everything that lives on it is confined to the tangent direction and notably “incoherent”. Incoherence treats directionality differently – all that matters is vector magnitudes, or norms. Dimension counts enter as integers under radicals and tend to measure these magnitudes.</p>
-    <p>In general, when physicists talk about the boundary in holography, they consider it to have <em>less</em> dimensions than the corresponding bulk space it projects. In a sense, that's what we have here – a 2-sphere projecting an extra radial dimension via phase changes to manifest 3-space. The claim we're making is that within the 2-sphere lives a spectrum of seven dimensions that, due to their incoherence, do not manifest as volumetric dimensions at all. In this sense they are flat, betrayed only by magnitudes in observable physics, such as the energies of the apices of the color spectrum, we propose.</p>
-    <p>This ratio from above is the embodiment of our position with regard to bulk versus boundary and familiar spacetime:</p>
+    <p>With that in mind, let's go back and explain the ratios in greater detail, starting with our proposal for the fine structure constant.</p>
+    <h2 class="part">The ratios, revisited</h2>
+    <h3 class="section">The fine structure constant</h3>
+    <p>Yes, we're proposing a geometric origin for the elusive fine structure constant, based on our whole sphere idea. Let's do this deliberately.</p>
+    <p>Remember the dimension counts that came out of our sphere ?</p>
+    <ul class="arrived">
+      <li><span>10</span><span>the ambient, radial dimension count</span></li>
+      <li><span>40</span><span>a transverse velocity; dimension count of the “field seed”</span></li>
+      <li><span>8</span><span>a separate transverse velocity; dimension count of the “causal seed”</span></li>
+    </ul>
+    <p>The meta claim is that this relationship characterizes every point in manifest spacetime. The more specific claim is that the fine structure constant reveals how.</p>
+    <p>Imagine a radial perspective, looking <em>outward</em>, with the two transverse fibers racing by in the surface tangent. By virtue of this perspective, the ambient 10 dimensions register coherently, thus volumetrically, and the fibers, of 40 and 8 dimensions, register incoherently, as norms. This means they are treated as exponents and square roots, respectively. Furthermore, what is perceived of the transverse fibers from this perspective is an <em>intensity</em> – the values square, thus entering not as square roots but as square roots squared, or plain integers – 40 and 8. Note as well that these intensities are orthogonal to each other, thus will add in quadrature.</p>
+    <p>Now we're not totally sure why this works, but we are going to distribute our 10 available dimensions to the two transverse fibers – 4 dimensions go to the 40, 6 dimensions go to the 8:</p>
   </div>
 
   <section class="card inline">
-    <h2><span>inverse fine structure constant as a hypotenuse on a sphere</span></h2>
-    <div class="equation">$$L^3 \leg{R} \frac{1}{\varphi\,(\ell_1 + \ell_2 + \cdots + \ell_7)} = 40^4 \hyp{R} 8^6$$</div>
+    <div class="equation">$$\begin{aligned} 40^4 &= 2{,}560{,}000 \\[4pt] 8^6 &= 262{,}144 \end{aligned}$$</div>
+  </section>
+
+  <div class="prose">
+    <p>For what it's worth, that is the most equitable distribution possible – a 9 : 1 split, for example, draws a right triangle where the hypotenuse is all but indistinguishable from the long leg. 40<sup>4</sup> and 8<sup>6</sup> are less than a 10 : 1 ratio, and that's as good as we can do (with integers anyway, which is usually how dimensions count).</p>
+    <p>Here is an expression of what we've built up so far:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$40^4 \hyp{} 8^6 \approx 2{,}573{,}387$$</div>
+  </section>
+
+  <div class="prose">
+    <p>Now keep in mind this happens on a sphere, thus is subject to curvature. The hypotenuse of this right triangle will be less, however slightly, than the value of the flat hypotenuse. We denote this with an R (subject to curvature of a sphere of <em>felt</em> radius R, which we don't yet know):</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$40^4 \hyp{R} 8^6$$</div>
+  </section>
+
+  <div class="prose">
+    <p>The formula for calculating this is a modified version of the pythagorean theorem:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$a \hyp{R} b = R \cdot \arccos\left( \cos\frac{a}{R} \cdot \cos\frac{b}{R} \right)$$</div>
     <div class="terms">
-      <span class="sym">\(L\)</span><span class="def">inverse fine structure constant, \(1/\alpha\)</span><span class="val"></span>
-      <span class="sym">\(\ell_n\)</span><span class="def">n-loop QED correction, \(|C_n| \cdot (\alpha/\pi)^n\)</span><span class="val"></span>
-      <span class="sym">\(\varphi\)</span><span class="def">phi, the golden ratio</span><span class="val">~1.618</span>
-      <span class="sym">\(\leg{R}\)</span><span class="def">leg on a sphere of felt radius \(R\)</span><span class="val"></span>
-      <span class="sym">\(\hyp{R}\)</span><span class="def">hypotenuse on a sphere of felt radius \(R\)</span><span class="val"></span>
+      <span class="sym">\(a, b\)</span><span class="def">the two legs</span><span class="val"></span>
+      <span class="sym">\(R\)</span><span class="def">felt radius of the sphere</span><span class="val"></span>
+      <span class="sym">flat</span><span class="def">as \(R \to \infty\), this returns \(a \hyp{} b = \sqrt{a^2 + b^2}\)</span><span class="val"></span>
     </div>
   </section>
 
   <div class="prose">
-    <p>Even forgetting all the symbology for a moment, notice the breakdown on the left hand side – a 3-dimensional volumetric object that is the hypotenuse to which a single leg consisting of seven stacked magnitudes contributes. These, we propose, are an allocation of the 10 dimensions that leaves three of them in bulk and seven of them as contributors to a distinct direction “subtracted” from them. This arrangement conveniently offers a Lorentzian signature that matches spacetime, in which the three dimensions of \(L^3\) lend three positive directions and the stacked time direction enters negative: +, +, +, −.</p>
-    <p>The “source material” here – components of magnitude 40 and 8, likewise distributed across 10 dimensions (4 + 6) – is what we need an origin story for now. That's where the sphere kicks in.</p>
+    <p>And so we have a projection of combined intensities as seen from a radial view, curvature adjustment pending.</p>
+    <p>To account for the shape of the sphere, we <em>project</em> the content onto an alternate distribution of the 10 available dimensions:</p>
   </div>
+
+  <section class="card inline">
+    <div class="equation">$$L^3 \leg{R} S_7 = 40^4 \hyp{R} 8^6$$</div>
+    <div class="derived">
+      <div class="tex">$$\begin{aligned} S_7 &= \frac{1}{\varphi\,(\ell_1 + \ell_2 + \cdots + \ell_7)} \\[4pt] S_7 &= \frac{4\pi \cdot L}{2\,\varphi} + \frac{1}{\varphi\,\ell_2} + \cdots + \frac{1}{\varphi\,\ell_7} \end{aligned}$$</div>
+    </div>
+    <div class="derived">
+      <span class="lead">simplified by showing curved term L³ in isolation</span>
+      <div class="tex">$$L^3 = 40^4 \hyp{R} 8^6 \hyp{R} S_7$$</div>
+    </div>
+  </section>
+
+  <div class="prose">
+    <p>The idea is that while the content is born of the 4 : 6 split, it projects onto 3 bulk dimensions, with the remaining 7 dimensions accounting for the spherical shape, manifesting as 7 dimensions worth of <em>stacked depth</em>, <em>infused</em> into the boundary as a single value. The first term is by far the most influential:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$\frac{1}{\varphi\,\ell_1} = \frac{4\pi \cdot L}{2\,\varphi}$$</div>
+  </section>
+
+  <div class="prose">
+    <p>Now, separately, we can use a formula for “bulk mass” to obtain the relationship between the felt radius and our surface vector length. Mass is proportional to half the horizon radius, which in our case is the norm, phi. Set it simply to volume times density:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$M = \frac{\varphi}{2} = \frac{4\pi}{3} \cdot R^3 \cdot \rho$$</div>
+    <div class="terms">
+      <span class="sym">\(M\)</span><span class="def">mass</span><span class="val"></span>
+      <span class="sym">\(\varphi\)</span><span class="def">phi, the golden ratio</span><span class="val">~1.618</span>
+      <span class="sym">\(\frac{4\pi}{3} \cdot R^3\)</span><span class="def">volume of radius \(R\)</span><span class="val"></span>
+      <span class="sym">\(R\)</span><span class="def">felt radius (due to spherical curvature)</span><span class="val"></span>
+      <span class="sym">\(\rho\)</span><span class="def">density, \(\left(\frac{1}{R \cdot L^2}\right)^2\)</span><span class="val"></span>
+      <span class="sym">\(L\)</span><span class="def">surface vector length</span><span class="val"></span>
+    </div>
+  </section>
+
+  <div class="prose">
+    <p>This gives us felt radius in terms of the surface vector length:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$R = \frac{3\varphi}{8\pi} \cdot L^4$$</div>
+  </section>
+
+  <div class="prose">
+    <p>And solving both together gives:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$\begin{aligned} L &\approx 137.035999176 \\[4pt] R &\approx 68.11 \times 10^{6} \end{aligned}$$</div>
+  </section>
+
+  <div class="prose">
+    <p>Note that we cheated here and anticipated the remaining S<sub>7</sub> terms from QED to achieve this level of precision:</p>
+  </div>
+
+  <section class="card inline">
+    <h2><span>loop corrections, \(C_n\) and \(\ell_n\)</span></h2>
+    <div class="loop-wrap">
+      <table class="loop-table">
+        <thead><tr><th>\(n\)</th><th>\(C_n\)</th><th>\(\ell_n = |C_n| (\alpha/\pi)^n\)</th></tr></thead>
+        <tbody>
+          <tr><td>1</td><td>+0.5</td><td>1.16 × 10⁻³</td></tr>
+          <tr><td>2</td><td>−0.328</td><td>1.77 × 10⁻⁶</td></tr>
+          <tr><td>3</td><td>+1.181</td><td>1.48 × 10⁻⁸</td></tr>
+          <tr><td>4</td><td>−1.912</td><td>5.57 × 10⁻¹¹</td></tr>
+          <tr><td>5</td><td>≈ +6.7</td><td>4.6 × 10⁻¹³</td></tr>
+          <tr class="est"><td>6</td><td>not yet computed</td><td>~10⁻¹⁶</td></tr>
+          <tr class="est"><td>7</td><td>not yet computed</td><td>~10⁻¹⁹</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <div class="prose">
+    <p>The CODATA 2022 value for the fine structure constant is within 0.06σ of our result:</p>
+  </div>
+
+  <section class="card inline">
+    <div class="equation">$$137.035999177(21)$$</div>
+  </section>
 
   <div class="prose">
     <h2 class="part">Appendix: notation under review</h2>
@@ -2432,6 +2572,56 @@ mjx-container[display="true"] { margin: 0 !important; }
   })();
 
 
+})();
+</script>
+
+<script>
+(function () {
+  var nav = document.getElementById('toc'), list = nav.querySelector('ol'), btn = document.getElementById('toc-btn');
+  var heads = [].slice.call(document.querySelectorAll('.page h2.part, .page h3.section, .page .cards > .card'));
+  var items = [], cur = null;
+  function slug(t) {
+    var b = t.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').slice(0, 48) || 'section', k = b, n = 2;
+    while (document.getElementById(k)) k = b + '-' + n++;
+    return k;
+  }
+  heads.forEach(function (h) {
+    var isCard = h.classList.contains('card'), label = isCard ? h.querySelector('h2 > span').textContent : h.textContent;
+    if (!h.id) h.id = slug(label);
+    var lvl = h.tagName === 'H2' ? 'l2' : 'l3', li = document.createElement('li'), a = document.createElement('a');
+    li.className = lvl + (isCard ? ' ratio' : ''); a.href = '#' + h.id; a.textContent = label;
+    a.addEventListener('click', function (e) {
+      e.preventDefault();
+      var still = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      h.scrollIntoView({ behavior: still ? 'auto' : 'smooth', block: 'start' });
+      if (getComputedStyle(btn).display !== 'none') toggle(false);
+    });
+    li.appendChild(a); list.appendChild(li);
+    items.push({ h: h, a: a, lvl: lvl });
+  });
+  var parentOf = [], top = null;
+  items.forEach(function (it, k) { if (it.lvl === 'l2') top = it; parentOf[k] = top; });
+  function spy() {
+    var line = window.innerHeight * 0.3, k = -1;
+    for (var j = 0; j < items.length; j++) { if (items[j].h.getBoundingClientRect().top <= line) k = j; else break; }
+    if (k === cur) return; cur = k;
+    items.forEach(function (it) { it.a.classList.remove('on', 'within'); it.a.removeAttribute('aria-current'); });
+    if (k < 0) return;
+    items[k].a.classList.add('on'); items[k].a.setAttribute('aria-current', 'location');
+    if (parentOf[k] && parentOf[k] !== items[k]) parentOf[k].a.classList.add('within');
+    if (nav.scrollHeight > nav.clientHeight + 2) {
+      var nt = nav.getBoundingClientRect(), at = items[k].a.getBoundingClientRect();
+      if (at.top < nt.top + 30 || at.bottom > nt.bottom - 30) nav.scrollTop += (at.top - nt.top) - nav.clientHeight / 2;
+    }
+  }
+  var ticking = false;
+  window.addEventListener('scroll', function () { if (!ticking) { ticking = true; requestAnimationFrame(function () { ticking = false; spy(); }); } }, { passive: true });
+  window.addEventListener('resize', function () { cur = null; spy(); });
+  function toggle(open) { nav.classList.toggle('open', open); btn.setAttribute('aria-expanded', open ? 'true' : 'false'); if (open) { cur = null; spy(); } }
+  btn.addEventListener('click', function () { toggle(!nav.classList.contains('open')); });
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape') toggle(false); });
+  document.addEventListener('click', function (e) { if (nav.classList.contains('open') && !nav.contains(e.target) && e.target !== btn) toggle(false); });
+  spy();
 })();
 </script>
 
